@@ -24,21 +24,19 @@
       </div>
       {% endif %} -->
     </div>
-    <script>
-      const referrerQueryParams = new URL(document.referrer).searchParams;
-      const theme = referrerQueryParams.get('theme');
-      const className = theme=='dark-mode'?'dark-mode':'light-mode';
-      document.body.classList.toggle(className);
-
-      const sigImageSrc = theme=='dark-mode'?'https://doc.coinport.com.au/images/news/coinport-signature-dark.png':'https://doc.coinport.com.au/images/news/coinport-signature.png';
-    </script>
     <p>Sincerley,<br /><br />
       The CoinPort Exchange Team<br />
-      <script>
-        document.write (<div><img src={sigImageSrc} alt="CoinPort Exchange" height="30px" /><br /></div>);
-      </script>
+      <img src="https://doc.coinport.com.au/images/news/coinport-signature.png" id="signatureImage" alt="CoinPort Exchange" height="30px" />
       <em>Easy, fast and safe cryptocurrency exchange</em></p>
-
+      <script>
+        const referrerQueryParams = new URL(document.referrer).searchParams;
+        const theme = referrerQueryParams.get('theme');
+        const className = theme=='dark-mode'?'dark-mode':'light-mode';
+        document.body.classList.toggle(className);
+        if (theme=='dark-mode') {
+          document.getElementById("signatureImage").src = 'https://doc.coinport.com.au/images/news/coinport-signature-dark.png';
+        }
+      </script>
       <div class="post-content">
         <hr />
         <h3 id="connect-with-us">Connect with Us</h3>
