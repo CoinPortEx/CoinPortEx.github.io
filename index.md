@@ -6,9 +6,10 @@
 layout: layout
 # layout: default
 ---
-## CoinPort Exchange - News Blog 4
 
-<link rel="stylesheet" href="{{ "/style.css?v=" | append: site.github.build_revision | relative_url }}" />
+## CoinPort Exchange - News Blog
+
+<link rel="stylesheet" href="/style.css" />
 
 Reading, reference and news resources for CoinPort Members
 
@@ -21,3 +22,11 @@ Reading, reference and news resources for CoinPort Members
     </li>
   {% endfor %}
 </ul>
+
+<script>
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  const theme = urlParams.get('theme');
+  const className = theme=='dark-mode'?'dark-mode':'light-mode';
+  document.body.classList.toggle(className);
+</script>
