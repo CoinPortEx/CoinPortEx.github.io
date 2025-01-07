@@ -28,9 +28,6 @@
       const theme = referrerQueryParams.get('theme');
       const className = theme=='dark-mode'?'dark-mode':'light-mode';
       document.body.classList.toggle(className);
-      if (theme=='dark-mode') {
-        document.getElementById("signatureImage").src = 'https://blog.coinport.com.au/images/news/coinport-signature-dark.png';
-      }
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
