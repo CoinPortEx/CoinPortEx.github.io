@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 # layout: home
-layout: layout
-# layout: default
+# layout: layout
+layout: default
 ---
 
 ## CoinPort Exchange - News Blog
