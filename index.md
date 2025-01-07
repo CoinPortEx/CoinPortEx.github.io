@@ -9,8 +9,6 @@ layout: layout
 
 ## CoinPort Exchange - News Blog
 
-<link rel="stylesheet" href="/style.css" />
-
 Reading, reference and news resources for CoinPort Members
 
 <ul>
