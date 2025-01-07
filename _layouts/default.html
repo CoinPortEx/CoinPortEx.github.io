@@ -9,6 +9,15 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+    <script>
+      const referrerQueryParams = new URL(document.referrer).searchParams;
+      const theme = referrerQueryParams.get('theme');
+      const className = theme=='dark-mode'?'dark-mode':'light-mode';
+      document.body.classList.toggle(className);
+      if (theme=='dark-mode') {
+        document.getElementById("signatureImage").src = 'https://blog.coinport.com.au/images/news/coinport-signature-dark.png';
+      }
+    </script>
   </head>
   <body>
     <div class="markdown-body">
