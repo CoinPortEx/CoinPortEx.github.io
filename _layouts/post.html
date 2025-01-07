@@ -31,10 +31,10 @@
       <br />
       <script>
         const referrerQueryParams = new URL(document.referrer).searchParams;
-        const theme = referrerQueryParams.get('theme');
-        const className = theme=='dark-mode'?'dark-mode':'light-mode';
-        document.body.classList.toggle(className);
-        if (theme=='dark-mode') {
+        const themeColor = referrerQueryParams.get('theme');
+        const classNameNew = themeColor=='dark-mode'?'dark-mode':'light-mode';
+        document.body.classList.toggle(classNameNew);
+        if (themeColor=='dark-mode') {
           document.getElementById("signatureImage").src = 'https://blog.coinport.com.au/images/news/coinport-signature-dark.png';
         }
       </script>
