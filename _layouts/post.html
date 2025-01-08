@@ -36,7 +36,8 @@
         document.body.classList.toggle(classNameNew);
 
         document.write('debug: <b>query parameters: ' + referrerQueryParams + '</b></br />');
-        document.write('debug: <b>referrer: ' + document.referrer + '</b></br />');
+        document.write('debug: <b>document.referrer: ' + document.referrer + '</b></br />');
+        document.write('debug: <b>window.referrer: ' + window.referrer + '</b></br />');
         document.write('debug: <b>themeColor: ' + themeColor + '</b></br />');
 
         if (themeColor=='dark-mode') {
