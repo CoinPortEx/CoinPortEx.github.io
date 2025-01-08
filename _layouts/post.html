@@ -35,11 +35,12 @@
         const classNameNew = themeColor=='dark-mode'?'dark-mode':'light-mode';
         document.body.classList.toggle(classNameNew);
 
-/*         const iframeURL = document.getElementById("myFrame").contentWindow.location.href;
-        document.write('debug: <b>Iframe url: ' + iframeURL + '</b></br />'); */
         document.write('debug: <b>query parameters: ' + referrerQueryParams + '</b></br />');
         document.write('debug: <b>referrer: ' + document.referrer + '</b></br />');
         document.write('debug: <b>themeColor: ' + themeColor + '</b></br />');
+
+        const iFrameURL = document.getElementById("myFrame").src;
+        document.write('debug: <b>Iframe url: ' + iFrameURL + '</b></br />');
 
         if (themeColor=='dark-mode') {
           document.getElementById("signatureImage").src = 'https://blog.coinport.com.au/images/news/coinport-signature-dark.png';
