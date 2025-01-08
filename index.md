@@ -10,7 +10,9 @@ layout: default
 ## CoinPort Exchange - News Blog
 
 Reading, reference and news resources for CoinPort Members
-
+    <script>
+      document.write(document.location + '<br />');
+    </script>
 <ul>
   {% for post in site.posts %}
     <li>
