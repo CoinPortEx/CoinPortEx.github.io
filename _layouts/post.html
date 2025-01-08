@@ -37,11 +37,11 @@
         const className = theme=='dark-mode'?'dark-mode':'light-mode';
         document.body.classList.toggle(className);
 
+        document.write('debug: <b>window location: ' + window.location + '</b></br />');
+
         if (themeColor=='dark-mode') {
           document.getElementById("signatureImage").src = 'https://blog.coinport.com.au/images/news/coinport-signature-dark.png';
         }
-
-        document.write('URL' + window.location + '<br />');
       </script>
       <div class="post-content">
         <hr />
