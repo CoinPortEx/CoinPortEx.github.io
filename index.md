@@ -14,7 +14,7 @@ Reading, reference and news resources for CoinPort Members
 <ul>
   {% for post in site.posts %}
     <li>
-      <b>{{ post.categories }} - </b> {{ post.date  | date: "%-d %B %Y" }} - <a href="{{ post.url }}?theme={{theme}}">{{ post.title }}</a><br />
+      <b>{{ post.categories }} - </b> {{ post.date  | date: "%-d %B %Y" }} - <a href="{{ post.url }}?theme={{?theme}}">{{ post.title }}</a><br />
       {{ post.description }}<br />
     </li>
   {% endfor %}
