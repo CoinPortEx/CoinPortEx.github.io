@@ -39,12 +39,13 @@
         document.write('debug: <b>referrer: ' + document.referrer + '</b></br />');
         document.write('debug: <b>themeColor: ' + themeColor + '</b></br />');
 
-        const iFrameURL = document.getElementById("myFrame").src;
-        document.write('debug: <b>Iframe url: ' + iFrameURL + '</b></br />');
-
         if (themeColor=='dark-mode') {
           document.getElementById("signatureImage").src = 'https://blog.coinport.com.au/images/news/coinport-signature-dark.png';
         }
+
+        const iFrameURL = document.location;
+        document.write('debug: <b>document.location: ' + iFrameURL + '</b></br />');
+        document.write('debug: <b>window location: ' + window.location + '</b></br />');
       </script>
       <div class="post-content">
         <hr />
