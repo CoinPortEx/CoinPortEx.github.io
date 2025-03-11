@@ -1,10 +1,10 @@
 ---
-title:  Cryptocurrency Market Trends in 2025: A Year of Transformation
+title:  Cryptocurrency Market Trends in 2025 - A Year of Transformation
 layout: post
 description: Artle discussing Cryptocurrency Market Trends in 2025, a year that will see major transations for the digital asset sector.
 author: CoinPort Exchange
 date:   2025-03-10 11:03:15 +1000
-categories: article
+categories: articles
 ---
 
 # Cryptocurrency Market Trends in 2025: A Year of Transformation
