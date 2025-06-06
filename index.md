@@ -17,11 +17,12 @@ Reading, reference and news resources for CoinPort Members
       const theme = urlParams.get('theme');
       const className = theme=='dark-mode'?'dark-mode':'light-mode';
       document.body.classList.toggle(className);
+      console.log(theme);
     </script>
 <ul>
   {% for post in site.posts %}
     <li>
-      <b>{{ post.categories }} - </b> {{ post.date  | date: "%-d %B %Y" }} - <a href="{{ post.url }}? + ${theme}">{{ post.title }}</a><br />
+      <b>{{ post.categories }} - </b> {{ post.date  | date: "%-d %B %Y" }} - <a href="{{ post.url }}?+${theme}">{{ post.title }}</a><br />
       {{ post.description }}<br />
     </li>
   {% endfor %}
