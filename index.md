@@ -21,9 +21,8 @@ Reading, reference and news resources for CoinPort Members
     </script>
 <ul>
   {% for post in site.posts %}
-    <li>s
-    <b>className</b><br />
-      <b>{{ post.categories }} - </b> {{ post.date  | date: "%-d %B %Y" }} - <a href="{{ post.url }}?theme=" + $className>{{ post.title }}</a><br />
+    <li>
+      <b>{{ post.categories }} - </b> {{ post.date  | date: "%-d %B %Y" }} - <a href="{{ post.url }}?theme=dark-mode">{{ post.title }}</a><br />
       {{ post.description }}<br />
     </li>
   {% endfor %}
