@@ -11,7 +11,6 @@ layout: default
 
 Reading, reference and news resources for CoinPort Members
     <script>
-      document.write('<br />' + document.location + '<br />');
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
       const theme = urlParams.get('theme');
