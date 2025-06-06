@@ -22,6 +22,8 @@ Reading, reference and news resources for CoinPort Members
   const queryString = window.location.search;
   const urlParams = new URLSearchParams(queryString);
   const theme = urlParams.get('theme');
+  const className = theme == 'dark-mode'?'dark-mode':'light-mode';
+  document.body.classList.toggle(className);
 
   const links = document.querySelectorAll('.post-link');
   links.forEach(link => {
