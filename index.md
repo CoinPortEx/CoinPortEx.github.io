@@ -15,7 +15,7 @@ Reading, reference and news resources for CoinPort Members
       const queryString = window.location.search;
       const urlParams = new URLSearchParams(queryString);
       const theme = urlParams.get('theme');
-      const className = theme == 'dark-mode' ? 'dark-mode' : 'light-mode';
+      const className = theme=='dark-mode'?'dark-mode':'light-mode';
       document.body.classList.toggle(className);
       console.log(theme);
     </script>
@@ -25,5 +25,5 @@ Reading, reference and news resources for CoinPort Members
       <b>{{ post.categories }} - </b> {{ post.date  | date: "%-d %B %Y" }} - <a href="{{ post.url }}?theme=dark-mode">{{ post.title }}</a><br />
       {{ post.description }}<br />
     </li>
-  {% endfor %}
+  {% endfor %}$
 </ul>
