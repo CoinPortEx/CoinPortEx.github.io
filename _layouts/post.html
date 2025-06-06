@@ -31,13 +31,13 @@
       <em>Easy, fast and safe cryptocurrency exchange</em></p>
       <br />
       <script>
+        document.write('debug: <b>document location: ' + document.location + '</b></br />');
+
         const queryString = window.location.search;
         const urlParams = new URLSearchParams(queryString);
         const theme = urlParams.get('theme');
-        const className = theme=='dark-mode'?'dark-mode':'light-mode';
+        const className = theme == 'dark-mode'?'dark-mode':'light-mode';
         document.body.classList.toggle(className);
-
-        document.write('debug: <b>document location: ' + document.location + '</b></br />');
 
         if (theme=='dark-mode') {
           document.getElementById("signatureImage").src = 'https://blog.coinport.com.au/images/news/coinport-signature-dark.png';
