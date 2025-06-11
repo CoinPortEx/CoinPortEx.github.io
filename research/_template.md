@@ -1,124 +1,102 @@
-Here's a Markdown template for CoinPort Exchange's research reports on individual coins and tokens:
+# CoinPort Research Report: {{COIN_NAME}} ({{SYMBOL}})
 
-```markdown
-# [Coin/Token Name] ([Ticker Symbol]) Research Report
+*Published: {{DATE}}* 
+*Author: CoinPort Research Team*
 
-![Project Logo](URL-to-logo.png) *Optional: Include project logo if available*
-
-**Published:** [YYYY-MM-DD]  
-**Author:** [Researcher Name/Analyst Team]  
-**Last Updated:** [YYYY-MM-DD]  
+---
 
 ## Executive Summary
-- Brief overview (2-3 sentences) of the project and its value proposition
-- Key strengths and differentiators
-- Notable risks or challenges
-- Overall assessment (e.g., "Strong buy", "Hold", "High risk")
 
-## Project Overview
-### Basic Information
-- **Project Name:** 
-- **Ticker Symbol:** 
-- **Blockchain Platform:** 
-- **Token Type:** 
-- **Consensus Mechanism:** 
-- **Current Price:** $[X.XX] (as of [date])
-- **Market Cap:** $[X.XX]B
-- **Circulating Supply:** [X.XX]B/[X.XX]B (if max supply exists)
+{{A brief, high-level overview of the coin, its purpose, and key features. E.g., "Bitcoin (BTC) is the first and most widely adopted cryptocurrency. It serves as a decentralized store of value and is often referred to as 'digital gold'."}}
 
-### Project Description
-[2-3 paragraph description of the project's purpose, technology, and use cases]
+---
 
-## Technical Analysis
-### Key Metrics
-- **All-Time High:** $[X.XX] (date)
-- **All-Time Low:** $[X.XX] (date)
-- **Current Price:** $[X.XX]
-- **30-Day Volatility:** [X]%
-- **Liquidity Score:** [X]/10 *Optional metric*
+## 1. Introduction
 
-### Price Chart
-![6-month price chart] *Optional: Include chart or technical analysis*
+- **Name**: {{COIN_NAME}}
+- **Symbol**: {{SYMBOL}}
+- **Launch Date**: {{LAUNCH_DATE}}
+- **Consensus Mechanism**: {{Proof of Work / Proof of Stake / Other}}
+- **Current Rank (Market Cap)**: {{MARKET_CAP_RANK}}
+- **Website**: [{{OFFICIAL_SITE_URL}}]({{OFFICIAL_SITE_URL}})
+- **Whitepaper**: [Download PDF]({{WHITEPAPER_URL}})
 
-### Technical Outlook
-[Analysis of current trends, support/resistance levels, moving averages, etc.]
+---
 
-## Fundamental Analysis
-### Technology
-- Innovation and technical merits
-- Competitive advantages
-- Development activity (GitHub commits, updates, etc.)
+## 2. Technology Overview
 
-### Team & Advisors
-- Key team members and their backgrounds
-- Notable advisors or backers
+- **Blockchain Type**: {{Public / Private / Hybrid}}
+- **Block Time**: {{BLOCK_TIME}} 
+- **Max Supply**: {{MAX_SUPPLY}} 
+- **Current Circulating Supply**: {{CURRENT_SUPPLY}} 
+- **Notable Features**: 
+  - {{Feature 1}} 
+  - {{Feature 2}} 
+  - {{Feature 3}}
 
-### Partnerships & Ecosystem
-- Major partnerships
-- Ecosystem growth metrics
-- Community size and engagement
+---
 
-### Tokenomics
-- Token distribution (chart or table preferred)
-- Inflation/deflation mechanisms
-- Utility and use cases
-- Staking/yield opportunities
+## 3. Use Cases
 
-## Market Analysis
-### Competitive Landscape
-- Direct competitors
-- Market position comparison
-- SWOT analysis (Strengths, Weaknesses, Opportunities, Threats)
+{{Describe key use cases and how the coin is being used in real-world applications.}}
 
-### Adoption Metrics
-- Active addresses
-- Transaction volume
-- TVL (for DeFi projects)
-- Other relevant metrics
+- **Payments / Store of Value / Smart Contracts / DeFi / NFTs / Enterprise Use / etc.**
 
-## Risk Assessment
-### Potential Risks
-- Technical risks
-- Regulatory risks
-- Market competition
-- Team/execution risks
+---
 
-### Risk Mitigation
-- How the project addresses these risks
+## 4. Market Performance
 
-## Investment Thesis
-### Bull Case
-[2-3 scenarios where the project could outperform]
+- **Current Price**: {{CURRENT_PRICE}} AUD
+- **Market Capitalisation**: {{MARKET_CAP}} AUD
+- **24h Volume**: {{VOLUME_24H}} AUD
+- **All-Time High**: {{ATH}} ({{ATH_DATE}})
+- **All-Time Low**: {{ATL}} ({{ATL_DATE}})
+- **Volatility**: {{High / Medium / Low}}
 
-### Bear Case
-[2-3 scenarios where the project could underperform]
+> _Prices and metrics sourced from [CoinGecko](https://www.coingecko.com/) or similar providers._
 
-## Valuation
-### Price Targets
-- Short-term (3-6 months): $[X.XX] - $[X.XX]
-- Medium-term (6-12 months): $[X.XX] - $[X.XX]
-- Long-term (1-3 years): $[X.XX] - $[X.XX]
+---
 
-### Valuation Methodology
-[Brief explanation of how targets were determined]
+## 5. Developer Activity
 
-## Conclusion & Recommendation
-- Summary of key findings
-- Recommended action (Buy/Hold/Sell) with rationale
-- Suggested portfolio allocation (if any)
+- **GitHub Repositories**: {{LINKS}}
+- **Developer Engagement**: {{High / Moderate / Low}}
+- **Recent Updates**: 
+  - {{Update 1}} 
+  - {{Update 2}}
 
-## Appendices
-### Additional Resources
-- [Project Website](URL)
-- [Whitepaper](URL)
-- [Community Channels](URL)
+---
 
-### Disclosure
-*CoinPort Exchange or its analysts may hold positions in [coin/token name]. This report is for informational purposes only and not investment advice. Please conduct your own research before making investment decisions.*
+## 6. Regulatory and Security Considerations
 
-### Revision History
-| Date       | Changes Made           |
-|------------|------------------------|
-| YYYY-MM-DD | Initial publication    |
-| YYYY-MM-DD | [Brief description of updates] |
-```
+- **Legal Status in Australia**: {{Recognised / Under Review / Not Recognised}}
+- **Security Record**: {{e.g., No major breaches / History of exploits}}
+- **Compliance Notes**: {{Any major regulatory concerns or achievements}}
+
+---
+
+## 7. Risks and Challenges
+
+{{Identify any known risks or concerns such as governance issues, scalability problems, market dependency, regulatory risks, etc.}}
+
+---
+
+## 8. Conclusion & Outlook
+
+{{Summarise the project's strengths and weaknesses, and provide an outlook (short-term and long-term) based on current trends. Include neutral, research-backed commentary.}}
+
+---
+
+## 9. CoinPort’s View
+
+{{Optional section where CoinPort analysts provide a considered opinion or general guidance to users, clearly stating it is not financial advice.}}
+
+> _Disclaimer: This report is for informational purposes only and does not constitute financial advice. Cryptocurrencies are speculative and involve risk. Always do your own research and consult a licensed financial adviser._
+
+---
+
+## Appendix
+
+- **Key Metrics Table** 
+- **Glossary** 
+- **Links to Further Reading**

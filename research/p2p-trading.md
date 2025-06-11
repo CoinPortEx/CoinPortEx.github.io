@@ -94,9 +94,9 @@ Spread: $3.00/BTC (3.05% margin)
 
 2. **Order Management (Ongoing)**
    - Adjust prices based on:
-     - Market depth changes
-     - Competitor movements
-     - CoinPort inventory levels
+ - Market depth changes
+ - Competitor movements
+ - CoinPort inventory levels
 
 3. **Settlement Reconciliation (EOD)**
    - Verify all trades completed
@@ -232,13 +232,13 @@ Here’s a strategic breakdown of the most lucrative P2P cryptocurrency exchange
 ---
 
 ### **Regional Profitability Map**  
-| Region        | Best Exchange | Key Profit Driver                     | Avg. Spread |  
+| Region| Best Exchange | Key Profit Driver | Avg. Spread |  
 |---------------|--------------|---------------------------------------|------------|  
-| West Africa   | Binance       | NGN premiums (8–12%)                  | 6–10%      |  
-| South America | Huobi         | ARS/VES cash demand                   | 15–30%     |  
-| Middle East   | Bybit         | AED/USDT institutional flows          | 1.5–3%     |  
-| Southeast Asia| OKX           | VND/THB remittance arbitrage           | 4–7%       |  
-| Eastern Europe| Paxful        | RUB gift card arbitrage                | 10–20%     |  
+| West Africa   | Binance| NGN premiums (8–12%)  | 6–10%  |  
+| South America | Huobi | ARS/VES cash demand   | 15–30% |  
+| Middle East   | Bybit | AED/USDT institutional flows  | 1.5–3% |  
+| Southeast Asia| OKX   | VND/THB remittance arbitrage   | 4–7%|  
+| Eastern Europe| Paxful| RUB gift card arbitrage| 10–20% |  
 
 ---
 
@@ -384,10 +384,10 @@ Here’s a detailed breakdown of **fee structures, API capabilities, and complia
 | Platform  | Trick to Reduce Costs  |  
 |-----------|------------------------|  
 | Binance   | Use SWIFT instead of PayPal to save 0.9% |  
-| Bybit     | Hedge P2P buys with futures shorts to negate slippage |  
-| OKX       | Negotiate VIP status for fee waivers |  
-| Huobi     | Avoid cash trades in Nigeria (high fraud fees) |  
-| Paxful    | Bulk-buy gift cards at 10% discount from wholesalers |  
+| Bybit | Hedge P2P buys with futures shorts to negate slippage |  
+| OKX| Negotiate VIP status for fee waivers |  
+| Huobi | Avoid cash trades in Nigeria (high fraud fees) |  
+| Paxful| Bulk-buy gift cards at 10% discount from wholesalers |  
 
 #### **API Automation Priorities**  
 1. **Binance/Bybit:** Focus on real-time price synchronization  
@@ -397,11 +397,11 @@ Here’s a detailed breakdown of **fee structures, API capabilities, and complia
 #### **Compliance Workflow**  
 ```mermaid  
 graph TD  
-    A[New Trade] --> B{Amount > $1k?}  
-    B -->|Yes| C[Verify ID + Payment Source]  
-    B -->|No| D[Auto-approve if <5 trades/day]  
-    C --> E[Check Sanction Lists]  
-    E --> F[Release Crypto or Flag]  
+A[New Trade] --> B{Amount > $1k?}  
+B -->|Yes| C[Verify ID + Payment Source]  
+B -->|No| D[Auto-approve if <5 trades/day]  
+C --> E[Check Sanction Lists]  
+E --> F[Release Crypto or Flag]  
 ```  
 
 Need further details on:  
