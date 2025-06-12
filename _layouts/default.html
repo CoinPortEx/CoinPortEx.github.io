@@ -10,6 +10,14 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
     <meta http-equiv='Referrer-Policy' content='no-referrer-when-downgrade'>
+    <script>
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const theme = urlParams.get('theme');
+        const className = theme=='dark-mode'?'dark-mode':'light-mode';
+        document.body.classList.toggle(className);
+        console.log(className);
+    </script>
   </head>
   <body>
     <div class="markdown-body">
