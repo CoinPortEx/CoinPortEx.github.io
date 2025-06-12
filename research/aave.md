@@ -1,20 +1,3 @@
-﻿
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Aave Protocal (AAVE)
 ## What Is Aave (AAVE)?
 Aave is a decentralized finance protocol that allows people to lend and borrow crypto.
