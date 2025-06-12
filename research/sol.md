@@ -1,20 +1,3 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Solana (SOL)
 
 ## What Is Solana (SOL)?
