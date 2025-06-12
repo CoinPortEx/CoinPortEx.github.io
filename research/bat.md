@@ -1,22 +1,5 @@
-﻿
+## Basic Attention Token (BAT)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Basic Attention Token (BAT)
 ## What Is Basic Attention Token (BAT)?
 Basic Attention Token, or BAT, is the token that powers a new blockchain-based digital advertising platform designed to fairly reward users for their attention, while providing advertisers with a better return on their ad spend.
 This experience is delivered through the Brave Browser, where users can watch privacy-preserving adverts and receive BAT rewards for doing so. On the other hand, advertisers can deliver targeted ads to maximize engagement and cut down losses due to ad fraud and abuse.
