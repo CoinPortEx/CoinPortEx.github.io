@@ -1,20 +1,3 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### ChainLink (LINK)
 ## What Is Chainlink (LINK)?
 Founded in 2017, Chainlink is a blockchain abstraction layer that enables universally connected smart contracts. Through a decentralized oracle network, Chainlink allows blockchains to securely interact with external data feeds, events and payment methods, providing the critical off-chain information needed by complex smart contracts to become the dominant form of digital agreement.
