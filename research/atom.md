@@ -4,16 +4,12 @@ Cosmos, launched in March 2019, is a decentralized network of interoperable bloc
 
 The native token, **ATOM**, powers the **Cosmos Hub**, the central blockchain facilitating IBC and securing the network. ATOM is used for transaction fees, staking, and governance within the Cosmos ecosystem.
 
-----------
-
 ## Key Features
 
 -   **Interoperability:** IBC enables secure data and asset transfers between Cosmos-based chains and external networks like Ethereum and Polkadot.
 -   **Scalability:** Each zone operates independently, processing transactions in parallel, with the Cosmos Hub achieving ~10,000 transactions per second (TPS).
 -   **Cosmos SDK:** A developer-friendly toolkit for building sovereign blockchains, used by projects like Binance Chain, Terra, and Osmosis.
 -   **Ecosystem:** Over 80 IBC-enabled chains, with $70 billion in total value locked (TVL) across DeFi, NFTs, and gaming as of May 2025.
-
-----------
 
 ## ATOM Token
 
@@ -26,8 +22,6 @@ The native token, **ATOM**, powers the **Cosmos Hub**, the central blockchain fa
     -   Interchain Foundation (ICF): 10%
     -   Seed investors: 12.1%
 
-----------
-
 ## Who Are the Founders of Cosmos?
 
 Cosmos was co-founded by **Jae Kwon, Ethan Buchman, and Zarko Milosevic**:
@@ -37,8 +31,6 @@ Cosmos was co-founded by **Jae Kwon, Ethan Buchman, and Zarko Milosevic**:
 -   **Zarko Milosevic:** Early contributor to Tendermint’s consensus algorithms, enhancing network security.
 
 The team, backed by the Interchain Foundation, pioneered the Cosmos ecosystem, with Tendermint’s proof-of-stake (PoS) model influencing modern blockchain design.
-
-----------
 
 ## What Makes Cosmos Unique?
 
@@ -51,21 +43,15 @@ Cosmos stands out for its focus on sovereignty and interoperability:
 
 Recent milestones include **Shared Security** (launched 2024), allowing zones to share validators with the Cosmos Hub, boosting security and decentralization.
 
-----------
-
 ## Cosmos Network Upgrades (2025)
 
 -   **Interchain Security (v3, Q1 2025):** Enhanced shared security, enabling smaller chains to leverage the Cosmos Hub’s validator set, reducing setup costs.
 -   **Cosmos 2.0 Proposal (Ongoing):** A debated roadmap to revamp ATOM’s role, introducing liquid staking and higher inflation (up to 20%) to fund ecosystem growth. Community governance votes are shaping its implementation.
 -   **Ecosystem Growth:** Stablecoin volume hit $15 billion in May 2025, with Osmosis and Kava leading DeFi activity. The Interchain Stack now supports Web3 gaming and AI-driven DApps.
 
-----------
-
 ## Cosmos and Sustainability
 
 Cosmos prioritizes energy efficiency via its PoS consensus, consuming ~99% less energy than proof-of-work blockchains like Bitcoin. In 2024, the Interchain Foundation partnered with carbon offset platforms to achieve carbon neutrality, retiring credits equivalent to 50,000 tonnes of CO2. Efforts continue to minimize the ecological footprint of validators and node operations.
-
-----------
 
 ## How Is Cosmos Secured?
 

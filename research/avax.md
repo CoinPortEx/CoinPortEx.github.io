@@ -13,21 +13,15 @@
 
 Avalanche has been praised for its **speed and scalability**, making it appealing for projects requiring high throughput, such as **decentralized finance (DeFi) protocols** and **NFT marketplaces**. However, it has also faced criticism regarding its complex architecture, intense competition with established blockchains like Ethereum, and potential centralization risks due to validator requirements.
 
-----------
-
 ### Units and Divisibility
 
 The **unit of account** for the Avalanche network is **AVAX**. One AVAX is divisible to **nine decimal places**, with the smallest unit known as a **nanoAVAX (nAVAX)**, representing 10−9 AVAX. This high divisibility supports **microtransactions**, aligning with Avalanche's focus on low-cost, high-volume use cases. For example, 1,000,000 nAVAX equals 0.001 AVAX (or 1 milliAVAX).
-
-----------
 
 ### Ownership and Security
 
 **AVAX tokens** are associated with **wallet addresses** generated from random private keys. While public addresses can be shared to receive AVAX, spending tokens requires the owner to sign transactions with their **private key**. The cryptographic security of this process makes it practically impossible to derive a private key from a public address.
 
 However, the security of AVAX holdings is critically dependent on **secure private key management**. Loss of a private key results in the irreversible loss of the associated AVAX. The platform has also experienced **high-profile DeFi exploits**, underscoring the importance of robust security practices for users.
-
-----------
 
 ### Adoption and Outlook
 
