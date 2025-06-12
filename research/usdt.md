@@ -1,21 +1,3 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Tether (USDT)
 
 ## What Is Tether (USDT)?
