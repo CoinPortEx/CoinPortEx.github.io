@@ -1,20 +1,3 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Vaulta Protocol (A)
 ## What Is Vaulta (A)?
 Vaulta is a Web3 banking network designed to power the next generation of decentralized financial services. Built on a highly reliable Layer 1 blockchain, Vaulta enables secure, scalable, and composable financial applications, including wealth management, consumer payments, investment access, and insurance.
