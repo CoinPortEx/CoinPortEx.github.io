@@ -1,9 +1,9 @@
 ---
 title:  Custom PayId Addresses 
 layout: post
-description: Artle discussing What We Think Makes A good Exchange
+description: News about Custom PayID
 author: CoinPort Exchange
-date:   2025-06-14 14:58:15 +1000
+date:   2025-06-12 11:25:15 +1000
 categories: news
 ---
 
