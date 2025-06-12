@@ -1,7 +1,7 @@
 ---
 title:  What Makes a Good Crypto Exchange?
 layout: post
-description: Artle discussing What We Think Makes A good Exchange
+description: Article discussing What We Think Makes A good Exchange
 author: CoinPort Exchange
 date:   2025-06-04 11:26:15 +1000
 categories: articles
