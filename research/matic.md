@@ -1,59 +1,38 @@
-### What Is Polygon (MATIC)?
-Polygon (previously Matic Network) is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.
-Using Polygon, users can create optimistic rollup chains, ZK rollup chains, stand alone chains or any other kind of infra required by the developer.
-Polygon effectively transforms Ethereum into a full-fledged multi-chain system (aka Internet of Blockchains). This multi-chain system is akin to other ones such as Polkadot, Cosmos, Avalanche etc. with the advantages of Ethereum’s security, vibrant ecosystem and openness.
-The $MATIC token will continue to exist and will play an increasingly important role, securing the system and enabling governance.
-Polygon (formerly Matic Network) is a Layer 2 scaling solution backed by Binance and Coinbase. The project seeks to stimulate mass adoption of cryptocurrencies by resolving the problems of scalability on many blockchains.
-Polygon combines the Plasma Framework and the proof-of-stake blockchain architecture. The Plasma framework used by Polygon as proposed by the co-founder of Ethereum, Vitalik Buterin, allows for the easy execution of scalable and autonomous smart contracts.
-Nothing will change for the existing ecosystem built on the Plasma-POS chain. With Polygon, new features are being built around the existing proven technology to expand the ability to cater to diverse needs from the developer ecosystem. Polygon will continue to develop the core technology so that it can scale to a larger ecosystem.
-Polygon boasts of up to 65,000 transactions per second on a single side chain, along with a respectable block confirmation time of less than two seconds. The framework also allows for the creation of globally available decentralized financial applications on a single foundational blockchain.
-The Plasma framework gives Polygon the potential of housing an unlimited number of decentralized applications on their infrastructure without experiencing the normal drawbacks common on proof-of-work blockchains. So far, Polygon has attracted more than 50 DApps to its PoS-secured Ethereum sidechain.
-MATIC, the native tokens of Polygon, is an ERC-20 token running on the Ethereum blockchain. The tokens are used for payment services on Polygon and as a settlement currency between users who operate within the Polygon ecosystem. The transaction fees on Polygon sidechains are also paid in MATIC tokens.
+# What Is Polygon (POL)?
 
-## Who Are the Founders of Polygon?
-Polygon (formerly Matic Network) was launched in October 2017. Polygon was co-founded by Jaynti Kanani, Sandeep Nailwal and Anurag Arjun, two experienced blockchain developers and a business consultant.
-Before moving to its network in 2019, the Polygon team was a huge contributor in the Ethereum ecosystem. The team worked on implementing the Plasma MVP, the WalletConnect protocol and the widely-used Dagger event notification engine on Ethereum.
-The team included co-founder of Polygon, Jaynti Kanani. Jaynti, a full-stack developer and blockchain engineer currently serves as the CEO of Polygon.
-Jaynti played an integral role in implementing Web3, Plasma and the WalletConnect protocol on Ethereum. Prior to his blockchain involvement, Jaynti worked as a data scientist with Housing.com.
-Co-founder and chief operations officer of Polygon, Sandeep Nailwal is a blockchain programmer and entrepreneur. Before jointly starting Polygon (formerly Matic), Sandeep had served as the CEO of Scopeweaver, and the chief technical officer of Welspun Group.
-Anurag Arjun is the only non-programming co-founder of Polygon. As a product manager, he has had stints with IRIS Business, SNL Financial, Dexter Consultancy and Cognizant Technologies.
+Polygon, originally launched as **Matic Network** in October 2017, is a leading **Layer 2 scaling solution for Ethereum**. It's designed to significantly boost transaction speed, slash costs, and enhance scalability, all while leveraging Ethereum's robust security.
 
-## What Makes Polygon Unique?
-Polygon is self-described as a Layer 2 scaling solution, which means that the project doesn’t seek to upgrade its current basic blockchain layer any time soon. The project focuses on reducing the complexity of scalability and instant blockchain transactions.
-Polygon uses a customized version of the Plasma framework which is built on proof-of-stake checkpoints that run through the Ethereum main-chain. This unique technology allows each sidechain on Polygon to achieve up to 65,536 transactions per block.
-Commercially, the sidechains of Polygon are structurally designed to support a variety of decentralized finance (DeFi) protocols available in the Ethereum ecosystem.
-While Polygon currently supports only Ethereum basechain, the network intends to extend support for additional basechains, based on community suggestions and consensus. This would make Polygon an interoperable decentralized Layer 2 blockchain platform
+At its heart is the **Polygon SDK**, a modular framework that empowers developers to build a diverse range of applications. This includes optimistic rollup chains, zero-knowledge (ZK) rollup chains, and standalone chains. Polygon effectively transforms Ethereum into a multi-chain ecosystem, often compared to Polkadot, Cosmos, or Avalanche, but with the added benefit of Ethereum's strong security and vibrant developer community.
 
-## Polygon (MATIC) London Hard Fork and EIP-1559 Upgrade
-Polygon announced the much-anticipated London Hard Fork and Ethereum Improvement Proposal (EIP) 1559 upgrade will go live on the mainnet on Jan. 18, 2022. The upgrade will completely change the way the fee mechanism works on the Ethereum network — it eliminates first-price auction as the main fee calculation mechanism and instead uses a base fee that is burned, instead of sent to miners. Although it does not lower transaction fees, it makes it more stable, allowing users to estimate costs better and reduce overpayment.
-However, as MATIC tokens are burned as base fees — and MATIC has a fixed supply of 10 billion tokens — it will have a deflationary effect on the digital asset. Polygon’s core team projected an annual burn of MATIC amounting to 0.27% of the token’s total supply — around 27 million tokens. This deflationary pressure will most likely benefit validators and delegators the most, as rewards for processing transactions on Polygon are denominated in MATIC. Furthermore, base fee will increase automatically once the block is filled up, resulting in fewer spam transactions and less network congestion. Ethereum mainnet’s London Hard Fork went live on Aug. 5, 2021.
+Polygon's native token, previously MATIC, officially transitioned to **POL** on September 4, 2024. This change supports its evolution into **Polygon 2.0**, a groundbreaking vision for an aggregated blockchain network via the **AggLayer**. POL serves as the native gas and staking token for the **Polygon Proof-of-Stake (PoS) chain** and is set to play even bigger roles in cross-chain interoperability and governance.
 
-## Polygon Network Carbon Neutrality
-Polygon is one of the multiple blockchains achieving carbon neutrality. That initiative is part of Polygon's Green Manifesto, which aims to focus on sustainable development for blockchain. Polygon committed $20 million for various community initiatives to utilize Web3 technology to build a sustainable future for all. That includes focusing on new solutions for on-chain carbon credit retirement.
-Through a partnership with KlimaDAO, Polygon bought $400,000 worth of carbon credits. Those credits represent nearly 90,000 tonnes of CO2 emissions. The tokens were retired through KlimaDAO's offset aggregator tool, with BCT and MCO2 carbon credits created from offsets certified under the Verified Carbon Standard.
-KlimaDAO is a decentralized collective of environmentalists, entrepreneurs, and developers looking to modernize the carbon market through on-chain technology.
-Furthermore, KlimaDAO and Offsetra analyzed Polygon's network energy footprint to determine emission hotspots and figure out a compelling mitigation approach. That includes looking at emissions from staking node hardware, the energy consumption of staking operations and more,
-Becoming carbon neutral is the first step for Polygon toward sustainability. Even though the network relies on proof-of-stake, far more energy-efficient than proof-of-work, the network continues to impact the environment. That applies to both Polygon-only activity and the native smart contracts interacting with the Ethereum blockchain.
-Polygon and KlimaDAO have also retired carbon credits from various network-native projects, including Bull Run Forest Conservation Project, the Ghani Solar Power Project, Moss.Earth and the wind power project at Jaibhim, India.
+----------
 
-## How Many Polygon (MATIC) Tokens Are There in Circulation?
-MATIC tokens are released on a monthly basis. MATIC currently has a circulating supply of 4,877,830,774 MATIC tokens and a max supply of 10,000,000,000 MATIC tokens.
-At its initial private sale in 2017, 3.8 percent of MATIC’s max supply was issued. In the April 2019 launchpad sale, another 19 percent of the total supply was sold. The MATIC price was $0.00263 per token, and $5 million was generated.
+### Key Features
 
-<ul>The remaining MATIC tokens are distributed as follows:
-<li>Team tokens: 16 percent of the total supply.</li>
-<li>Advisors tokens: 4 percent of the total supply.</li>
-<li>Network Operations tokens: 12 percent of the total supply.</li>
-<li>Foundation tokens: 21.86 percent of the total supply.</li>
-<li>Ecosystem tokens: 23.33 percent of the total supply.</li>
-<li>According to the release schedule, all the tokens will be released by December 2022.</li>
-</ul>
+-   **Scalability:** Polygon boasts impressive scalability, capable of processing up to 65,000 transactions per second (TPS) on a single sidechain. Recent testnet results have already exceeded 1,000 TPS, and the ambition is to reach over 100,000+ TPS.
+-   **Plasma and ZK Technology:** It cleverly combines Ethereum’s Plasma framework with ZK rollups to enable highly scalable and secure smart contracts.
+-   **Ecosystem Growth:** The Polygon ecosystem is booming, hosting over 50 decentralized applications (DApps). Stablecoin transfer volumes alone surged to $134 billion in April 2025, marking a 33% month-over-month increase.
+-   **Interoperability:** While its primary focus is supporting Ethereum, Polygon has plans to extend compatibility to other basechains through community consensus.
 
-## How Is the Polygon Secured?
-As a Layer 2 solution utilizing a network of proof-of-stake validators for asset security, staking is an integral part of the Polygon ecosystem. Validators on the network will stake their MATIC tokens as collateral to become part of the network’s PoS consensus mechanism and will receive MATIC tokens in return.
-Members of the network who do not wish to become validators can delegate their MATIC tokens to another validator, but will still take part in their staking process and earn staking rewards.
-In addition to the proof-of-stake checkpointing, Polygon uses block producers at the block producer layer to achieve a higher degree of decentralization. These block producers give finality to the main chains using checkpoints and fraud-proof mechanisms.
+----------
 
+### The POL Token
 
+-   **Purpose:** POL is an **ERC-20 token** used for transaction fees, staking, and governance on the Polygon PoS chain. It replaced MATIC at a 1:1 ratio. A 2% annual emission over a decade supports network security and ongoing community development.
+-   **Supply:** The total supply of POL is fixed at 10 billion tokens, with approximately 1.5 billion POL in circulating supply as of June 2025. The full token release for MATIC was completed by December 2022, and POL is now actively in circulation.
+
+----------
+
+### What Makes Polygon Stand Out?
+
+Polygon shines as a Layer 2 scaling solution that enhances Ethereum without altering its foundational layer. Its key differentiators include:
+
+-   **Multi-Solution Framework:** Developers have the flexibility to choose from various scaling solutions, including Plasma, ZK rollups, and sidechains, to best suit their application's needs.
+-   **High Throughput:** It achieves an impressive throughput of up to 65,536 transactions per block on its PoS sidechains, with recent testnet advancements pushing beyond 5,000 TPS.
+-   **AggLayer:** This ZK-powered cross-chain interoperability bridge unifies liquidity across different chains, creating a seamless experience. Major ecosystems like OKX’s X Layer and Immutable have already adopted it.
+-   **Polygon 2.0:** This ambitious roadmap aims to integrate all Polygon networks into one aggregated ecosystem, with POL serving as the central token for gas, staking, and future services like the Polygon Staking Hub (planned for 2025).
+
+Polygon’s strong emphasis on developer flexibility and user experience positions it as a critical piece of infrastructure for **Web3, DeFi, and NFTs**. It has secured notable partnerships with major brands like Starbucks, Adidas, and even Portugal’s National Postal Service for crypto stamps, further solidifying its presence in the mainstream.
 
 
