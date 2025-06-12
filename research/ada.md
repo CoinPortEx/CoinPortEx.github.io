@@ -1,20 +1,3 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Cardano (ADA)
 
 ## What Is Cardano (ADA)?
