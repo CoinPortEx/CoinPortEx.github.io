@@ -1,21 +1,3 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### What Is Polygon (MATIC)?
 Polygon (previously Matic Network) is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development. Its core component is Polygon SDK, a modular, flexible framework that supports building multiple types of applications.
 Using Polygon, users can create optimistic rollup chains, ZK rollup chains, stand alone chains or any other kind of infra required by the developer.
