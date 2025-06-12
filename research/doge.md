@@ -1,20 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Dogecoin (DOGE)
 Dogecoin (/ˈdoʊ(d)ʒkɔɪn/ DOHJ-koyn or DOHZH-koyn, code: DOGE, symbol: Ð) is a cryptocurrency created by software engineers Billy Markus and Jackson Palmer, who decided to create a payment system as a "joke", making fun of the wild speculation
 in cryptocurrencies at the time. It is considered both the first "meme coin", and, more specifically, the first "dog coin". Despite its satirical nature, some consider it a legitimate investment prospect. Dogecoin features the face of the Shiba Inu
