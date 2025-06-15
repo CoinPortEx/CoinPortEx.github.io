@@ -1,21 +1,4 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Token Lido DAO Token (LDO)
+### Lido DAO Token (LDO)
 
 ## What Is Lido?
 Lido is a liquid staking solution for Ethereum. Lido lets users stake their ETH - with no minimum deposits or maintaining of infrastructure - whilst participating in on-chain activities, e.g. lending, to compound returns.
