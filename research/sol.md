@@ -1,27 +1,47 @@
-### Solana (SOL)
+# What Is Solana (SOL)?
 
-## What Is Solana (SOL)?
-Solana is a highly functional open source project that banks on blockchain technology’s permissionless nature to provide decentralized finance (DeFi) solutions. While the idea and initial work on the project began in 2017, Solana was officially launched in March 2020 by the Solana Foundation with headquarters in Geneva, Switzerland.
-To learn more about this project, check out our deep dive of Solana.
-The Solana protocol is designed to facilitate decentralized app (DApp) creation. It aims to improve scalability by introducing a proof-of-history (PoH) consensus combined with the underlying proof-of-stake (PoS) consensus of the blockchain.
-Due to the innovative hybrid consensus model, Solana enjoys interest from small-time traders and institutional traders alike. A significant focus for the Solana Foundation is to make decentralized finance accessible on a larger scale.
+**Solana (SOL)**, launched in March 2020, is the native cryptocurrency of the **Solana blockchain**, a high-performance Layer 1 blockchain designed for decentralized applications (dApps) and global-scale transactions. Founded by Solana Labs, [Solana](https://solana.com/) offers fast, low-cost transactions, supporting DeFi, NFTs, gaming, and Web3 projects. SOL powers transaction fees, staking, and governance within the ecosystem.
 
-## Who Are the Founders of Solana?
-Anatoly Yakovenko is the most important person behind Solana. His professional career started at Qualcomm, where he quickly moved up the ranks and became senior staff engineer manager in 2015. Later on, his professional path shifted, and Yakovenko entered a new position as a software engineer at Dropbox.
-In 2017, Yakovenko started working on a project which would later materialize as Solana. He teamed up with his Qualcomm colleague Greg Fitzgerald, and they founded a project called Solana Labs. Attracting several more former Qualcomm colleagues in the process, the Solana protocol and SOL token were released to the public in 2020.
+## Key Features
+- **High Throughput**: Processes over 700,000 transactions per second (TPS) with 400ms block times.
+- **Low Fees**: Average transaction cost is ~$0.00025, ideal for microtransactions and DeFi.
+- **Scalability**: Uses Proof-of-History (PoH) and Proof-of-Stake (PoS) for efficient consensus.
+- **Ecosystem**: Hosts 350+ projects, including Jupiter (DEX), Metaplex (NFTs), and Helium (DePIN), with $12.7B in total value locked (TVL).
 
-## What Makes Solana Unique?
-One of the essential innovations Solana brings to the table is the proof-of-history (PoH) consensus developed by Anatoly Yakovenko. This concept allows for greater scalability of the protocol, which in turn boosts usability.
-Solana is known in the cryptocurrency space because of the incredibly short processing times the blockchain offers. Solana’s hybrid protocol allows for significantly decreased validation times for both transaction and smart contract execution. With lightning-fast processing times, Solana has attracted a lot of institutional interest as well.
-The Solana protocol is intended to serve both small-time users and enterprise customers alike. One of Solana’s main promises to customers is that they will not be surprised by increased fees and taxes. The protocol is designed in such a way as to have low transaction costs while still guaranteeing scalability and fast processing.
-Combined with the longstanding professional expertise creators Anatoly Yakovenko and Greg Fitzgerald bring to the project, Solana is ranked number 7 in the CoinMarketCap ranking as of September 2021.
-This came on the back of an impressive bull run, where Solana price gained over 700% since mid-July 2021. The launch of the Degenerate Ape NFT collection sent SOL price to an all-time high (ATH) above $60, and it has been climbing since, largely due to higher developer activity on the Solana ecosystem, greater institutional interest, growing DeFi ecosystem, and the rise of the NFTs and gaming vertical on Solana. Solana price rose to an ATH of $216 on Sept. 9, 2021.
-Solana has received much praise for its speed and performance, and has even been tipped as a rival that can compare to Ethereum and challenge the dominant smart contract platform. However, the network has been plagued by repeated outages that have impaired its price and aspirations to be the "Visa of crypto." Furthermore, its ecosystem is accused of favoring venture capital investors with unfair tokenomics.
+## SOL Token
+- **Purpose**: Used for transaction fees, staking, and governance on the Solana blockchain.
+- **Supply**: Circulating supply of ~530 million SOL, with a total supply of ~600 million.
+- **Contract Address**: Native to Solana; [CoinGecko](https://www.coingecko.com/en/coins/solana) [CMC](https://coinmarketcap.com/currencies/solana/) . Add to wallets like Phantom or Solflare.
 
-## How Is the Solana Network Secured?
-Solana relies on a unique combination of proof-of-history (PoH) and proof-of-stake (PoS) consensus mechanisms.
-Proof-of-history is the main component of the Solana protocol, as it is responsible for the bulk of transaction processing. PoH records successful operations and the time that has passed between them, thus ensuring the trustless nature of the blockchain.
-The proof-of-stake (PoS) consensus is used as a monitoring tool for the PoH processes, and it validates each sequence of blocks produced by it.
-The combination of two consensus mechanisms makes Solana a unique phenomenon in the blockchain industry.
+# Who Are the Founders of Solana?
 
+Solana was co-founded by **Anatoly Yakovenko**, **Raj Gokal**, **Greg Fitzgerald**, and **Stephen Akridge** in 2017, with Solana Labs launching the blockchain in 2020. The Solana Foundation, based in Geneva, Switzerland, supports ecosystem growth. Backed by investors like Andreessen Horowitz (a16z) and Multicoin Capital, Solana raised $25.6M in its initial seed sale.
+
+# What Makes Solana Unique?
+
+Solana stands out for its high-performance blockchain:
+
+- **Proof-of-History (PoH)**: Timestamps transactions to boost throughput, complementing PoS.
+- **Developer-Friendly**: Supports Rust, C, and Solang (Solidity-compatible compiler), attracting Ethereum developers.
+- **Only Possible on Solana (OPOS)**: Enables unique dApps like Jupiter and Backpack due to speed and low costs.
+- **Institutional Adoption**: Praised by Franklin Templeton and Kraken as a leader in on-chain finance, with spot ETF proposals filed.
+
+# SOL Network Upgrades (2025)
+
+- **Firedancer Client (Q1 2025)**: Introduced a second validator client by Jump Crypto, enhancing network resilience and decentralization.
+- **QUIC Protocol (March 2025)**: Improved data transfer, boosting TPS and reducing latency for DeFi and gaming dApps.
+- **Solana Mobile 2.0 (June 2025)**: Launched the second-generation Saga smartphone, integrating a dApp store and Web3 wallet, driving retail adoption.
+
+# How Is SOL Secured?
+
+Solana and SOL are secured through:
+
+- **PoH + PoS Consensus**: PoH orders transactions, while PoS validators stake SOL to confirm blocks, with slashing for misbehavior.
+- **Validator Diversity**: Over 1,900 validators globally, with clients like Jito Labs and Firedancer ensuring resilience.
+- **Network Audits**: Regular audits of core protocol and dApps by firms like Halborn mitigate vulnerabilities.
+- **Decentralized Governance**: SOL holders vote on protocol upgrades, ensuring community-driven security.
+
+# Conclusion
+
+**Solana (SOL)** powers a leading Layer 1 blockchain, delivering unparalleled speed, scalability, and low costs for DeFi, NFTs, and Web3 applications. With a vibrant ecosystem, institutional backing, and recent upgrades like Firedancer and Solana Mobile 2.0, Solana is poised to drive the future of on-chain finance and internet capital markets in the $3.5T+ crypto economy.
 
