@@ -11,7 +11,7 @@
 ## TAO Token
 - **Purpose**: Used for staking, governance, rewarding AI contributions, and accessing network data.
 - **Supply**: Circulating supply of ~8.8 million TAO, with a max supply of 21 million.
-- **Contract Address**: Native to Bittensor L1, tradeable via [Coingecko](https://www.coingecko.com/en/coins/bittensor)  [CMC](https://coinmarketcap.com/currencies/bittensor/) 
+- **Contract Address**: Native to Bittensor L1,  [Coingecko](https://www.coingecko.com/en/coins/bittensor)  [CMC](https://coinmarketcap.com/currencies/bittensor/) 
 
 
 
