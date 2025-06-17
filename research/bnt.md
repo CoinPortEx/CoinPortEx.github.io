@@ -1,30 +1,46 @@
-﻿
+# What Is Bancor (BNT)?
 
+**Bancor (BNT)**, launched in June 2017, is the native governance and utility token of the **Bancor protocol**, a decentralized, open-source ecosystem on the **Ethereum blockchain** and cross-chain networks like Arbitrum. [Bancor](https://bancor.network/) pioneered automated market makers (AMMs) for on-chain trading and liquidity, with its flagship **Carbon DeFi** protocol enabling custom limit and range orders. BNT powers staking, governance, trading fees, and liquidity provision, with $1.1B in total value locked (TVL).
 
+## Key Features
+- **Automated Trading**: Carbon DeFi supports on-chain limit and range orders for automated “buy low, sell high” strategies.
+- **Impermanent Loss Protection**: Single-sided staking with up to 100% protection after 100 days.
+- **Cross-Chain Support**: Operates on Ethereum, Arbitrum, and BNB Chain, with Fast Lane enabling arbitrage.
+- **Ecosystem**: Supports 84+ trading pairs on Bancor V3/V2, with integrations on Coinbase and Binance.
 
+## BNT Token
+- **Purpose**: Used for staking, governance voting, liquidity provision, and fee collection in Bancor pools.
+- **Supply**: Circulating supply of ~115 million BNT, with a max supply of ~115 million (fully diluted due to elastic supply).
+- **Contract Address**: On Ethereum, BNT’s contract is `0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/bancor-network) [CMC](https://coinmarketcap.com/currencies/bancor/).
 
+# Who Are the Founders of Bancor?
 
+Bancor was founded by **Galia Benartzi**, **Eyal Hertzog**, **Guy Benartzi**, and **Yehuda Levy** in 2017. Backed by a $153M ICO, the team pioneered AMMs, with Galia and Eyal driving DeFi innovation. The BancorDAO, governed by BNT holders, oversees development, supported by investors like DeFiance Capital.
 
+# What Makes Bancor Unique?
 
+Bancor revolutionized DeFi with:
 
+- **First AMM**: Introduced AMMs in 2017, enabling trustless token swaps without order books.
+- **Carbon DeFi**: Offers irreversible, MEV-resistant limit orders, unlike Uniswap or Curve.
+- **Fast Lane Protocol**: Redirects arbitrage profits to liquidity providers, boosting yields.
+- **Single-Sided Staking**: LPs stake one token with IL protection, simplifying DeFi participation.
 
+# BNT Network Upgrades (2025)
 
+- **Carbon DeFi V2 (Q1 2025)**: Enhanced limit order automation, increasing TVL by 20% to $1.1B.
+- **Arbitrum Fast Lane (March 2025)**: Boosted arbitrage yields by 15%, attracting 5,000+ new LPs.
+- **Meme Coin Madness (June 2025)**: Launched a trading competition with Seiyan, driving $100M in volume.
 
+# How Is BNT Secured?
 
+Bancor and BNT are secured through:
 
+- **Ethereum PoS**: Leverages Ethereum’s Proof-of-Stake for transaction and smart contract security.
+- **Audits**: Stellar ratings from CertiK, PeckShield, and Halborn, with a 96% DeFiSafety score in 2021.
+- **BancorDAO**: BNT holders vote on upgrades, ensuring decentralized governance.
+- **Elastic Supply**: Burns excess BNT to offset impermanent loss, maintaining pool stability.
 
+# Conclusion
 
-
-### Bancor (BNT)
-## What Is Bancor (BNT)?
-Bancor is a decentralized staking protocol that allows you to earn money with single-token exposure and full protection from impermanent loss. Launched in 2017, Bancor was the first DeFi protocol.
-Today, it generates millions in fees per month for depositors, offering up to 60% APR on tokens like ETH, WBTC, LINK, MATIC, AAVE & more. Bancor is owned by its community as a decentralized autonomous organization (Bancor DAO).
-The protocol token used on the network is the “Bancor Network Token,” BNT. The protocol’s token allows traders to provide liquidity for the pools available on the network. Anyone can contribute liquidity to the pools. When liquidity providers contribute liquidity to a pool, they are eligible to receive fees for trades that pass through the pool. Liquidity providers will receive pool tokens that represent their share of liquidity, fees, and Liquidity Mining rewards in the pool.
-
-## How Many Bancor (BNT) Coins Are In Circulation?
-The Bancor Network Token (BNT) has an elastic supply, afforded by the protocol's minting and burning of tokens to maintain trading liquidity levels in Bancor pools. Protocol-owned trading liquidity earns swap fees from trading volume, such that the protocol comes to hold more BNT over time. The protocol's new balance of BNT is then burned in exchange for pool tokens when LPs stake the equivalent amount of their own BNT. Due to swap fees earned, more BNT is ultimately burned than was initially supplied by the protocol. This excess of BNT is then burned to offset the cost of impermanent loss, deflating the overall supply of BNT in the long term.
-
-## How Is The Bancor Network Secured?
-Bancor is one of the longest-running and most heavily audited projects in crypto, receiving stellar ratings from leading auditors including Certik, PeckShield, and Halborn. In addition, Bancor received one of the highest safety scores to date by DeFiSafety (96%) in 2021.
-
-
+**Bancor (BNT)** powers a pioneering DeFi ecosystem, offering automated trading, impermanent loss protection, and cross-chain liquidity. With $1.1B TVL, Carbon DeFi, and integrations like Arbitrum Fast Lane, Bancor drives on-chain innovation. 
