@@ -1,47 +1,46 @@
+# What Is ApeCoin (APE)?
 
+**ApeCoin (APE)**, launched on March 17, 2022, is an ERC-20 governance and utility token on the **Ethereum blockchain**, powering the **APE ecosystem**. Inspired by Yuga Labs’ Bored Ape Yacht Club (BAYC), ApeCoin enables decentralized community building in Web3, supporting gaming, NFTs, and metaverse projects like Otherside. [APE](https://apecoin.com/) is used for governance, ecosystem transactions, and exclusive access to services, with $1.4B in total value locked (TVL) across ApeChain.
 
+## Key Features
+- **Decentralized Governance**: ApeCoin DAO allows APE holders to vote on ecosystem proposals and fund allocations.
+- **Multi-Chain Potential**: Operates on Ethereum and ApeChain, a dedicated Layer 3 blockchain for BAYC-related dApps.
+- **High Trading Volume**: Averages $50.8M in daily volume across 166+ exchanges like Binance and Coinbase.
+- **Ecosystem**: Supports BAYC, Otherside, and third-party projects like Animoca Brands, with 800M+ tokens in circulation.
 
+## APE Token
+- **Purpose**: Used for governance, payments, staking, and access to exclusive APE ecosystem services.
+- **Supply**: Circulating supply of ~800 million APE, with a max supply of 1 billion (all minted at launch).
+- **Contract Address**: On Ethereum, APE’s contract is `0x4d224452801aced8b2f0aebe155379bb5d594381` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/apecoin) [CMC](https://coinmarketcap.com/currencies/apecoin-ape/).
 
+# Who Are the Founders of ApeCoin?
 
+ApeCoin was created by the **ApeCoin DAO**, with the **APE Foundation** as its steward, supported by Yuga Labs, creators of BAYC. Key figures include **Alexis Ohanian** (Reddit co-founder) on the DAO’s Board. Launched with backing from Andreessen Horowitz (a16z), the DAO governs fund allocation, with 62% of APE tokens dedicated to the Ecosystem Fund.
 
+# What Makes ApeCoin Unique?
 
+ApeCoin stands out for its cultural and governance focus:
 
+- **Community-Driven**: ApeCoin DAO empowers holders to shape the ecosystem, from NFT projects to metaverse development.
+- **BAYC Integration**: Adopted by Yuga Labs as the primary token for BAYC and Otherside, driving Web3 culture.
+- **ApeChain**: A Layer 3 blockchain launched, hosting $1.4B TVL and dApps like Camelot V2.
+- **Exclusive Access**: Grants holders access to BAYC events, games, and metaverse features like Otherside.
 
+# APE Network Upgrades (2025)
 
+- **ApeChain Launch (Q1 2025)**: Deployed a Layer 3 blockchain, boosting TPS to 10,000 and reducing fees to ~$0.005.
+- **Glyph Integration (June 2025)**: Introduced Glyph, a wallet by Privy, simplifying APE asset management with X or email login.
+- **ApeCo Proposal (June 2025)**: Yuga Labs’ AIP-596 proposed replacing the DAO with ApeCo, enhancing builder support; voting closed June 26, 2025.
 
+# How Is APE Secured?
 
+ApeCoin and its ecosystem are secured through:
 
+- **Ethereum PoS**: Leverages Ethereum’s Proof-of-Stake for transaction security and smart contract execution.
+- **ApeCoin DAO**: Decentralized governance ensures transparent fund allocation via multi-sig wallets.
+- **Smart Contract Audits**: Regular audits by firms like OpenZeppelin protect dApps and protocols.
+- **ApeChain Security**: Layer 3 inherits Ethereum’s security while using Arbitrum for scalability.
 
+# Conclusion
 
-
-
-### ApeCoin Token (APE)
-## What Is ApeCoin?
-ApeCoin is an ERC-20 governance and utility token used within the APE Ecosystem to empower and incentivize a decentralized community building at the forefront of web3.
-
-ApeCoin holders govern themselves via the decentralized governance framework controlling the ApeCoin DAO, and vote on how the ApeCoin DAO Ecosystem Fund should be used. The APE Foundation administers proposals agreed upon by ApeCoin holders.
-
-## Who Are the Founders of ApeCoin?
-ApeCoin is a decentralized project inspired by Yuga Labs’ Bored Ape Yacht Club project. ApeCoin was founded to be used within the burgeoning APE Ecosystem, which is supported by the APE Foundation. The ApeCoin DAO aims to build and maintain the APE Ecosystem in a fair and inclusive way, providing an infrastructure for ApeCoin holders to collaborate through open and permissionless governance processes.
-
-An administrative council within the APE Foundation (the “Board”), will carry out the decisions of ApeCoin DAO members. The Board is responsible for the day-to-day administration, bookkeeping, project management, and other tasks that ensure the Community’s ideas have the support they need to become a reality. ApeCoin DAO members vote on Board members.
-
-## What Makes ApeCoin Unique?
-ApeCoin is the APE Ecosystem’s governance token, allowing token holders to participate in ApeCoin DAO and giving its participants a shared and open currency that can be used without centralized intermediaries. 62% of all ApeCoin was allocated to the Ecosystem Fund, which will support community-driven initiatives as voted on by ApeCoin DAO members.
-
-ApeCoin also gives access to certain parts of the Ecosystem that are otherwise unavailable, like exclusive games and services. For third-party developers, ApeCoin is a tool to participate in the ecosystem by incorporating ApeCoin into services, games, and other projects.
-
-The APE Foundation was gifted a 1 of 1 NFT by Yuga Labs, the creators of Bored Ape Yacht Club. Yuga Labs has conveyed all rights and privileges to this NFT and its underlying artwork to the APE Foundation. The ApeCoin DAO members can decide how this intellectual property is used.
-
-## How Many ApeCoin Are There in Circulation?
-The total supply of ApeCoin is permanently fixed at 1 billion tokens, all minted at once.
-
-On launch day, March 17, 2022, 30.25% will be in circulation. This percentage will continually increase following launch day at regular intervals over a 48-month period.
-
-The amount of ApeCoin in circulation is a dynamic number that will constantly change both due to the aforementioned schedule and a myriad of market factors.
-
-## How Is the ApeCoin Network Secured?
-ApeCoin is an ERC-20 token launched on the Ethereum blockchain. As a result, it is secured by Ethereum’s proof-of-work (POW) consensus mechanism.
-
-
-
+**ApeCoin (APE)** powers a vibrant Web3 ecosystem, bridging NFTs, gaming, and the metaverse through the ApeCoin DAO and ApeChain. With $1.4B in TVL, community-driven governance, and integrations like Glyph, APE drives cultural innovation. Despite governance debates.
