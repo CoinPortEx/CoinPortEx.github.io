@@ -1,42 +1,43 @@
-﻿
+# What Is Pepe (PEPE)?
 
+**Pepe (PEPE)**, launched in April 2023, is a deflationary memecoin on the Ethereum blockchain, inspired by the iconic Pepe the Frog internet meme created by Matt Furie. Designed as a community-driven token with no intrinsic utility, [PEPE](https://www.pepe.vip/) emphasizes simplicity, humor, and meme culture, competing with memecoins like Dogecoin and Shiba Inu. 
 
+## Key Features
+- **No Transaction Taxes**: PEPE transactions incur no fees, enhancing accessibility for trading.
+- **Community-Driven**: Focuses on fostering an engaged community via social platforms like Twitter, with over 3M mentions since launch.
+- **Token Burning**: Regular burns reduce the total supply, aiming to increase scarcity and potential value.
+- **Ecosystem**: Trades on 126+ exchanges (e.g., Binance, OKX) and 217+ markets, with support for wallets like MetaMask.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### What Is PEPE?
-PEPE is a deflationary memecoin launched on Ethereum. The cryptocurrency was created as a tribute to the Pepe the Frog internet meme, created by Matt Furie, which gained popularity in the early 2000s.
-The project aims to capitalize on the popularity of meme coins, like Shiba Inu and Dogecoin, and strives to establish itself as one of the top meme-based cryptocurrencies. PEPE appeals to the cryptocurrency community by instituting a no-tax policy, a redistributive system rewarding long-term stakers, and a burning mechanism to maintain scarcity of the PEPE coin.
-The PEPE roadmap features three phases, where phase one includes listing on CoinMarketCap, and getting $PEPE trending on Twitter, while phase two includes listing on centralized exchanges (CEXs) and phase three includes “tier 1” exchange listings and what the team terms a “meme takeover.”
+## PEPE Token
+- **Purpose**: Used for trading, community engagement, and speculative investment, with no formal utility.
+- **Supply**: ~420.69T PEPE in circulation, with a maximum supply of 420.69T. 93.1% is in Uniswap liquidity pools (LP tokens burned), and 6.9% is held in a multi-sig wallet for future listings.
+- **Contract Address**: On Ethereum, PEPE’s contract is `0x6982508145454ce325ddbe47a25d4ec3d2311933` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/pepe) [CMC](https://coinmarketcap.com/currencies/pepe/).
 
 ## Who Are the Founders of PEPE?
-As of now, the founders of PEPE remain anonymous, which is not uncommon in the cryptocurrency world. Although information about the team behind the project is scarce, they have successfully garnered attention using social media platforms such as Twitter to promote their meme coin and foster a community around the memecoin.
+
+Pepe’s founders remain anonymous, a common practice in memecoin projects. Launched without a premine or ICO, the project relies on community momentum and social media promotion, particularly on Twitter, to drive adoption. No formal team or roadmap exists, aligning with its "useless" yet entertaining ethos.
 
 ## What Makes PEPE Unique?
-PEPE presents a unique offering within the meme coin market by building upon the legacy of Pepe the Frog, a character with a longstanding and controversial history. The project's dedication to honoring this character distinguishes it from other cryptocurrencies and strengthens its appeal within the crypto community.
-The redistribution system is another unique aspect of PEPE, as it rewards long-term stakers and incentivizes users to hold the token for longer periods of time. In doing so, the project aims to promote holder incentives and increase the chances of long-term success.
-PEPE's burning mechanism further highlights its distinct nature, aiming to maintain scarcity within the market. Finally, the no-tax policy makes PEPE stand out from other cryptocurrencies. By not imposing transaction fees, the project can attract a wider audience and expand its user base.
 
-## How Many PEPE Coins Are There in Circulation?
-PEPE employs a redistribution system that rewards long-term stakers, offering them incentives to remain committed to the project. This approach encourages coin stability by rewarding users for holding the token rather than selling it quickly. Additionally, PEPE features a burning mechanism whereby a portion of the coins are permanently removed from circulation on a regular basis. This aims to maintain scarcity despite the coin's 420,690,000,000,000 maximum supply.
-Of the maximum supply, 93.1% were sent to the liquidity pool on Uniswap, where LP tokens were burnt, and the deployer contract was sent to a null address. The remaining 6.9% is held in a multi-sig wallet, for future CEX listings, bridges and liquidity pools. This wallet can be tracked using the ENS name “pepecexwallet.eth.” Users can track the PEPE/WETH pair on CMC DexScan.
+Pepe stands out in Web3:
+- **Meme Culture Focus**: Leverages the universal appeal of Pepe the Frog, a meme with a controversial yet iconic history, to build community.
+- **No Utility, No Promises**: Embraces simplicity by avoiding complex use cases, distinguishing it from utility-driven tokens.
+- **Redistribution System**: Rewards long-term holders through staking incentives, promoting coin stability.
+- **Massive Liquidity**: 93.1% of tokens in Uniswap pools with burned LP tokens ensure decentralized liquidity.
+
+## PEPE Network Upgrades (2025)
+- **CEX Listings (Q1 2025)**: Expanded to Coinbase and Robinhood, increasing retail access and trading volume by 20% 
+- **Social Media Push (March 2025)**: #PEPE trending campaigns on TikTok and Reddit boosted community engagement, adding 500K followers.
+- **Burn Event (June 2025)**: Burned ~1T PEPE tokens, reducing supply by 0.24%, per community vote.
 
 ## How Is PEPE Secured?
-PEPE is an ERC-20 token on the Ethereum blockchain, which is secured by the Proof-of-Stake (PoS) consensus mechanism. Decentralized validators stake 32 ETH to process transactions and secure the network.
 
+PEPE is secured through:
+- **Ethereum PoS**: Leverages Ethereum’s Proof-of-Stake for transaction and contract security.
+- **Smart Contract Audits**: Initial audits by CertiK ensured contract integrity at launch.
+- **Liquidity Pool Security**: Burned LP tokens and a null deployer address prevent rug pulls.
+- **Community Oversight**: Decentralized community monitors development, with multi-sig wallets securing reserved tokens.
 
+## Conclusion
 
-
-
+**Pepe (PEPE)** is a leading memecoin, capitalizing on the cultural resonance of Pepe the Frog to drive community engagement. With 420.69T circulating supply, and integrations across 126+ exchanges, PEPE thrives on simplicity, no-tax transactions, and token burns. Its anonymous team, lack of utility, and focus on meme culture make it a unique, speculative asset in Web3, appealing to retail investors and meme enthusiasts.
