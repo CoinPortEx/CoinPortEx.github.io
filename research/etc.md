@@ -1,45 +1,45 @@
-﻿
+# What Is Ethereum Classic (ETC)?
+
+**Ethereum Classic (ETC)** is a decentralized, open-source blockchain platform that runs smart contracts, launched in July 2015 as the original Ethereum blockchain. Following a hard fork in July 2016 due to the DAO hack, [ETC](https://ethereumclassic.org/) emerged as the chain preserving Ethereum’s initial vision of immutability, where "code is law." Its native token, **ETC**, powers transactions and smart contract execution. 
+
+## Key Features
+- **Immutable Blockchain**: Maintains an unalterable ledger, rejecting rollbacks even after hacks, prioritizing decentralization.
+- **Smart Contracts**: Supports Ethereum’s EVM (Ethereum Virtual Machine), enabling dApps for DeFi, NFTs, and more.
+- **Proof-of-Work (PoW)**: Secured by ~300 TH/s hashrate, with miners earning ~2.56 ETC per block (reducing to 2.048 ETC in June 2024).
+- **Ecosystem**: Integrated with 273+ exchanges (e.g., Binance, Coinbase) and wallets like MetaMask.
+
+## ETC Token
+- **Purpose**: Used for transaction fees (gas), smart contract execution, and mining rewards.
+- **Supply**: ~150M ETC in circulation, with a maximum supply of 210.7M (unlike ETH’s uncapped supply).
+- **Contract Address**: Native to its own blockchain 	
+[CoinGecko](https://www.coingecko.com/en/coins/ethereum-classic) [CMC](https://coinmarketcap.com/currencies/ethereum-classic/).
 
 
+## Who Are the Founders of ETC?
 
+ETC shares Ethereum’s origins, founded by **Vitalik Buterin**, **Gavin Wood**, **Anthony Di Iorio**, and **Charles Hoskinson** in 2015. After the 2016 DAO hack (3.6M ETH stolen), the community split. ETC continued as the original chain, supported by developers and miners valuing immutability. It operates as a "do-ocracy" with no centralized governance, driven by a global developer community.
 
+## What Makes ETC Unique?
 
+ETC distinguishes itself in Web3:
+- **Immutability Commitment**: Unlike Ethereum (ETH), which forked to reverse the DAO hack, ETC upholds "code is law."
+- **PoW Security**: The largest PoW smart contract platform, avoiding Ethereum’s Proof-of-Stake shift.
+- **Sound Money**: Capped at 210.7M ETC, resembling "digital gold" with predictable issuance.
+- **Backward Compatibility**: Retains Ethereum’s original EVM, supporting early dApps, though scalability lags.
 
+## ETC Network Upgrades (2025)
+- **Spiral Upgrade (Q2 2025)**: Improved EVM performance and reduced block times to ~12 seconds for better throughput 
+- **MESS Implementation (April 2025)**: Enabled Merged Mining to enhance security by allowing dual mining with other PoW chains.
+- **Layer-2 Exploration (June 2025)**: Launched testnets for rollups to improve scalability and lower gas fees.
 
+## How Is ETC Secured?
 
+ETC’s security includes:
+- **Proof-of-Work (PoW)**: Uses Ethash algorithm with ~300 TH/s hashrate, though past 51% attacks (e.g., August 2020) highlight risks.
+- **Smart Contract Audits**: Community-driven audits ensure contract integrity.
+- **Decentralized Governance**: Community proposals and miner adoption drive upgrades.
+- **Immutable Ledger**: Permanent transactions and contracts enhance transparency.
 
+## Conclusion
 
-
-
-
-
-
-
-### Ethereum Classic (ETC)
-## What Is Ethereum Classic (ETC)?
-Ethereum Classic (ETC) is a hard fork of Ethereum (ETH) that launched in July 2016. Its main function is as a smart contract network, with the ability to host and support decentralized applications (DApps). Its native token is ETC.
-Since its launch, Ethereum Classic has sought to differentiate itself from Ethereum, with the two networks’ technical roadmap diverging further and further from each other with time.
-Ethereum Classic first set out to preserve the integrity of the existing Ethereum blockchain after a major hacking event led to the theft of 3.6 million ETH.
-
-## Who Are the Founders of Ethereum Classic?
-Ethereum Classic is in fact the legacy chain of Ethereum, and its true creators are therefore the original Ethereum developers — Vitalik Buterin and Gavin Wood.
-A contentious hard fork on Ethereum occurred in July 2016, when participants disagreed over whether to revert the blockchain to cancel out the effects of a major hack. This impacted The DAO, a decentralized autonomous organization (DAO) which had raised approximately $150 million in an initial coin offering (ICO) several months earlier.
-Ethereum Classic came into being as the network which did not revert the chain. Developers state that there is no “official” team attached to the project, and that its “global development community is a permissionless 'do-ocracy,' where anyone can participate.”
-
-## What Makes Ethereum Classic Unique?
-Ethereum Classic’s main aim is to preserve the Ethereum blockchain as it originally was, without artificially countering the DAO hack.
-Its appeal was first to those who disagreed with Ethereum’s response, but the legacy network has since gained a wider fan base, which include major investors such as Barry Silbert, CEO of investment firm Grayscale.
-As a voluntary organization, the developers of ETC do not aim to turn the network into a for-profit entity. Users pay transaction fees as with Ethereum, and miners collect them based on work done as per the proof-of-work (PoW) mining algorithm.
-Unlike Ethereum, Ethereum Classic has no plans to convert to a proof-of-stake (PoS) mining algorithm, while multiple developers continue to work on future improvements such as scaling solutions.
-
-## How Many Ethereum Classic (ETC) Coins Are There In Circulation?
-ETC began in a very similar technical state to ETH, with the exception of how the DAO hack transactions were handled.
-Since launch, however, changes in tokenomics have occurred, with participants voting to cap the supply of ETC in December 2017. The maximum supply is thus 210,700,000 ETC, roughly ten times that of Bitcoin (BTC), while ETH has no cap.
-ETC uses a PoW mining algorithm, which functions like Bitcoin — miners are rewarded with new coins for validating the blockchain in competition with each other. The ETC block reward decreases with time, with the next drop due at block 15,000,000, roughly in April 2022 — from 3.2 ETC to 2.56 ETC per block.
-
-## How Is the Ethereum Classic Network Secured?
-The Ethereum Classic network is secured using proof-of-work, but as a minority chain, it has suffered regular attacks itself.
-These include several 51% attacks to gain control of mining hashrate and execute spurious transactions and double spend coins, the most recent of which occurred in August 2020.
-
-
-
+**Ethereum Classic (ETC)** upholds blockchain purism, preserving Ethereum’s original immutable vision. With a robust PoW security, ETC supports smart contracts and dApps. Its "code is law" ethos and emerging Layer-2 solutions make it a unique Web3 platform for those prioritizing decentralization and unalterable principles.
