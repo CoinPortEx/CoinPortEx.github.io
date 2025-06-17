@@ -1,39 +1,47 @@
-﻿
+# What Is Axie Infinity (AXS)?
 
+**Axie Infinity (AXS)**, launched in November 2020, is the governance and utility token of the **Axie Infinity ecosystem**, a blockchain-based game built on the **Ronin Network**, an Ethereum-linked sidechain. Developed by Sky Mavis, [Axie](https://axieinfinity.com/) Infinity blends Pokémon-style gameplay with NFTs, allowing players to collect, breed, battle, and trade digital creatures called Axies. AXS powers governance, staking, in-game transactions, and access to features like Atia’s Legacy, with $700M in total value locked (TVL).
 
+## Key Features
+- **Play-to-Earn (P2E)**: Players earn AXS and Smooth Love Potion (SLP) through battles, quests, and tournaments.
+- **Ronin Network**: Ensures fast, low-cost transactions (~$0.01) compared to Ethereum’s gas fees.
+- **NFT Marketplace**: Players trade Axies and land plots, with a record $2.3M land sale in 2021.
+- **Ecosystem**: Includes games like Atia’s Legacy, 1.2M+ active users, and integrations with Binance and Coinbase.
 
+## AXS Token
+- **Purpose**: Used for governance voting, staking rewards, breeding Axies, and marketplace purchases.
+- **Supply**: Circulating supply of ~162 million AXS, with a max supply of 270 million.
+- **Contract Address**: On Ethereum, AXS’s contract is `0xbb0e17ef65f82ab018d8edd776e8dd940327b28b` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/axie-infinity) [CMC](https://coinmarketcap.com/currencies/axie-infinity/).
 
+# Who Are the Founders of Axie Infinity?
 
+Axie Infinity was founded in 2018 by **Sky Mavis**, led by **Trung Nguyen** (CEO) and **Aleksander Larsen** (COO). Nguyen, a former software engineer, drew inspiration from CryptoKitties to create a player-owned game economy. The team, based in Ho Chi Minh City, Vietnam, raised $485M in 2021, backed by Andreessen Horowitz (a16z) and Paradigm.
 
+# What Makes Axie Infinity Unique?
 
+Axie Infinity pioneered P2E gaming:
 
+- **Player Ownership**: Axies are NFTs, giving players true ownership and tradability.
+- **Delegation Center**: Allows guilds to lend Axies, onboarding new players via scholarships.
+- **Community Governance**: AXS holders vote on treasury spending and game updates.
+- **Cultural Impact**: Peaked at 2.7M daily players in 2021, especially in the Philippines, driving crypto adoption.
 
+# AXS Network Upgrades (2025)
 
+- **Atia’s Legacy (Q2 2025)**: Launched an Axie-based MMO, boosting engagement with preregistration open.
+- **Delegation Center (June 2025)**: Simplified Axie lending, increasing guild collaboration and player onboarding.
+- **ApeChain Integration (June 2025)**: Enabled cross-chain Axie trading via ApeChain, adding $100M in TVL.
 
+# How Is AXS Secured?
 
+Axie Infinity and AXS are secured through:
 
+- **Ronin Network**: Uses Proof-of-Authority (PoA) with 20+ validators, optimized for low-latency gaming.
+- **Ethereum Integration**: Inherits Ethereum’s Proof-of-Stake security for cross-chain assets.
+- **Smart Contract Audits**: Regular audits by firms like CertiK ensure marketplace and dApp integrity.
+- **Governance**: AXS holders vote on protocol upgrades, ensuring decentralized oversight.
 
+# Conclusion
 
-
-### Axie Infinity Shard (AXS)
-
-## What Is Axie Infinity (AXS)?
-Axie Infinity is a blockchain-based trading and battling game that is partially owned and operated by its players.
-Inspired by popular games like Pokémon and Tamagotchi, Axie Infinity allows players to collect, breed, raise, battle and trade token-based creatures known as Axies.
-These Axies can take various forms, and there are more than 500 different body parts available, including aquatic, beast, bird, bug, plant and reptile parts. Parts from each type class come in four different rarity scales: common, rare, ultra rare and legendary — and Axies can have any combination of body parts, making them highly variable and often rare and unique.
-Each Axie is a non-fungible token (NFT) with different attributes and strengths and can be entered into 3v3 battles, with the winning team earning more experience (exp) points that are used to level up an Axie's stats or evolve their body parts. These Axies can be bred together to produce new and unique offspring, which can be used or sold on the Axie marketplace.
-The Axie Infinity ecosystem also has its own unique governance token, known as Axie Infinity Shards (AXS). These are used to participate in key governance votes and will give holders a say in how funds in the Axie Community Treasury are spent.
-
-## Who Are the Founders of Axie Infinity?
-Axie Infinity was created in 2018 by Sky Mavis — a technology-focused game developer with a team primarily based in Vietnam. It was co-founded by Trung Nguyen and Aleksander Larsen.
-Trung Nguyen is the current CEO of the platform. Nguyen graduated with a BS in computer software engineering, and worked as a software engineer at Anduin Transactions prior to founding Axie Infinity.
-Former competitive gamer Aleksander Larsen is also credited as a co-founder and COO of the platform. Larsen has been working in blockchain gaming since 2017. He previously worked as the executive security officer for the Norwegian Government Security Organization and still sits as Secretary of the Board of Directors at the Blockchain Game Alliance.
-In total, the Axie Infinity team consists of 25 full-time employees — many of whom have experience with game development.
-
-## What Makes Axie Infinity Unique?
-Each Axie possesses six out of the hundreds of different potential body parts — each of which has its own battle move. This produces essentially endless variety among Axies, with most Axies having relatively weak statistics, while those with the strongest combination of body parts can have incredible stats.
-Unlike some other blockchain-based battling and breeding games, each Axie can only be bred a total of seven times to help control the population of Axies.
-Axie Infinity has its own mating hub to help players find a suitable match to breed their Axie with to stand the best chance at producing a rare or powerful offspring. It costs 0.005 ETH in addition to Small Love Potion (SLP) tokens to breed Axies.
-AXS token holders will soon be able to stake their tokens to receive regular rewards. But unlike some other stakeable assets, AXS holders will also need to vote and play to claim their rewards.
-
+**Axie Infinity (AXS)** powers a leading P2E gaming ecosystem, blending NFTs, DeFi, and community governance on the Ronin Network. With 1.2M+ active users, $700M TVL, and upgrades like Atia’s Legacy, Axie Infinity drives Web3 adoption. 
 
