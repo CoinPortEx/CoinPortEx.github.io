@@ -1,44 +1,46 @@
+# What Is BNB?
 
+**BNB**, launched in July 2017, is the native cryptocurrency of the **BNB Chain**, a high-performance Layer 1 blockchain ecosystem developed by Binance. Initially created as an ERC-20 token on Ethereum, BNB migrated to the BNB Chain (formerly Binance Smart Chain) in February 2019. [BNB](https://www.bnbchain.org/) powers transaction fees, staking, governance, and trading discounts on Binance’s centralized exchange and supports a vibrant ecosystem of dApps, DeFi, and NFTs.
 
+## Key Features
+- **High Throughput**: Processes up to 2,000 transactions per second (TPS) with ~3-second block times.
+- **Low Fees**: Average transaction cost of ~$0.03, making it a cost-effective alternative to Ethereum.
+- **EVM Compatibility**: Supports Ethereum-based tools and smart contracts, enabling dApp development.
+- **Ecosystem**: Hosts 900K+ users, with projects like PancakeSwap, Venus, and Build On BNB, and $178.3M daily DEX volume.
 
+## BNB Token
+- **Purpose**: Used for transaction fees, staking, governance, and 25% trading fee discounts on Binance.
+- **Supply**: Circulating supply of ~150 million BNB, with a max supply of 200 million (reduced via quarterly burns).
+- **Contract Address**: Native to BNB Chain (BEP-20);  [CoinGecko](https://www.coingecko.com/en/coins/bnb) [CMC](https://coinmarketcap.com/currencies/bnb/). Add to wallets like MetaMask or Trust Wallet.
 
+# Who Are the Founders of BNB?
 
+BNB was created by **Binance**, founded by **Changpeng Zhao** (CZ) and **He Yi** in 2017. Launched via an ICO raising $15M, Binance evolved into the world’s largest crypto exchange by volume. The BNB Chain is maintained by a decentralized community and the Binance Foundation, with CZ as a key figure until his 2024 resignation.
 
+# What Makes BNB Unique?
 
+BNB and the BNB Chain stand out for their versatility:
 
+- **Dual Utility**: Functions as both an exchange token (Binance) and a blockchain native token (BNB Chain).
+- **Token Burns**: Quarterly burns reduce supply, with ~50M BNB burned by June 2025, enhancing scarcity.
+- **DeFi Dominance**: Leads in DEX volume ($178.3M daily) and stablecoin MAUs (15.3M), per BNB Chain data.
+- **Regulatory Clarity**: SEC case against Binance dropped in 2025, boosting ETF filings by VanEck and others.
 
+# BNB Network Upgrades (2025)
 
+- **Maxwell Hard Fork (Q2 2025)**: Improved finality and efficiency, doubling transaction capacity to 4,000 TPS.
+- **AI Integration (March 2025)**: Added AI-driven dApps via BNB Agents, enhancing smart contract functionality.
+- **Spot ETF Filings (June 2025)**: VanEck’s BNB ETF proposal increased institutional interest, with $470M in 24-hour volume.
 
+# How Is BNB Secured?
 
+BNB and the BNB Chain are secured through:
 
+- **Proof-of-Staked-Authority (PoSA)**: 21 validators stake BNB to secure the network, balancing speed and decentralization.
+- **Validator Diversity**: Community-elected validators, with slashing for malicious behavior.
+- **Smart Contract Audits**: Regular audits by firms like CertiK ensure dApp and protocol safety.
+- **Governance**: BNB holders vote on protocol upgrades, fostering decentralized decision-making.
 
+# Conclusion
 
-
-
-### Binance Coin (BNB)
-BNB Coin is a crypto token that functions on the Binance Exchange and allows users to get discounted trading fees on that exchange ecosystem.
-
-## What Is BNB?
-Launched in July 2017, Binance is the biggest cryptocurrency exchange globally based on daily trading volume. Binance aims to bring cryptocurrency exchanges to the forefront of financial activity globally. The idea behind Binance’s name is to show this new paradigm in global finance — Binary Finance, or Binance.
-Aside from being the largest cryptocurrency exchange globally, Binance has launched a whole ecosystem of functionalities for its users. The Binance network includes the Binance Chain, Binance Smart Chain, Binance Academy, Trust Wallet and Research projects, which all employ the powers of blockchain technology to bring new-age finance to the world. BNB is an integral part of the successful functioning of many of the Binance sub-projects.
-
-## Who Are the Founders of BNB?
-Changpeng Zhao is the founder and CEO of Binance. In 2001, Zhao joined Bloomberg as head of tradebook futures development. He spent four years with the company and later joined Fusion Systems as a partner.
-Since 2013, Changpeng Zhao has been actively involved with blockchain technology and cryptocurrencies. He became head of development at Blockchain, and in 2015 he founded BijieTech. In 2017, Zhao officially launched Binance, and he has been the CEO of the company ever since.
-He Yi is a co-founder and chief marketing officer at Binance. She started her career as a TV anchor and presenter on China Travel TV in 2012. Later, in 2014, Yi co-founded OKCoin, which was the largest fiat-to-crypto exchange in China at the time. In 2017, she joined forces with Changpeng Zhao, and together they created the largest crypto exchange globally — Binance.
-
-## What Makes BNB Unique?
-Binance is a unique ecosystem of decentralized, blockchain-based networks. The company has grown to be the leading crypto exchange in a number of countries, and their side organizations are attracting significant interest as well.
-One of the biggest competitive advantages Binance has is its drive for development. While the company started only as a crypto exchange back in 2017, today, Binance has spread its services among numerous different spheres. According to the company website, its mission is to become the infrastructure services provider for the entire blockchain ecosystem.
-Since launching the BNB, the exchange has also benefited from increased investor interest in the coin. BNB went through a significant price increase at the beginning of 2021, which has put it on the map of enterprise investors.
-Measures like BEP-95 have upgraded the already deflationary tokenomics to make BNB even more deflationary. Following the proposal, gas fees on Binance Smart Chain have become even lower, as the network burns a part of the fees to decentralize further. The proposal was modeled after Ethereum's famous EIP-1559.
-This has helped Binance overcome several exploits of protocols on BSC, such as a $200M exploit of Pancake Bunny and several hacks of Cream Finance. Despite these hacks, users return to Binance for its low fees and the abundance of lucrative meme coins in its ecosystem.
-
-## What Is BNB’s Auto Burn?
-Within the crypto industry, a coin burn is a deflationary mechanism that is used to permanently remove coins from circulation. Most cryptocurrency projects, including Binance, periodically burn coins to sustain the value of their digital asset and create a deflationary effect.
-In the case of Binance, the crypto exchange began the program in late 2017 and has so far burned over 38 million tokens via its quarterly burn to date. The crypto exchange has in mind to destroy up to 100 million BNB tokens through its quarterly burns, accounting for 50% of its circulating supply.
-BNB utilizes two coin-burning mechanisms. The first mechanism consists of burning a portion of the tokens spent on transaction fees on the BNB Chain, and the second is its quarterly BNB burning events.
-Previously, the quarterly burn event was based on revenue generated from the Binance centralized exchange. But under the new BNB Auto-Burn program, the number of tokens to be burned is calculated using a formula based on the total number of blocks produced on the Binance Smart Chain and BNB's average dollar-denominated price during the quarter.
-As of July 2022, Binance had completed 20 BNB coin burn events. In total, 38,683,447.66 BNB tokens have been destroyed, reducing its initial 200M supply by 19.34%.
-
-
+**BNB** powers the BNB Chain, a leading Layer 1 blockchain for DeFi, NFTs, and dApps, with low fees and high scalability. Its dual role as an exchange and blockchain token, combined with quarterly burns, AI integrations, and ETF momentum, positions BNB as a cornerstone of the $3.5T crypto market. With 565M addresses and growing institutional adoption, BNB drives Web3 innovation.
