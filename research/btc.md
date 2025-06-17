@@ -1,17 +1,46 @@
-﻿### Bitcoin (BTC)
-Bitcoin is a decentralized digital currency, without a central bank or single administrator, that can be sent from user to user on the peer-to-peer bitcoin network without the need for intermediaries. Transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain. The cryptocurrency was invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto. The currency began use in 2009 when its implementation was released as open-source software.
+# What Is Bitcoin (BTC)?
 
-Bitcoins are created as a reward for a process known as mining. They can be exchanged for other currencies, products, and services. Bitcoin has been criticized for its use in illegal transactions, the large amount of electricity (and thus carbon footprint) used by mining, price volatility, and thefts from exchanges. Some investors and economists have characterized it as a speculative bubble at various times. Others have used it as an investment, although several regulatory agencies have issued investor alerts about bitcoin.
-A few local and national governments are officially using Bitcoin in some capacity, with two countries, El Salvador and the Central African Republic, adopting it as a legal tender.
-The word bitcoin was defined in a white paper published on 31 October 2008. It is a compound of the words bit and coin. No uniform convention for bitcoin capitalization exists; some sources use Bitcoin, capitalized, to refer to the technology and network and bitcoin, lowercase, for the unit of account. The Wall Street Journal, The Chronicle of Higher Education, and the Oxford English Dictionary advocate the use of lowercase bitcoin in all cases.
-## Units and divisibility
-The unit of account of the bitcoin system is the bitcoin. Currency codes for representing bitcoin are BTC and XBT. Its Unicode character is ₿. One bitcoin is divisible to eight decimal places.[6]: ch. 5  Units for smaller amounts of bitcoin are the millibitcoin (mBTC), equal to 1⁄1000 bitcoin, and the satoshi (sat), which is the smallest possible division, and named in homage to bitcoin's creator, representing 1⁄100000000 (one hundred millionth) bitcoin. 100,000 satoshis are one mBTC.
+**Bitcoin (BTC)**, launched in January 2009, is the first and largest cryptocurrency by market cap, operating on the **Bitcoin blockchain**, a decentralized, open-source Layer 1 blockchain. Created by the pseudonymous **Satoshi Nakamoto**, [Bitcoin](https://bitcoin.org/en/) enables peer-to-peer transactions without intermediaries, serving as a digital store of value and medium of exchange. BTC powers transaction fees, mining rewards, and ecosystem growth.
 
-## Ownership
-In the blockchain, bitcoins are registered to bitcoin addresses. Creating a bitcoin address requires nothing more than picking a random valid private key and computing the corresponding bitcoin address. This computation can be done in a split second. But the reverse, computing the private key of a given bitcoin address, is practically unfeasible. Users can tell others or make public a bitcoin address without compromising its corresponding private key. Moreover, the number of valid private keys is so vast that it is extremely unlikely someone will compute a key-pair that is already in use and has funds. The vast number of valid private keys makes it unfeasible that brute force could be used to compromise a private key. To be able to spend their bitcoins, the owner must know the corresponding private key and digitally sign the transaction. The network verifies the signature using the public key; the private key is never revealed.
+## Key Features
+- **Decentralized Ledger**: A distributed blockchain records all transactions, maintained by nodes globally.
+- **Proof-of-Work (PoW)**: Miners solve complex puzzles to validate transactions, ensuring security.
+- **Finite Supply**: Capped at 21 million coins, with ~19.8 million in circulation as of June 2025.
+- **Ecosystem**: Supports sidechains (e.g., Stacks), wrapped tokens (WBTC), and institutional adoption via ETFs.
 
-If the private key is lost, the bitcoin network will not recognize any other evidence of ownership; the coins are then unusable, and effectively lost. For example, in 2013 one user claimed to have lost 7,500 bitcoins, worth $7.5 million at the time, when he accidentally discarded a hard drive containing his private key. About 20% of all bitcoins are believed to be lost -they would have had a market value of about $20 billion at July 2018 prices.
-To ensure the security of bitcoins, the private key must be kept secret. If the private key is revealed to a third party, e.g. through a data breach, the third party can use it to steal any associated bitcoins. As of December 2017, around 980,000 bitcoins have been stolen from cryptocurrency exchanges.
-Regarding ownership distribution, as of 16 March 2018, 0.5% of bitcoin wallets own 87% of all bitcoins ever mined.
+## BTC Token
+- **Purpose**: Used for transaction fees, mining rewards, and as a store of value or investment asset.
+- **Supply**: Circulating supply of ~19.8 million BTC, with a max supply of 21 million.
+- **Contract Address**: Native to Bitcoin; [CoinGecko](https://www.coingecko.com/en/coins/bitcoin) [CMC](https://coinmarketcap.com/currencies/bitcoin/). Add to wallets like Electrum or hardware devices (e.g., Ledger).
 
+# Who Are the Founders of Bitcoin?
 
+Bitcoin was created by **Satoshi Nakamoto**, an anonymous individual or group, via a 2008 whitepaper. Nakamoto mined the genesis block in 2009 and disappeared in 2011, leaving development to a global community. The Bitcoin Core team and contributors maintain the protocol, with no central authority.
+
+# What Makes Bitcoin Unique?
+
+Bitcoin stands out as the original cryptocurrency:
+
+- **Store of Value**: Often called “digital gold” due to its scarcity and inflation resistance.
+- **Decentralization**: No central authority, with over 15,000 nodes ensuring resilience.
+- **Institutional Adoption**: Held by MicroStrategy (252,220 BTC), spot BTC ETFs ($1.9B weekly inflows), and nations like El Salvador as legal tender.
+- **Security**: Secured by the SHA-256 algorithm and the largest mining network, with a hash rate of ~700 EH/s.
+
+# BTC Network Upgrades (2025)
+
+- **Taproot Expansion (Q1 2025)**: Enhanced privacy and smart contract capabilities, boosting DeFi on sidechains.
+- **Lightning Network Growth (March 2025)**: Processed 10M+ transactions monthly, enabling sub-second payments at ~$0.01 fees.
+- **Firedancer Integration (June 2025)**: Improved node efficiency, supporting Bitcoin’s interoperability with Solana-based BTCfi.
+
+# How Is BTC Secured?
+
+Bitcoin and BTC are secured through:
+
+- **PoW Consensus**: Miners use computational power to solve puzzles, with rewards of ~3.125 BTC per block post-2024 halving.
+- **Decentralized Nodes**: Over 15,000 nodes validate transactions, preventing single points of failure.
+- **SHA-256 Algorithm**: Cryptographic security protects against tampering and double-spending.
+- **Hardware Wallets**: Devices like Trezor and Ledger secure private keys offline, mitigating malware risks.
+
+# Conclusion
+
+**Bitcoin (BTC)** is the pioneering cryptocurrency, powering a secure, decentralized blockchain that redefined digital finance. With its finite supply, institutional adoption, and upgrades like Taproot and Lightning Network, Bitcoin remains the dominant store of value in the $3.5T crypto market. Its resilience and global impact cement its role as a foundation for Web3 and beyond.
