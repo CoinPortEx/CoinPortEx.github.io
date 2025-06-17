@@ -1,55 +1,43 @@
-﻿
+# What Is Synthetix (SNX)?
 
+**Synthetix (SNX)**, launched in September 2017 as Havven and rebranded in 2018, [Synthetix](https://www.synthetix.io/) is a decentralized protocol on Ethereum and Optimism for issuing and trading synthetic assets (Synths) that track real-world assets like currencies, commodities, and cryptocurrencies. SNX token holders stake their tokens to provide liquidity and earn rewards. 
 
+## Key Features
+- **Synthetic Assets (Synths)**: Synths (e.g., sUSD, sBTC) mirror asset prices without direct ownership, using oracles for real-time data.
+- **Decentralized Perps**: Offers perpetual futures with off-chain oracles, powering platforms like Kwenta and Lyra.
+- **Multi-Chain Support**: Operates on Ethereum and Optimism, with plans to sunset Base support in 2025.
+- **Ecosystem**: Trades on 260+ exchanges (e.g., Binance, Kraken) and integrates with 177+ markets and wallets like MetaMask.
 
+## SNX Token
+- **Purpose**: Used for staking, governance, and collateralizing Synths, with stakers earning fees from protocol activity.
+- **Supply**: ~343M SNX in circulation, with a maximum supply of 343M (fully diluted as of February 2021).
+- **Contract Address**: On Ethereum, SNX’s contract is `0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/synthetix-network-token) [CMC](https://coinmarketcap.com/currencies/synthetix/).
 
+## Who Are the Founders of SNX?
 
+Synthetix was founded by **Kain Warwick**, with key contributions from **Justin Moses** (CTO) and **Jordan Momtazi**. Launched via a $30M ICO in 2017, the project transitioned to a decentralized model on Optimism to reduce gas fees. Backed by investors like Paradigm and Coinbase Ventures, Synthetix is governed by a community DAO.
 
+## What Makes SNX Unique?
 
+Synthetix stands out in Web3:
+- **Deep Liquidity**: Provides backend liquidity for DeFi protocols like Kwenta, Lyra, and Polynomial, with ~$54M annualized revenue.
+- **Decentralized Derivatives**: Enables permissionless futures and options trading, competing with centralized exchanges.
+- **Deflationary Shift**: Ended token inflation in December 2023, adopting a buy-and-burn model.
+- **Cross-Chain Synths**: Supports assets across Polygon, Avalanche, and Fantom, though scaling challenges persist.
 
+## SNX Network Upgrades (2025)
+- **Perps V3 (Q1 2025)**: Enhanced perpetual futures with lower fees and improved oracle latency.
+- **Infinex Launch (March 2025)**: Introduced a decentralized front-end mimicking CEX usability, boosting trading volume by 15%.
+- **Ethereum L1 Focus (June 2025)**: Shifted from Base to Ethereum mainnet, closing Base LP vaults to prioritize scalability.
 
+## How Is SNX Secured?
 
+Synthetix and SNX are secured through:
+- **Ethereum/Optimism PoS**: Leverages Proof-of-Stake for transaction and contract security.
+- **Smart Contract Audits**: Regular audits by Trail of Bits and OpenZeppelin ensure protocol integrity.
+- **Staking Collateral**: SNX, ETH, and LUSD collateralize Synths, with over-collateralization protecting against volatility.
+- **DAO Governance**: Community-driven decisions via SNX token holders prevent centralized control.
 
+## Conclusion
 
-
-
-
-
-
-### Synthetix (SNX) 
-## What Is Synthetix (SNX)?
-Synthetix is a decentralized finance (DeFi) protocol that provides on-chain exposure to a wide variety of crypto and non-crypto assets. The protocol is based on the Ethereum (ETH) blockchain and offers users access to highly liquid synthetic assets (synths). Synths track and provide returns on the underlying asset without requiring one to directly hold the asset.
-The platform aims to broaden the cryptocurrency space by introducing non-blockchain assets, providing access to a more robust financial market.
-
-## Who Are the Founders of Synthetix?
-The network was launched in September 2017 by Kain Warwick under the name Havven (HAV). About a year later the company rebranded to Synthetix.
-Kain Warwick is the founder of Synthetix and a non-executive director at the blueshyft retail network. Prior to founding Synthetix, Warwick has worked on several other cryptocurrency projects. He also founded Pouncer, a live auction site exclusive to Australia.
-Peter McKean, the project’s CEO, has over two decades of experience in software development. He previously worked as a programmer at ICL Fujitsu.
-Jordan Momtazi, the COO of Synthetix, is a business strategist, market analyst and sales leader with several years of experience in blockchain, cryptocurrency, digital payments and e-commerce systems.
-Justin J. Moses, the CTO, was the former director of engineering at MongoDB and deputy practice head of engineering at Lab49. He also co-founded Pouncer.
-
-## What Makes Synthetix Unique?
-Synthetix is a decentralized exchange (DEX) and a platform for synthetic assets. The protocol is designed in a way that exposes users to the underlying assets via synths, without having to hold the underlying asset.
-The platform allows users to autonomously trade and exchange synths. It also has a staking pool where holders can stake their SNX tokens and are rewarded with a share of the transaction fees on the Synthetix Exchange.
-The platform tracks the underlying assets using smart contract price delivery protocols called oracles. Synthetix allows users to trade synths seamlessly, without liquidity/slippage issues. It also eliminates the need for third-party facilitators.
-SNX tokens are used as collateral for the synthetic assets that are minted. This means that whenever synths are issued, SNX tokens are locked up in a smart contract.
-Since launch, the protocol has transitioned to the Optimistic Ethereum mainnet to help reduce the gas fees on the network and lower oracle latency.
-
-## How Many Synthetix (SNX) Coins Are There in Circulation?
-The maximum supply of SNX is 212,424,133 coins, of which 114,841,533 SNX is in circulation as of February 2021.
-At the seed round and token sale stages, Synthetix sold more than 60 million tokens and was able to raise $30 million. Of the total 100,000,000 coins issued during the ICO, 20% was allocated to the team and advisors, 3% to bounties and marketing incentives, 5% to partnership incentives and 12% to the foundation.
-
-## How Is the Synthetix Network Secured?
-The SNX token is compatible with Ethereum’s ERC20 standard. The Synthetix network is secured through proof-of-stake (PoS) consensus. Synthetix holders stake their SNX and earn returns from the network fees.
-Another way for SNX stakers to earn rewards is via the protocol’s inflationary monetary policy, known as staking rewards.
-
-
-
-
-
-
-
-
-
-
-
+**Synthetix (SNX)** is a cornerstone of DeFi, enabling synthetic assets and decentralized derivatives. Its liquidity powers protocols like Kwenta and Lyra, while upgrades like Perps V3 and Infinex enhance usability. Despite challenges with multi-chain scaling, Synthetix’s deflationary model and focus on Ethereum position it as a leader in Web3 derivatives, appealing to DeFi innovators and traders.
