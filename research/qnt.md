@@ -1,40 +1,43 @@
+# What Is Quant (QNT)?
 
+**Quant (QNT)**, launched in June 2018, is an Ethereum-based project addressing blockchain interoperability through its **Overledger** operating system. Developed by [Quant](https://quant.network/) Network, Overledger enables seamless communication between blockchains and legacy systems, fostering multi-chain applications (MApps). The native token, **QNT**, facilitates access to Overledger and governance. 
 
-  
+## Key Features
+- **Interoperability**: Overledger connects blockchains (e.g., Ethereum, Bitcoin) and non-blockchain networks, enabling cross-chain data and asset transfers.
+- **Multi-Chain Applications (MApps)**: Developers use QNT to build MApps, supporting use cases in finance, healthcare, and supply chains.
+- **Enterprise Focus**: Partners with institutions like Oracle and LACChain, targeting $20T financial markets.
+- **Ecosystem**: QNT trades on 135+ exchanges (e.g., Binance, Coinbase) and integrates with wallets like MetaMask.
 
+## QNT Token
+- **Purpose**: Used for licensing Overledger access, transaction fees, and governance voting.
+- **Supply**: ~12M QNT in circulation, with a maximum supply of 14.88M.
+- **Contract Address**: On Ethereum, QNT’s contract is `0x4a220e6096b25eadb88358cb44068a3248254675` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/quant) [CMC](https://coinmarketcap.com/currencies/quant/).
 
+## Who Are the Founders of QNT?
 
+Quant was founded by **Gilbert Verdian**, who conceived Overledger while working in healthcare cybersecurity. Verdian, with 20+ years in security (e.g., Vocalink, NSW Ambulance), partnered with **Colin Paterson** (CTO) and others to launch Quant Network in London. The project raised $11M via a 2018 ICO, with no further funding rounds.
 
+## What Makes QNT Unique?
 
+Quant stands out in Web3:
+- **First Blockchain OS**: Overledger acts as an agnostic gateway, connecting blockchains without requiring new protocols, unlike Polkadot or Chainlink.
+- **Enterprise Adoption**: Partnerships with SIA and Oracle position Quant for institutional use, with Overledger handling 10M+ transactions annually.
+- **Patented Technology**: Fully patented APIs ensure compliance with global standards bodies.
+- **Layer-2.5 Potential**: Recent updates like Overledger Fusion (June 2025) introduced hybrid interoperability for public and private chains.
 
+## QNT Network Upgrades (2025)
+- **Overledger Fusion (Q2 2025)**: Launched “Layer-2.5” network, enhancing public blockchain access for institutions and DeFi.
+- **Quant Money Flow (March 2025)**: Enabled tokenized payments for cross-chain financial settlements, processing $500M in testnet volume.
+- **Wormhole Integration (June 2025)**: Added cross-chain token transfers via Wormhole, boosting interoperability.
 
+## How Is QNT Secured?
 
+QNT and Quant are secured through:
+- **Ethereum PoS**: Leverages Ethereum’s Proof-of-Stake for token security.
+- **Smart Contract Audits**: Regular audits by firms like Trail of Bits ensure Overledger’s integrity.
+- **Enterprise-Grade Security**: APIs comply with ISO 27001 and GDPR standards, critical for institutional partners.
+- **Staking Requirements**: Developers stake QNT for MApp access, aligning incentives with network reliability.
 
+## Conclusion
 
-
-
-
-
-### Quant (QNT)
-
-## What Is Quant (QNT)?
-Quant launched in June 2018 with the goal of connecting blockchains and networks on a global scale, without reducing the efficiency and interoperability of the network. It is the first project to solve the interoperability problem through the creation of the first blockchain operating system.
-The project is built as an operating system distributed ledger technology— and Overledger Network — for connecting different blockchain networks. The project is billed as the first OS to be built for blockchains.
-The main aim of Quant — using Overledger — is to bridge the gap that exists between different blockchains. The backbone of the project is the Overledger network, which Quant bills as the ecosystem on which the future digital economy ecosystem will be built.
-Overledger allows developers to build decentralized multi-chain applications (known as MApps) for their customers. For developers to build a Mapp on the network, they must hold a certain amount of Quant tokens (QNT).
-
-## Who Are the Founders of Quant?
-Gilbert Verdian, one of the founders of the Quant network, had the idea for the blockchain project while he was working in the healthcare sector. Verdian identified the importance of interoperability in ensuring that patients registered on different platforms are covered.
-Verdian has over 20 years of industry experience in upgrading the security, technology and business strategies of businesses around the globe in order to achieve tangible results.
-Prior to the Quant Network, Verdian served as the chief information security officer (CISO) of Vocalink, a Mastercard card company, the chief information officer of NSW Ambulance, the CISO of eHealth NSW, and the security lead of the Ministry of Justice, UK.
-The second co-founder, Dr Paolo Tasca, is an entrepreneur, digital economist who specializes in distributed systems. Dr. Tasca has served as the special advisor on blockchain technologies for the EU Parliament, the United Nations and numerous central banks worldwide.
-He is also co-author of several books on fintech and is the co-founder and governing board chair of Retail Blockchain Consortium.
-
-## What Makes Quant Unique?
-Since the introduction of blockchain and the distributed ledger technology, innovators have found use cases in almost every known industry. However, there has been the problem of seamless interoperability between these projects. Quant was created to be the missing link between the “different” blockchains.
-Quant’s operating system, Overledger, was designed to act as a gateway for any blockchain-based project to access all other blockchains. It also works in connecting an application to other applications in the same blockchain ecosystem, like Ethereum.
-More than multiple blockchain interactions, Quant creates different layers for apps to interact at different levels. Quant has different layers for transactions, messaging, filtering and ordering, and an application for sharing and referencing identical messages related to other applications.
-The Quant App Store has the ability to read and monitor transactions across multiple ledgers. Using Overledger, developers write smart contracts across a wide variety of chains including those that don’t support them — such as Bitcoin. Developers can also use the store to create and release multi-chain applications (MApps).
-
-
-
+**Quant (QNT)** pioneers blockchain interoperability with Overledger, connecting diverse networks for finance, healthcare, and beyond. With a 12M circulating supply, and 135+ exchange listings, Quant drives enterprise-grade Web3 solutions. Its patented technology, recent upgrades like Overledger Fusion, and institutional partnerships make it a unique force in blockchain innovation.
