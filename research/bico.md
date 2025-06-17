@@ -1,48 +1,46 @@
+# What Is Biconomy (BICO)?
 
+**Biconomy (BICO)**, launched in December 2021, is the native governance and utility token of the **Biconomy protocol**, a multichain relayer infrastructure on the **Ethereum blockchain** and 20+ EVM-compatible chains like Polygon, BNB Chain, and Blast. Founded by Biconomy Labs, it simplifies Web3 user experiences by enabling gasless transactions, social logins, and cross-chain interactions. [BICO](https://www.biconomy.io/) powers transaction fees, staking, governance, and developer incentives, with $520M in total value processed.
 
+## Key Features
+- **Gasless Transactions**: Meta-transactions allow users to interact with dApps without paying gas fees upfront.
+- **Multichain Support**: Operates on 20+ chains, processing 50K daily transactions for 40+ dApps like Curve Finance.
+- **Account Abstraction (AA)**: Enables social logins and one-click interactions, onboarding non-crypto users.
+- **Ecosystem**: Integrates with dApps like Decentral Games and Sapien Network, with 28K MetaMask accounts.
 
+## BICO Token
+- **Purpose**: Used for network fees, staking, governance voting, and rewarding node operators.
+- **Supply**: Circulating supply of ~960 million BICO, with a max supply of 1 billion.
+- **Contract Address**: On Ethereum, BICO’s contract is `0xf17e65822b568b3903685a7c9f496cf7656cc6c2` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/biconomy) [CMC](https://coinmarketcap.com/currencies/biconomy/).
 
+# Who Are the Founders of Biconomy?
 
+Biconomy was founded in 2019 by **Ahmed Al-Balaghi**, **Sachin Tomar**, and **Aniket Jindal**. Al-Balaghi, CEO, previously worked at Binance and Viewfin. Backed by Coinbase Ventures, Binance Launchpad, and Mechanism Capital, Biconomy raised $9M in 2021 via a public sale on CoinList. The team aims to make Web3 as intuitive as Web2.
 
+# What Makes Biconomy Unique?
 
+Biconomy simplifies Web3 adoption:
 
+- **Meta-Transactions**: Users pay gas in any ERC-20 token or none, with third parties covering fees.
+- **Gas Optimization**: Reduces gas costs by up to 40%, enhancing dApp usability.
+- **Cross-Chain Relayer**: Supports seamless interactions across chains via Khalani and ApeChain integrations.
+- **Developer-Friendly**: SDKs enable dApps to abstract Web3 complexities with minimal code.
 
+# BICO Network Upgrades (2025)
 
+- **HyperSignals Launch (June 2025)**: Gave BICO stakers (500+ BICO) early access to elite trader insights on Hyperliquid.
+- **Blast Integration (Q1 2025)**: Processed $360M (69% of $520M total value), boosting multichain adoption.
+- **Boomerang Protocol (March 2025)**: Enabled decentralized incentives, increasing dApp engagement by 15%.
 
+# How Is BICO Secured?
 
+Biconomy and BICO are secured through:
 
+- **Ethereum PoS**: Leverages Ethereum’s Proof-of-Stake for transaction and smart contract security.
+- **Non-Custodial Design**: Users retain private keys, ensuring trustless meta-transactions.
+- **Smart Contract Audits**: Regular audits by firms like CertiK protect relayer and dApp integrity.
+- **Governance**: BICO holders vote on protocol upgrades, ensuring decentralized control.
 
+# Conclusion
 
-
-
-### Biconomy (BICO)
-## What Is Biconomy (BICO)?
-
-<ul>Biconomy is a multichain relayer protocol that aims to improve the user onboarding and transaction experience on decentralized applications (DApps). The project’s declared goal is to make web3 products as intuitive and easy to use as web2 products. Biconomy offers an infrastructure to solve several web3 bottlenecks:
-<li>Protocols can onboard users without paying gas fees.</li>
-<li>Users can pay gas in an ERC-20 token of their choice.</li>
-<li>Users avoid blockchain complexities like a change of network.</li>
-<li>Transactions are confirmed much faster.</li>
-</ul>
-Biconomy focuses on transaction management and gas optimization and can reduce gas costs by up to 40%. To achieve that, the protocol utilizes meta transactions, allowing users to submit a transaction with zero gas and having a third party pay for the transaction fees for the user. By providing a non-custodial and gas-efficient relayer infrastructure network, Biconomy is able to do this at scale.
-
-## Who Are the Founders of Biconomy?
-Biconomy was founded by an international team of blockchain entrepreneurs. Ahmed Al-Balaghi, one of the project’s co-founders and a Queen Mary University alumnus, has spent over three years in the blockchain industry in China, the UK, and the United Arab Emirates and previously worked for Viewfin, a leading Chinese blockchain company. The other two co-founders are Indian blockchain entrepreneurs Sachin Tomar, who has a background in software engineering, and Aniket Jindal, who previously worked for blockchain projects in the UAE.
-
-Biconomy is also backed by several reputed blockchain venture capitalists such as Coinbase Ventures, Binance Launchpad, Mechanism Capital, Huobi Ventures and several others.
-
-## What Makes Biconomy Unique?
-Biconomy offers a unique solution to a common problem in the blockchain space. For several reasons, interactions with decentralized applications are nowhere near as seamless as for web2 applications. For instance, web3 applications require gas fees, but there is no equivalent of paying a usage fee for web2 applications. Gas fees on the Ethereum network are always paid in ETH, although users may not want to spend their Ether. Moreover, onboarding new users can be complex due to the required proficiency in using web wallets, signing transactions, and understanding the intricacies of gas.
-
-<ul>Biconomy solves this with its relayer infrastructure network that is already being used by several protocols:
-<li>Curve Finance is using Biconomy to do meta transactions to do gasless BTC deposits. In this case, users can deploy their idle BTC to provide liquidity without paying gas to swap them for RENBTC.</li>
-<li>Perpetual Protocol offers gasless transactions to its traders on the xDAI chain thanks to Biconomy. Users also enjoy blockchain agnostic transactions because there is no need to change the RPC url in their web wallet.</li>
-<li>Decentral Games provides a seamless gaming experience to its users by removing gas fees with the help of Biconomy. Players just receive the in-game currency and do not need to hold MATIC for transactions on the Polygon blockchain that Decentral Games uses.</li>
-<li>Sapien Network is a social blogging platform and also enables gasless transactions. New bloggers can transact SPN for free on the platform.</li>
-</ul>
-
-How Is Biconomy Secured?
-Biconomy is an ERC-20 token launched on the Ethereum blockchain. As a result, it is secured by Ethereum’s proof-of-work (POW) consensus mechanism.
-
-
-
+**Biconomy (BICO)** powers a multichain relayer protocol, simplifying Web3 with gasless transactions, account abstraction, and cross-chain support. With $520M processed, 28K MetaMask accounts, and upgrades like HyperSignals, Biconomy drives DeFi and dApp adoption. 
