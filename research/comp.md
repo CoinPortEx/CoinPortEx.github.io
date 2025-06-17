@@ -1,35 +1,46 @@
-﻿
+# What Is Compound (COMP)?
 
+**Compound (COMP)**, launched in September 2018, is the governance token of the **Compound protocol**, a decentralized lending and borrowing platform on the **Ethereum blockchain**. Founded by Compound Labs, it enables users to lend or borrow 20+ cryptocurrencies, algorithmically setting interest rates based on supply and demand. [COMP](https://compound.finance/) empowers governance, staking, and yield farming, with $3B in total value locked (TVL) across its ecosystem.
 
+## Key Features
+- **Decentralized Lending**: Users deposit assets to earn interest or borrow against collateral, with rates adjusting dynamically.
+- **cTokens**: Depositors receive cTokens (e.g., cETH, cUSDC) that accrue interest, redeemable anytime.
+- **Cross-Chain Support**: Operates on Ethereum, with integrations on Arbitrum, Polygon, and Base.
+- **Ecosystem**: Supports DeFi projects like Curve and Aave, with 130+ exchanges and $37.9M daily volume.
 
+## COMP Token
+- **Purpose**: Used for governance voting, staking rewards, and incentivizing liquidity provision.
+- **Supply**: Circulating supply of ~9.1 million COMP, with a max supply of 10 million.
+- **Contract Address**: On Ethereum, COMP’s contract is `0xc00e94cb662c3520282e6f5717214004a7f26888` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/compound) [CMC](https://coinmarketcap.com/currencies/compound/).
 
+# Who Are the Founders of Compound?
 
+Compound was founded in 2017 by **Robert Leshner** (CEO) and **Geoffrey Hayes** (CTO), both former Postmates executives. Backed by a $25M Series A from Andreessen Horowitz (a16z) and Polychain Capital, Compound Labs launched the protocol in 2018 and COMP in 2020, kickstarting the yield farming boom. The CompoundDAO governs upgrades.
 
+# What Makes Compound Unique?
 
+Compound pioneered DeFi lending:
 
+- **Algorithmic Rates**: Interest rates adjust automatically based on market dynamics, no intermediaries needed.
+- **cToken Model**: Depositors earn interest via cTokens, which increase in value over time.
+- **Liquidation Safety**: Overcollateralized loans (50-75% LTV) are liquidated at a 5% discount if undercollateralized, protecting lenders.
+- **Governance Incentives**: COMP distribution in 2020 boosted TVL to $800M, shaping DeFi’s growth.
 
+# COMP Network Upgrades (2025)
 
+- **API3 Oracle Integration (Q2 2025)**: Adopted API3’s OEV oracles on Mantle, enhancing price accuracy for $3B TVL.
+- **Boomerang Incentives (March 2025)**: Introduced decentralized rewards, increasing lending activity by 15%.
+- **Arbitrum Expansion (June 2025)**: Reduced gas fees by 20% for cToken transactions, boosting adoption.
 
+# How Is COMP Secured?
 
+Compound and COMP are secured through:
 
+- **Ethereum PoS**: Leverages Ethereum’s Proof-of-Stake for transaction and smart contract security.
+- **Smart Contract Audits**: Regular audits by firms like Trail of Bits ensure protocol integrity.
+- **Collateralization**: Enforces overcollateralization, with liquidations protecting pool stability.
+- **CompoundDAO**: COMP holders vote on upgrades, ensuring decentralized governance.
 
+# Conclusion
 
-
-### Compound (COMP)
-## What Is Compound (COMP)?
-Compound is a DeFi lending protocol that allows users to earn interest on their cryptocurrencies by depositing them into one of several pools supported by the platform.
-When a user deposits tokens to a Compound pool, they receive cTokens in return. These cTokens represent the individual’s stake in the pool and can be used to redeem the underlying cryptocurrency initially deposited into the pool at any time. For example, by depositing ETH into a pool, you will receive cETH in return. Over time, the exchange rate of these cTokens to the underlying asset increases, which means you can redeem them for more of the underlying asset than you initially put in — this is how the interest is distributed.
-On the flip side, borrowers can take a secured loan from any Compound pool by depositing collateral. The maximum loan-to-value (LTV) ratio varies based on the collateral asset, but currently ranges from 50 to 75%. The interest rate paid varies by borrowed asset and borrowers can face automatic liquidation if their collateral falls below a specific maintenance threshold.
-Since the launch of the Compound mainnet in September 2018, the platform has skyrocketed in popularity, and recently passed more than $800 million in total locked value.
-
-## Who Are the Founders of Compound?
-Compound was founded in 2017 by Robert Leshner and Geoffrey Hayes, both of whom previously worked in high-profile roles at Postmates — an online food delivery service. The two continue to hold executive positions at Compound Labs, Inc — the software development firm behind the Compound protocol, with Leshner currently serving as CEO, while Hayes is the CTO.
-Though both founders have experience founding successful companies, Robert Leshner, in particular, has been particularly active in helping to grow the blockchain space, and has publicly invested in popular crypto platforms including Argent Wallet, Opyn, and Blockfolio.
-The Compound team now comprises over a dozen individuals — almost half of which work as engineers.
-
-## What Makes Compound Unique?
-According to Compound, the majority of cryptocurrencies sit idle on exchange platforms, doing nothing for their holders. Compound looks to change this with its open lending platform, which allows anybody who deposits supported Ethereum tokens to easily earn interest on their balance or take out a secured loan — all in a completely trustless way.
-Compound’s community governance sets it apart from other similar protocols. Holders of the platform’s native governance token — COMP — can propose changes to the protocol, debate and vote whether to implement changes suggested by others — without any involvement from the Compound team. This can include choosing which cryptocurrencies to add support for, adjusting collateralization factors, and making changes to how COMP tokens are distributed.
-These COMP tokens can be bought from third-party exchanges or can be earned by interacting with the Compound protocol, such as by depositing assets or taking out a loan.
-
-
+**Compound (COMP)** is a cornerstone of DeFi, offering decentralized lending and borrowing with dynamic rates and cToken innovation. With $3B TVL, multichain support, and upgrades like API3 oracles, it drives Web3 adoption. 
