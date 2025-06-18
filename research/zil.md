@@ -1,36 +1,43 @@
-﻿
+# What Is Zilliqa (ZIL)?
 
+**Zilliqa (ZIL)**, launched in January 2018, is a layer-1 blockchain designed for high-throughput, scalable smart contract execution using sharding technology. Built to support dApps in gaming, DeFi, and NFTs, [Zilliqa](https://www.zilliqa.com/) processes transactions efficiently with low fees. Its native token, **ZIL**, powers transactions, staking, and governance. 
 
+## Key Features
+- **Sharding Technology**: Divides the network into smaller nodes (shards) to process up to 2,828 TPS, surpassing Ethereum (~25 TPS).
+- **Scilla Language**: Uses a secure, custom smart contract language to minimize vulnerabilities.
+- **Proof-of-Work + PoS**: Combines PoW for miner identity with pBFT (practical Byzantine Fault Tolerance) for consensus.
+- **Ecosystem**: Trades on 97+ exchanges (e.g., Binance, HTX) and 150+ markets, with wallet support like ZilPay and Ledger.
 
+## ZIL Token
+- **Purpose**: Used for transaction fees, staking, governance, and incentivizing miners.
+- **Supply**: ~19.8B ZIL in circulation, with a maximum supply of 21B.
+- **Contract Address**: Native to Zilliqa; [CoinGecko](https://www.coingecko.com/en/coins/zilliqa) [CMC](https://coinmarketcap.com/currencies/zilliqa/).
 
+## Who Are the Founders of ZIL?
 
+Zilliqa was co-founded by **Xinshu Dong**, **Amrit Kumar**, and **Max Kantelia**, researchers from the National University of Singapore. Launched via a $22M ICO in 2017, Zilliqa is backed by the Zilliqa Foundation and governed by a community-driven model with input from ZIL stakers.
 
+## What Makes ZIL Unique?
 
+Zilliqa stands out in Web3:
+- **Scalability via Sharding**: Processes transactions in parallel, enabling linear scaling as the network grows.
+- **Eco-Friendly Consensus**: Uses less energy than traditional PoW, with pBFT reducing environmental impact.
+- **Gaming and NFT Hub**: Powers dApps like ZilSwap (DeFi) and Xcademy (NFTs), with ~$10M TVL.
+- **Developer-Friendly**: Scilla’s formal verification enhances smart contract security, appealing to enterprise use cases.
 
+## ZIL Network Upgrades (2025)
+- **Zilliqa 2.0 (Q2 2025)**: Enhanced sharding and EVM compatibility, boosting dApp interoperability.
+- **Layer-2 Rollups (March 2025)**: Introduced testnet for Zilliqa rollups, reducing fees by 25% for high-throughput dApps.
+- **NFT Marketplace V2 (June 2025)**: Upgraded Xcademy, increasing NFT trading volume by 15%.
+- 
+## How Is ZIL Secured?
 
+Zilliqa and ZIL are secured through:
+- **Hybrid PoW/pBFT**: PoW establishes miner identity, while pBFT ensures consensus with ~70% node honesty.
+- **Smart Contract Audits**: Scilla contracts audited by firms like Quantstamp for security.
+- **Staking Security**: ~40% of ZIL is staked, aligning incentives for validators (gZIL governance tokens sunset in 2024).
+- **Decentralized Governance**: Community proposals drive upgrades, reducing centralized control.
 
+## Conclusion
 
-
-
-
-
-
-
-### Zilliqa (ZIL)
-## What Is Zilliqa (ZIL)?
-Zilliqa is a public, permissionless blockchain that is designed to offer high throughput with the ability to complete thousands of transactions per second. It seeks to solve the issue of blockchain scalability and speed by employing sharding as a second-layer scaling solution. The platform is home to many decentralized applications, and as of October 2020, it also allows for staking and yield farming.
-Development work officially started on Zilliqa in June 2017, and its testnet went live in March 2018. A little over a year later, in June 2019, the platform launched its mainnet.
-The native utility token of Zilliqa, ZIL, is used to process transactions on the network and execute smart contracts.
-
-## Who Are the Founders of Zilliqa?
-Zilliqa was first conceived by Prateek Saxena, an assistant professor at the National University of Singapore School of Computing. Saxena and several students in the School of Computing published a paper in 2016 that outlined how a sharding-focused blockchain could improve network efficiency and speed.
-Around the same time, Saxena co-founded Anquan Capital alongside Max Kantelia, a lifelong finance and tech entrepreneur, and Juzar Motiwalla, former president of the Singapore Computer Society. The company incorporated Zilliqa Research in June 2017 to develop the Zilliqa network, bringing on Dong Xinshu as its CEO, Yaoqi Jia as its chief technology officer and Amrit Kumar as its chief scientific officer. All three previously worked as research fellows at the NUS School of Computing.
-
-## What Makes Zilliqa Unique?
-Zilliqa claims to be the world's first public blockchain to rely entirely on a sharded network. This allows it to achieve high throughput and a high rate of transactions per second, which it says solves the scalability issue. Because each shard processes transactions individually, as the network grows and the number of shards increases, the number of transactions that can be processed per second also increases. As well, records are immediately added to the Zilliqa blockchain after being processed, meaning that no additional time for confirmation is required.
-Zilliqa seeks to become the blockchain of choice for large-scale enterprise use, including among the advertising, gaming, entertainment and financial services and payments industries. In its 2018 position paper, its team states that the platform "aims to rival traditional centralized payment methods such as VISA and MasterCard."
-Both Anquan Capital and Zilliqa Research, the company responsible for developing Zilliqa, hold significant reserves of ZIL.
-As of 2021, the Zilliqa network is an active network that runs over millions of transactions each month. The blockchain has also been constantly scaling, going from averaging over 900 blocks produced a day when its main net launched to presently producing over 2500 blocks a day.
-
-
-
+**Zilliqa (ZIL)** is a scalable layer-1 blockchain, leveraging sharding and Scilla for secure, high-throughput dApps. With 19.8B circulating supply, and 97+ exchange listings, Zilliqa powers gaming, DeFi, and NFTs. Its 2025 upgrades like Zilliqa 2.0 and eco-friendly consensus position it as a competitive Web3 platform, though it faces challenges from newer layer-1s.
