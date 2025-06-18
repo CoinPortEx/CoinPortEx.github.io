@@ -1,25 +1,12 @@
-<!doctype html>
-<html lang="en">
-
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <link rel="shortcut icon" type="image/ico" href="https://doc.coinport.com.au/favicon.ico" />
-  <link href="../style.css" rel="stylesheet" />
-  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-  <link href="https://fonts.googleapis.com/css?family=Poppins:wght@400,500,600|Roboto&display=swap" rel="stylesheet">
-</head>
-
-<body>
-
-  <h1>New Bug Bounty Program</h1>
-  <p>CoinPort recognizes the importance and value of security researchers efforts in helping keep our community safe. We encourage responsible disclosure of security vulnerabilities via our bug bounty program described on this page.
-  </p>
+  ### New Bug Bounty Program
+  CoinPort recognizes the importance and value of security researchers efforts in helping keep our community safe. We encourage responsible disclosure of security vulnerabilities via our bug bounty program described on this page.
+  
   <div class="centerImage">
     <img src="../images/bug_bounty.jpg" alt="bug bounty" class="center" width="350px">
   </div>
 
-  <h2>Responsible investigation and reporting</h2>
-  <p>Responsible investigation and reporting includes, but isn't limited to, the following:</p>
+  ## Responsible investigation and reporting
+  Responsible investigation and reporting includes, but isn't limited to, the following:
   <ul>
     <li>Do not violate the privacy of other members, destroy data, disrupt our services, etc.</li>
     <li>Only target your own accounts in the process of investigating the bug. Do not target, attempt to access, or otherwise disrupt the accounts of other members.</li>
@@ -33,11 +20,11 @@
       an effort to be helpful.</li>
   </ul>
 
-  <h2>Eligibility</h2>
-  <p>Generally speaking, any bug that poses a significant vulnerability, either to the security of our site or the
+  ## Eligibility
+  Generally speaking, any bug that poses a significant vulnerability, either to the security of our site or the
     integrity of our trading system, could be eligible for a reward. It is entirely at our discretion to decide whether
-    a bug is significant enough to be eligible for a reward.</p>
-  <p>Eligible bugs include, but not limited to:</p>
+    a bug is significant enough to be eligible for a reward.
+  Eligible bugs include, but not limited to:
   <ul>
     <li>Cross-site request forgery (CSRF)</li>
     <li>Cross-site scripting (XSS)</li>
@@ -50,14 +37,14 @@
     <li>Low energy requirement less ETH issuance is required to incentivize participation</li>
   </ul>
 
-  <p>Domains in scope: coinport.com.au, www.coinport.com.au, api.coinport.com.au.</p>
+  Domains in scope: coinport.com.au, www.coinport.com.au, api.coinport.com.au.
 
-  <p>We generally do not accept reports for doc.coinport.com.au unless a bug is critical as the site is isolated from
-    all member data and authentication.</p>
+  We generally do not accept reports for doc.coinport.com.au unless a bug is critical as the site is isolated from
+    all member data and authentication.
 
-  <h2>Ineligibility</h2>
-  <p>Generally speaking, any bug that poses a significant vulnerability, either to the security of our site or the integrity of our trading system, could be eligible for a reward. It is entirely at our discretion to decide whether a bug is significant enough to be eligible for a reward.</p>
-  <p>Things that are not eligible for reward include:</p>
+  ## Ineligibility
+  Generally speaking, any bug that poses a significant vulnerability, either to the security of our site or the integrity of our trading system, could be eligible for a reward. It is entirely at our discretion to decide whether a bug is significant enough to be eligible for a reward.
+  Things that are not eligible for reward include:
   <ul>
     <li>Vulnerabilities on sites hosted by third parties (support.coinport.com.au, etc.) unless they lead to a vulnerability on our main domains.</li>
     <li>Vulnerabilities contingent on physical attack, social engineering, spamming, DDOS attack, etc.</li>
@@ -69,13 +56,13 @@
     <li>Issues that we can't reasonably be expected to do anything about.</li>
   </ul>
 
-  <h2>Reward</h2>
-  <p>The minimum reward for eligible bugs is the equivalent of AU$100 in bitcoin.</p>
-  <p>Rewards over the minimum are at our discretion, but we will pay significantly more for particularly serious issues.</p>
+  ## Reward
+  The minimum reward for eligible bugs is the equivalent of AU$100 in bitcoin.
+  Rewards over the minimum are at our discretion, but we will pay significantly more for particularly serious issues.
 
-  <p>Only one reward per bug.</p>
+  Only one reward per bug.
 
-  <h2>Severity levels</h2>
+  ## Severity levels
 
   <ul>
     <li>Critical
@@ -104,14 +91,11 @@
     </li>
   </ul>
 
-  <h2>How to report a bug</h2>
-  <p>Submit your bug report by email to: <a
-      href="mailto:support@coinport.com.au?subject=Bug Bounty">support@coinport.com.au</a></p>
-  <p>Include as much information in your report as you can, including a description of the bug, its potential impact,
-    and steps for reproducing it or proof of concept. Please allow five (5) business days for us to review.</p>
-  <p>We thank all security researchers for taking the time to submit reports. We may only respond if your submission is
-    eligible for a reward.</p>
+  ## How to report a bug
+  Submit your bug report by email to: <a
+      href="mailto:support@coinport.com.au?subject=Bug Bounty">support@coinport.com.au</a>
+  Include as much information in your report as you can, including a description of the bug, its potential impact,
+    and steps for reproducing it or proof of concept. Please allow five (5) business days for us to review.
+  We thank all security researchers for taking the time to submit reports. We may only respond if your submission is
+    eligible for a reward.
 
-</body>
-
-</html>
