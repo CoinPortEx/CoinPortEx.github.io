@@ -3,7 +3,7 @@
 ### Kent Kingsley - CEO and Founder
 An early crypto adopter and longtime enthusiast, Kent is an entrepreneur with a background in the entertainment and technology sectors. 
 
-Kent was a professional AFL footballer. A full-forward, Kent's eight-year AFL career saw him play 125 games for North Melbourne, Geelong and Richmond. During his time with Geelong, Kingsley became the side's leading goalkicker from 2002 to 2005 and was a key option up forward.
+Kent was a professional AFL footballer. A full-forward, Kent's eleven-year AFL career saw him play 125 games for North Melbourne, Geelong and Richmond. During his time with Geelong, Kingsley became the side's leading goalkicker from 2002 to 2005 and was a key option up forward.
 
 Kent's first tech startup was an eCommerce and web-design business with fellow North Melbourne AFL footballer Adam Simpson during the early 2000s dotcom boom. Since then Kent has been a successful serial-entrepreneur and business leader.
 

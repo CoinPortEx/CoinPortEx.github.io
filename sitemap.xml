@@ -1,139 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-<loc>https://blog.coinport.com.au/</loc>
+  <loc>https://blog.coinport.com.au/</loc>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2024/09/15/tensorflow.html</loc>
+  <loc>https://blog.coinport.com.au/assets/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/articles/2024/08/14/avoid-scams.html</loc>
+  <loc>https://blog.coinport.com.au/charts/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2024/08/14/code-of-conduct.html</loc>
+  <loc>https://blog.coinport.com.au/data/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2024/08/06/market-volatility.html</loc>
+  <loc>https://blog.coinport.com.au/faq/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2024/04/19/name-change-coinharbour-to-coinport.html</loc>
+  <loc>https://blog.coinport.com.au/fraud/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2024/03/25/easier-international-funds-transfer.html</loc>
+  <loc>https://blog.coinport.com.au/getting-started/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2024/03/14/ethereum-dencun-grade-delays.html</loc>
+  <loc>https://blog.coinport.com.au/jobs/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2023/11/25/ifti.html</loc>
+  <loc>https://blog.coinport.com.au/learn/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2023/11/18/ato-crypto-update.html</loc>
+  <loc>https://blog.coinport.com.au/links/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2023/09/21/listing_pyusd.html</loc>
+  <loc>https://blog.coinport.com.au/loyalty/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2023/06/22/afca.html</loc>
+  <loc>https://blog.coinport.com.au/otc/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2023/05/03/listing_atom_colt.html</loc>
+  <loc>https://blog.coinport.com.au/policies/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2023/05/01/listing_pepe.html</loc>
+  <loc>https://blog.coinport.com.au/research/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2023/03/27/listing_pepe.html</loc>
+  <loc>https://blog.coinport.com.au/reviews/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/update/2023/03/10/market-review.html</loc>
+  <loc>https://blog.coinport.com.au/search/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2023/02/08/nano-s-plus.html</loc>
+  <loc>https://blog.coinport.com.au/team/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 <url>
-<loc>https://blog.coinport.com.au/news/2023/02/03/platform-upgrade.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2023/01/01/ftx.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/12/25/seasons-greetings.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/11/22/crew3.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/11/18/discord.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/11/16/ftx_response.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/11/01/platform-upgrade.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/09/28/listing_ens.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/09/12/listing_busd_usdc.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/09/02/ethereum_pause.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/09/01/ethereum_paris_upgrade.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/08/25/asx_tokenised_assets.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/07/20/bug-bounty.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/07/19/ethereum_2_pos.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/coinport/ipdate/2022/07/19/ethereum-2-pos.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/07/18/news-listings-yfi.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/07/10/terra-luna.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/07/10/listing_ftm_nmr.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/07/08/boring-company-doge.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/07/07/eth_fees_drop.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/07/05/listing_bat_omg_zil.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/06/30/listing_cho_zrx.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/02/21/platform-maintenance.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/02/10/discord.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2022/01/03/bitcoin-address-format.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2020/11/12/system-upgrade.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2020/01/01/listing_bico_lrc_qnt.html</loc>
-</url>
-<url>
-<loc>https://blog.coinport.com.au/news/2020/01/01/template-post.html</loc>
+  <loc>https://blog.coinport.com.au/trees/</loc>
+  <lastmod>2025-06-18</lastmod>
+  <priority>0.67</priority>
 </url>
 </urlset>
