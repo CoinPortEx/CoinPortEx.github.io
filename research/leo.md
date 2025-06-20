@@ -56,6 +56,6 @@ LEO leverages the security of its host blockchains:
 
 # Conclusion
 
-**UNUS SED LEO (LEO)** is a cornerstone of the Bitfinex ecosystem, offering tangible utility through fee discounts and governance while reducing supply via burns. Its dual-blockchain design and integration with iFinex services make it a unique utility token. The Stacks LEO, while distinct, complements this by driving DeFi and NFT adoption. As of June 2025, LEO’s steady performance and Bitfinex’s growth signal potential, but investors should approach with caution due to market volatility and Bitfinex’s historical controversies.
+**UNUS SED LEO (LEO)** is a cornerstone of the Bitfinex ecosystem, offering tangible utility through fee discounts and governance while reducing supply via burns. Its dual-blockchain design and integration with iFinex services make it a unique utility token.
 
 ```
