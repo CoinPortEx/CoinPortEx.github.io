@@ -49,6 +49,14 @@ body.dark-mode p {
   color: rgba(255, 255, 255, .8) !important;
 }
 
+hr {
+  border: 0.0625rem solid #e6e6e6;
+}
+
+body.dark-mode hr  {
+  border: 0.0625rem solid #1e375f !important;
+}
+
 a {
   color: #0078F0;
   font-size: 15px;

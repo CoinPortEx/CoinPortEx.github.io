@@ -179,13 +179,5 @@ Possible reasons:
 
 ---
 
-For further assistance, **Freddie AI** is available 24/7, or you can contact our support team.  
-
-**Last Updated:** [Insert Date]  
-
-```markdown
-[Back to Top](#table-of-contents)
-```  
-
-This FAQ is structured to be comprehensive for both users and Freddie AI training. Adjust links and details as needed.
+For further assistance, **Freddie AI** is available 24/7, or you can contact our support team.
 
