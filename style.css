@@ -50,6 +50,7 @@ body.dark-mode p {
 }
 
 hr {
+  padding-top: 20px;
   border: 0.0625rem solid #e6e6e6;
 }
 
