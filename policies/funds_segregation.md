@@ -1,10 +1,10 @@
-# Coin Harbour Pty Ltd
+# CoinPort Pty Ltd
 
 ## Policy Document: Segregation of Company and Client Funds
 
 ### 1. Purpose
 
-The purpose of this policy is to ensure the proper segregation of company funds and client funds at Coin Harbour Pty Ltd (hereinafter referred to as "the Company"). This policy aims to protect client assets, maintain trust, and comply with relevant regulatory requirements.
+The purpose of this policy is to ensure the proper segregation of company funds and client funds at CoinPort Pty Ltd (hereinafter referred to as "the Company"). This policy aims to protect client assets, maintain trust, and comply with relevant regulatory requirements.
 
 ### 2. Scope
 
@@ -12,9 +12,9 @@ This policy applies to all employees, officers, and agents of the Company, and c
 
 ### 3. Definitions
 
- **Company Funds:** Financial assets owned by Coin Harbour Pty Ltd, including operational capital, profits, and any other monetary resources belonging to the Company.
+ **Company Funds:** Financial assets owned by CoinPort Pty Ltd, including operational capital, profits, and any other monetary resources belonging to the Company.
 
- **Client Funds:** Financial assets deposited by clients into their accounts with Coin Harbour Pty Ltd, including cryptocurrency holdings and fiat currency deposits.
+ **Client Funds:** Financial assets deposited by clients into their accounts with CoinPort Pty Ltd, including cryptocurrency holdings and fiat currency deposits.
 
  **Segregated Accounts:** Separate bank or digital wallets maintained to hold company funds and client funds, ensuring that there is no commingling of assets.
 
@@ -66,7 +66,7 @@ This policy shall be reviewed annually or more frequently if necessary to ensure
 
 ### 7. Approval
 
-This policy has been approved by the Board of Directors of Coin Harbour Pty Ltd and is effective as of 1st July 2022.
+This policy has been approved by the Board of Directors of CoinPort Pty Ltd and is effective as of 1st July 2022.
 
 Approved by:
 Peter Cooney
@@ -75,7 +75,7 @@ Director
 
 For any questions or clarifications regarding this policy, please contact the Compliance Officer.
 
-**Coin Harbour Pty Ltd**
+**CoinPort Pty Ltd**
 Level 2, 696 Bourke St,
 Melbourne VIC 3000
 Phone 1300 902 595
