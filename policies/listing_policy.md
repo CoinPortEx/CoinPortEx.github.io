@@ -24,7 +24,7 @@ Additionally, we conduct **periodic evaluations** of all listed assets to ensure
 
 ## 3. General Disclaimer
 
-The CoinPort Digital Asset Framework is the **intellectual property of Coin Harbour Pty Ltd.** This Framework is not, and should not be treated as, legal or financial advice. Its sole purpose is to provide general information and is presented "as is" without any representation or warranty, whether express, implied, or statutory. CoinPort reserves the right to update this Framework at any time.
+The CoinPort Digital Asset Framework is the **intellectual property of CoinPort Pty Ltd.** This Framework is not, and should not be treated as, legal or financial advice. Its sole purpose is to provide general information and is presented "as is" without any representation or warranty, whether express, implied, or statutory. CoinPort reserves the right to update this Framework at any time.
 
 ----------
 
@@ -116,7 +116,7 @@ If you're interested in listing your coin/token or have any questions regarding 
 
 **Email:** support@coinport.com.au
 
-**Coin Harbour Pty Ltd** Level 2, 696 Bourke St, Melbourne VIC 3000 Phone 1300 902 595 [https://www.coinport.com.au](https://www.coinport.com.au)
+**CoinPort Pty Ltd** Level 2, 696 Bourke St, Melbourne VIC 3000 Phone 1300 902 595 [https://www.coinport.com.au](https://www.coinport.com.au)
 
 ----------
 
