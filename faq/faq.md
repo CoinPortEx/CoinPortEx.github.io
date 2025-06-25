@@ -1,4 +1,3 @@
-
 # **Frequently Asked Questions (FAQ) – CoinPort Cryptocurrency Exchange**  
 
 ## **Table of Contents**  
@@ -180,4 +179,3 @@ Possible reasons:
 ---
 
 For further assistance, **Freddie AI** is available 24/7, or you can contact our support team.
-
