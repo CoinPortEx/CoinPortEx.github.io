@@ -2,12 +2,12 @@
 **Document Owner:** Compliance Team  
 **Effective Date:** 15-March-2025  
 **Review Period:** Bi-Annually (or as required by regulatory changes)  
-**Applicability:** Coin Harbour Pty Ltd  
+**Applicability:** CoinPort Pty Ltd
 
 ---
 
 ## **1. Purpose**  
-Coin Harbour Pty Ltd (“the Company”) is committed to maintaining robust Anti-Money Laundering and Counter-Terrorism Financing (AML/CTF) controls in compliance with Australian law, including the *Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (AML/CTF Act)*.  
+CoinPort Pty Ltd (“the Company”) is committed to maintaining robust Anti-Money Laundering and Counter-Terrorism Financing (AML/CTF) controls in compliance with Australian law, including the *Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (AML/CTF Act)*.  
 
 This **Transaction Monitoring Program (TMP)** ensures:  
 - Detection and reporting of suspicious transactions.  
@@ -19,7 +19,7 @@ This **Transaction Monitoring Program (TMP)** ensures:
 
 ## **2. Scope**  
 This policy applies to:  
-- All fiat and cryptocurrency transactions processed on the **CoinPort exchange**, which is operated by Coin Harbour Pty Ltd. 
+- All fiat and cryptocurrency transactions processed on the **CoinPort exchange**, which is operated by CoinPort Pty Ltd. 
 - Customers, employees, and third-party service providers interacting with the exchange.  
 - Real-time and retrospective transaction monitoring.  
 
@@ -44,7 +44,7 @@ Transactions are monitored for:
   - Transactions linked to high-risk jurisdictions.  
 - **Anomalous Behavior:**  
   - Mismatched customer profiles (e.g., a low-income user suddenly trading large volumes).  
-  - Use of privacy coins or mixers (if permitted by Coin Harbour’s policy).  
+  - Use of privacy coins or mixers (if permitted by CoinPort Pty Ltd’s policy).  
 - **Sanctions & PEPs:**  
   - Transactions involving blacklisted wallets or sanctioned entities.  
 
