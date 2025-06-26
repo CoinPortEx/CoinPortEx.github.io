@@ -50,13 +50,17 @@ body.dark-mode p {
 }
 
 hr {
-    border-bottom: 0.0625rem solid #e6e6e6;
-    border-top: none;
+    background: #e6e6e6;
+    border: 0;
+    color: #e6e6e6;
+    font-size: 0;
+    height: 0.0625rem;
     margin-top: 30px;
 }
 
 body.dark-mode hr  {
-  border-bottom: 0.0625rem solid #1e375f !important;
+    background: #1e375f !important;
+    color: #1e375f !important;
 }
 
 a {
