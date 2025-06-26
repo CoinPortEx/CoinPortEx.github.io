@@ -33,7 +33,3 @@ RTGS plays a pivotal role in supporting the stability and integrity of the finan
 Australia's payment systems, including Osko, BPAY, Batch, and RTGS, collectively contribute to the efficiency, security, and convenience of financial transactions in the country. The diverse functionalities of these systems cater to the varying needs of individuals, businesses, and financial institutions, showcasing the adaptability and innovation within Australia's financial landscape.
 
 As technology continues to evolve, these payment systems are likely to undergo further enhancements, ensuring that Australia remains at the forefront of modern and efficient financial services.
-
-**CoinPort** - easy, fast and safe cryptocurrency exchange
-The best place to buy Bitcoin in Australia
-[https://www.coinport.com.au](https://www.coinport.com.au/)

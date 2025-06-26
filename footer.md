@@ -12,5 +12,5 @@ Stay updated and follow us on our social media platforms:
 
 For more information, visit our website: [www.coinport.com.au](https://www.coinport.com.au/)
 
-© 2025 Coin Harbour Pty Ltd - CoinPort Cryptocurrency Exchange. All rights reserved.
+© 2025 CoinPort Pty Ltd - CoinPort Cryptocurrency Exchange. All rights reserved.
 

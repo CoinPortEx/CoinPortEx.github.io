@@ -20,7 +20,3 @@ Next press the _**Create PayId**_ button to create your unique PayId for CoinPor
 By default, your CoinPort _Member Number_ is used for the first part of the PayId address Eg. UID0123456@coinport.com.au
 
 Now, if you specified a User Name on the initial CoinPort Sign Up page, this User Name will be used for the PayId email. Eg. If your User Name is "elonmusk", your PayId would be elonmusk@coinport.com.au
-
-**CoinPort** - easy, fast and safe cryptocurrency exchange  
-The best place to buy Bitcoin in Australia  
-[[https://www.coinport.com.au](https://www.coinharbour.com.au/ "https://www.coinharbour.com.au/")]([CoinPort](https://www.coinharbour.com.au/) )
