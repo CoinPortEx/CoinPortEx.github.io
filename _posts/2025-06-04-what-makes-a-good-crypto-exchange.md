@@ -23,7 +23,6 @@ Given the irreversible nature of blockchain transactions and the lucrative targe
 -   **Regular Security Audits:** Independent third-party security audits are crucial to identify and address vulnerabilities proactively.
 
   Here at CoinPort Exchange we want to give you a feature rich experience but most Importantly we will keep your funds safe, we are registered and regulated by ASIC and Austrac.
-    [KYC](https://www.youtube.com/watch?v=dV5BP_p_WiE)
 
 ## 2. User-Friendly Interface and Experience
 
@@ -31,11 +30,6 @@ Whether you’re a seasoned trader or just starting, an intuitive and easy-to-na
 
 -   **Simple Navigation:** Clear options for deposits, trading, and withdrawals.
 -   **Mobile Compatibility:** A seamless mobile app for trading on the go, with real-time updates and notifications.
-
-[**‎CoinPort Exchange**  
-_‎CoinPort Cryptocurrency exchange Easy, fast and safe cryptocurrency. Best place in Australia to buy Bitcoin,_apps.apple.com](https://apps.apple.com/au/app/coinport-exchange/id6504740877 "https://apps.apple.com/au/app/coinport-exchange/id6504740877")[](https://apps.apple.com/au/app/coinport-exchange/id6504740877)
-
-[https://play.google.com/store/apps/details?id=app.mobile.coinport](https://play.google.com/store/apps/details?id=app.mobile.coinport)
 
 **Educational Resources:** We will be creating content like tutorials and informative articles, and watch out for a video or two from our very own Leonie Green!
 
@@ -47,9 +41,6 @@ Liquidity refers to how easily an asset can be bought or sold without significan
 -   **No Hidden Costs:** There are no commission or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price dealt.
 
 CoinPort does not charge fees for AUD fiat currency Deposits or withdraws via the New Payment Processing (NPP) network.
-
-[**CoinPort**  
-_Easy, fast and safe cryptocurrency exchange. CoinPort is the best place to buy Bitcoin and many other digital…_www.coinport.com.au](https://www.coinport.com.au/about/fees "https://www.coinport.com.au/about/fees")[](https://www.coinport.com.au/about/fees)
 
 ### 6. Responsive Customer Support
 
@@ -63,13 +54,3 @@ We know good customer support matters, we understand the crypto space and its fa
 Here at CoinPort Exchange we’re building to become your exchange of choice, with our no fees trading system, sleek design and a team that are not interested in extracting from the user but striving to make the blockchain economy a fair, accessible, efficient, and transparent financial system.
 
 Stay tuned for what we have in store and are building, we think you’re going to love it.
-
-[**CoinPort | Twitter, Facebook | Linktree**  
-_Easy, fast and safe cryptocurrency exchange_linktr.ee](https://linktr.ee/CoinPortEx "https://linktr.ee/CoinPortEx")[](https://linktr.ee/CoinPortEx)
-
-Sincerely,
-
-The CoinPortEx Team
-
-[**CoinPort**  
-_Easy, fast and safe cryptocurrency exchange. CoinPort is the best place to buy Bitcoin and many other digital…_www.coinport.com.au](https://www.coinport.com.au/ "https://www.coinport.com.au/")[](https://www.coinport.com.au/)

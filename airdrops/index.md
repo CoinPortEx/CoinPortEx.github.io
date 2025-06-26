@@ -50,7 +50,7 @@ Identity verification - SHIB
 <p>Thank you for being a part of our community, and we look forward to bringing you more exciting opportunities in the future.</p>
 
 <div class="signature">
-    <div>Sincerley,</div>
+    <div>Sincerely,</div>
     <br />
     <div>The CoinPort Team</div>
     <a href="https://www.coinport.com.au" border="0" target="_blank"><img src="https://doc.coinport.com.au/images/logos/signature_logo.png" alt="CoinPort" width="160px" /></a>
