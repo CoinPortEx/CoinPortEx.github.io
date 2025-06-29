@@ -34,5 +34,5 @@ Looking ahead, the TRON Blockchain holds promising prospects and potential for f
 
 The TRON Blockchain has made significant strides and stands poised for continued success in the blockchain space. With its growing ecosystem, commitment to decentralization, and focus on innovation and adoption, TRON is well-positioned to shape the future of decentralized technology and unlock new opportunities for content creators, developers, and users worldwide. As the blockchain ecosystem evolves, TRON remains at the forefront of innovation, driving positive change and empowering individuals to participate in the decentralized economy of tomorrow.
 
-sincerely,
+Kind regards,
 The CoinPort Exchange Team

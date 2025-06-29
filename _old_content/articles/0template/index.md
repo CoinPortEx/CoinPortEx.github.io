@@ -18,7 +18,5 @@ This is a template for the CoinPort articles.
 Here is some more content.
 Here is some more content.
 
-sincerely,
+Kind regards,
 The CoinPort Exchange Team
-<!-- [https://www.coinport.com.au](https://www.coinport.com.au)
-Easy, fast and safe cryptocurrency exchange -->
