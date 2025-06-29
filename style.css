@@ -292,6 +292,7 @@ h4 {
   h1 {
     font-size: 20px;
     font-weight: 500;
+    line-height: 1.25;
     padding-top: 15px;
     padding-bottom: 10px;
   }
@@ -299,7 +300,7 @@ h4 {
   h2 {
     font-size: 18px;
     font-weight: 500;
-    line-height: 1;
+    line-height: 1.25;
     padding-top: 15px;
     padding-bottom: 10px;
     margin-top: 0;
@@ -309,7 +310,7 @@ h4 {
   h3 {
     font-size: 16px;
     font-weight: 500;
-    line-height: 1;
+    line-height: 1.25;
     padding-top: 15px;
     padding-bottom: 10px;
     margin-top: 0;
@@ -319,7 +320,7 @@ h4 {
   h4 {
     font-size: 15px;
     font-weight: 500;
-    line-height: 1;
+    line-height: 1.25;
     padding-top: 15px;
     padding-bottom: 10px;
     margin-top: 0;
