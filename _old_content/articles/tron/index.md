@@ -36,5 +36,3 @@ The TRON Blockchain has made significant strides and stands poised for continued
 
 sincerely,
 The CoinPort Exchange Team
-[https://www.coinport.com.au](https://www.coinport.com.au)
-Easy, fast and safe cryptocurrency exchange

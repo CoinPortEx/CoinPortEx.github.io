@@ -31,5 +31,5 @@ This is a positive sign for the long term acceptance of blockchain technology an
 
 sincerely,
 The CoinPort Exchange Team
-[https://www.coinport.com.au](https://www.coinport.com.au)
-Easy, fast and safe cryptocurrency exchange
+<!-- [https://www.coinport.com.au](https://www.coinport.com.au)
+Easy, fast and safe cryptocurrency exchange -->
