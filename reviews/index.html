@@ -8,13 +8,6 @@
     <link href="../style.css" rel="stylesheet" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link href="https://fonts.googleapis.com/css?family=Poppins:wght@400,500,600|Roboto&display=swap" rel="stylesheet">        
-    <script>
-        const queryString = window.location.search;
-        const urlParams = new URLSearchParams(queryString);
-        const theme = urlParams.get('theme');
-        const className = theme=='dark-mode'?'dark-mode':'light-mode';
-        document.body.classList.toggle(className);
-    </script>
 </head>
 <body>
 <h1>Hear What CoinPort Members Have to Say</h1>
@@ -52,6 +45,12 @@
 <li>The company must demonstrate that it has the potential to be able to address a broader than local market, including global markets, through that business. <b>- Pass</b></li>
 <li>The company must demonstrate that it has the potential to be able to have competitive advantages for that business. <b>- Pass</b></li>
 </ol>
-
+    <script>
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const theme = urlParams.get('theme');
+        const className = theme=='dark-mode'?'dark-mode':'light-mode';
+        document.body.classList.toggle(className);
+    </script>
 </body>
 </html>

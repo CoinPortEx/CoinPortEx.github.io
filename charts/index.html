@@ -8,13 +8,6 @@
     <link href="../style.css" rel="stylesheet" />
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link href="https://fonts.googleapis.com/css?family=Poppins:wght@400,500,600|Roboto&display=swap" rel="stylesheet">        
-    <script>
-        const queryString = window.location.search;
-        const urlParams = new URLSearchParams(queryString);
-        const theme = urlParams.get('theme');
-        const className = theme=='dark-mode'?'dark-mode':'light-mode';
-        document.body.classList.toggle(className);
-    </script>
 </head>
 <body>
 <h1>CoinPort Advanced Charting</h1>
@@ -27,5 +20,12 @@
 <p><a href="https://doc.coinport.com.au/charts/tech_analysis">Technical Analysis </a></p>
 <p><a href="https://doc.coinport.com.au/charts/ticker">Market Ticker </a></p>
 <p><a href="https://doc.coinport.com.au/charts/ticker_single">Simple Single Ticker</a></p>
+    <script>
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+        const theme = urlParams.get('theme');
+        const className = theme=='dark-mode'?'dark-mode':'light-mode';
+        document.body.classList.toggle(className);
+    </script>
 </body>
 </html>
