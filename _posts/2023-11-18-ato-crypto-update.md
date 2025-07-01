@@ -9,7 +9,7 @@ categories: news
 
 # ATO Updated Crypto Guidance
 
-<img src="https://blog.coinport.com.au/images/news/ato.png" alt="ATO" class="center" style="max-width: 280px; float: right; padding: 20px;">
+<img src="https://blog.coinport.com.au/assets/img/news/ato.png" alt="ATO" class="center" style="max-width: 280px; float: right; padding: 20px;">
 
 The Australian Taxation Office (ATO) has released updated guidance for Crypto asset investments. This is worthwhile reading for serious cryptocurrency investors and traders.
 

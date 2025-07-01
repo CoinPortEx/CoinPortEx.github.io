@@ -7,7 +7,7 @@ categories: news
 
 # Ledger Nano S Plus Hardware Wallet Evaluation
 
-<div><img src="https://blog.coinport.com.au/images/news/NanoSPlus.jpg" alt="nano-s-plus" class="center" style="max-width: 280px; float: right; padding: 20px;"></div>
+<div><img src="https://blog.coinport.com.au/assets/img/news/NanoSPlus.jpg" alt="nano-s-plus" class="center" style="max-width: 280px; float: right; padding: 20px;"></div>
 
 Today this ***Ledger Nano S Plus*** crypto hardware wallet arrived in the CoinPort office for testing..
 

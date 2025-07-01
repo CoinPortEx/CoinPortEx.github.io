@@ -17,7 +17,7 @@ PayPal USD (PYUSD)is a stablecoin backed by secure and highly liquid assets. Pay
 
 PayPal USD is redeemable 1:1 for U.S. dollars and is issued by Paxos Trust Company.
 
-<p><img alt="PYUSD" src="https://blog.coinport.com.au/images/news/pyusd.png" style="height:128px; width:128px; float: right; padding: 20px;" /></p>
+<p><img alt="PYUSD" src="https://blog.coinport.com.au/assets/img/news/pyusd.png" style="height:128px; width:128px; float: right; padding: 20px;" /></p>
 
 From August 2023, eligible PayPal customers who purchase PayPal USD will be able to:
 - Transfer PayPal USD between PayPal and compatible external wallets
