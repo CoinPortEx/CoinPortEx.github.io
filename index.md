@@ -19,3 +19,10 @@ Reading, reference and news resources for CoinPort Members
     </li>
   {% endfor %}
 </ul>
+
+<script>
+  const links = document.querySelectorAll('.post-link');
+  links.forEach(link => {
+    link.href += `?theme=${theme}`;
+  });
+</script>
