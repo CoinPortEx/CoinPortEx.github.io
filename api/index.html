@@ -10,8 +10,9 @@
   </head>
   <body style="margin: 0;">
   <div class="pg-apidocs-wrapper">
+   <img id="logoImage" referrerPolicy="no-referrer" src="https://doc.coinport.com.au/images/logos/logo_blue.png" alt="CoinPort API" width="180px" style="padding: 0">
    <h1 id="peatio-user-api-v2">Peatio User API v2</h1>
-   <p>API for Peatio application.</p>
+   <p>API for CoinPort Peatio application.</p>
    <h2 id="version-260">Version: 2.6.0</h2>
    <h3 id="security"> Security</h3>
    <p><strong>Bearer</strong>  </p>
@@ -3488,5 +3489,10 @@
       const className = theme=='dark-mode'?'dark-mode':'light-mode';
       document.body.classList.toggle(className);
     </script>
+<script>
+         if (theme=='dark-mode') {
+          document.getElementById("logoImage").src = 'https://doc.coinport.com.au/images/logos/logo.png';
+        }
+        </script>
 </body>
 </html>
