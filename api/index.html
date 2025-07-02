@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>CoinPort Peatio User API v2</title>
+  <title>CoinPort User API v2</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta charset="UTF-8" />
@@ -11,9 +11,8 @@
   <body style="margin: 0;">
   <div class="pg-apidocs-wrapper">
    <img id="logoImage" referrerPolicy="no-referrer" src="https://doc.coinport.com.au/images/logos/logo_blue.png" alt="CoinPort API" width="180px" style="padding: 0">
-   <h1 id="peatio-user-api-v2">Peatio User API v2</h1>
-   <p>API for CoinPort Peatio application.</p>
-   <h2 id="version-260">Version: 2.6.0</h2>
+   <h1 id="user-api-v2">User API v2</h1>
+   <h2 id="version-260">Version: 2.6.1</h2>
    <h3 id="security"> Security</h3>
    <p><strong>Bearer</strong>  </p>
    <table>
@@ -34,7 +33,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublicwithdrawlimits">/api/v2/peatio/public/withdraw_limits</h3>
+   <h3 id="apiv2publicwithdrawlimits">/api/v2//public/withdraw_limits</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Returns withdraw limits table as paginated collection</p>
@@ -111,7 +110,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublicwebhooksevent">/api/v2/peatio/public/webhooks/{event}</h3>
+   <h3 id="apiv2publicwebhooksevent">/api/v2//public/webhooks/{event}</h3>
    <h4 id="post">POST</h4>
    <h5 id="description">Description</h5>
    <p>Bitgo Webhook</p>
@@ -200,7 +199,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublictradingfees">/api/v2/peatio/public/trading_fees</h3>
+   <h3 id="apiv2publictradingfees">/api/v2//public/trading_fees</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Returns trading_fees table as paginated collection</p>
@@ -277,7 +276,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublichealthready">/api/v2/peatio/public/health/ready</h3>
+   <h3 id="apiv2publichealthready">/api/v2//public/health/ready</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get application readiness status</p>
@@ -296,7 +295,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublichealthalive">/api/v2/peatio/public/health/alive</h3>
+   <h3 id="apiv2publichealthalive">/api/v2//public/health/alive</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get application liveness status</p>
@@ -315,10 +314,10 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublicversion">/api/v2/peatio/public/version</h3>
+   <h3 id="apiv2publicversion">/api/v2//public/version</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
-   <p>Get running Peatio version and build details.</p>
+   <p>Get running  version and build details.</p>
    <h5 id="responses">Responses</h5>
    <table>
       <thead>
@@ -330,11 +329,11 @@
       <tbody>
          <tr>
             <td>200</td>
-            <td>Get running Peatio version and build details.</td>
+            <td>Get running  version and build details.</td>
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublictimestamp">/api/v2/peatio/public/timestamp</h3>
+   <h3 id="apiv2publictimestamp">/api/v2//public/timestamp</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get server current time, in seconds since Unix epoch.</p>
@@ -353,7 +352,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublicmemberlevels">/api/v2/peatio/public/member-levels</h3>
+   <h3 id="apiv2publicmemberlevels">/api/v2//public/member-levels</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Returns hash of minimum levels and the privileges they provide.</p>
@@ -372,7 +371,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublicmarketsmarkettickers">/api/v2/peatio/public/markets/{market}/tickers</h3>
+   <h3 id="apiv2publicmarketsmarkettickers">/api/v2//public/markets/{market}/tickers</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get ticker of specific market.</p>
@@ -414,7 +413,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublicmarketstickers">/api/v2/peatio/public/markets/tickers</h3>
+   <h3 id="apiv2publicmarketstickers">/api/v2//public/markets/tickers</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get ticker of all markets (For response doc see /:market/tickers/ response).</p>
@@ -435,7 +434,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublicmarketsmarketkline">/api/v2/peatio/public/markets/{market}/k-line</h3>
+   <h3 id="apiv2publicmarketsmarketkline">/api/v2//public/markets/{market}/k-line</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get OHLC(k line) of specific market.</p>
@@ -503,7 +502,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublicmarketsmarketdepth">/api/v2/peatio/public/markets/{market}/depth</h3>
+   <h3 id="apiv2publicmarketsmarketdepth">/api/v2//public/markets/{market}/depth</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get depth or specified market. Both asks and bids are sorted from highest price to lowest.</p>
@@ -550,7 +549,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublicmarketsmarkettrades">/api/v2/peatio/public/markets/{market}/trades</h3>
+   <h3 id="apiv2publicmarketsmarkettrades">/api/v2//public/markets/{market}/trades</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get recent trades on market, each trade is included only once. Trades are sorted in reverse creation order.</p>
@@ -613,7 +612,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublicmarketsmarketorderbook">/api/v2/peatio/public/markets/{market}/order-book</h3>
+   <h3 id="apiv2publicmarketsmarketorderbook">/api/v2//public/markets/{market}/order-book</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get the order book of specified market.</p>
@@ -669,7 +668,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopublicmarkets">/api/v2/peatio/public/markets</h3>
+   <h3 id="apiv2publicmarkets">/api/v2//public/markets</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get all available markets.</p>
@@ -781,7 +780,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopubliccurrencies">/api/v2/peatio/public/currencies</h3>
+   <h3 id="apiv2publiccurrencies">/api/v2//public/currencies</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get list of currencies</p>
@@ -858,7 +857,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiopubliccurrenciesid">/api/v2/peatio/public/currencies/{id}</h3>
+   <h3 id="apiv2publiccurrenciesid">/api/v2//public/currencies/{id}</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get a currency</p>
@@ -900,7 +899,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccountstatspnl">/api/v2/peatio/account/stats/pnl</h3>
+   <h3 id="apiv2accountstatspnl">/api/v2//account/stats/pnl</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get assets pnl calculated into one currency</p>
@@ -940,7 +939,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccounttransactions">/api/v2/peatio/account/transactions</h3>
+   <h3 id="apiv2accounttransactions">/api/v2//account/transactions</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get your transactions history.</p>
@@ -1036,7 +1035,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccountwithdraws">/api/v2/peatio/account/withdraws</h3>
+   <h3 id="apiv2accountwithdraws">/api/v2//account/withdraws</h3>
    <h4 id="post">POST</h4>
    <h5 id="description">Description</h5>
    <p>Creates new withdrawal to active beneficiary.</p>
@@ -1173,7 +1172,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccountwithdrawssums">/api/v2/peatio/account/withdraws/sums</h3>
+   <h3 id="apiv2accountwithdrawssums">/api/v2//account/withdraws/sums</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Returns withdrawal sums for last 4 hours and 1 month</p>
@@ -1192,7 +1191,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccountbeneficiariesid">/api/v2/peatio/account/beneficiaries/{id}</h3>
+   <h3 id="apiv2accountbeneficiariesid">/api/v2//account/beneficiaries/{id}</h3>
    <h4 id="delete">DELETE</h4>
    <h5 id="description">Description</h5>
    <p>Delete beneficiary</p>
@@ -1273,7 +1272,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccountbeneficiariesidactivate">/api/v2/peatio/account/beneficiaries/{id}/activate</h3>
+   <h3 id="apiv2accountbeneficiariesidactivate">/api/v2//account/beneficiaries/{id}/activate</h3>
    <h4 id="patch">PATCH</h4>
    <h5 id="description">Description</h5>
    <p>Activates beneficiary with pin</p>
@@ -1322,7 +1321,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccountbeneficiariesidresendpin">/api/v2/peatio/account/beneficiaries/{id}/resend_pin</h3>
+   <h3 id="apiv2accountbeneficiariesidresendpin">/api/v2//account/beneficiaries/{id}/resend_pin</h3>
    <h4 id="patch">PATCH</h4>
    <h5 id="description">Description</h5>
    <p>Resend beneficiary pin</p>
@@ -1362,7 +1361,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccountbeneficiaries">/api/v2/peatio/account/beneficiaries</h3>
+   <h3 id="apiv2accountbeneficiaries">/api/v2//account/beneficiaries</h3>
    <h4 id="post">POST</h4>
    <h5 id="description">Description</h5>
    <p>Create new beneficiary</p>
@@ -1473,7 +1472,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccountdepositaddresscurrency">/api/v2/peatio/account/deposit_address/{currency}</h3>
+   <h3 id="apiv2accountdepositaddresscurrency">/api/v2//account/deposit_address/{currency}</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Returns deposit address for account you want to deposit to by currency. The address may be blank because address generation process is still in progress. If this case you should try again later.</p>
@@ -1522,7 +1521,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccountdepositstxid">/api/v2/peatio/account/deposits/{txid}</h3>
+   <h3 id="apiv2accountdepositstxid">/api/v2//account/deposits/{txid}</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get details of specific deposit.</p>
@@ -1564,7 +1563,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccountdeposits">/api/v2/peatio/account/deposits</h3>
+   <h3 id="apiv2accountdeposits">/api/v2//account/deposits</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get your deposits history.</p>
@@ -1634,7 +1633,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccountbalancescurrency">/api/v2/peatio/account/balances/{currency}</h3>
+   <h3 id="apiv2accountbalancescurrency">/api/v2//account/balances/{currency}</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get user account by currency</p>
@@ -1676,7 +1675,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatioaccountbalances">/api/v2/peatio/account/balances</h3>
+   <h3 id="apiv2accountbalances">/api/v2//account/balances</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get list of user accounts</p>
@@ -1753,7 +1752,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiomarkettrades">/api/v2/peatio/market/trades</h3>
+   <h3 id="apiv2markettrades">/api/v2//market/trades</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get your executed trades. Trades are sorted in reverse creation order.</p>
@@ -1830,7 +1829,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiomarketorderscancel">/api/v2/peatio/market/orders/cancel</h3>
+   <h3 id="apiv2marketorderscancel">/api/v2//market/orders/cancel</h3>
    <h4 id="post">POST</h4>
    <h5 id="description">Description</h5>
    <p>Cancel all my orders.</p>
@@ -1879,7 +1878,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiomarketordersidcancel">/api/v2/peatio/market/orders/{id}/cancel</h3>
+   <h3 id="apiv2marketordersidcancel">/api/v2//market/orders/{id}/cancel</h3>
    <h4 id="post">POST</h4>
    <h5 id="description">Description</h5>
    <p>Cancel an order.</p>
@@ -1919,7 +1918,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiomarketorders">/api/v2/peatio/market/orders</h3>
+   <h3 id="apiv2marketorders">/api/v2//market/orders</h3>
    <h4 id="post">POST</h4>
    <h5 id="description">Description</h5>
    <p>Create a Sell/Buy order.</p>
@@ -2100,7 +2099,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiomarketordersid">/api/v2/peatio/market/orders/{id}</h3>
+   <h3 id="apiv2marketordersid">/api/v2//market/orders/{id}</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get information of specified order.</p>
@@ -2142,7 +2141,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiocoinmarketcaporderbookmarketpair">/api/v2/peatio/coinmarketcap/orderbook/{market_pair}</h3>
+   <h3 id="apiv2coinmarketcaporderbookmarketpair">/api/v2//coinmarketcap/orderbook/{market_pair}</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get depth or specified market</p>
@@ -2189,7 +2188,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiocoinmarketcaptradesmarketpair">/api/v2/peatio/coinmarketcap/trades/{market_pair}</h3>
+   <h3 id="apiv2coinmarketcaptradesmarketpair">/api/v2//coinmarketcap/trades/{market_pair}</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get recent trades on market</p>
@@ -2231,7 +2230,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiocoinmarketcapticker">/api/v2/peatio/coinmarketcap/ticker</h3>
+   <h3 id="apiv2coinmarketcapticker">/api/v2//coinmarketcap/ticker</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get 24-hour pricing and volume summary for each market pair</p>
@@ -2252,7 +2251,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiocoinmarketcapassets">/api/v2/peatio/coinmarketcap/assets</h3>
+   <h3 id="apiv2coinmarketcapassets">/api/v2//coinmarketcap/assets</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Details on crypto currencies available on the exchange</p>
@@ -2271,7 +2270,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiocoinmarketcapsummary">/api/v2/peatio/coinmarketcap/summary</h3>
+   <h3 id="apiv2coinmarketcapsummary">/api/v2//coinmarketcap/summary</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Overview of market data for all tickers and all market pairs on the exchange</p>
@@ -2290,7 +2289,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiocoingeckohistoricaltrades">/api/v2/peatio/coingecko/historical_trades</h3>
+   <h3 id="apiv2coingeckohistoricaltrades">/api/v2//coingecko/historical_trades</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get recent trades on market</p>
@@ -2358,7 +2357,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiocoingeckoorderbook">/api/v2/peatio/coingecko/orderbook</h3>
+   <h3 id="apiv2coingeckoorderbook">/api/v2//coingecko/orderbook</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get depth or specified market</p>
@@ -2405,7 +2404,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiocoingeckotickers">/api/v2/peatio/coingecko/tickers</h3>
+   <h3 id="apiv2coingeckotickers">/api/v2//coingecko/tickers</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get list of all available trading pairs</p>
@@ -2426,7 +2425,7 @@
          </tr>
       </tbody>
    </table>
-   <h3 id="apiv2peatiocoingeckopairs">/api/v2/peatio/coingecko/pairs</h3>
+   <h3 id="apiv2coingeckopairs">/api/v2//coingecko/pairs</h3>
    <h4 id="get">GET</h4>
    <h5 id="description">Description</h5>
    <p>Get list of all available trading pairs</p>
