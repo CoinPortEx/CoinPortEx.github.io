@@ -115,7 +115,6 @@ body.dark-mode li {
 table {
   border-spacing: 0;
   margin: 10px 0;
-  max-width: 1000px;
   width: 100%;
 }
 
@@ -461,8 +460,13 @@ body.dark-mode .pg-corporate-entityl3 {
 }
 
 .pg-apidocs-wrapper {
-  max-width: 900px;
-  padding: 30px;
+  max-width: 1000px;
+  padding: 30p !important;
+  width: 100%;
+
+  @media screen and (max-width: 768px) { 
+    padding: 15px !important;
+  }
 }
 
 body.dark-mode .pg-apidocs-wrapper {
@@ -481,10 +485,12 @@ body.dark-mode .pg-apidocs-wrapper th {
 .pg-apidocs-wrapper td {
   border: 0.0625rem solid #e6e6e6;
   padding: 6px;
+  word-break: break-word;
 }
 
 body.dark-mode .pg-apidocs-wrapper td {
   border: 0.0625rem solid #1e375f;
+  word-break: break-word;
 }
 
 .pg-apidocs-wrapper h3 {
