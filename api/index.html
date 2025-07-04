@@ -14,3474 +14,3746 @@
   <body style="margin: 0;">
   <div class="pg-apidocs-wrapper">
    <img id="logoImage" referrerPolicy="no-referrer" src="https://doc.coinport.com.au/images/logos/logo_blue.png" alt="CoinPort API" width="180px" style="padding: 0">
-   <h1 id="user-api-v2">User API v2</h1>
-   <h2 id="version-260">Version: 2.6.1</h2>
-   <h3 id="security"> Security</h3>
-   <p><strong>Bearer</strong>  </p>
+<h1>Peatio User API v2</h1>
+<p>API for Peatio application.</p>
+<h2>Version: 3.0.0</h2>
+<p><strong>Contact information:</strong><br />CoinPort Pty Ltd<br /> <a href="https://www.coinport.com.au">https://www.coinport.com.au</a><br /> <a href="mailto:info@coinport.com.au">info@coinport.com.au</a></p>
+<h3>Security</h3>
+<p><strong>Bearer</strong></p>
    <table>
-      <thead>
-         <tr>
-            <th>apiKey</th>
-            <th><em>API Key</em></th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>Name</td>
-            <td>JWT</td>
-         </tr>
-         <tr>
-            <td>In</td>
-            <td>header</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>apiKey</th>
+   <th><em>API Key</em></th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>Name</td>
+   <td>JWT</td>
+   </tr>
+   <tr>
+   <td>In</td>
+   <td>header</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publicwithdrawlimits">/api/v2//public/withdraw_limits</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/withdraw_limits</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Returns withdraw limits table as paginated collection</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>group</td>
-            <td>query</td>
-            <td>Member group for define withdraw limits.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>kyc_level</td>
-            <td>query</td>
-            <td>KYC level for define withdraw limits.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Limit the number of returned paginations. Defaults to 100.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>page</td>
-            <td>query</td>
-            <td>Specify the page of paginated results.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>ordering</td>
-            <td>query</td>
-            <td>If set, returned values will be sorted in specific order, defaults to 'asc'.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>order_by</td>
-            <td>query</td>
-            <td>Name of the field, which result will be ordered by.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>group</td>
+   <td>query</td>
+   <td>Member group for define withdraw limits.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>kyc_level</td>
+   <td>query</td>
+   <td>KYC level for define withdraw limits.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Limit the number of returned paginations. Defaults to 100.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>page</td>
+   <td>query</td>
+   <td>Specify the page of paginated results.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>ordering</td>
+   <td>query</td>
+   <td>If set, returned values will be sorted in specific order, defaults to 'asc'.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>order_by</td>
+   <td>query</td>
+   <td>Name of the field, which result will be ordered by.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Returns withdraw limits table as paginated collection</td>
-            <td><a href="#withdrawlimit">WithdrawLimit</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Returns withdraw limits table as paginated collection</td>
+   <td>[ <a href="#withdrawlimit">WithdrawLimit</a> ]</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publicwebhooksevent">/api/v2//public/webhooks/{event}</h3>
-   <h4 id="post">POST</h4>
-   <h5 id="description">Description</h5>
-   <p>Bitgo Webhook</p>
-   <h5 id="parameters">Parameters</h5>
+   <h3>/api/v2/peatio/public/webhooks/{adapter }/{event }</h3>
+   <h4>POST</h4>
+   <h5>Description</h5>
+   <p>Webhook controller</p>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>event</td>
-            <td>path</td>
-            <td>Name of event can be deposit or withdraw</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>type</td>
-            <td>formData</td>
-            <td>Type of event.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>hash</td>
-            <td>formData</td>
-            <td>Address txid.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>transfer</td>
-            <td>formData</td>
-            <td>Transfer id.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>coin</td>
-            <td>formData</td>
-            <td>Currency code.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>wallet</td>
-            <td>formData</td>
-            <td>Wallet id.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>address</td>
-            <td>formData</td>
-            <td>User Address.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>walletId</td>
-            <td>formData</td>
-            <td>Wallet id.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>adapter</td>
+   <td>path</td>
+   <td>Name of adapter for process webhook</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>event</td>
+   <td>path</td>
+   <td>Name of event can be deposit or withdraw</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>201</td>
-            <td>Bitgo Webhook</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>201</td>
+   <td>Webhook controller</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publictradingfees">/api/v2//public/trading_fees</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/trading_fees</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Returns trading_fees table as paginated collection</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>group</td>
-            <td>query</td>
-            <td>Member group for define maker/taker fee.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>market_id</td>
-            <td>query</td>
-            <td>Market id for define maker/taker fee.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Limit the number of returned paginations. Defaults to 100.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>page</td>
-            <td>query</td>
-            <td>Specify the page of paginated results.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>ordering</td>
-            <td>query</td>
-            <td>If set, returned values will be sorted in specific order, defaults to 'asc'.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>order_by</td>
-            <td>query</td>
-            <td>Name of the field, which result will be ordered by.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>group</td>
+   <td>query</td>
+   <td>Member group for define maker/taker fee.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>market_id</td>
+   <td>query</td>
+   <td>Market id for define maker/taker fee.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>market_type</td>
+   <td>query</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Limit the number of returned paginations. Defaults to 100.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>page</td>
+   <td>query</td>
+   <td>Specify the page of paginated results.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>ordering</td>
+   <td>query</td>
+   <td>If set, returned values will be sorted in specific order, defaults to 'asc'.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>order_by</td>
+   <td>query</td>
+   <td>Name of the field, which result will be ordered by.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Returns trading_fees table as paginated collection</td>
-            <td><a href="#tradingfee">TradingFee</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Returns trading_fees table as paginated collection</td>
+   <td>[ <a href="#tradingfee">TradingFee</a> ]</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publichealthready">/api/v2//public/health/ready</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/health/ready</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get application readiness status</p>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get application readiness status</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get application readiness status</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publichealthalive">/api/v2//public/health/alive</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/health/alive</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get application liveness status</p>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get application liveness status</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get application liveness status</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publicversion">/api/v2//public/version</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
-   <p>Get running  version and build details.</p>
-   <h5 id="responses">Responses</h5>
+   <h3>/api/v2/peatio/public/version</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
+   <p>Get running Peatio version and build details.</p>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get running  version and build details.</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get running Peatio version and build details.</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publictimestamp">/api/v2//public/timestamp</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/timestamp</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get server current time, in seconds since Unix epoch.</p>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get server current time, in seconds since Unix epoch.</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get server current time, in seconds since Unix epoch.</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publicmemberlevels">/api/v2//public/member-levels</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/member-levels</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Returns hash of minimum levels and the privileges they provide.</p>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Returns hash of minimum levels and the privileges they provide.</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Returns hash of minimum levels and the privileges they provide.</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publicmarketsmarkettickers">/api/v2//public/markets/{market}/tickers</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/markets/{market }/tickers</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get ticker of specific market.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>market</td>
-            <td>path</td>
-            <td></td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>market</td>
+   <td>path</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get ticker of specific market.</td>
-            <td><a href="#ticker">Ticker</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get ticker of specific market.</td>
+   <td><a href="#ticker">Ticker</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publicmarketstickers">/api/v2//public/markets/tickers</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/markets/tickers</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get ticker of all markets (For response doc see /:market/tickers/ response).</p>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get ticker of all markets (For response doc see /:market/tickers/ response).</td>
-            <td><a href="#ticker">Ticker</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get ticker of all markets (For response doc see /:market/tickers/ response).</td>
+   <td><a href="#ticker">Ticker</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publicmarketsmarketkline">/api/v2//public/markets/{market}/k-line</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/markets/{market }/k-line</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get OHLC(k line) of specific market.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>market</td>
-            <td>path</td>
-            <td></td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>period</td>
-            <td>query</td>
-            <td>Time period of K line, default to 1. You can choose between 1, 5, 15, 30, 60, 120, 240, 360, 720, 1440, 4320, 10080</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>time_from</td>
-            <td>query</td>
-            <td>An integer represents the seconds elapsed since Unix epoch. If set, only k-line data after that time will be returned.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>time_to</td>
-            <td>query</td>
-            <td>An integer represents the seconds elapsed since Unix epoch. If set, only k-line data till that time will be returned.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Limit the number of returned data points default to 30. Ignored if time_from and time_to are given.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>market</td>
+   <td>path</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>period</td>
+   <td>query</td>
+   <td>Time period of K line, default to 1. You can choose between 1, 5, 15, 30, 60, 120, 240, 360, 720, 1440, 4320, 10080</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>time_from</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch. If set, only k-line data after that time will be returned.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>time_to</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch. If set, only k-line data till that time will be returned.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Limit the number of returned data points default to 30. Ignored if time_from and time_to are given.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get OHLC(k line) of specific market.</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get OHLC(k line) of specific market.</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publicmarketsmarketdepth">/api/v2//public/markets/{market}/depth</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/markets/{market }/depth</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get depth or specified market. Both asks and bids are sorted from highest price to lowest.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>market</td>
-            <td>path</td>
-            <td></td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Limit the number of returned price levels. Default to 300.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>market</td>
+   <td>path</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Limit the number of returned price levels. Default to 300.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get depth or specified market. Both asks and bids are sorted from highest price to lowest.</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get depth or specified market. Both asks and bids are sorted from highest price to lowest.</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publicmarketsmarkettrades">/api/v2//public/markets/{market}/trades</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/markets/{market }/trades</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get recent trades on market, each trade is included only once. Trades are sorted in reverse creation order.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>market</td>
-            <td>path</td>
-            <td></td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Limit the number of returned trades. Default to 100.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>timestamp</td>
-            <td>query</td>
-            <td>An integer represents the seconds elapsed since Unix epoch.If set, only trades executed before the time will be returned.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>order_by</td>
-            <td>query</td>
-            <td>If set, returned trades will be sorted in specific order, default to 'desc'.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>market</td>
+   <td>path</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Limit the number of returned trades. Default to 100.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>timestamp</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch.If set, only trades executed before the time will be returned.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>order_by</td>
+   <td>query</td>
+   <td>If set, returned trades will be sorted in specific order, default to 'desc'.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get recent trades on market, each trade is included only once. Trades are sorted in reverse creation order.</td>
-            <td><a href="#trade">Trade</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get recent trades on market, each trade is included only once. Trades are sorted in reverse creation order.</td>
+   <td>[ <a href="#trade">Trade</a> ]</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publicmarketsmarketorderbook">/api/v2//public/markets/{market}/order-book</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/markets/{market }/order-book</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get the order book of specified market.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>market</td>
-            <td>path</td>
-            <td></td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>asks_limit</td>
-            <td>query</td>
-            <td>Limit the number of returned sell orders. Default to 20.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>bids_limit</td>
-            <td>query</td>
-            <td>Limit the number of returned buy orders. Default to 20.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>market</td>
+   <td>path</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>asks_limit</td>
+   <td>query</td>
+   <td>Limit the number of returned sell orders. Default to 20.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>bids_limit</td>
+   <td>query</td>
+   <td>Limit the number of returned buy orders. Default to 20.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get the order book of specified market.</td>
-            <td><a href="#orderbook">OrderBook</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get the order book of specified market.</td>
+   <td>[ <a href="#orderbook">OrderBook</a> ]</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publicmarkets">/api/v2//public/markets</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/markets</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get all available markets.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Limit the number of returned paginations. Defaults to 100.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>page</td>
-            <td>query</td>
-            <td>Specify the page of paginated results.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>ordering</td>
-            <td>query</td>
-            <td>If set, returned values will be sorted in specific order, defaults to 'asc'.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>order_by</td>
-            <td>query</td>
-            <td>Name of the field, which result will be ordered by.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>base_unit</td>
-            <td>query</td>
-            <td>Strict filter for base unit</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>quote_unit</td>
-            <td>query</td>
-            <td>Strict filter for quote unit</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>search</td>
-            <td>query</td>
-            <td></td>
-            <td>No</td>
-            <td>json</td>
-         </tr>
-         <tr>
-            <td>search[base_code]</td>
-            <td>query</td>
-            <td>Search base currency code using LIKE</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>search[quote_code]</td>
-            <td>query</td>
-            <td>Search qoute currency code using LIKE</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>search[base_name]</td>
-            <td>query</td>
-            <td>Search base currency name using LIKE</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>search[quote_name]</td>
-            <td>query</td>
-            <td>Search quote currency name using LIKE</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Limit the number of returned paginations. Defaults to 100.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>page</td>
+   <td>query</td>
+   <td>Specify the page of paginated results.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>ordering</td>
+   <td>query</td>
+   <td>If set, returned values will be sorted in specific order, defaults to 'asc'.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>order_by</td>
+   <td>query</td>
+   <td>Name of the field, which result will be ordered by.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>base_unit</td>
+   <td>query</td>
+   <td>Strict filter for base unit</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>quote_unit</td>
+   <td>query</td>
+   <td>Strict filter for quote unit</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>type</td>
+   <td>query</td>
+   <td>Strict filter for market type</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>search</td>
+   <td>query</td>
+   <td>No</td>
+   <td>json</td>
+   </tr>
+   <tr>
+   <td>search[base_code]</td>
+   <td>query</td>
+   <td>Search base currency code using LIKE</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>search[quote_code]</td>
+   <td>query</td>
+   <td>Search qoute currency code using LIKE</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>search[base_name]</td>
+   <td>query</td>
+   <td>Search base currency name using LIKE</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>search[quote_name]</td>
+   <td>query</td>
+   <td>Search quote currency name using LIKE</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get all available markets.</td>
-            <td><a href="#market">Market</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get all available markets.</td>
+   <td>[ <a href="#market">Market</a> ]</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publiccurrencies">/api/v2//public/currencies</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/currencies</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get list of currencies</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Limit the number of returned paginations. Defaults to 100.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>page</td>
-            <td>query</td>
-            <td>Specify the page of paginated results.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>type</td>
-            <td>query</td>
-            <td>Currency type</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>search</td>
-            <td>query</td>
-            <td></td>
-            <td>No</td>
-            <td>json</td>
-         </tr>
-         <tr>
-            <td>search[code]</td>
-            <td>query</td>
-            <td>Search by currency code using SQL LIKE</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>search[name]</td>
-            <td>query</td>
-            <td>Search by currency name using SQL LIKE</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Limit the number of returned paginations. Defaults to 100.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>page</td>
+   <td>query</td>
+   <td>Specify the page of paginated results.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>type</td>
+   <td>query</td>
+   <td>Currency type</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>search</td>
+   <td>query</td>
+   <td>No</td>
+   <td>json</td>
+   </tr>
+   <tr>
+   <td>search[code]</td>
+   <td>query</td>
+   <td>Search by currency code using SQL LIKE</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>search[name]</td>
+   <td>query</td>
+   <td>Search by currency name using SQL LIKE</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get list of currencies</td>
-            <td><a href="#currency">Currency</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get list of currencies</td>
+   <td>[ <a href="#currency">Currency</a> ]</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2publiccurrenciesid">/api/v2//public/currencies/{id}</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/public/currencies/{id }</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get a currency</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>path</td>
-            <td>Currency code.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>path</td>
+   <td>Currency code.</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get a currency</td>
-            <td><a href="#currency">Currency</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get a currency</td>
+   <td><a href="#currency">Currency</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accountstatspnl">/api/v2//account/stats/pnl</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/internal_transfers</h3>
+   <h4>POST</h4>
+   <h5>Description</h5>
+   <p>Creates internal transfer.</p>
+   <h5>Parameters</h5>
+   <table>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>currency</td>
+   <td>formData</td>
+   <td>The currency code.</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>amount</td>
+   <td>formData</td>
+   <td>The amount to transfer.</td>
+   <td>Yes</td>
+   <td>double</td>
+   </tr>
+   <tr>
+   <td>otp</td>
+   <td>formData</td>
+   <td>OTP to perform action</td>
+   <td>Yes</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>username_or_uid</td>
+   <td>formData</td>
+   <td>Receiver uid or username.</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   </tbody>
+   </table>
+   <h5>Responses</h5>
+   <table>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>201</td>
+   <td>Creates internal transfer.</td>
+   </tr>
+   </tbody>
+   </table>
+   <h4>GET</h4>
+   <h5>Description</h5>
+   <p>List your internal transfers as paginated collection.</p>
+   <h5>Parameters</h5>
+   <table>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>currency</td>
+   <td>query</td>
+   <td>Currency code.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>state</td>
+   <td>query</td>
+   <td>The state to filter by.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>sender</td>
+   <td>query</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
+   </table>
+   <h5>Responses</h5>
+   <table>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>List your internal transfers as paginated collection.</td>
+   <td>[ <a href="#internaltransfer">InternalTransfer</a> ]</td>
+   </tr>
+   </tbody>
+   </table>
+   <h3>/api/v2/peatio/account/stats/pnl</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get assets pnl calculated into one currency</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>pnl_currency</td>
-            <td>query</td>
-            <td>Currency code in which the PnL is calculated</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>pnl_currency</td>
+   <td>query</td>
+   <td>Currency code in which the PnL is calculated</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get assets pnl calculated into one currency</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get assets pnl calculated into one currency</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accounttransactions">/api/v2//account/transactions</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/transactions</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get your transactions history.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>currency</td>
-            <td>query</td>
-            <td>Currency code</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>order_by</td>
-            <td>query</td>
-            <td>Sorting order</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>time_from</td>
-            <td>query</td>
-            <td>An integer represents the seconds elapsed since Unix epoch.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>time_to</td>
-            <td>query</td>
-            <td>An integer represents the seconds elapsed since Unix epoch.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>deposit_state</td>
-            <td>query</td>
-            <td>Filter deposits by states.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>withdraw_state</td>
-            <td>query</td>
-            <td>Filter withdraws by states.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>txid</td>
-            <td>query</td>
-            <td>Transaction id.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Limit the number of returned transactions. Default to 100.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>page</td>
-            <td>query</td>
-            <td>Specify the page of paginated results.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>currency</td>
+   <td>query</td>
+   <td>Currency code</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>order_by</td>
+   <td>query</td>
+   <td>Sorting order</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>time_from</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>time_to</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>deposit_state</td>
+   <td>query</td>
+   <td>Filter deposits by states.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>withdraw_state</td>
+   <td>query</td>
+   <td>Filter withdraws by states.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>txid</td>
+   <td>query</td>
+   <td>Transaction id.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Limit the number of returned transactions. Default to 100.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>page</td>
+   <td>query</td>
+   <td>Specify the page of paginated results.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get your transactions history.</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get your transactions history.</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accountwithdraws">/api/v2//account/withdraws</h3>
-   <h4 id="post">POST</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/withdraws</h3>
+   <h4>POST</h4>
+   <h5>Description</h5>
    <p>Creates new withdrawal to active beneficiary.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>otp</td>
-            <td>formData</td>
-            <td>OTP to perform action</td>
-            <td>Yes</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>beneficiary_id</td>
-            <td>formData</td>
-            <td>ID of Active Beneficiary belonging to user.</td>
-            <td>Yes</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>currency</td>
-            <td>formData</td>
-            <td>The currency code.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>amount</td>
-            <td>formData</td>
-            <td>The amount to withdraw.</td>
-            <td>Yes</td>
-            <td>double</td>
-         </tr>
-         <tr>
-            <td>note</td>
-            <td>formData</td>
-            <td>Optional user metadata to be applied to the transaction. Used to tag transactions with memorable comments.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>otp</td>
+   <td>formData</td>
+   <td>OTP to perform action</td>
+   <td>Yes</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>beneficiary_id</td>
+   <td>formData</td>
+   <td>ID of Active Beneficiary belonging to user.</td>
+   <td>Yes</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>currency</td>
+   <td>formData</td>
+   <td>The currency code.</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>amount</td>
+   <td>formData</td>
+   <td>The amount to withdraw.</td>
+   <td>Yes</td>
+   <td>double</td>
+   </tr>
+   <tr>
+   <td>note</td>
+   <td>formData</td>
+   <td>Optional user metadata to be applied to the transaction. Used to tag transactions with memorable comments.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>201</td>
-            <td>Creates new withdrawal to active beneficiary.</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>201</td>
+   <td>Creates new withdrawal to active beneficiary.</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>List your withdraws as paginated collection.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>currency</td>
-            <td>query</td>
-            <td>Currency code.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Number of withdraws per page (defaults to 100, maximum is 100).</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>state</td>
-            <td>query</td>
-            <td>Filter withdrawals by states.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>rid</td>
-            <td>query</td>
-            <td>Wallet address on the Blockchain.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>page</td>
-            <td>query</td>
-            <td>Page number (defaults to 1).</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>currency</td>
+   <td>query</td>
+   <td>Currency code.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Number of withdraws per page (defaults to 100, maximum is 100).</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>state</td>
+   <td>query</td>
+   <td>Filter withdrawals by states.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>rid</td>
+   <td>query</td>
+   <td>Wallet address on the Blockchain.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>time_from</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>time_to</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>page</td>
+   <td>query</td>
+   <td>Page number (defaults to 1).</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>List your withdraws as paginated collection.</td>
-            <td><a href="#withdraw">Withdraw</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>List your withdraws as paginated collection.</td>
+   <td>[ <a href="#withdraw">Withdraw</a> ]</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accountwithdrawssums">/api/v2//account/withdraws/sums</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/withdraws/sums</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Returns withdrawal sums for last 4 hours and 1 month</p>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Returns withdrawal sums for last 4 hours and 1 month</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Returns withdrawal sums for last 4 hours and 1 month</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accountbeneficiariesid">/api/v2//account/beneficiaries/{id}</h3>
-   <h4 id="delete">DELETE</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/beneficiaries/{id }</h3>
+   <h4>DELETE</h4>
+   <h5>Description</h5>
    <p>Delete beneficiary</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>path</td>
-            <td>Beneficiary Identifier in Database</td>
-            <td>Yes</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>path</td>
+   <td>Beneficiary Identifier in Database</td>
+   <td>Yes</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>204</td>
-            <td>Delete beneficiary</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>204</td>
+   <td>Delete beneficiary</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get beneficiary by ID</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>path</td>
-            <td>Beneficiary Identifier in Database</td>
-            <td>Yes</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>path</td>
+   <td>Beneficiary Identifier in Database</td>
+   <td>Yes</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get beneficiary by ID</td>
-            <td><a href="#beneficiary">Beneficiary</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get beneficiary by ID</td>
+   <td><a href="#beneficiary">Beneficiary</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accountbeneficiariesidactivate">/api/v2//account/beneficiaries/{id}/activate</h3>
-   <h4 id="patch">PATCH</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/beneficiaries/{id }/activate</h3>
+   <h4>PATCH</h4>
+   <h5>Description</h5>
    <p>Activates beneficiary with pin</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>path</td>
-            <td>Beneficiary Identifier in Database</td>
-            <td>Yes</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>pin</td>
-            <td>formData</td>
-            <td>Pin code for beneficiary activation</td>
-            <td>Yes</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>path</td>
+   <td>Beneficiary Identifier in Database</td>
+   <td>Yes</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>pin</td>
+   <td>formData</td>
+   <td>Pin code for beneficiary activation</td>
+   <td>Yes</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Activates beneficiary with pin</td>
-            <td><a href="#beneficiary">Beneficiary</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Activates beneficiary with pin</td>
+   <td><a href="#beneficiary">Beneficiary</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accountbeneficiariesidresendpin">/api/v2//account/beneficiaries/{id}/resend_pin</h3>
-   <h4 id="patch">PATCH</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/beneficiaries/{id }/resend_pin</h3>
+   <h4>PATCH</h4>
+   <h5>Description</h5>
    <p>Resend beneficiary pin</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>path</td>
-            <td>Beneficiary Identifier in Database</td>
-            <td>Yes</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>path</td>
+   <td>Beneficiary Identifier in Database</td>
+   <td>Yes</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Resend beneficiary pin</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Resend beneficiary pin</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accountbeneficiaries">/api/v2//account/beneficiaries</h3>
-   <h4 id="post">POST</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/beneficiaries</h3>
+   <h4>POST</h4>
+   <h5>Description</h5>
    <p>Create new beneficiary</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>currency</td>
-            <td>formData</td>
-            <td>Beneficiary currency code.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>name</td>
-            <td>formData</td>
-            <td>Human rememberable name which refer beneficiary.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>description</td>
-            <td>formData</td>
-            <td>Human rememberable name which refer beneficiary.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>data</td>
-            <td>formData</td>
-            <td>Beneficiary data in JSON format</td>
-            <td>Yes</td>
-            <td>json</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>currency</td>
+   <td>formData</td>
+   <td>Beneficiary currency code.</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>name</td>
+   <td>formData</td>
+   <td>Human rememberable name which refer beneficiary.</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>description</td>
+   <td>formData</td>
+   <td>Human rememberable name which refer beneficiary.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>data</td>
+   <td>formData</td>
+   <td>Beneficiary data in JSON format</td>
+   <td>Yes</td>
+   <td>json</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>201</td>
-            <td>Create new beneficiary</td>
-            <td><a href="#beneficiary">Beneficiary</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>201</td>
+   <td>Create new beneficiary</td>
+   <td><a href="#beneficiary">Beneficiary</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get list of user beneficiaries</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>currency</td>
-            <td>query</td>
-            <td>Beneficiary currency code.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>state</td>
-            <td>query</td>
-            <td>Defines either beneficiary active - user can use it to withdraw moneyor pending - requires beneficiary activation with pin.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Limit the number of returned paginations. Defaults to 100.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>page</td>
+   <td>query</td>
+   <td>Specify the page of paginated results.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>currency</td>
+   <td>query</td>
+   <td>Beneficiary currency code.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>state</td>
+   <td>query</td>
+   <td>Defines either beneficiary active - user can use it to withdraw moneyor pending - requires beneficiary activation with pin.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get list of user beneficiaries</td>
-            <td><a href="#beneficiary">Beneficiary</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get list of user beneficiaries</td>
+   <td>[ <a href="#beneficiary">Beneficiary</a> ]</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accountdepositaddresscurrency">/api/v2//account/deposit_address/{currency}</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/deposit_address/{currency }</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Returns deposit address for account you want to deposit to by currency. The address may be blank because address generation process is still in progress. If this case you should try again later.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>currency</td>
-            <td>path</td>
-            <td>The account you want to deposit to.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>address_format</td>
-            <td>query</td>
-            <td>Address format legacy/cash</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>currency</td>
+   <td>path</td>
+   <td>The account you want to deposit to.</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>address_format</td>
+   <td>query</td>
+   <td>Address format legacy/cash</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Returns deposit address for account you want to deposit to by currency. The address may be blank because address generation process is still in progress. If this case you should try again later.</td>
-            <td><a href="#deposit">Deposit</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Returns deposit address for account you want to deposit to by currency. The address may be blank because address generation process is still in progress. If this case you should try again later.</td>
+   <td><a href="#deposit">Deposit</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accountdepositstxid">/api/v2//account/deposits/{txid}</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/deposits/{txid }</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get details of specific deposit.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>txid</td>
-            <td>path</td>
-            <td>Deposit transaction id</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>txid</td>
+   <td>path</td>
+   <td>Deposit transaction id</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get details of specific deposit.</td>
-            <td><a href="#deposit">Deposit</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get details of specific deposit.</td>
+   <td><a href="#deposit">Deposit</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accountdeposits">/api/v2//account/deposits</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/deposits</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get your deposits history.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>currency</td>
-            <td>query</td>
-            <td>Currency code</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>state</td>
-            <td>query</td>
-            <td>Filter deposits by states.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>txid</td>
-            <td>query</td>
-            <td>Deposit transaction id.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Number of deposits per page (defaults to 100, maximum is 100).</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>page</td>
-            <td>query</td>
-            <td>Page number (defaults to 1).</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>currency</td>
+   <td>query</td>
+   <td>Currency code</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>state</td>
+   <td>query</td>
+   <td>Filter deposits by states.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>txid</td>
+   <td>query</td>
+   <td>Deposit transaction id.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>time_from</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>time_to</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Number of deposits per page (defaults to 100, maximum is 100).</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>page</td>
+   <td>query</td>
+   <td>Page number (defaults to 1).</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get your deposits history.</td>
-            <td><a href="#deposit">Deposit</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get your deposits history.</td>
+   <td>[ <a href="#deposit">Deposit</a> ]</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accountbalancescurrency">/api/v2//account/balances/{currency}</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/balances/{currency }</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get user account by currency</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>currency</td>
-            <td>path</td>
-            <td>The currency code.</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>currency</td>
+   <td>path</td>
+   <td>The currency code.</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get user account by currency</td>
-            <td><a href="#account">Account</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get user account by currency</td>
+   <td><a href="#account">Account</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2accountbalances">/api/v2//account/balances</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/account/balances</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get list of user accounts</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Limit the number of returned paginations. Defaults to 100.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>page</td>
-            <td>query</td>
-            <td>Specify the page of paginated results.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>nonzero</td>
-            <td>query</td>
-            <td>Filter non zero balances.</td>
-            <td>No</td>
-            <td>Boolean</td>
-         </tr>
-         <tr>
-            <td>search</td>
-            <td>query</td>
-            <td></td>
-            <td>No</td>
-            <td>json</td>
-         </tr>
-         <tr>
-            <td>search[currency_code]</td>
-            <td>query</td>
-            <td></td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>search[currency_name]</td>
-            <td>query</td>
-            <td></td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Limit the number of returned paginations. Defaults to 100.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>page</td>
+   <td>query</td>
+   <td>Specify the page of paginated results.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>nonzero</td>
+   <td>query</td>
+   <td>Filter non zero balances.</td>
+   <td>No</td>
+   <td>Boolean</td>
+   </tr>
+   <tr>
+   <td>search</td>
+   <td>query</td>
+   <td>No</td>
+   <td>json</td>
+   </tr>
+   <tr>
+   <td>search[currency_code]</td>
+   <td>query</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>search[currency_name]</td>
+   <td>query</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get list of user accounts</td>
-            <td><a href="#account">Account</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get list of user accounts</td>
+   <td>[ <a href="#account">Account</a> ]</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2markettrades">/api/v2//market/trades</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/market/trades</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get your executed trades. Trades are sorted in reverse creation order.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>market</td>
-            <td>query</td>
-            <td></td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Limit the number of returned trades. Default to 100.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>page</td>
-            <td>query</td>
-            <td>Specify the page of paginated results.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>time_from</td>
-            <td>query</td>
-            <td>An integer represents the seconds elapsed since Unix epoch.If set, only trades executed after the time will be returned.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>time_to</td>
-            <td>query</td>
-            <td>An integer represents the seconds elapsed since Unix epoch.If set, only trades executed before the time will be returned.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>order_by</td>
-            <td>query</td>
-            <td>If set, returned trades will be sorted in specific order, default to 'desc'.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>market</td>
+   <td>query</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>market_type</td>
+   <td>query</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Limit the number of returned trades. Default to 100.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>page</td>
+   <td>query</td>
+   <td>Specify the page of paginated results.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>type</td>
+   <td>query</td>
+   <td>To indicate nature of trade - buy/sell</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>time_from</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch.If set, only trades executed after the time will be returned.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>time_to</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch.If set, only trades executed before the time will be returned.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>order_by</td>
+   <td>query</td>
+   <td>If set, returned trades will be sorted in specific order, default to 'desc'.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get your executed trades. Trades are sorted in reverse creation order.</td>
-            <td><a href="#trade">Trade</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get your executed trades. Trades are sorted in reverse creation order.</td>
+   <td>[ <a href="#trade">Trade</a> ]</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2marketorderscancel">/api/v2//market/orders/cancel</h3>
-   <h4 id="post">POST</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/market/orders/cancel</h3>
+   <h4>POST</h4>
+   <h5>Description</h5>
    <p>Cancel all my orders.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>market</td>
-            <td>formData</td>
-            <td></td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>side</td>
-            <td>formData</td>
-            <td>If present, only sell orders (asks) or buy orders (bids) will be canncelled.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>market</td>
+   <td>formData</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>market_type</td>
+   <td>formData</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>side</td>
+   <td>formData</td>
+   <td>If present, only sell orders (asks) or buy orders (bids) will be cancelled.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>201</td>
-            <td>Cancel all my orders.</td>
-            <td><a href="#order">Order</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>201</td>
+   <td>Cancel all my orders.</td>
+   <td><a href="#order">Order</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2marketordersidcancel">/api/v2//market/orders/{id}/cancel</h3>
-   <h4 id="post">POST</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/market/orders/{id }/cancel</h3>
+   <h4>POST</h4>
+   <h5>Description</h5>
    <p>Cancel an order.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>path</td>
-            <td></td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>path</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>201</td>
-            <td>Cancel an order.</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>201</td>
+   <td>Cancel an order.</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2marketorders">/api/v2//market/orders</h3>
-   <h4 id="post">POST</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/market/orders</h3>
+   <h4>POST</h4>
+   <h5>Description</h5>
    <p>Create a Sell/Buy order.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>market</td>
-            <td>formData</td>
-            <td></td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>side</td>
-            <td>formData</td>
-            <td></td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>volume</td>
-            <td>formData</td>
-            <td></td>
-            <td>Yes</td>
-            <td>double</td>
-         </tr>
-         <tr>
-            <td>ord_type</td>
-            <td>formData</td>
-            <td></td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>price</td>
-            <td>formData</td>
-            <td></td>
-            <td>Yes</td>
-            <td>double</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>market</td>
+   <td>formData</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>side</td>
+   <td>formData</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>volume</td>
+   <td>formData</td>
+   <td>Yes</td>
+   <td>double</td>
+   </tr>
+   <tr>
+   <td>ord_type</td>
+   <td>formData</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>price</td>
+   <td>formData</td>
+   <td>Yes</td>
+   <td>double</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>201</td>
-            <td>Create a Sell/Buy order.</td>
-            <td><a href="#order">Order</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>201</td>
+   <td>Create a Sell/Buy order.</td>
+   <td><a href="#order">Order</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get your orders, result is paginated.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>market</td>
-            <td>query</td>
-            <td></td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>base_unit</td>
-            <td>query</td>
-            <td></td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>quote_unit</td>
-            <td>query</td>
-            <td></td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>state</td>
-            <td>query</td>
-            <td>Filter order by state.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Limit the number of returned orders, default to 100.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>page</td>
-            <td>query</td>
-            <td>Specify the page of paginated results.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>order_by</td>
-            <td>query</td>
-            <td>If set, returned orders will be sorted in specific order, default to "desc".</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>ord_type</td>
-            <td>query</td>
-            <td>Filter order by ord_type.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>type</td>
-            <td>query</td>
-            <td>Filter order by type.</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>time_from</td>
-            <td>query</td>
-            <td>An integer represents the seconds elapsed since Unix epoch.If set, only orders created after the time will be returned.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>time_to</td>
-            <td>query</td>
-            <td>An integer represents the seconds elapsed since Unix epoch.If set, only orders created before the time will be returned.</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>market</td>
+   <td>query</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>market_type</td>
+   <td>query</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>base_unit</td>
+   <td>query</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>quote_unit</td>
+   <td>query</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>state</td>
+   <td>query</td>
+   <td>Filter order by state.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Limit the number of returned orders, default to 100.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>page</td>
+   <td>query</td>
+   <td>Specify the page of paginated results.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>order_by</td>
+   <td>query</td>
+   <td>If set, returned orders will be sorted in specific order, default to "desc".</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>ord_type</td>
+   <td>query</td>
+   <td>Filter order by ord_type.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>type</td>
+   <td>query</td>
+   <td>Filter order by type.</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>time_from</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch.If set, only orders created after the time will be returned.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>time_to</td>
+   <td>query</td>
+   <td>An integer represents the seconds elapsed since Unix epoch.If set, only orders created before the time will be returned.</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get your orders, result is paginated.</td>
-            <td><a href="#order">Order</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get your orders, result is paginated.</td>
+   <td>[ <a href="#order">Order</a> ]</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2marketordersid">/api/v2//market/orders/{id}</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/market/orders/{id }</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get information of specified order.</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>path</td>
-            <td></td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>path</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get information of specified order.</td>
-            <td><a href="#order">Order</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get information of specified order.</td>
+   <td><a href="#order">Order</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2coinmarketcaporderbookmarketpair">/api/v2//coinmarketcap/orderbook/{market_pair}</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/coinmarketcap/orderbook/{market_pair }</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get depth or specified market</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>market_pair</td>
-            <td>path</td>
-            <td>A pair such as "LTC_BTC"</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>depth</td>
-            <td>query</td>
-            <td>Orders depth quantity: [0,5,10,20,50,100,500]</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>market_pair</td>
+   <td>path</td>
+   <td>A pair such as "LTC_BTC"</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>depth</td>
+   <td>query</td>
+   <td>Orders depth quantity: [0,5,10,20,50,100,500]</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get depth or specified market</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get depth or specified market</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2coinmarketcaptradesmarketpair">/api/v2//coinmarketcap/trades/{market_pair}</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/coinmarketcap/trades/{market_pair }</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get recent trades on market</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>market_pair</td>
-            <td>path</td>
-            <td>A pair such as "LTC_BTC"</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>market_pair</td>
+   <td>path</td>
+   <td>A pair such as "LTC_BTC"</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get recent trades on market</td>
-            <td><a href="#trade">Trade</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get recent trades on market</td>
+   <td><a href="#trade">Trade</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2coinmarketcapticker">/api/v2//coinmarketcap/ticker</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/coinmarketcap/ticker</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get 24-hour pricing and volume summary for each market pair</p>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get 24-hour pricing and volume summary for each market pair</td>
-            <td><a href="#ticker">Ticker</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get 24-hour pricing and volume summary for each market pair</td>
+   <td><a href="#ticker">Ticker</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2coinmarketcapassets">/api/v2//coinmarketcap/assets</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/coinmarketcap/assets</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Details on crypto currencies available on the exchange</p>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Details on crypto currencies available on the exchange</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Details on crypto currencies available on the exchange</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2coinmarketcapsummary">/api/v2//coinmarketcap/summary</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/coinmarketcap/summary</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Overview of market data for all tickers and all market pairs on the exchange</p>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Overview of market data for all tickers and all market pairs on the exchange</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Overview of market data for all tickers and all market pairs on the exchange</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2coingeckohistoricaltrades">/api/v2//coingecko/historical_trades</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/coingecko/historical_trades</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get recent trades on market</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>ticker_id</td>
-            <td>query</td>
-            <td>A pair such as "LTC_BTC"</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>type</td>
-            <td>query</td>
-            <td>To indicate nature of trade - buy/sell</td>
-            <td>No</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>limit</td>
-            <td>query</td>
-            <td>Number of historical trades to retrieve from time of query. [0, 200, 500...]. 0 returns full history</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>start_time</td>
-            <td>query</td>
-            <td></td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-         <tr>
-            <td>end_time</td>
-            <td>query</td>
-            <td></td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>ticker_id</td>
+   <td>query</td>
+   <td>A pair such as "LTC_BTC"</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>type</td>
+   <td>query</td>
+   <td>To indicate nature of trade - buy/sell</td>
+   <td>No</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>limit</td>
+   <td>query</td>
+   <td>Number of historical trades to retrieve from time of query. [0, 200, 500...]. 0 returns full history</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>start_time</td>
+   <td>query</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   <tr>
+   <td>end_time</td>
+   <td>query</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get recent trades on market</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get recent trades on market</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2coingeckoorderbook">/api/v2//coingecko/orderbook</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/coingecko/orderbook</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get depth or specified market</p>
-   <h5 id="parameters">Parameters</h5>
+   <h5>Parameters</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Located in</th>
-            <th>Description</th>
-            <th>Required</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>ticker_id</td>
-            <td>query</td>
-            <td>A pair such as "LTC_BTC"</td>
-            <td>Yes</td>
-            <td>string</td>
-         </tr>
-         <tr>
-            <td>depth</td>
-            <td>query</td>
-            <td>Orders depth quantity: [0, 100, 200, 500...]</td>
-            <td>No</td>
-            <td>integer</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Located in</th>
+   <th>Description</th>
+   <th>Required</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>ticker_id</td>
+   <td>query</td>
+   <td>A pair such as "LTC_BTC"</td>
+   <td>Yes</td>
+   <td>string</td>
+   </tr>
+   <tr>
+   <td>depth</td>
+   <td>query</td>
+   <td>Orders depth quantity: [0, 100, 200, 500...]</td>
+   <td>No</td>
+   <td>integer</td>
+   </tr>
+   </tbody>
    </table>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get depth or specified market</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get depth or specified market</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2coingeckotickers">/api/v2//coingecko/tickers</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/coingecko/tickers</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get list of all available trading pairs</p>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-            <th>Schema</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get list of all available trading pairs</td>
-            <td><a href="#ticker">Ticker</a></td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   <th>Schema</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get list of all available trading pairs</td>
+   <td><a href="#ticker">Ticker</a></td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="apiv2coingeckopairs">/api/v2//coingecko/pairs</h3>
-   <h4 id="get">GET</h4>
-   <h5 id="description">Description</h5>
+   <h3>/api/v2/peatio/coingecko/pairs</h3>
+   <h4>GET</h4>
+   <h5>Description</h5>
    <p>Get list of all available trading pairs</p>
-   <h5 id="responses">Responses</h5>
+   <h5>Responses</h5>
    <table>
-      <thead>
-         <tr>
-            <th>Code</th>
-            <th>Description</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>200</td>
-            <td>Get list of all available trading pairs</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Code</th>
+   <th>Description</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>200</td>
+   <td>Get list of all available trading pairs</td>
+   </tr>
+   </tbody>
    </table>
-   <h3 id="models"> Models</h3>
-   <h4 id="withdrawlimit">WithdrawLimit</h4>
+   <h3>Models</h3>
+   <h4>WithdrawLimit</h4>
    <p>Returns withdraw limits table as paginated collection</p>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>integer</td>
-            <td>Unique withdraw limit table identifier in database.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>group</td>
-            <td>string</td>
-            <td>Member group for define withdraw limits.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>kyc_level</td>
-            <td>string</td>
-            <td>KYC level for define withdraw limits.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>limit_24_hour</td>
-            <td>double</td>
-            <td>24 hours withdraw limit.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>limit_1_month</td>
-            <td>double</td>
-            <td>1 month withdraw limit.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>created_at</td>
-            <td>string</td>
-            <td>Withdraw limit table created time in iso8601 format.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>updated_at</td>
-            <td>string</td>
-            <td>Withdraw limit table updated time in iso8601 format.</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>integer</td>
+   <td>Unique withdraw limit table identifier in database.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>group</td>
+   <td>string</td>
+   <td>Member group for define withdraw limits.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>kyc_level</td>
+   <td>string</td>
+   <td>KYC level for define withdraw limits.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>limit_24_hour</td>
+   <td>double</td>
+   <td>24 hours withdraw limit.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>limit_1_month</td>
+   <td>double</td>
+   <td>1 month withdraw limit.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>created_at</td>
+   <td>string</td>
+   <td>Withdraw limit table created time in iso8601 format.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>updated_at</td>
+   <td>string</td>
+   <td>Withdraw limit table updated time in iso8601 format.</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="tradingfee">TradingFee</h4>
+   <h4>TradingFee</h4>
    <p>Returns trading_fees table as paginated collection</p>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>integer</td>
-            <td>Unique trading fee table identifier in database.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>group</td>
-            <td>string</td>
-            <td>Member group for define maker/taker fee.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>market_id</td>
-            <td>string</td>
-            <td>Market id for define maker/taker fee.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>maker</td>
-            <td>double</td>
-            <td>Market maker fee.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>taker</td>
-            <td>double</td>
-            <td>Market taker fee.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>created_at</td>
-            <td>string</td>
-            <td>Trading fee table created time in iso8601 format.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>updated_at</td>
-            <td>string</td>
-            <td>Trading fee table updated time in iso8601 format.</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>integer</td>
+   <td>Unique trading fee table identifier in database.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>group</td>
+   <td>string</td>
+   <td>Member group for define maker/taker fee.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>market_id</td>
+   <td>string</td>
+   <td>Market id for define maker/taker fee.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>market_type</td>
+   <td>string</td>
+   <td>Market type.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>maker</td>
+   <td>double</td>
+   <td>Market maker fee.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>taker</td>
+   <td>double</td>
+   <td>Market taker fee.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>created_at</td>
+   <td>string</td>
+   <td>Trading fee table created time in iso8601 format.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>updated_at</td>
+   <td>string</td>
+   <td>Trading fee table updated time in iso8601 format.</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="ticker">Ticker</h4>
+   <h4>Ticker</h4>
    <p>Get list of all available trading pairs</p>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>at</td>
-            <td>integer</td>
-            <td>Timestamp of ticker</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>ticker</td>
-            <td><a href="#tickerentry">TickerEntry</a></td>
-            <td>Ticker entry for specified time</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>at</td>
+   <td>integer</td>
+   <td>Timestamp of ticker</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>ticker</td>
+   <td><a href="#tickerentry">TickerEntry</a></td>
+   <td>Ticker entry for specified time</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="tickerentry">TickerEntry</h4>
+   <h4>TickerEntry</h4>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>low</td>
-            <td>double</td>
-            <td>The lowest trade price during last 24 hours (0.0 if no trades executed during last 24 hours)</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>high</td>
-            <td>double</td>
-            <td>The highest trade price during last 24 hours (0.0 if no trades executed during last 24 hours)</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>open</td>
-            <td>double</td>
-            <td>Price of the first trade executed 24 hours ago or less</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>last</td>
-            <td>double</td>
-            <td>The last executed trade price</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>volume</td>
-            <td>double</td>
-            <td>Total volume of trades executed during last 24 hours</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>amount</td>
-            <td>double</td>
-            <td>Total amount of trades executed during last 24 hours</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>vol</td>
-            <td>double</td>
-            <td>Alias to volume</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>avg_price</td>
-            <td>double</td>
-            <td>Average price more precisely VWAP is calculated by adding up the total traded for every transaction(price multiplied by the number of shares traded) and then dividing by the total shares traded</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>price_change_percent</td>
-            <td>string</td>
-            <td>Price change in the next format +3.19%.Price change is calculated using next formula (last - open) / open * 100%</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>at</td>
-            <td>integer</td>
-            <td>Timestamp of ticker</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>low</td>
+   <td>double</td>
+   <td>The lowest trade price during last 24 hours (0.0 if no trades executed during last 24 hours)</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>high</td>
+   <td>double</td>
+   <td>The highest trade price during last 24 hours (0.0 if no trades executed during last 24 hours)</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>open</td>
+   <td>double</td>
+   <td>Price of the first trade executed 24 hours ago or less</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>last</td>
+   <td>double</td>
+   <td>The last executed trade price</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>volume</td>
+   <td>double</td>
+   <td>Total volume of trades executed during last 24 hours</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>amount</td>
+   <td>double</td>
+   <td>Total amount of trades executed during last 24 hours</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>vol</td>
+   <td>double</td>
+   <td>Alias to volume</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>avg_price</td>
+   <td>double</td>
+   <td>Average price more precisely VWAP is calculated by adding up the total traded for every transaction(price multiplied by the number of shares traded) and then dividing by the total shares traded</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>price_change_percent</td>
+   <td>string</td>
+   <td>Price change in the next format +3.19%.Price change is calculated using next formula (last - open) / open * 100%</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>at</td>
+   <td>integer</td>
+   <td>Timestamp of ticker</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="trade">Trade</h4>
+   <h4>Trade</h4>
    <p>Get recent trades on market</p>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>string</td>
-            <td>Trade ID.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>price</td>
-            <td>double</td>
-            <td>Trade price.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>amount</td>
-            <td>double</td>
-            <td>Trade amount.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>total</td>
-            <td>double</td>
-            <td>Trade total (Amount * Price).</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>fee_currency</td>
-            <td>double</td>
-            <td>Currency user's fees were charged in.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>fee</td>
-            <td>double</td>
-            <td>Percentage of fee user was charged for performed trade.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>fee_amount</td>
-            <td>double</td>
-            <td>Amount of fee user was charged for performed trade.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>market</td>
-            <td>string</td>
-            <td>Trade market id.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>created_at</td>
-            <td>string</td>
-            <td>Trade create time in iso8601 format.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>taker_type</td>
-            <td>string</td>
-            <td>Trade taker order type (sell or buy).</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>side</td>
-            <td>string</td>
-            <td>Trade side.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>order_id</td>
-            <td>integer</td>
-            <td>Order id.</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>string</td>
+   <td>Trade ID.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>price</td>
+   <td>double</td>
+   <td>Trade price.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>amount</td>
+   <td>double</td>
+   <td>Trade amount.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>total</td>
+   <td>double</td>
+   <td>Trade total (Amount * Price).</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>fee_currency</td>
+   <td>double</td>
+   <td>Currency user's fees were charged in.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>fee</td>
+   <td>double</td>
+   <td>Percentage of fee user was charged for performed trade.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>fee_amount</td>
+   <td>double</td>
+   <td>Amount of fee user was charged for performed trade.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>market</td>
+   <td>string</td>
+   <td>Trade market id.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>market_type</td>
+   <td>string</td>
+   <td>Market type.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>created_at</td>
+   <td>string</td>
+   <td>Trade create time in iso8601 format.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>taker_type</td>
+   <td>string</td>
+   <td>Trade taker order type (sell or buy).</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>side</td>
+   <td>string</td>
+   <td>Trade side.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>order_id</td>
+   <td>integer</td>
+   <td>Order id.</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="orderbook">OrderBook</h4>
+   <h4>OrderBook</h4>
    <p>Get the order book of specified market.</p>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>asks</td>
-            <td><a href="#order">Order</a></td>
-            <td>Asks in orderbook</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>bids</td>
-            <td><a href="#order">Order</a></td>
-            <td>Bids in orderbook</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>asks</td>
+   <td>[ <a href="#order">Order</a> ]</td>
+   <td>Asks in orderbook</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>bids</td>
+   <td>[ <a href="#order">Order</a> ]</td>
+   <td>Bids in orderbook</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="order">Order</h4>
+   <h4>Order</h4>
    <p>Get your orders, result is paginated.</p>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>integer</td>
-            <td>Unique order id.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>uuid</td>
-            <td>string</td>
-            <td>Unique order UUID.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>side</td>
-            <td>string</td>
-            <td>Either 'sell' or 'buy'.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>ord_type</td>
-            <td>string</td>
-            <td>Type of order, either 'limit' or 'market'.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>price</td>
-            <td>double</td>
-            <td>Price for each unit. e.g.If you want to sell/buy 1 btc at 3000 usd, the price is '3000.0'</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>avg_price</td>
-            <td>double</td>
-            <td>Average execution price, average of price in trades.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>state</td>
-            <td>string</td>
-            <td>One of 'wait', 'done', or 'cancel'.An order in 'wait' is an active order, waiting fulfillment;a 'done' order is an order fulfilled;'cancel' means the order has been canceled.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>market</td>
-            <td>string</td>
-            <td>The market in which the order is placed, e.g. 'btcusd'.All available markets can be found at /api/v2/markets.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>created_at</td>
-            <td>string</td>
-            <td>Order create time in iso8601 format.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>updated_at</td>
-            <td>string</td>
-            <td>Order updated time in iso8601 format.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>origin_volume</td>
-            <td>double</td>
-            <td>The amount user want to sell/buy.An order could be partially executed,e.g. an order sell 5 btc can be matched with a buy 3 btc order,left 2 btc to be sold; in this case the order's volume would be '5.0',its remaining_volume would be '2.0', its executed volume is '3.0'.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>remaining_volume</td>
-            <td>double</td>
-            <td>The remaining volume, see 'volume'.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>executed_volume</td>
-            <td>double</td>
-            <td>The executed volume, see 'volume'.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>maker_fee</td>
-            <td>double</td>
-            <td>Fee for maker.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>taker_fee</td>
-            <td>double</td>
-            <td>Fee for taker.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>trades_count</td>
-            <td>integer</td>
-            <td>Count of trades.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>trades</td>
-            <td><a href="#trade">Trade</a></td>
-            <td>Trades wiht this order.</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>integer</td>
+   <td>Unique order id.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>uuid</td>
+   <td>string</td>
+   <td>Unique order UUID.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>side</td>
+   <td>string</td>
+   <td>Either 'sell' or 'buy'.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>ord_type</td>
+   <td>string</td>
+   <td>Type of order, either 'limit' or 'market'.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>price</td>
+   <td>double</td>
+   <td>Price for each unit. e.g.If you want to sell/buy 1 btc at 3000 usd, the price is '3000.0'</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>avg_price</td>
+   <td>double</td>
+   <td>Average execution price, average of price in trades.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>state</td>
+   <td>string</td>
+   <td>One of 'wait', 'done', or 'cancel'.An order in 'wait' is an active order, waiting fulfillment;a 'done' order is an order fulfilled;'cancel' means the order has been canceled.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>market</td>
+   <td>string</td>
+   <td>The market in which the order is placed, e.g. 'btcusd'.All available markets can be found at /api/v2/markets.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>market_type</td>
+   <td>string</td>
+   <td>Market type.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>created_at</td>
+   <td>string</td>
+   <td>Order create time in iso8601 format.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>updated_at</td>
+   <td>string</td>
+   <td>Order updated time in iso8601 format.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>origin_volume</td>
+   <td>double</td>
+   <td>The amount user want to sell/buy.An order could be partially executed,e.g. an order sell 5 btc can be matched with a buy 3 btc order,left 2 btc to be sold; in this case the order's volume would be '5.0',its remaining_volume would be '2.0', its executed volume is '3.0'.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>remaining_volume</td>
+   <td>double</td>
+   <td>The remaining volume, see 'volume'.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>executed_volume</td>
+   <td>double</td>
+   <td>The executed volume, see 'volume'.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>maker_fee</td>
+   <td>double</td>
+   <td>Fee for maker.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>taker_fee</td>
+   <td>double</td>
+   <td>Fee for taker.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>trades_count</td>
+   <td>integer</td>
+   <td>Count of trades.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>trades</td>
+   <td>[ <a href="#trade">Trade</a> ]</td>
+   <td>Trades wiht this order.</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="market">Market</h4>
+   <h4>Market</h4>
    <p>Get all available markets.</p>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>string</td>
-            <td>Unique market id. It's always in the form of xxxyyy,where xxx is the base currency code, yyy is the quotecurrency code, e.g. 'btcusd'. All available markets canbe found at /api/v2/markets.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>name</td>
-            <td>string</td>
-            <td>Market name.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>base_unit</td>
-            <td>string</td>
-            <td>Market Base unit.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>quote_unit</td>
-            <td>string</td>
-            <td>Market Quote unit.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>min_price</td>
-            <td>double</td>
-            <td>Minimum order price.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>max_price</td>
-            <td>double</td>
-            <td>Maximum order price.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>min_amount</td>
-            <td>double</td>
-            <td>Minimum order amount.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>amount_precision</td>
-            <td>double</td>
-            <td>Precision for order amount.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>price_precision</td>
-            <td>double</td>
-            <td>Precision for order price.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>state</td>
-            <td>string</td>
-            <td>Market state defines if user can see/trade on current market.</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>symbol</td>
+   <td>string</td>
+   <td>Unique market ticker symbol. It's always in the form of xxxyyy,where xxx is the base currency code, yyy is the quotecurrency code, e.g. 'btcusd'. All available markets canbe found at /api/v2/markets.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>name</td>
+   <td>string</td>
+   <td>Market name.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>type</td>
+   <td>string</td>
+   <td>Market type.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>base_unit</td>
+   <td>string</td>
+   <td>Market Base unit.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>quote_unit</td>
+   <td>string</td>
+   <td>Market Quote unit.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>min_price</td>
+   <td>double</td>
+   <td>Minimum order price.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>max_price</td>
+   <td>double</td>
+   <td>Maximum order price.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>min_amount</td>
+   <td>double</td>
+   <td>Minimum order amount.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>amount_precision</td>
+   <td>double</td>
+   <td>Precision for order amount.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>price_precision</td>
+   <td>double</td>
+   <td>Precision for order price.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>state</td>
+   <td>string</td>
+   <td>Market state defines if user can see/trade on current market.</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="currency">Currency</h4>
+   <h4>Currency</h4>
    <p>Get a currency</p>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>string</td>
-            <td>Currency code.<br><em>Example:</em> <code>"btc"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>name</td>
-            <td>string</td>
-            <td>Currency name<br><em>Example:</em> <code>"Bitcoin"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>description</td>
-            <td>string</td>
-            <td>Currency description<br><em>Example:</em> <code>"btc"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>homepage</td>
-            <td>string</td>
-            <td>Currency homepage<br><em>Example:</em> <code>"btc"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>price</td>
-            <td>string</td>
-            <td>Currency current price</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>explorer_transaction</td>
-            <td>string</td>
-            <td>Currency transaction exprorer url template<br><em>Example:</em> <code>"https://testnet.blockchain.info/tx/"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>explorer_address</td>
-            <td>string</td>
-            <td>Currency address exprorer url template<br><em>Example:</em> <code>"https://testnet.blockchain.info/address/"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>type</td>
-            <td>string</td>
-            <td>Currency type<br><em>Example:</em> <code>"coin"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>deposit_enabled</td>
-            <td>string</td>
-            <td>Currency deposit possibility status (true/false).</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>withdrawal_enabled</td>
-            <td>string</td>
-            <td>Currency withdrawal possibility status (true/false).</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>deposit_fee</td>
-            <td>string</td>
-            <td>Currency deposit fee<br><em>Example:</em> <code>"0.0"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>min_deposit_amount</td>
-            <td>string</td>
-            <td>Minimal deposit amount<br><em>Example:</em> <code>"0.0000356"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>withdraw_fee</td>
-            <td>string</td>
-            <td>Currency withdraw fee<br><em>Example:</em> <code>"0.0"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>min_withdraw_amount</td>
-            <td>string</td>
-            <td>Minimal withdraw amount<br><em>Example:</em> <code>"0.0"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>withdraw_limit_24h</td>
-            <td>string</td>
-            <td>Currency 24h withdraw limit<br><em>Example:</em> <code>"0.1"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>withdraw_limit_72h</td>
-            <td>string</td>
-            <td>Currency 72h withdraw limit<br><em>Example:</em> <code>"0.2"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>base_factor</td>
-            <td>string</td>
-            <td>Currency base factor<br><em>Example:</em> <code>100000000</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>precision</td>
-            <td>string</td>
-            <td>Currency precision<br><em>Example:</em> <code>8</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>position</td>
-            <td>string</td>
-            <td>Position used for defining currencies order<br><em>Example:</em> <code>8</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>icon_url</td>
-            <td>string</td>
-            <td>Currency icon<br><em>Example:</em> <code>"https://upload.wikimedia.org/Ethereum_logo_2014.svg"</code></td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>min_confirmations</td>
-            <td>string</td>
-            <td>Number of confirmations required for confirming deposit or withdrawal</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>string</td>
+   <td>Currency code.<br /><em>Example:</em> <code>"btc"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>name</td>
+   <td>string</td>
+   <td>Currency name<br /><em>Example:</em> <code>"Bitcoin"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>description</td>
+   <td>string</td>
+   <td>Currency description<br /><em>Example:</em> <code>"btc"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>homepage</td>
+   <td>string</td>
+   <td>Currency homepage<br /><em>Example:</em> <code>{}</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>parent_id</td>
+   <td>string</td>
+   <td>Currency parent id<br /><em>Example:</em> <code>{}</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>price</td>
+   <td>string</td>
+   <td>Currency current price</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>explorer_transaction</td>
+   <td>string</td>
+   <td>Currency transaction exprorer url template<br /><em>Example:</em> <code>"https://testnet.blockchain.info/tx/"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>explorer_address</td>
+   <td>string</td>
+   <td>Currency address exprorer url template<br /><em>Example:</em> <code>"https://testnet.blockchain.info/address/"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>type</td>
+   <td>string</td>
+   <td>Currency type<br /><em>Example:</em> <code>"coin"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>deposit_enabled</td>
+   <td>string</td>
+   <td>Currency deposit possibility status (true/false).</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>withdrawal_enabled</td>
+   <td>string</td>
+   <td>Currency withdrawal possibility status (true/false).</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>deposit_fee</td>
+   <td>string</td>
+   <td>Currency deposit fee<br /><em>Example:</em> <code>"0.0"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>min_deposit_amount</td>
+   <td>string</td>
+   <td>Minimal deposit amount<br /><em>Example:</em> <code>"0.0000356"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>withdraw_fee</td>
+   <td>string</td>
+   <td>Currency withdraw fee<br /><em>Example:</em> <code>"0.0"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>min_withdraw_amount</td>
+   <td>string</td>
+   <td>Minimal withdraw amount<br /><em>Example:</em> <code>"0.0"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>withdraw_limit_24h</td>
+   <td>string</td>
+   <td>Currency 24h withdraw limit<br /><em>Example:</em> <code>"0.1"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>withdraw_limit_72h</td>
+   <td>string</td>
+   <td>Currency 72h withdraw limit<br /><em>Example:</em> <code>"0.2"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>base_factor</td>
+   <td>string</td>
+   <td>Currency base factor<br /><em>Example:</em> <code>100000000</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>precision</td>
+   <td>string</td>
+   <td>Currency precision<br /><em>Example:</em> <code>8</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>position</td>
+   <td>string</td>
+   <td>Position used for defining currencies order<br /><em>Example:</em> <code>8</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>icon_url</td>
+   <td>string</td>
+   <td>Currency icon<br /><em>Example:</em> <code>"https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg"</code></td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>min_confirmations</td>
+   <td>string</td>
+   <td>Number of confirmations required for confirming deposit or withdrawal</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="withdraw">Withdraw</h4>
+   <h4>InternalTransfer</h4>
+   <p>List your internal transfers as paginated collection.</p>
+   <table>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>currency</td>
+   <td>string</td>
+   <td>The currency code.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>sender_username</td>
+   <td>string</td>
+   <td>The internal transfer sender.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>receiver_username</td>
+   <td>string</td>
+   <td>The internal transfer receiver.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>sender_uid</td>
+   <td>string</td>
+   <td>The internal transfer sender.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>receiver_uid</td>
+   <td>string</td>
+   <td>The internal transfer receiver.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>direction</td>
+   <td>string</td>
+   <td>The internal transfer direction (incoming or outcoming internal transfer).</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>amount</td>
+   <td>double</td>
+   <td>Internal transfer Amount.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>status</td>
+   <td>string</td>
+   <td>The internal transfer state.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>created_at</td>
+   <td>string</td>
+   <td>The datetimes for the internal transfer.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>updated_at</td>
+   <td>string</td>
+   <td>The datetimes for the internal transfer.</td>
+   <td>No</td>
+   </tr>
+   </tbody>
+   </table>
+   <h4>Withdraw</h4>
    <p>List your withdraws as paginated collection.</p>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>integer</td>
-            <td>The withdrawal id.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>currency</td>
-            <td>string</td>
-            <td>The currency code.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>type</td>
-            <td>string</td>
-            <td>The withdrawal type</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>amount</td>
-            <td>string</td>
-            <td>The withdrawal amount</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>fee</td>
-            <td>double</td>
-            <td>The exchange fee.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>blockchain_txid</td>
-            <td>string</td>
-            <td>The withdrawal transaction id.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>rid</td>
-            <td>string</td>
-            <td>The beneficiary ID or wallet address on the Blockchain.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>state</td>
-            <td>string</td>
-            <td>The withdrawal state.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>confirmations</td>
-            <td>integer</td>
-            <td>Number of confirmations.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>note</td>
-            <td>string</td>
-            <td>Withdraw note.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>transfer_type</td>
-            <td>string</td>
-            <td>Withdraw transfer type</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>created_at</td>
-            <td>string</td>
-            <td>The datetimes for the withdrawal.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>updated_at</td>
-            <td>string</td>
-            <td>The datetimes for the withdrawal.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>done_at</td>
-            <td>string</td>
-            <td>The datetime when withdraw was completed</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>integer</td>
+   <td>The withdrawal id.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>currency</td>
+   <td>string</td>
+   <td>The currency code.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>type</td>
+   <td>string</td>
+   <td>The withdrawal type</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>amount</td>
+   <td>string</td>
+   <td>The withdrawal amount</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>fee</td>
+   <td>double</td>
+   <td>The exchange fee.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>blockchain_txid</td>
+   <td>string</td>
+   <td>The withdrawal transaction id.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>rid</td>
+   <td>string</td>
+   <td>The beneficiary ID or wallet address on the Blockchain.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>state</td>
+   <td>string</td>
+   <td>The withdrawal state.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>confirmations</td>
+   <td>integer</td>
+   <td>Number of confirmations.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>note</td>
+   <td>string</td>
+   <td>Withdraw note.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>transfer_type</td>
+   <td>string</td>
+   <td>Withdraw transfer type</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>created_at</td>
+   <td>string</td>
+   <td>The datetimes for the withdrawal.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>updated_at</td>
+   <td>string</td>
+   <td>The datetimes for the withdrawal.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>done_at</td>
+   <td>string</td>
+   <td>The datetime when withdraw was completed</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="beneficiary">Beneficiary</h4>
+   <h4>Beneficiary</h4>
    <p>Get list of user beneficiaries</p>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>integer</td>
-            <td>Beneficiary Identifier in Database</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>currency</td>
-            <td>string</td>
-            <td>Beneficiary currency code.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>uid</td>
-            <td>string</td>
-            <td>Beneficiary owner</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>name</td>
-            <td>string</td>
-            <td>Human rememberable name which refer beneficiary.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>description</td>
-            <td>string</td>
-            <td>Human rememberable description of beneficiary.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>data</td>
-            <td>json</td>
-            <td>Bank Account details for fiat Beneficiary in JSON format.For crypto it's blockchain address.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>state</td>
-            <td>string</td>
-            <td>Defines either beneficiary active - user can use it to withdraw moneyor pending - requires beneficiary activation with pin.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>sent_at</td>
-            <td>string</td>
-            <td>Time when last pin was sent</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>integer</td>
+   <td>Beneficiary Identifier in Database</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>currency</td>
+   <td>string</td>
+   <td>Beneficiary currency code.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>uid</td>
+   <td>string</td>
+   <td>Beneficiary owner</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>name</td>
+   <td>string</td>
+   <td>Human rememberable name which refer beneficiary.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>description</td>
+   <td>string</td>
+   <td>Human rememberable description of beneficiary.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>data</td>
+   <td>json</td>
+   <td>Bank Account details for fiat Beneficiary in JSON format.For crypto it's blockchain address.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>state</td>
+   <td>string</td>
+   <td>Defines either beneficiary active - user can use it to withdraw moneyor pending - requires beneficiary activation with pin.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>sent_at</td>
+   <td>string</td>
+   <td>Time when last pin was sent</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="deposit">Deposit</h4>
+   <h4>Deposit</h4>
    <p>Get your deposits history.</p>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>id</td>
-            <td>integer</td>
-            <td>Unique deposit id.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>currency</td>
-            <td>string</td>
-            <td>Deposit currency id.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>amount</td>
-            <td>double</td>
-            <td>Deposit amount.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>fee</td>
-            <td>double</td>
-            <td>Deposit fee.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>txid</td>
-            <td>string</td>
-            <td>Deposit transaction id.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>confirmations</td>
-            <td>integer</td>
-            <td>Number of deposit confirmations.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>state</td>
-            <td>string</td>
-            <td>Deposit state.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>transfer_type</td>
-            <td>string</td>
-            <td>Deposit transfer type</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>created_at</td>
-            <td>string</td>
-            <td>The datetime when deposit was created.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>completed_at</td>
-            <td>string</td>
-            <td>The datetime when deposit was completed..</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>tid</td>
-            <td>string</td>
-            <td>The shared transaction ID</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>id</td>
+   <td>integer</td>
+   <td>Unique deposit id.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>currency</td>
+   <td>string</td>
+   <td>Deposit currency id.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>amount</td>
+   <td>double</td>
+   <td>Deposit amount.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>fee</td>
+   <td>double</td>
+   <td>Deposit fee.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>txid</td>
+   <td>string</td>
+   <td>Deposit transaction id.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>confirmations</td>
+   <td>integer</td>
+   <td>Number of deposit confirmations.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>state</td>
+   <td>string</td>
+   <td>Deposit state.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>transfer_type</td>
+   <td>string</td>
+   <td>Deposit transfer type</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>created_at</td>
+   <td>string</td>
+   <td>The datetime when deposit was created.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>completed_at</td>
+   <td>string</td>
+   <td>The datetime when deposit was completed..</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>tid</td>
+   <td>string</td>
+   <td>The shared transaction ID</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="account">Account</h4>
+   <h4>Account</h4>
    <p>Get list of user accounts</p>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>currency</td>
-            <td>string</td>
-            <td>Currency code.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>balance</td>
-            <td>double</td>
-            <td>Account balance.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>locked</td>
-            <td>double</td>
-            <td>Account locked funds.</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>currency</td>
+   <td>string</td>
+   <td>Currency code.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>balance</td>
+   <td>double</td>
+   <td>Account balance.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>locked</td>
+   <td>double</td>
+   <td>Account locked funds.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>deposit_address</td>
+   <td><a href="#paymentaddress">PaymentAddress</a></td>
+   <td>User deposit address</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="transactions">Transactions</h4>
+   <h4>PaymentAddress</h4>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>address</td>
-            <td>string</td>
-            <td>Recipient address of transaction.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>currency</td>
-            <td>string</td>
-            <td>Transaction currency id.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>amount</td>
-            <td>double</td>
-            <td>Transaction amount.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>fee</td>
-            <td>double</td>
-            <td>Transaction fee.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>txid</td>
-            <td>string</td>
-            <td>Transaction id.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>state</td>
-            <td>string</td>
-            <td>Transaction state.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>note</td>
-            <td>string</td>
-            <td>Withdraw note.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>confirmations</td>
-            <td>integer</td>
-            <td>Number of confirmations.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>created_at</td>
-            <td>string</td>
-            <td>Transaction created time in iso8601 format.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>updated_at</td>
-            <td>string</td>
-            <td>Transaction updated time in iso8601 format.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>type</td>
-            <td>string</td>
-            <td>Type of transaction</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>currencies</td>
+   <td>[ string ]</td>
+   <td>Currencies codes.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>address</td>
+   <td>string</td>
+   <td>Payment address.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>state</td>
+   <td>string</td>
+   <td>Payment address state.</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
-   <h4 id="member">Member</h4>
+   <h4>Transactions</h4>
    <table>
-      <thead>
-         <tr>
-            <th>Name</th>
-            <th>Type</th>
-            <th>Description</th>
-            <th>Required</th>
-         </tr>
-      </thead>
-      <tbody>
-         <tr>
-            <td>uid</td>
-            <td>string</td>
-            <td>Member UID.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>email</td>
-            <td>string</td>
-            <td>Member email.</td>
-            <td>No</td>
-         </tr>
-         <tr>
-            <td>accounts</td>
-            <td><a href="#account">Account</a></td>
-            <td>Member accounts.</td>
-            <td>No</td>
-         </tr>
-      </tbody>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>address</td>
+   <td>string</td>
+   <td>Recipient address of transaction.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>currency</td>
+   <td>string</td>
+   <td>Transaction currency id.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>amount</td>
+   <td>double</td>
+   <td>Transaction amount.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>fee</td>
+   <td>double</td>
+   <td>Transaction fee.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>txid</td>
+   <td>string</td>
+   <td>Transaction id.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>state</td>
+   <td>string</td>
+   <td>Transaction state.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>note</td>
+   <td>string</td>
+   <td>Withdraw note.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>confirmations</td>
+   <td>integer</td>
+   <td>Number of confirmations.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>created_at</td>
+   <td>string</td>
+   <td>Transaction created time in iso8601 format.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>updated_at</td>
+   <td>string</td>
+   <td>Transaction updated time in iso8601 format.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>type</td>
+   <td>string</td>
+   <td>Type of transaction</td>
+   <td>No</td>
+   </tr>
+   </tbody>
+   </table>
+   <h4>Member</h4>
+   <table>
+   <thead>
+   <tr>
+   <th>Name</th>
+   <th>Type</th>
+   <th>Description</th>
+   <th>Required</th>
+   </tr>
+   </thead>
+   <tbody>
+   <tr>
+   <td>uid</td>
+   <td>string</td>
+   <td>Member UID.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>email</td>
+   <td>string</td>
+   <td>Member email.</td>
+   <td>No</td>
+   </tr>
+   <tr>
+   <td>accounts</td>
+   <td>[ <a href="#account">Account</a> ]</td>
+   <td>Member accounts.</td>
+   <td>No</td>
+   </tr>
+   </tbody>
    </table>
 </div>
       <script>
