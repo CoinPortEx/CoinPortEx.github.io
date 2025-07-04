@@ -461,7 +461,7 @@ body.dark-mode .pg-corporate-entityl3 {
 
 .pg-apidocs-wrapper {
   max-width: 1000px;
-  padding: 30p !important;
+  padding: 30px !important;
   width: 100%;
 
   @media screen and (max-width: 768px) { 
