@@ -18,6 +18,7 @@ body.light-mode  {
 }
 
 body.dark-mode  {
+  background: #00193c !important;
   color: #ffffff !important;
 }
 
@@ -428,7 +429,7 @@ strong {
 }
 
 body.dark-mode .pg-corporate-wrapper {
-  background: #001932 !important;
+  background: #00193c !important;
 }
 
 .pg-corporate-entityl3 {
@@ -467,10 +468,6 @@ body.dark-mode .pg-corporate-entityl3 {
   @media screen and (max-width: 768px) { 
     padding: 15px !important;
   }
-}
-
-body.dark-mode .pg-apidocs-wrapper {
-  background: #001932 !important;
 }
 
 .pg-apidocs-wrapper th {
