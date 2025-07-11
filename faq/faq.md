@@ -21,7 +21,7 @@ CoinPort is a licensed Australian cryptocurrency exchange that allows users to b
 Yes, CoinPort is a fully licensed and regulated cryptocurrency exchange operating under Australian financial laws. We comply with AUSTRAC regulations for anti-money laundering (AML) and counter-terrorism financing (CTF).
 
 ### **3. Which cryptocurrencies does CoinPort support?**
-We support a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many others. For a full list of supported assets, visit our [Research](https://www.coinport.com.au/research) page.
+We support a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many others. For a full list of supported assets, visit our <a href="https:///www.coinport.com.au" target="_blank">Research</a> page.
 
 ### **4. Can I use CoinPort outside Australia?**
 Currently, CoinPort primarily serves Australian residents. Some features may be restricted for users outside Australia due to regulatory requirements.
@@ -38,7 +38,7 @@ You can reach us via:
 ## **Account Setup & Verification**
 
 ### **1. How do I create a CoinPort account?**
-1. Visit [CoinPort’s website](https:///www.coinport.com.au) and click **"Sign Up."**
+1. Visit <a href="https:///www.coinport.com.au" target="_blank">CoinPort’s website</a> and click **"Sign Up."**
 2. Enter your email, create a password, and agree to the terms.
 3. Verify your email via the confirmation link sent to your inbox.
 4. Complete identity verification (KYC) to unlock full account features.
@@ -155,7 +155,8 @@ Yes, we provide **tax reports** for users to simplify crypto tax filings.
 We monitor transactions and may request additional details for large or suspicious activity.
 
 ### **3. Where can I find CoinPort’s Terms of Service?**
-View our [Terms & Conditions](https://www.coinport.com.au/legal/terms) and [Privacy Policy](https://www.coinport.com.au/legal/privacy) on our website.
+View our <a href="https://www.coinport.com.au/legal/terms" target="_blank">Terms & Conditions</a>
+ and <a href="https://www.coinport.com.au/legal/privacy" target="_blank">Privacy Policy</a> on our website.
 
 ---
 
