@@ -21,7 +21,7 @@ CoinPort is a licensed Australian cryptocurrency exchange that allows users to b
 Yes, CoinPort is a fully licensed and regulated cryptocurrency exchange operating under Australian financial laws. We comply with AUSTRAC regulations for anti-money laundering (AML) and counter-terrorism financing (CTF).
 
 ### **3. Which cryptocurrencies does CoinPort support?**
-We support a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many others. For a full list of supported assets, visit our <a href="https:///www.coinport.com.au" target="_blank">Research</a> page.
+We support a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many others. For a full list of supported assets, visit our <a href="https://www.coinport.com.au/research" target="_parent">Research</a> page.
 
 ### **4. Can I use CoinPort outside Australia?**
 Currently, CoinPort primarily serves Australian residents. Some features may be restricted for users outside Australia due to regulatory requirements.
