@@ -3,7 +3,7 @@ html {
 }
 
 body  {
-  background: transparent;
+  background: #fff;
   color: #00233a;
   font-family: "Poppins", sans serif;
   margin: 10px;
@@ -14,7 +14,7 @@ body  {
 }
 
 body.light-mode  {
-  background: #fff !important;
+  background: #fff;
   color: #00233a;
 }
 
