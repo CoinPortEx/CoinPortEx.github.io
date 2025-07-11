@@ -14,6 +14,7 @@ body  {
 }
 
 body.light-mode  {
+  background: #fff !important;
   color: #00233a;
 }
 
