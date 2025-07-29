@@ -7,7 +7,7 @@ date: 2025-07-29 14:58:15 +1000
 categories: articles
 ---
 
-# **The AI Revolution in Crypto Trading**
+# The AI Revolution in Crypto Trading
 
 ## The Next Generation of Market Making Has Arrived
 
