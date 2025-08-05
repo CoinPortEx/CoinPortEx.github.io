@@ -20,4 +20,4 @@ Since 2024 we have been rebranding "Coin Harbour" as "CoinPort", and the busines
 
 The reason for the rebranding was that "Coin Harbour" was considered too long and ambiguous as a name. Having two spelling ("Harbour" and "Harbor") options has also created confusion in some markets.
 
-[ASIC Registration of Business Name COINPORT EXCHANGE](https://doc.coinport.com.au/legal/docs/ASIC_Certificate_Business_Name_CoinPort_Exchange.PDF)
+[ASIC Registration of Business Name COINPORT EXCHANGE](https://doc.coinport.com.au/legal/docs/ASIC_Certificate_Business_Name_CoinPort_Exchange.pdf)
