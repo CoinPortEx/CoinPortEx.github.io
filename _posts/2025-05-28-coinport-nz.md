@@ -9,20 +9,20 @@ categories: corporate
 
 # CoinPort Limited incorporated in New Zealand
 
-## A new company "CoinPort Limited" has been incorporated in New Zealand to facilitate expansion across the Tasman.
+## "CoinPort Limited" has been incorporated in New Zealand to facilitate expansion across the Tasman.
 
 To facilitiate an expansion of operations into the New Zealand market, we have incorporaed a new company with the New Zealand Companies Office.
 
 ### The company details are: 
 |  |  |
-|--|--|
-|Name: | COINPORT LIMITED (9345796) |
-|NZBN: | 9429052873836 |
-|Entity Type: | NZ Limited Company |
-|Address: | Level 8, 139 Quay Street, Auckland Central, Auckland, 1010, |
+|----|----|
+| Name: | COINPORT LIMITED (9345796) |
+| NZBN: | 9429052873836 |
+| Entity Type: | NZ Limited Company |
+| Address: | Level 8, 139 Quay Street, Auckland Central, Auckland, 1010, |
 
 ### Financial Markets Authority (FMA) Registration
 
 The new company will register as a Financial Service Provider (FSP) with New Zealand's FMA under the Financial Service Providers Act 2008. Crypto exchanges are classified as "Financial Service Providers – Crypto Asset Services."
 
-[NZCO COINPORT Limited Company Extract](https://doc.coinport.com.au/legal/docs/NZCO_COINPORT_Company_Extract.pdf)
+[NZCO COINPORT Limited - Company Extract](https://doc.coinport.com.au/legal/docs/NZCO_COINPORT_Company_Extract.pdf)

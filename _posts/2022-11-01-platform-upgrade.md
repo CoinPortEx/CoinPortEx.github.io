@@ -1,11 +1,13 @@
 ---
 layout: post
 title: CoinPort Exchange Platform Upgrade
+description: CoinPort Exchange Infrastructure and Platform Upgrade complete.
 date: 2022-11-01 15:01:29 +1000
 categories: news
 ---
-## CoinPort Exchange Platform Upgrade
-## CoinPort Exchange Platform Upgrade
+# CoinPort Exchange Platform Upgrade
+
+## CoinPort Exchange Infrastructure and Platform Upgrade  has been completed
 
 This week an upgrade to the CoinPort exchange technology platform went live.
 
