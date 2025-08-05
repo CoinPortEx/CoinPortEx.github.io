@@ -1,34 +1,23 @@
 ---
-title: Article Title
+title: Business Name "COINPORT EXCHANGE"
 layout: post
-description: Sample description.
+description: ASIC Registration of Business Name "COINPORT EXCHANGE"
 author: CoinPort Exchange
-date:   2020-01-01 15:01:29 +1000
-categories: news
+date:   2025-02-12 15:01:00 +1000
+categories: corporate
 ---
-# Tab Title and URL Description
-# Article Title on Page
+# Business Name "COINPORT EXCHANGE"
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## ASIC Registration of Business Name "COINPORT EXCHANGE"
 
-Jekyll requires blog post files to be named according to the following format:
+### Australian Securities and Investments Commission (ASIC)
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Today we registered the Business Name "COINPORT EXCHANGE". Company, ownership and directors remain unchanged.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Rebranding as "CoinPort"
 
-Jekyll also offers powerful support for code snippets:
+Since 2024 we have been rebranding "Coin Harbour" as "CoinPort", and the business name registration is a step in that process. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+The reason for the rebranding was that "Coin Harbour" was considered too long and ambiguous as a name. Having two spelling ("Harbour" and "Harbor") options has also created confusion in some markets.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[ASIC Registration of Business Name "COINPORT EXCHANGE"](https://doc.coinport.com.au/legal/docs/ASIC_Certificate_Business_Name_CoinPort_Exchange.pdf)

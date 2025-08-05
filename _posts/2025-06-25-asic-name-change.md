@@ -1,34 +1,32 @@
 ---
-title: Article Title
+title: Company Name Change (ASIC)
 layout: post
-description: Sample description.
-author: CoinPort Exchange
-date:   2020-01-01 15:01:29 +1000
-categories: news
+description: Company Name Change (ASIC) from Coin Harbour Pty Ltd to CoinPort Pty Ltd
+author: Compliance
+date:   2025-06-25 15:01:00 +1000
+categories: corporate
 ---
-# Tab Title and URL Description
-# Article Title on Page
+# Company Name Change (ASIC)
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+## Company Name Change (ASIC) from Coin Harbour Pty Ltd to CoinPort Pty Ltd
 
-Jekyll requires blog post files to be named according to the following format:
+### Australian Securities and Investments Commission (ASIC)
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Today we registered a name change request with ASIC from Coin Harbour Pty Ltd to CoinPort Pty Ltd.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+### Other company details remain unchanged: 
+|  |  |
+|----|----|
+| Name: | COINPORT PTY LTD |
+| ACN: | 624 879 223 |
+| ABN: | 12 624 879 223 |
+| DUNS: | 745041557 |
 
-Jekyll also offers powerful support for code snippets:
+### Rebranding as "CoinPort"
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Since 2024 we have been rebranding "Coin Harbour" as "CoinPort", and the company name change is part of that process. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+The reason for the rebranding was that "Coin Harbour" was considered too long and ambiguous as a name. Having two spelling ("Harbour" and "Harbor") options also created confusion in some markets.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[ASIC Certificate of Registration of Name Change](https://doc.coinport.com.au/legal/docs/ASIC_CoinHarbour_Name_Change_CoinPort.pdf)
+
