@@ -14,7 +14,8 @@ categories: corporate
 To facilitiate an expansion of operations into the New Zealand market, we have incorporaed a new company with the New Zealand Companies Office.
 
 ### The company details are: 
-|  |  |
+
+|   |   |
 |----|----|
 | Name: | COINPORT LIMITED (9345796) |
 | NZBN: | 9429052873836 |
