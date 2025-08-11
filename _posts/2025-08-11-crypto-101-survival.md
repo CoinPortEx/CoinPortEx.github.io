@@ -8,6 +8,7 @@ categories: articles
 ---
 
 # Crypto 101 Survival: Navigating the Wild World of Crypto with CoinPort and Beyond
+# Crypto 101 Survival: Navigating the Wild World of Crypto with CoinPort and Beyond
 
 Righto, new users and investors, listen up! Diving into crypto can feel like venturing into the outback during the bushranging days – thrilling, but full of risks if you’re not prepared. The space is teeming with scammers looking to nab your hard-earned cash, so let’s get you sorted with the basics to survive and thrive.
 
