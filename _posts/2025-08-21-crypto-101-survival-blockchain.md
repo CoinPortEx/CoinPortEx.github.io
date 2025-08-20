@@ -1,7 +1,7 @@
 ---
-title: Crypto 101 Survival: Understanding Blockchain, the Backbone of Crypto
+title: "Crypto 101 Survival: Understanding Blockchain, the Backbone of Crypto"
 layout: post
-description: A beginner's guide to blockchain technology, exploring its types, consensus mechanisms like Proof of Work and Proof of Stake, and why you don't need to buy a whole Bitcoin to start your crypto journey with CoinPort Exchange"
+description: "A beginner's guide to blockchain technology, exploring its types, consensus mechanisms like Proof of Work and Proof of Stake, and why you don't need to buy a whole Bitcoin to start your crypto journey with CoinPort Exchange"
 author: CoinPort Exchange
 date: 2025-08-21 16:00:00 +1000
 categories: articles
@@ -34,7 +34,7 @@ Not every blockchain is built the same way. Different types serve different purp
 - **Layer 2 Blockchains**: Built on top of public blockchains to boost speed and cut costs. Examples include Base (for Ethereum) or Lightning Network (for Bitcoin). These are beginner-friendly for fast, cheap transactions.
 - **Sidechains**: Independent blockchains linked to a main chain (e.g., Avalanche’s subnets). They’re great for specific use cases like gaming or DeFi, offering flexibility for cross-chain enthusiasts.
 
-If you're just getting started, focus on **public blockchains** like Bitcoin, Ethereum, or Solana, as they power most coins and dApps you’ll encounter. Want to explore a specific chain? Double-check its compatibility with wallets like MetaMask or Phantom (see our previous Crypto 101 guide for wallet tips).
+If you're just getting started, focus on **public blockchains** like Bitcoin, Ethereum, or Solana, as they power most coins and dApps you’ll encounter. Want to explore a specific chain? Double-check its compatibility with wallets like MetaMask or Phantom (see our previous [Crypto 101 guide](https://www.youtube.com/watch?v=LVCJ8wgCROY) for wallet tips).
 
 ## Consensus Mechanisms: How Blockchains Stay Secure
 
@@ -54,7 +54,7 @@ Blockchains need agreement on which transactions are valid – that’s where co
   - **Used By**: Ethereum (since 2022), Solana, Cardano, Polygon.
   - **Why It Matters**: PoS chains like Solana are beginner-friendly for fast, cheap transactions and DeFi. You can stake coins on CoinPort or wallets like Solflare to earn rewards.
 
-**Which Is Better?** It depends. PoW is ultra-secure for Bitcoin, while PoS powers the speed and scalability of DeFi on Ethereum or Solana. Both are trustworthy for beginners, but check the chain’s consensus before investing – it affects speed, fees, and whether you can passively stake or not. 
+**Which Is Better?** It depends. PoW is ultra-secure for Bitcoin, while PoS powers the speed and scalability of DeFi on Ethereum or Solana. Both are trustworthy for beginners, but check the chain’s consensus before investing – it affects speed, fees, and whether you can passively stake or not.
 
 ## Transaction Models: How Blockchains Track Funds
 
@@ -83,7 +83,7 @@ A common rookie mistake is thinking you need to buy a whole Bitcoin to get start
   - $100 buys you ~55,555 Satoshis at $180,000/BTC.
   - $10 buys you ~5,555 Satoshis.
 - **Why It Matters**: You can start with as little as $5 on CoinPort Exchange, where our zero-fee AUD deposits and Zero Trading fees make it easy to dip your toes. Think of it like buying a slice of a pizza – you don’t need the whole pizza to enjoy it.
-- **Practical Tip**: Use **Dollar-Cost Averaging (DCA)** to buy small amounts regularly (e.g., $20/week). This smooths out Bitcoin’s price swings (it’s had 20% daily drops before) and builds your stack over time.  CoinPort’s user-friendly interface makes buying and selling easy and smooth.
+- **Practical Tip**: Use **Dollar-Cost Averaging (DCA)** to buy small amounts regularly (e.g., $20/week). This smooths out Bitcoin’s price swings (it’s had 20% daily drops before) and builds your stack over time. CoinPort’s user-friendly interface makes buying and selling easy and smooth.
 
 Don’t let Bitcoin’s price tag scare you. Even owning 0.001 BTC puts you in the game.
 
