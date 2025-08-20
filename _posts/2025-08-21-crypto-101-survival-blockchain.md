@@ -8,6 +8,7 @@ categories: articles
 ---
 
 # Crypto 101 Survival: Understanding Blockchain, the Backbone of Crypto
+# Crypto 101 Survival: Understanding Blockchain, the Backbone of Crypto
 
 We're back with another round of Crypto 101 Survival. If you’re new to the crypto outback, you’ve probably heard “blockchain” tossed around like it’s the key to unlocking Bitcoin’s riches or Ethereum’s DeFi magic. And guess what? It kind of is. Blockchain’s the engine that keeps crypto ticking securely without banks or dodgy middlemen. In this latest survival guide, we’re diving into what makes blockchain tick, the different types out there, the showdown between Proof of Work and Proof of Stake, and – big one for newbies – why you don’t need to fork out for a whole Bitcoin to get started. Strap in, and let’s navigate this decentralized jungle with CoinPort Exchange as your trusty guide!
 
