@@ -1,12 +1,11 @@
 ---
-title: Crypto 101 Survival: Understanding Blockchain, the Backbone of Crypto
+title: "Crypto 101 Survival: Understanding Blockchain, the Backbone of Crypto"
 layout: post
-description: A beginner’s guide to blockchain technology, exploring its types, consensus mechanisms like Proof of Work and Proof of Stake, and why you don’t need to buy a whole Bitcoin to start your crypto journey with CoinPort Exchange
+description: "A beginner's guide to blockchain technology, exploring its types, consensus mechanisms like Proof of Work and Proof of Stake, and why you don't need to buy a whole Bitcoin to start your crypto journey with CoinPort Exchange"
 author: CoinPort Exchange
 date: 2025-08-21 16:00:00 +1000
 categories: articles
 ---
-
 # Crypto 101 Survival: Understanding Blockchain, the Backbone of Crypto
 
 We're back with another round of Crypto 101 Survival. If you’re new to the crypto outback, you’ve probably heard “blockchain” tossed around like it’s the key to unlocking Bitcoin’s riches or Ethereum’s DeFi magic. And guess what? It kind of is. Blockchain’s the engine that keeps crypto ticking securely without banks or dodgy middlemen. In this latest survival guide, we’re diving into what makes blockchain tick, the different types out there, the showdown between Proof of Work and Proof of Stake, and – big one for newbies – why you don’t need to fork out for a whole Bitcoin to get started. Strap in, and let’s navigate this decentralized jungle with CoinPort Exchange as your trusty guide!
