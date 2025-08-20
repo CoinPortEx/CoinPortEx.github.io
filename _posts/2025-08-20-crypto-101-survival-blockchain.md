@@ -3,7 +3,7 @@ title: "Crypto 101 Survival: Understanding Blockchain, the Backbone of Crypto"
 layout: post
 description: "A beginner's guide to blockchain technology, exploring its types, consensus mechanisms like Proof of Work and Proof of Stake, and why you don't need to buy a whole Bitcoin to start your crypto journey with CoinPort Exchange"
 author: CoinPort Exchange
-date: 2025-08-21 16:00:00 +1000
+date: 2025-08-20 16:00:00 +1000
 categories: articles
 ---
 
