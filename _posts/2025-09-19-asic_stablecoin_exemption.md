@@ -8,6 +8,7 @@ categories: news
 ---
 
 ### **Headline: ASIC Greenlights Australian Dollar Stablecoins: A Major Win for Crypto Innovation Down Under**
+### **Headline: ASIC Greenlights Australian Dollar Stablecoins: A Major Win for Crypto Innovation Down Under**
 
 Great news for the Australian cryptocurrency ecosystem! The Australian Securities and Investments Commission (ASIC) has just taken a significant step to support innovation by granting regulatory exemptions for the distribution of Australian dollar-denominated stablecoins.
 
