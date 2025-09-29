@@ -4,7 +4,7 @@ layout: post
 description: "Cloudflare's USD-backed stablecoin marks a pivotal moment in the stablecoin surge, with massive implications for AI, payments, and crypto innovation"
 author: "CoinPort Exchange"
 date: 2025-09-29 08:00:00 +1000
-categories: [news]
+categories: news
 ---
 
 ### **Headline: Cloudflare Enters the Stablecoin Arena with Net Dollar: A Game-Changer for AI and the Evolving Crypto Landscape**
