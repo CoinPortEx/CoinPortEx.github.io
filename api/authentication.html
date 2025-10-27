@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn how to authenticate API requests to CoinPort's cryptocurrency trading platform using Bearer Token (JWT) authentication.">
+    <meta name="keywords" content="CoinPort API, authentication, JWT, Bearer token, cryptocurrency API, trading API">
+    <meta name="author" content="CoinPort Pty Ltd">
+    <meta property="og:title" content="Authentication Guide - CoinPort API">
+    <meta property="og:description" content="Complete guide to authenticating with CoinPort API using JWT tokens">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.coinport.com.au/api/authentication.html">
+    <title>Authentication Guide - CoinPort API</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <style>
+        :root {
+            /* CoinPort Brand Colors from Design System - Light Mode */
+            --primary-cta-color: rgb(0, 120, 240);
+            --contrast-cta-color: rgb(250, 200, 72);
+            --secondary-contrast-cta-color: rgb(255, 144, 104);
+
+            --primary-text-color: rgb(0, 35, 58);
+            --text-contrast-color: rgb(120, 120, 120);
+
+            --main-background-color: rgb(255, 255, 255);
+            --body-background-color: rgb(243, 244, 250);
+            --header-background-color: rgb(0, 35, 85);
+            --subheader-background-color: rgb(255, 255, 255);
+
+            --input-background-color: rgb(243, 244, 250);
+            --input-border-color: rgb(243, 244, 250);
+            --divider-color: rgb(200, 200, 200);
+            --table-border-color: rgb(230, 230, 230);
+        }
+
+        body.dark-mode {
+            /* CoinPort Brand Colors from Design System - Dark Mode */
+            --primary-cta-color: rgb(0, 120, 240);
+            --contrast-cta-color: rgb(250, 200, 72);
+            --secondary-contrast-cta-color: rgb(246, 92, 85);
+
+            --primary-text-color: rgb(255, 255, 255);
+            --text-contrast-color: rgb(245, 245, 245);
+
+            --main-background-color: rgb(0, 25, 60);
+            --body-background-color: rgb(0, 35, 85);
+            --header-background-color: rgb(0, 25, 60);
+            --subheader-background-color: rgb(15, 26, 61);
+
+            --input-background-color: rgb(0, 35, 90);
+            --input-border-color: rgb(0, 35, 90);
+            --divider-color: rgb(55, 55, 55);
+            --table-border-color: rgb(30, 55, 95);
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: "Poppins", sans-serif;
+            font-size: 15px;
+            line-height: 1.6;
+            background: var(--main-background-color);
+            color: var(--primary-text-color);
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .back-link {
+            display: inline-block;
+            color: var(--primary-cta-color);
+            text-decoration: none;
+            font-size: 14px;
+            margin-bottom: 30px;
+        }
+
+        body.dark-mode .back-link {
+            color: var(--contrast-cta-color);
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+
+        h1 {
+            color: var(--primary-cta-color);
+            font-size: 32px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+
+        body.dark-mode h1 {
+            color: var(--primary-text-color);
+        }
+
+        h2 {
+            color: var(--primary-text-color);
+            font-size: 24px;
+            font-weight: 600;
+            margin-top: 40px;
+            margin-bottom: 15px;
+        }
+
+        h3 {
+            color: var(--primary-cta-color);
+            font-size: 18px;
+            font-weight: 600;
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+
+        body.dark-mode h3 {
+            color: var(--primary-text-color);
+        }
+
+        p {
+            margin: 10px 0;
+            color: var(--text-contrast-color);
+        }
+
+        code {
+            background: rgba(0, 120, 240, 0.1);
+            color: var(--primary-cta-color);
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-size: 14px;
+        }
+
+        body.dark-mode code {
+            background: rgba(250, 200, 72, 0.15);
+            color: var(--contrast-cta-color);
+        }
+
+        pre {
+            background: var(--input-background-color);
+            border: 1px solid var(--table-border-color);
+            border-radius: 8px;
+            padding: 20px;
+            overflow-x: auto;
+            margin: 15px 0;
+        }
+
+        body.dark-mode pre {
+            background: var(--input-background-color);
+            border: 1px solid var(--table-border-color);
+        }
+
+        pre code {
+            background: none;
+            color: inherit;
+            padding: 0;
+        }
+
+        .info-box {
+            background: rgba(0, 120, 240, 0.08);
+            border-left: 4px solid var(--primary-cta-color);
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+
+        body.dark-mode .info-box {
+            background: var(--input-background-color);
+            border-left-color: var(--contrast-cta-color);
+        }
+
+        .warning-box {
+            background: rgba(255, 144, 104, 0.1);
+            border-left: 4px solid var(--secondary-contrast-cta-color);
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+
+        body.dark-mode .warning-box {
+            background: rgba(246, 92, 85, 0.15);
+            border-left-color: var(--secondary-contrast-cta-color);
+        }
+
+        .step {
+            background: var(--body-background-color);
+            border-radius: 8px;
+            padding: 20px;
+            margin: 15px 0;
+        }
+
+        body.dark-mode .step {
+            background: var(--subheader-background-color);
+        }
+
+        .step-number {
+            display: inline-block;
+            background: var(--primary-cta-color);
+            color: white;
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 32px;
+            font-weight: 600;
+            margin-right: 10px;
+        }
+
+        ul, ol {
+            margin: 15px 0 15px 30px;
+        }
+
+        li {
+            margin: 8px 0;
+            color: var(--text-contrast-color);
+        }
+
+        a {
+            color: var(--primary-cta-color);
+            text-decoration: none;
+        }
+
+        body.dark-mode a {
+            color: var(--contrast-cta-color);
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        hr {
+            border: none;
+            border-top: 1px solid var(--divider-color);
+            margin: 40px 0;
+        }
+
+        /* Theme toggle button */
+        .theme-toggle {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            background: var(--body-background-color);
+            color: var(--primary-text-color);
+            border: 1px solid var(--table-border-color);
+            outline: none;
+            padding: 10px 14px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 22px;
+            z-index: 1000;
+            transition: all 0.3s;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .theme-toggle:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        .theme-toggle:focus {
+            outline: none;
+            box-shadow: none;
+        }
+
+        .theme-toggle:active {
+            outline: none;
+            box-shadow: none;
+        }
+
+        body.dark-mode .theme-toggle {
+            background: transparent;
+            color: var(--contrast-cta-color);
+        }
+
+        /* Bootstrap icon styling */
+        .theme-toggle i {
+            display: block;
+            line-height: 1;
+        }
+    </style>
+</head>
+<body>
+    <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">
+        <span id="theme-icon">🌙</span>
+    </button>
+    <div class="container">
+        <a href="./" class="back-link">← Back to API Documentation</a>
+        
+        <h1>Authentication Guide</h1>
+        <p>Learn how to authenticate your API requests to access CoinPort's trading platform programmatically.</p>
+        
+        <h2>Overview</h2>
+        <p>CoinPort API uses <strong>Bearer Token Authentication (JWT)</strong> to secure API endpoints. You'll need to obtain an API key from your CoinPort account and include it in the Authorization header of your requests.</p>
+        
+        <div class="info-box">
+            <p style="margin: 0;"><strong><i class="bi bi-pin-angle-fill"></i> Note:</strong> Public endpoints (market data, currencies, tickers) do not require authentication. Only account-specific operations require an API key.</p>
+        </div>
+        
+        <h2>Getting Your API Keys</h2>
+        
+        <div class="step">
+            <h3><span class="step-number">1</span>Log in to CoinPort</h3>
+            <p>Visit <a href="https://www.coinport.com.au" target="_blank">www.coinport.com.au</a> and log in to your account.</p>
+        </div>
+        
+        <div class="step">
+            <h3><span class="step-number">2</span>Navigate to API Settings</h3>
+            <p>In the top navigation menu, click on <strong>Profile</strong>, then select <strong>API Keys</strong> from the dropdown menu.</p>
+        </div>
+
+        <div class="step">
+            <h3><span class="step-number">3</span>Generate New API Key</h3>
+            <p>In the API Keys section, click <strong>"Generate New API Key"</strong> or <strong>"Create API Key"</strong> and choose the permissions you need:</p>
+            <ul>
+                <li><strong>Read Only</strong> - View account information and balances</li>
+                <li><strong>Trade</strong> - Execute orders and manage positions</li>
+                <li><strong>Withdraw</strong> - Create withdrawal requests (requires 2FA)</li>
+            </ul>
+        </div>
+        
+        <div class="step">
+            <h3><span class="step-number">4</span>Save Your API Key</h3>
+            <p>Copy and securely store your API key. For security reasons, it will only be shown once.</p>
+        </div>
+        
+        <div class="warning-box">
+            <p style="margin: 0;"><strong><i class="bi bi-exclamation-triangle-fill"></i> Security Warning:</strong> Never share your API keys or commit them to version control. Store them securely using environment variables or a secrets manager.</p>
+        </div>
+        
+        <h2>Making Authenticated Requests</h2>
+        
+        <h3>Bearer Token Authentication</h3>
+        <p>Include your API key in the <code>Authorization</code> header with the <code>Bearer</code> prefix:</p>
+        
+        <pre><code>Authorization: Bearer YOUR_JWT_TOKEN</code></pre>
+        
+        <h2>Code Examples</h2>
+        
+        <h3>cURL</h3>
+        <pre><code>curl -X GET https://www.coinport.com.au/api/v2/peatio/account/balances \
+  -H "Authorization: Bearer YOUR_JWT_TOKEN" \
+  -H "Content-Type: application/json"</code></pre>
+        
+        <h3>Python</h3>
+        <pre><code>import requests
+
+url = "https://www.coinport.com.au/api/v2/peatio/account/balances"
+headers = {
+    "Authorization": "Bearer YOUR_JWT_TOKEN",
+    "Content-Type": "application/json"
+}
+
+response = requests.get(url, headers=headers)
+print(response.json())</code></pre>
+        
+        <h3>JavaScript (Node.js)</h3>
+        <pre><code>const axios = require('axios');
+
+const url = 'https://www.coinport.com.au/api/v2/peatio/account/balances';
+const headers = {
+    'Authorization': 'Bearer YOUR_JWT_TOKEN',
+    'Content-Type': 'application/json'
+};
+
+axios.get(url, { headers })
+    .then(response => console.log(response.data))
+    .catch(error => console.error(error));</code></pre>
+        
+        <h3>PHP</h3>
+        <pre><code><?php
+$url = 'https://www.coinport.com.au/api/v2/peatio/account/balances';
+$headers = [
+    'Authorization: Bearer YOUR_JWT_TOKEN',
+    'Content-Type: application/json'
+];
+
+$ch = curl_init($url);
+curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+$response = curl_exec($ch);
+curl_close($ch);
+
+echo $response;
+?></code></pre>
+        
+        <h2>Common Authentication Errors</h2>
+        
+        <h3>401 Unauthorized</h3>
+        <p><strong>Cause:</strong> Invalid or missing API key</p>
+        <p><strong>Solution:</strong> Verify your API key is correct and properly formatted in the Authorization header</p>
+        
+        <h3>403 Forbidden</h3>
+        <p><strong>Cause:</strong> API key doesn't have required permissions</p>
+        <p><strong>Solution:</strong> Generate a new API key with appropriate permissions</p>
+        
+        <h3>429 Too Many Requests</h3>
+        <p><strong>Cause:</strong> Rate limit exceeded</p>
+        <p><strong>Solution:</strong> Implement rate limiting in your application and respect the <code>Retry-After</code> header</p>
+        
+        <h2>Best Practices</h2>
+        
+        <ul>
+            <li>✅ Store API keys in environment variables, not in code</li>
+            <li>✅ Use separate API keys for development and production</li>
+            <li>✅ Rotate your API keys regularly</li>
+            <li>✅ Grant minimum required permissions (principle of least privilege)</li>
+            <li>✅ Monitor API key usage and set up alerts</li>
+            <li>✅ Revoke unused or compromised keys immediately</li>
+            <li>✅ Always use HTTPS for API requests</li>
+            <li>❌ Never expose API keys in client-side code</li>
+            <li>❌ Don't hardcode API keys in your application</li>
+        </ul>
+        
+        <h2>Testing Your Setup</h2>
+        
+        <p>Test your authentication with this simple endpoint:</p>
+        
+        <pre><code>GET https://www.coinport.com.au/api/v2/peatio/account/balances</code></pre>
+        
+        <p>If authentication is successful, you'll receive your account balances. If not, you'll get an error message indicating the issue.</p>
+        
+        <hr>
+        
+        <p style="font-size: 14px; color: rgba(0,35,58,0.6); text-align: center;">
+            Need help? Contact <a href="mailto:support@coinport.com.au">support@coinport.com.au</a>
+        </p>
+    </div>
+    
+    <script>
+        // Theme Management
+        function toggleTheme() {
+            document.body.classList.toggle('dark-mode');
+            const isDark = document.body.classList.contains('dark-mode');
+            const icon = document.getElementById('theme-icon');
+
+            // Toggle between sun and moon icons
+            if (isDark) {
+                icon.textContent = '☀️';
+            } else {
+                icon.textContent = '🌙';
+            }
+
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        }
+
+        // Load theme preference
+        function loadTheme() {
+            const savedTheme = localStorage.getItem('theme');
+            const urlParams = new URLSearchParams(window.location.search);
+            const urlTheme = urlParams.get('theme');
+
+            if (urlTheme === 'dark-mode' || savedTheme === 'dark') {
+                document.body.classList.add('dark-mode');
+                document.getElementById('theme-icon').textContent = '☀️';
+            }
+        }
+
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', loadTheme);
+    </script>
+</body>
+</html>
