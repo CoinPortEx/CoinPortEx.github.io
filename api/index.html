@@ -20,7 +20,6 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" type="text/css" href="https://unpkg.com/swagger-ui-dist@5/swagger-ui.css">
     <style>
         :root {
@@ -298,7 +297,7 @@
             background: transparent;
             border: none;
             color: #ffffff;
-            padding: 8px 12px;
+            padding: 0;
             cursor: pointer;
             font-size: 24px;
             font-family: "Poppins", sans-serif;
@@ -306,6 +305,15 @@
             display: inline-flex;
             align-items: center;
             justify-content: center;
+            width: 40px;
+            height: 40px;
+        }
+
+        .theme-toggle span {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            line-height: 0;
         }
 
         .theme-toggle i {
@@ -330,7 +338,7 @@
             background: transparent;
             border: none;
             color: #ffffff;
-            padding: 8px 16px;
+            padding: 0;
             border-radius: 5px;
             cursor: pointer;
             font-size: 13px;
@@ -339,7 +347,15 @@
             text-decoration: none;
             display: inline-flex;
             align-items: center;
+            justify-content: center;
             gap: 6px;
+            width: 40px;
+            height: 40px;
+        }
+
+        .header-link svg {
+            display: block;
+            line-height: 0;
         }
 
         .header-link i {
@@ -381,7 +397,7 @@
 
         .info-cards {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            grid-template-columns: repeat(2, 1fr);
             gap: 20px;
             margin: 25px 0;
         }
@@ -1068,43 +1084,6 @@
     <header class="api-header">
         <div class="header-content">
             <div class="header-left">
-                <!-- Dropdown Menu -->
-                <div class="dropdown" id="nav-dropdown">
-                    <button class="dropdown-toggle" onclick="toggleDropdown()">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" viewBox="0 0 16 16">
-                            <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
-                        </svg>
-                    </button>
-                    <div class="dropdown-menu">
-                        <div class="dropdown-section">
-                            <div class="dropdown-title">Quick Access</div>
-                            <a href="#overview" class="dropdown-item" onclick="scrollToSection('overview')"><i class="bi bi-book"></i> Overview</a>
-                            <a href="#api-reference" class="dropdown-item" onclick="scrollToSection('api-reference')"><i class="bi bi-journal-code"></i> API Reference</a>
-                            <a href="./authentication.html" class="dropdown-item"><i class="bi bi-shield-lock"></i> Authentication Guide</a>
-                        </div>
-                        <div class="dropdown-section">
-                            <div class="dropdown-title">API Categories</div>
-                            <a href="#operations-tag-api" class="dropdown-item" onclick="scrollToSection('api-reference')">
-                                <i class="bi bi-globe"></i> Public API<span class="dropdown-badge">18</span>
-                            </a>
-                            <a href="#operations-tag-account" class="dropdown-item" onclick="scrollToSection('api-reference')">
-                                <i class="bi bi-person"></i> Account<span class="dropdown-badge">16</span>
-                            </a>
-                            <a href="#operations-tag-market" class="dropdown-item" onclick="scrollToSection('api-reference')">
-                                <i class="bi bi-graph-up"></i> Trading<span class="dropdown-badge">10</span>
-                            </a>
-                            <a href="#operations-tag-coingecko" class="dropdown-item" onclick="scrollToSection('api-reference')">
-                                <i class="bi bi-coin"></i> CoinGecko<span class="dropdown-badge">4</span>
-                            </a>
-                        </div>
-                        <div class="dropdown-section">
-                            <div class="dropdown-title">Resources</div>
-                            <a href="./swagger.json" target="_blank" class="dropdown-item"><i class="bi bi-download"></i> Download Swagger</a>
-                            <a href="https://www.coinport.com.au" target="_blank" class="dropdown-item"><i class="bi bi-house"></i> CoinPort Home</a>
-                        </div>
-                    </div>
-                </div>
-
                 <div class="header-logo">
                     <svg
                         fill="none"
@@ -1132,6 +1111,11 @@
                 </div>
             </div>
             <div class="header-controls">
+                <a href="./authentication.html" class="header-link" title="Authentication">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
+                        <path d="M8 1a2 2 0 0 1 2 2v4H6V3a2 2 0 0 1 2-2zm3 6V3a3 3 0 0 0-6 0v4a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2zM5 8h6a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1z"/>
+                    </svg>
+                </a>
                 <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme">
                     <span id="theme-icon">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.5" viewBox="0 0 24 24">
@@ -1139,11 +1123,6 @@
                         </svg>
                     </span>
                 </button>
-                <a href="./authentication.html" class="header-link" title="Authentication">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
-                        <path d="M8 1a2 2 0 0 1 2 2v4H6V3a2 2 0 0 1 2-2zm3 6V3a3 3 0 0 0-6 0v4a2 2 0 0 0-2 2v5a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V9a2 2 0 0 0-2-2zM5 8h6a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V9a1 1 0 0 1 1-1z"/>
-                    </svg>
-                </a>
                 <a href="https://www.coinport.com.au" class="header-link" title="Home">
                     <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 16 16">
                         <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L2 8.207V13.5A1.5 1.5 0 0 0 3.5 15h9a1.5 1.5 0 0 0 1.5-1.5V8.207l.646.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.707 1.5ZM13 7.207V13.5a.5.5 0 0 1-.5.5h-9a.5.5 0 0 1-.5-.5V7.207l5-5 5 5Z"/>
@@ -1157,7 +1136,7 @@
     <div class="main-container">
         <!-- Overview Section -->
         <div id="overview" class="overview-section">
-            <h2>Welcome to CoinPort API</h2>
+            <h2>Welcome to the CoinPort API</h2>
             <p>The CoinPort API provides programmatic access to trading, account management, market data, and cryptocurrency operations. Built on Peatio, our REST API uses standard HTTP methods and returns JSON-encoded responses.</p>
 
             <div class="info-cards">
