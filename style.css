@@ -69,7 +69,7 @@ body.light-mode {
 }
 
 body.dark-mode {
-  background: var(--main-background-color) !important;
+  background: var(--body-background-color) !important;
   color: var(--primary-text-color) !important;
 }
 
