@@ -177,5 +177,3 @@ Possible reasons:
 - Try a different browser or device
 
 ---
-
-For further assistance, **Freddie AI** is available 24/7, or you can contact our support team.
