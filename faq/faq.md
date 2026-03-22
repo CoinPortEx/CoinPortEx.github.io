@@ -175,5 +175,3 @@ Possible reasons:
 ### **3. The website/app isn’t loading. What can I do?**
 - Clear browser cache/cookies
 - Try a different browser or device
-
----
