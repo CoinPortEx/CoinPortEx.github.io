@@ -11,7 +11,7 @@ categories: news
 
 # New Feature: Custom User Name PayId Addresses
 
-One option for depositing AUD funds with CoinPort is using your PayId. Now members can create a customer User Name which is used for the PayId email address.
+One option for depositing AUD funds with CoinPort is using your PayId. Now members can create a custom User Name which is used for the PayId email address.
 
 If you have not already done so, go the _**Wallets Page**_ from the top menu, then select AUD Australian Dollar and on the Deposit tab press the _**Create Account**_ button. Your BSB and Account number for CoinPort deposits will be displayed.
 

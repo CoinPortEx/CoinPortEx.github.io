@@ -12,10 +12,10 @@ categories: news
 This week an upgrade to the CoinPort exchange technology platform went live.
 
 The platform upgrade included changes to enhance and extend the user experience:
-- Internal Transfers</b> - members can easily and instantly transfer digital assets to other members internally, without the need for external transactions and blockchain fees.
-- Instant Swaps</b> - members can swap between all digital assets supported on CoinPort.
-- Multi-chain Support</b> - where coins and tokens exist on more than one blockchain, for example Ethereum and HECO, members can choose the desired blockchain for deposits and withdraws.
-- Airdrops</b> - Airdrops can now be performed on CoinPort for a wide range of blockchain projects.
+- **Internal Transfers** - members can easily and instantly transfer digital assets to other members internally, without the need for external transactions and blockchain fees.
+- **Instant Swaps** - members can swap between all digital assets supported on CoinPort.
+- **Multi-chain Support** - where coins and tokens exist on more than one blockchain, for example Ethereum and HECO, members can choose the desired blockchain for deposits and withdraws.
+- **Airdrops** - Airdrops can now be performed on CoinPort for a wide range of blockchain projects.
 
 Our plans for 2023 include adding an NFT marketplace and support for popular gaming tokens.
 

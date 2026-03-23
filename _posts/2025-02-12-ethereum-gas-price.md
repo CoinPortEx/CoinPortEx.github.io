@@ -1,7 +1,7 @@
 ---
 title:  Recent Ethereum Gas Price Movements and Transaction Processing Speeds
 layout: post
-description: Discussionabout Recent Ethereum Gas Price Movements and Transaction Processing Speeds
+description: Discussion about Recent Ethereum Gas Price Movements and Transaction Processing Speeds
 author: CoinPort Exchange
 date:   2025-02-12 11:12:15 +1000
 categories: news

@@ -311,7 +311,7 @@ body.dark-mode h5 {
 }
 
 .iframe-container iframe {
-  border: 0.0625rem solid #ddd;
+  border: 0.0625rem solid var(--divider-color);
   border-radius: 0;
   height: 100%;
   left: 0;
@@ -470,7 +470,7 @@ strong {
   background-color: var(--primary-cta-color);
   border-radius: 10px;
   border: 0.0625rem solid var(--main-background-color);
-  color: #fff;
+  color: var(--cta-layer-color);
   display: flex;
   flex-direction: column;
   font-size: 15px;
@@ -489,7 +489,7 @@ body.dark-mode .pg-corporate-wrapper {
   background-color: var(--header-background-color);
   border-radius: 10px;
   border: 0.0625rem solid var(--main-background-color);
-  color: #fff;
+  color: var(--cta-layer-color);
   display: flex;
   flex-direction: column;
   font-size: 15px;
@@ -506,7 +506,7 @@ body.dark-mode .pg-corporate-entityl3 {
 
 .pg-corporate-entity-dash {
   align-items: center;
-  color: #999999;
+  color: var(--text-contrast-color);
   display: flex;
   justify-content: center;
   text-align: center;

@@ -9,7 +9,7 @@ categories: news
 
 <div><img src="https://blog.coinport.com.au/assets/img/news/NanoSPlus.jpg" alt="nano-s-plus" class="center" style="max-width: 280px; float: right; padding: 20px;"></div>
 
-Today this ***Ledger Nano S Plus*** crypto hardware wallet arrived in the CoinPort office for testing..
+Today this ***Ledger Nano S Plus*** crypto hardware wallet arrived in the CoinPort office for testing.
 
 We plan to distribute hardware wallets to members of our exchange and have been evaluating alternatives to find the best balance between functionality and ease of use.
 

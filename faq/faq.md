@@ -38,7 +38,7 @@ You can reach us via:
 ## **Account Setup & Verification**
 
 ### **1. How do I create a CoinPort account?**
-1. Visit <a href="https:///www.coinport.com.au" target="_parent">CoinPort’s website</a> and click **"Sign Up."**
+1. Visit <a href="https://www.coinport.com.au" target="_parent">CoinPort’s website</a> and click **"Sign Up."**
 2. Enter your email, create a password, and agree to the terms.
 3. Verify your email via the confirmation link sent to your inbox.
 4. Complete identity verification (KYC) to unlock full account features.
@@ -96,7 +96,7 @@ Yes, limits depend on your verification level:
 We offer AUD trading pairs (BTC/AUD, ETH/AUD, etc.) and crypto-to-crypto pairs (BTC/ETH, XRP/LTC, etc.).
 
 ### **2. What are CoinPort’s trading fees?**
-- There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform.We try to makeCoinPort as simple and transparent as possible. The price quoted is the price dealt.
+- There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price dealt.
 - Incentives available for high-volume traders.
 
 ### **3. Does CoinPort support limit orders and stop-loss?**

@@ -1,0 +1,7 @@
+<script>
+  var qs = window.location.search;
+  var params = new URLSearchParams(qs);
+  var theme = params.get('theme');
+  var cls = theme === 'dark-mode' ? 'dark-mode' : 'light-mode';
+  document.body.classList.add(cls);
+</script>

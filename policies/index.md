@@ -36,9 +36,9 @@ These are the internal policy and procedure documents for customers and staff of
 
 [Token Purchase Agreement](https://www.coinport.com.au/legal/token_purchase_agreement.html) 
 
-<p><b>Sanctions Policy</b> <a title="https://www.coinport.com.au/legal/sanctions.html" href="https://www.coinport.com.au/policies/sanctions-list.html" target="_blank">>Sanctioned countries and policies.</p> 
+<p><b>Sanctions Policy</b> <a title="https://www.coinport.com.au/legal/sanctions.html" href="https://www.coinport.com.au/policies/sanctions-list.html" target="_blank">Sanctioned countries and policies.</p> 
 
-<p><b>Sanctions List</b> <a title="https://www.coinport.com.au/policies/sanctions-list.html" href="https://www.coinport.com.au/policies/sanctions-list.html" target="_blank">List of countries and policies affeted by sanctions </p>
+<p><b>Sanctions List</b> <a title="https://www.coinport.com.au/policies/sanctions-list.html" href="https://www.coinport.com.au/policies/sanctions-list.html" target="_blank">List of countries and policies affected by sanctions </p>
 
 [AUSTRAC Suspicious Matter Reports](https://www.coinport.com.au/legal/suspicious_matter_reports.html) 
 
@@ -46,9 +46,9 @@ These are the internal policy and procedure documents for customers and staff of
 
 [Training and Education Policy](https://www.coinport.com.au/legal/training.html) 
 
-<p><b>Transaction Monitoring Program</b> <a title="https://www.coinport.com.au/policies/transaction_monitoring_program.html" href="https://www.coinport.com.au/policies/transaction_monitoring_program.html" target="_blank">Policies and proceedures for the Transaction Monitoring Program </p>
+<p><b>Transaction Monitoring Program</b> <a title="https://www.coinport.com.au/policies/transaction_monitoring_program.html" href="https://www.coinport.com.au/policies/transaction_monitoring_program.html" target="_blank">Policies and procedures for the Transaction Monitoring Program </p>
 
-[Transparancy Policy](https://www.coinport.com.au/legal/transparency_policy.html) 
+[Transparency Policy](https://www.coinport.com.au/legal/transparency_policy.html) 
 
 [Whistleblower Policy](https://www.coinport.com.au/legal/whistleblower.html) 
 

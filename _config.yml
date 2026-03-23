@@ -20,7 +20,7 @@ description: >-
   CoinPort Cryptocurrency Exchange
   - Easy, fast and safe cryptocurrency exchange.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://doc.coinport.com.au" # the base hostname & protocol for your site
+url: "https://blog.coinport.com.au" # the base hostname & protocol for your site
 
 # Social Media Links
 twitter_username: CoinPortEx

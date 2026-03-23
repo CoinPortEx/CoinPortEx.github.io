@@ -11,9 +11,9 @@ categories: news
 
 New Listing, due to popular demand, for Pepe Meme Token (PEPE). PEPE is an ERC20 Smart Contracts on the Ethereum blockchain.
 
-## >What Is Pepe Meme Token (PEPE)?
+## What Is Pepe Meme Token (PEPE)?
 
-Pepe (PEPE) is an Ethereum-based cryptocurrency paying tribute to the popular Pepe the Frog internet meme.</p>
+Pepe (PEPE) is an Ethereum-based cryptocurrency paying tribute to the popular Pepe the Frog internet meme.
 
 The project believes the popularity of coins similar to Dogecoin and Shiba Inu have had their day, and it’s time for Pepe to take reign.
 

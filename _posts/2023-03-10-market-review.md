@@ -11,7 +11,7 @@ We want to start a discussion about the current state of the cryptocurrency mark
 
 Well, in the last few weeks, we've seen a lot of ups and downs. Bitcoin hit an all-time high of nearly $65,000 in November 2021, but has since seen significant drops, currently hovering around $40,000. Ethereum has also seen some turbulence, going from a high of around $4,300 in May 2021 to around $1,600 currently.
 
-Of course, it's not all bad news. Many other cryptocurrencies have been performing well, with coins like Binance Coin (BNB), Solana (SOL), and Cardano (ADA) seeing significant gains in recent months.<
+Of course, it's not all bad news. Many other cryptocurrencies have been performing well, with coins like Binance Coin (BNB), Solana (SOL), and Cardano (ADA) seeing significant gains in recent months.
 
 So, what should you take away from all of this? As always, caution is advised when investing in the cryptocurrency market. While it can be incredibly exciting and potentially profitable, it's also highly unpredictable and subject to extreme fluctuations.
 

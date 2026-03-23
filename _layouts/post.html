@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
   <head>
-    <meta charset="UTF-8G">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% seo %}
@@ -44,18 +44,6 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
-    <script>
-        /* document.write('debug: <b>document location: ' + document.location + '</b></br />'); */
-
-        const queryString = window.location.search;
-        const urlParams = new URLSearchParams(queryString);
-        const theme = urlParams.get('theme');
-        const className = theme == 'dark-mode'?'dark-mode':'light-mode';
-        document.body.classList.toggle(className);
-
-        if (theme=='dark-mode') {
-          document.getElementById("signatureImage").src = 'https://blog.coinport.com.au/assets/img/news/coinport-signature-dark.png';
-        }
-      </script>
+    {% include theme-detect.html %}
   </body>
 </html>

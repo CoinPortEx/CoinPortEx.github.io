@@ -11,7 +11,7 @@ categories: corporate
 
 ## "CoinPort Limited" has been incorporated in New Zealand to facilitate expansion across the Tasman.
 
-To facilitiate an expansion of operations into the New Zealand market, we have incorporaed a new company with the New Zealand Companies Office.
+To facilitate an expansion of operations into the New Zealand market, we have incorporated a new company with the New Zealand Companies Office.
 
 ### The company details are: 
 

@@ -12,7 +12,7 @@
 <body>
 <h1>Hear What CoinPort Members Have to Say</h1>
 
-<p>Our intention is to qualify COIN HARBOUR PTY LTD ABN: 12 624 879 223 as an Early Stage Innovation Company (ESIC) in accordance with Division 360 of the <i>Income Tax Assessment Act 1997.</i></p>
+<p>Our intention is to qualify COINPORT PTY LTD ABN: 12 624 879 223 as an Early Stage Innovation Company (ESIC) in accordance with Division 360 of the <i>Income Tax Assessment Act 1997.</i></p>
 
 <h2>Review 1</h2>
 <p>The tax incentives provide eligible investors who purchase new shares in an ESIC with a:</p>
@@ -45,12 +45,6 @@
 <li>The company must demonstrate that it has the potential to be able to address a broader than local market, including global markets, through that business. <b>- Pass</b></li>
 <li>The company must demonstrate that it has the potential to be able to have competitive advantages for that business. <b>- Pass</b></li>
 </ol>
-    <script>
-        const queryString = window.location.search;
-        const urlParams = new URLSearchParams(queryString);
-        const theme = urlParams.get('theme');
-        const className = theme=='dark-mode'?'dark-mode':'light-mode';
-        document.body.classList.toggle(className);
-    </script>
+    {% include theme-detect.html %}
 </body>
 </html>
