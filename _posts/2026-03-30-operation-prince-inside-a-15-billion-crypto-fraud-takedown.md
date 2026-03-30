@@ -7,6 +7,8 @@ date: 2026-03-30 12:00:00 +1000
 categories: [scam-awareness]
 ---
 
+## Operation Prince: Inside a $15 Billion Crypto Fraud Takedown
+
 In October 2025, the U.S. Department of Justice announced what is now the largest asset forfeiture in American legal history: the seizure of 127,271 Bitcoin — worth approximately $15 billion at the time — linked to a Cambodian criminal empire known as the Prince Group. The case, which has become known as **Operation Prince**, offers a sobering look at how sophisticated cryptocurrency fraud is carried out at an industrial scale, and why every crypto user needs to understand the warning signs.
 
 ---
