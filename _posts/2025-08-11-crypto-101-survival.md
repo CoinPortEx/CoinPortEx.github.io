@@ -18,7 +18,7 @@ Crypto isn’t a get-rich-quick scheme. If someone’s pushing you to buy a toke
 
 ## Step One: A Reliable Home Base
 
-Your crypto journey starts with a trusted centralized exchange (CEX) where you can deposit and withdraw fiat. CoinPort Exchange is your no-fuss option. We’re fully regulated by ASIC and AUSTRAC as an independent remittance dealer and digital currency exchange, offering *zero fees* for AUD deposits and withdrawals. Our user-friendly interface is designed to be as simple as a walk in the park (we also have a sign up [Guide](https://www.youtube.com/watch?v=LVCJ8wgCROY)), whether you’re swapping instantly or diving into orderbooks for deeper trading. The price you see is the price you get – no hidden fees.
+Your crypto journey starts with a trusted centralized exchange (CEX) where you can deposit and withdraw fiat. CoinPort Exchange is your no-fuss option. We’re fully regulated by ASIC and AUSTRAC as an independent remittance dealer and Virtual Asset Service Provider, offering *zero fees* for AUD deposits and withdrawals. Our user-friendly interface is designed to be as simple as a walk in the park (we also have a sign up [Guide](https://www.youtube.com/watch?v=LVCJ8wgCROY)), whether you’re swapping instantly or diving into orderbooks for deeper trading. The price you see is the price you get – no hidden fees.
 
 For some, CoinPort is all you need: a secure CEX to buy Bitcoin or explore vetted projects we list. Most of our user funds are stored in offline cold wallets for maximum safety. But if you’re ready to explore the wilder side of crypto, strap in for wallets and beyond.
 

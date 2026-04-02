@@ -110,7 +110,7 @@ This process is followed for every new IP address range used to access your acco
 
 
 
-We are registered as a Digital Currency Exchange (DCE) with AUSTRAC:
+We are registered as a Virtual Asset Service Provider (DCE) with AUSTRAC:
 DCE-1
 CoinPort, Australian Bitcoin & Crypto Exchange
 © 2024 CoinPort Pty. Ltd. ABN 46

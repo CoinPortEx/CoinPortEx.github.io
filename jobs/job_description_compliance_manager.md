@@ -15,7 +15,7 @@ As we continue to scale, we are looking for a diligent and proactive Compliance 
 
 #### **The Role**
 
-We are seeking an experienced and detail-oriented Compliance Manager to own and lead our compliance program. You will be responsible for ensuring that CoinPort adheres to all Australian laws and regulations governing financial services and digital currency exchanges. This is a hands-on role with a high level of responsibility, offering the opportunity to shape the compliance function of a dynamic fintech company.
+We are seeking an experienced and detail-oriented Compliance Manager to own and lead our compliance program. You will be responsible for ensuring that CoinPort adheres to all Australian laws and regulations governing financial services and Virtual Asset Service Providers. This is a hands-on role with a high level of responsibility, offering the opportunity to shape the compliance function of a dynamic fintech company.
 
 You will report directly to the CEO and CFO and work closely with all teams, including technology, customer support, and marketing, to embed compliance into our daily operations.
 
@@ -59,7 +59,7 @@ You will report directly to the CEO and CFO and work closely with all teams, inc
     *   Superior written and verbal communication skills, with the ability to explain complex regulatory concepts to non-specialists.
 
 *   **Highly Desirable:**
-    *   Experience specifically within a registered Digital Currency Exchange (DCE).
+    *   Experience specifically within a registered Virtual Asset Service Provider (DCE).
     *   Knowledge of the Australian Consumer Law, privacy laws, and financial services regulations.
     *   A relevant professional qualification (e.g., GRCP, CAMS, or equivalent).
 
