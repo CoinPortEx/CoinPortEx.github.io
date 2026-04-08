@@ -100,17 +100,10 @@ body.dark-mode p {
 }
 
 hr {
-  background: var(--divider-color);
-  border: 0;
-  color: var(--divider-color);
-  font-size: 0;
+  border: none;
   height: 0.0625rem;
-  margin-top: 30px;
-}
-
-body.dark-mode hr {
-  background: var(--divider-color) !important;
-  color: var(--divider-color) !important;
+  background: linear-gradient(to right, transparent, var(--divider-color), transparent);
+  margin: 15px 0 5px;
 }
 
 a {
