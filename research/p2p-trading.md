@@ -4,7 +4,7 @@ Here's a comprehensive training guide in Markdown format for your new P2P dealer
 # P2P Market Operations Training Guide
 **For CoinPort Exchange Dealers**
 
-![P2P Trading Illustration](https://example.com/p2p-trading-img.jpg) *Optional: Add relevant image*
+!P2P Trading Illustration *Optional: Add relevant image*
 
 ## Introduction to P2P Cryptocurrency Markets
 ### What is P2P Trading?

@@ -11,7 +11,7 @@
 ## S Token
 - **Purpose**: Used for transaction fees, staking, governance, and developer rewards via FeeM.
 - **Supply**: Circulating supply of ~3.2 billion S, with a max supply of 3.2 billion (fully diluted).
-- **Contract Address**: Native to Sonic (EVM-compatible);  [CoinGecko](https://www.coingecko.com/en/coins/sonic) [CMC](https://coinmarketcap.com/currencies/sonic/). Add to wallets like MetaMask.
+- **Contract Address**: Native to Sonic (EVM-compatible);  CoinGecko CMC. Add to wallets like MetaMask.
 
 # Who Are the Founders of Sonic?
 

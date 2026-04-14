@@ -1,6 +1,6 @@
 # What Is 0x (ZRX)?
 
-**0x (ZRX)**, launched in August 2017, is a decentralized protocol on Ethereum that enables peer-to-peer token trading through off-chain order books and on-chain settlement. Designed to power decentralized exchanges (DEXs), [0x](https://www.0xprotocol.org/) supports permissionless trading of ERC-20 tokens and NFTs. Its native token, **ZRX**, facilitates governance and staking. 
+**0x (ZRX)**, launched in August 2017, is a decentralized protocol on Ethereum that enables peer-to-peer token trading through off-chain order books and on-chain settlement. Designed to power decentralized exchanges (DEXs), 0x supports permissionless trading of ERC-20 tokens and NFTs. Its native token, **ZRX**, facilitates governance and staking. 
 
 ## Key Features
 - **Off-Chain Order Relay**: Uses relayers to manage order books off-chain, reducing gas costs while settling trades on Ethereum.
@@ -11,7 +11,7 @@
 ## ZRX Token
 - **Purpose**: Used for governance voting, staking for market maker rewards, and protocol fees.
 - **Supply**: ~850M ZRX in circulation, with a maximum supply of 1B.
-- **Contract Address**: On Ethereum, ZRX’s contract is `0xe41d2489571d322189246dafa5ebde1f4699f498` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/0x) [CMC](https://coinmarketcap.com/currencies/0x/).
+- **Contract Address**: On Ethereum, ZRX’s contract is `0xe41d2489571d322189246dafa5ebde1f4699f498` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of ZRX?
 

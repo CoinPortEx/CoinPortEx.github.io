@@ -1,6 +1,6 @@
 # What Is Dogecoin (DOGE)?
 
-**Dogecoin (DOGE)**, launched on December 6, 2013, is a decentralized, open-source cryptocurrency on its own **Dogecoin blockchain**, forked from **Litecoin**. Based on the "Doge" Shiba Inu meme, Dogecoin was created as a lighthearted alternative to Bitcoin. [DOGE](https://dogecoin.com/) is used for tipping, payments, and trading, with a $1.3B daily trading volume across 163+ exchanges. Known for its vibrant community, it supports $2.5B in total value locked (TVL) in meme-driven ecosystems.
+**Dogecoin (DOGE)**, launched on December 6, 2013, is a decentralized, open-source cryptocurrency on its own **Dogecoin blockchain**, forked from **Litecoin**. Based on the "Doge" Shiba Inu meme, Dogecoin was created as a lighthearted alternative to Bitcoin. DOGE is used for tipping, payments, and trading, with a $1.3B daily trading volume across 163+ exchanges. Known for its vibrant community, it supports $2.5B in total value locked (TVL) in meme-driven ecosystems.
 
 ## Key Features
 - **Fast Transactions**: 1-minute block times and low fees (~$0.01) enable microtransactions.
@@ -11,7 +11,7 @@
 ## DOGE Token
 - **Purpose**: Used for tipping, payments, trading, and staking in community-driven projects.
 - **Supply**: Circulating supply of ~150 billion DOGE, with no max supply due to fixed inflation.
-- **Contract Address**: Native to Dogecoin blockchain;  [CoinGecko](https://www.coingecko.com/en/coins/dogecoin) [CMC](https://coinmarketcap.com/currencies/dogecoin/).
+- **Contract Address**: Native to Dogecoin blockchain;  CoinGecko CMC.
 
 # Who Are the Founders of Dogecoin?
 

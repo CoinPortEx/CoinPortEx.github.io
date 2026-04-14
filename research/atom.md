@@ -1,6 +1,6 @@
 # What Is Cosmos (ATOM)?
 
-**Cosmos (ATOM)**, launched in March 2019, is the native cryptocurrency of the **Cosmos Hub**, the flagship blockchain of the **Cosmos Network**, a decentralized ecosystem of interoperable, application-specific blockchains. Founded by Tendermint, [Cosmos](https://cosmos.network/) aims to create the “Internet of Blockchains” using the Inter-Blockchain Communication (IBC) protocol. ATOM powers transaction fees, staking, governance, and airdrop eligibility, with $1.8B in total value locked (TVL) across the ecosystem.
+**Cosmos (ATOM)**, launched in March 2019, is the native cryptocurrency of the **Cosmos Hub**, the flagship blockchain of the **Cosmos Network**, a decentralized ecosystem of interoperable, application-specific blockchains. Founded by Tendermint, Cosmos aims to create the “Internet of Blockchains” using the Inter-Blockchain Communication (IBC) protocol. ATOM powers transaction fees, staking, governance, and airdrop eligibility, with $1.8B in total value locked (TVL) across the ecosystem.
 
 ## Key Features
 - **Interoperability**: IBC enables seamless data and asset transfers between 260+ blockchains like Osmosis and Kava.
@@ -11,7 +11,7 @@
 ## ATOM Token
 - **Purpose**: Used for transaction fees, staking, governance voting, and airdrop rewards for stakers.
 - **Supply**: Circulating supply of ~440 million ATOM, with no max supply (inflationary model).
-- **Contract Address**: Native to Cosmos Hub; [CoinGecko](https://www.coingecko.com/en/coins/cosmos-hub) [CMC](https://coinmarketcap.com/currencies/cosmos/). Add to wallets like Keplr or Cosmostation.
+- **Contract Address**: Native to Cosmos Hub; CoinGecko CMC. Add to wallets like Keplr or Cosmostation.
 
 # Who Are the Founders of Cosmos?
 

@@ -1,6 +1,6 @@
 # What Is PancakeSwap (CAKE)?
 
-**PancakeSwap (CAKE)**, launched in September 2020, is a decentralized exchange (DEX) and automated market maker (AMM) on the BNB Chain, offering low-cost, high-speed token swaps, liquidity provision, and DeFi services. Built to rival Ethereum-based DEXs like Uniswap, [Pancakeswap](https://pancakeswap.finance/?ref=coingecko&user=Coingecko&discount=0&perps=false) supports yield farming, NFTs, and lotteries. Its native token, **CAKE**, drives governance and incentives. 
+**PancakeSwap (CAKE)**, launched in September 2020, is a decentralized exchange (DEX) and automated market maker (AMM) on the BNB Chain, offering low-cost, high-speed token swaps, liquidity provision, and DeFi services. Built to rival Ethereum-based DEXs like Uniswap, Pancakeswap supports yield farming, NFTs, and lotteries. Its native token, **CAKE**, drives governance and incentives. 
 
 ## Key Features
 - **Low-Cost AMM**: Processes swaps with ~$0.01 fees and 5-second finality, leveraging BNB Chain’s scalability (2,000 TPS).
@@ -11,7 +11,7 @@
 ## CAKE Token
 - **Purpose**: Used for governance, staking, yield farming, and accessing lotteries and IFOs (Initial Farm Offerings).
 - **Supply**: ~320M CAKE in circulation, with no fixed maximum supply due to inflationary emissions.
-- **Contract Address**: On BNB Chain, CAKE’s contract is `0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/pancakeswap) [CMC](https://coinmarketcap.com/currencies/pancakeswap/).
+- **Contract Address**: On BNB Chain, CAKE’s contract is `0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of CAKE?
 
@@ -44,7 +44,7 @@ PancakeSwap and CAKE are secured through:
 
 # What Is PancakeSwap (CAKE)?
 
-**PancakeSwap (CAKE)**, launched in September 2020, is a decentralized exchange (DEX) and automated market maker (AMM) on the BNB Chain, offering low-cost, high-speed token swaps, liquidity provision, and DeFi services. Built to rival Ethereum-based DEXs like Uniswap, [Pancakeswap](https://pancakeswap.finance/?ref=coingecko&user=Coingecko&discount=0&perps=false) supports yield farming, NFTs, and lotteries. Its native token, **CAKE**, drives governance and incentives. 
+**PancakeSwap (CAKE)**, launched in September 2020, is a decentralized exchange (DEX) and automated market maker (AMM) on the BNB Chain, offering low-cost, high-speed token swaps, liquidity provision, and DeFi services. Built to rival Ethereum-based DEXs like Uniswap, Pancakeswap supports yield farming, NFTs, and lotteries. Its native token, **CAKE**, drives governance and incentives. 
 
 ## Key Features
 - **Low-Cost AMM**: Processes swaps with ~$0.01 fees and 5-second finality, leveraging BNB Chain’s scalability (2,000 TPS).
@@ -55,7 +55,7 @@ PancakeSwap and CAKE are secured through:
 ## CAKE Token
 - **Purpose**: Used for governance, staking, yield farming, and accessing lotteries and IFOs (Initial Farm Offerings).
 - **Supply**: ~320M CAKE in circulation, with no fixed maximum supply due to inflationary emissions.
-- **Contract Address**: On BNB Chain, CAKE’s contract is `0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/pancakeswap) [CMC](https://coinmarketcap.com/currencies/pancakeswap/).
+- **Contract Address**: On BNB Chain, CAKE’s contract is `0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of CAKE?
 

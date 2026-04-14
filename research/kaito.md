@@ -1,6 +1,6 @@
 # What Is Kaito (KAITO)?
 
-**Kaito (KAITO)**, launched in February 2025, is an AI-powered search and intelligence platform addressing information fragmentation in the cryptocurrency sector. It aggregates and analyzes dispersed crypto data from sources like Discord, Medium, podcasts, and X, enabling users to access insights efficiently. The native token, **[KAITO](https://yaps.kaito.ai/)**, drives governance, transactions, and incentives within the InfoFi ecosystem.
+**Kaito (KAITO)**, launched in February 2025, is an AI-powered search and intelligence platform addressing information fragmentation in the cryptocurrency sector. It aggregates and analyzes dispersed crypto data from sources like Discord, Medium, podcasts, and X, enabling users to access insights efficiently. The native token, **KAITO**, drives governance, transactions, and incentives within the InfoFi ecosystem.
 
 ## Key Features
 - **AI-Powered Search**: Aggregates crypto data for ranking, recommendations, and topic mining, solving information fragmentation.
@@ -11,7 +11,7 @@
 ## KAITO Token
 - **Purpose**: Facilitates governance, network transactions, and creator incentives in the Kaito ecosystem.
 - **Supply**: ~241.4M KAITO in circulation, with a maximum supply of 1B.
-- **Contract Address**: 0x98d0baa52b2d063e780de12f615f963fe8537553; add to wallets like MetaMask; [CoinGecko](https://www.coingecko.com/en/coins/kaito) [CMC](https://coinmarketcap.com/currencies/kaito/).
+- **Contract Address**: 0x98d0baa52b2d063e780de12f615f963fe8537553; add to wallets like MetaMask; CoinGecko CMC.
 
 ## Who Are the Founders of KAITO?
 

@@ -1,6 +1,6 @@
 # What Is Quant (QNT)?
 
-**Quant (QNT)**, launched in June 2018, is an Ethereum-based project addressing blockchain interoperability through its **Overledger** operating system. Developed by [Quant](https://quant.network/) Network, Overledger enables seamless communication between blockchains and legacy systems, fostering multi-chain applications (MApps). The native token, **QNT**, facilitates access to Overledger and governance. 
+**Quant (QNT)**, launched in June 2018, is an Ethereum-based project addressing blockchain interoperability through its **Overledger** operating system. Developed by Quant Network, Overledger enables seamless communication between blockchains and legacy systems, fostering multi-chain applications (MApps). The native token, **QNT**, facilitates access to Overledger and governance. 
 
 ## Key Features
 - **Interoperability**: Overledger connects blockchains (e.g., Ethereum, Bitcoin) and non-blockchain networks, enabling cross-chain data and asset transfers.
@@ -11,7 +11,7 @@
 ## QNT Token
 - **Purpose**: Used for licensing Overledger access, transaction fees, and governance voting.
 - **Supply**: ~12M QNT in circulation, with a maximum supply of 14.88M.
-- **Contract Address**: On Ethereum, QNT’s contract is `0x4a220e6096b25eadb88358cb44068a3248254675` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/quant) [CMC](https://coinmarketcap.com/currencies/quant/).
+- **Contract Address**: On Ethereum, QNT’s contract is `0x4a220e6096b25eadb88358cb44068a3248254675` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of QNT?
 

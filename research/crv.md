@@ -1,6 +1,6 @@
 # What Is Curve DAO (CRV)?
 
-**Curve DAO (CRV)**, launched in August 2020, is a decentralized autonomous organization governing Curve Finance, a leading DeFi protocol on Ethereum optimized for stablecoin and low-slippage token swaps. Using an automated market maker (AMM) model, [Curve](https://www.curve.finance/dex/) facilitates efficient liquidity pools. Its native token, **CRV**, drives governance and incentivizes liquidity providers. 
+**Curve DAO (CRV)**, launched in August 2020, is a decentralized autonomous organization governing Curve Finance, a leading DeFi protocol on Ethereum optimized for stablecoin and low-slippage token swaps. Using an automated market maker (AMM) model, Curve facilitates efficient liquidity pools. Its native token, **CRV**, drives governance and incentivizes liquidity providers. 
 
 ## Key Features
 - **Stablecoin Focus**: Offers low-fee, low-slippage swaps for stablecoins (e.g., USDC, DAI) and pegged assets like WBTC, with ~$34.6B in Q1 2025 trading volume.
@@ -11,7 +11,7 @@
 ## CRV Token
 - **Purpose**: Used for governance, staking, voting, and boosting liquidity rewards up to 2.5x via veCRV (vote-escrowed CRV).
 - **Supply**: ~1.4B CRV in circulation, with a maximum supply of 3.03B.
-- **Contract Address**: On Ethereum, CRV’s contract is `0xd533a949740bb3306d119cc777fa900ba034cd52` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/curve-dao-token) [CMC](https://coinmarketcap.com/currencies/curve-dao-token/).
+- **Contract Address**: On Ethereum, CRV’s contract is `0xd533a949740bb3306d119cc777fa900ba034cd52` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of CRV?
 

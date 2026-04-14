@@ -1,6 +1,6 @@
 # What Is Mantle (MNT)?
 
-**Mantle (MNT)**, launched in July 2023, is the native token of the [Mantle Network](https://mantle.xyz/), a Layer 2 (L2) blockchain built on Ethereum to enhance scalability and bridge traditional finance (TradFi) with decentralized finance (DeFi). Evolving from BitDAO’s 1:1 migration, Mantle uses a modular rollup architecture with EigenLayer’s data availability (EigenDA) for low-cost, high-throughput transactions. MNT powers governance, staking, and gas fees, supporting products like mETH Protocol and Function (fBTC). The ecosystem’s $4 billion treasury and $2.5 billion total value locked (TVL) rank it #23 among blockchains.
+**Mantle (MNT)**, launched in July 2023, is the native token of the Mantle Network, a Layer 2 (L2) blockchain built on Ethereum to enhance scalability and bridge traditional finance (TradFi) with decentralized finance (DeFi). Evolving from BitDAO’s 1:1 migration, Mantle uses a modular rollup architecture with EigenLayer’s data availability (EigenDA) for low-cost, high-throughput transactions. MNT powers governance, staking, and gas fees, supporting products like mETH Protocol and Function (fBTC). The ecosystem’s $4 billion treasury and $2.5 billion total value locked (TVL) rank it #23 among blockchains.
 
 ## Key Features
 - **Modular L2**: Separates execution, consensus, and data availability, achieving ~10,000 transactions per second (TPS) with sub-second finality.
@@ -11,7 +11,7 @@
 ## MNT Token
 - **Purpose**: Used for governance, staking, gas fees, and ecosystem incentives.
 - **Supply**: Circulating supply of ~3.4 billion MNT, with a max supply of 6.2 billion.
-- **Contract Address**: [coingecko](https://www.coingecko.com/en/coins/mantle) [cmc](https://coinmarketcap.com/currencies/mantle/).
+- **Contract Address**: coingecko cmc.
 
 
 

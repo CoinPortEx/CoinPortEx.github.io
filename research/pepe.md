@@ -1,6 +1,6 @@
 # What Is Pepe (PEPE)?
 
-**Pepe (PEPE)**, launched in April 2023, is a deflationary memecoin on the Ethereum blockchain, inspired by the iconic Pepe the Frog internet meme created by Matt Furie. Designed as a community-driven token with no intrinsic utility, [PEPE](https://www.pepe.vip/) emphasizes simplicity, humor, and meme culture, competing with memecoins like Dogecoin and Shiba Inu. 
+**Pepe (PEPE)**, launched in April 2023, is a deflationary memecoin on the Ethereum blockchain, inspired by the iconic Pepe the Frog internet meme created by Matt Furie. Designed as a community-driven token with no intrinsic utility, PEPE emphasizes simplicity, humor, and meme culture, competing with memecoins like Dogecoin and Shiba Inu. 
 
 ## Key Features
 - **No Transaction Taxes**: PEPE transactions incur no fees, enhancing accessibility for trading.
@@ -11,7 +11,7 @@
 ## PEPE Token
 - **Purpose**: Used for trading, community engagement, and speculative investment, with no formal utility.
 - **Supply**: ~420.69T PEPE in circulation, with a maximum supply of 420.69T. 93.1% is in Uniswap liquidity pools (LP tokens burned), and 6.9% is held in a multi-sig wallet for future listings.
-- **Contract Address**: On Ethereum, PEPE’s contract is `0x6982508145454ce325ddbe47a25d4ec3d2311933` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/pepe) [CMC](https://coinmarketcap.com/currencies/pepe/).
+- **Contract Address**: On Ethereum, PEPE’s contract is `0x6982508145454ce325ddbe47a25d4ec3d2311933` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of PEPE?
 

@@ -1,6 +1,6 @@
 # What Is Zcash (ZEC)?
 
-**Zcash (ZEC)**, launched in October 2016, is a privacy-focused cryptocurrency built on a fork of Bitcoin’s codebase, utilizing zero-knowledge proofs (zk-SNARKs) to enable optional anonymity. [Zcash](https://z.cash/) balances privacy and transparency, allowing users to choose between shielded (private) or transparent transactions. The native token, **ZEC**, powers the network and trades on exchanges like Coinbase, Binance, and KuCoin.
+**Zcash (ZEC)**, launched in October 2016, is a privacy-focused cryptocurrency built on a fork of Bitcoin’s codebase, utilizing zero-knowledge proofs (zk-SNARKs) to enable optional anonymity. Zcash balances privacy and transparency, allowing users to choose between shielded (private) or transparent transactions. The native token, **ZEC**, powers the network and trades on exchanges like Coinbase, Binance, and KuCoin.
 
 ## Key Features
 - **Optional Privacy**: zk-SNARKs enable shielded transactions that hide sender, receiver, and amount, while transparent transactions resemble Bitcoin’s model.
@@ -11,7 +11,7 @@
 ## ZEC Token
 - **Purpose**: Facilitates transactions, mining rewards, and network consensus.
 - **Supply**: ~16.7M ZEC in circulation, with a maximum supply of 21M, similar to Bitcoin.
-- **Contract**: Operates on its own blockchain, not as an ERC-20 token. Add to wallets like Zashi or Ledger. [CoinGecko](https://www.coingecko.com/en/coins/zcash) [CMC](https://coinmarketcap.com/currencies/zcash/).
+- **Contract**: Operates on its own blockchain, not as an ERC-20 token. Add to wallets like Zashi or Ledger. CoinGecko CMC.
 
 ## Who Are the Founders of Zcash?
 Zcash was founded by Zooko Wilcox-O’Hearn, a cryptographer with over 25 years in security, previously involved in DigiCash and Mojo Nation. The Electronic Coin Company (ECC), led by Wilcox, manages development, alongside the Zcash Foundation. No premine occurred, but a founders’ reward (20% of block subsidies until 2020) supported early development.

@@ -1,6 +1,6 @@
 # What Is Optimism (OP)?
 
-**Optimism (OP)**, launched in June 2019, is a layer-2 scaling solution for Ethereum, using optimistic rollups to process transactions off-chain while leveraging Ethereum’s security. [Optimism](https://www.optimism.io/) reduces gas fees and boosts transaction speeds for DeFi, NFTs, and dApps. Its native token, **OP**, powers governance. 
+**Optimism (OP)**, launched in June 2019, is a layer-2 scaling solution for Ethereum, using optimistic rollups to process transactions off-chain while leveraging Ethereum’s security. Optimism reduces gas fees and boosts transaction speeds for DeFi, NFTs, and dApps. Its native token, **OP**, powers governance. 
 
 ## Key Features
 - **Optimistic Rollups**: Processes transactions off-chain with ~10x lower fees than Ethereum, settling on L1 for security.
@@ -11,7 +11,7 @@
 ## OP Token
 - **Purpose**: Used for governance, voting on protocol upgrades, and incentivizing ecosystem growth.
 - **Supply**: ~1.7B OP in circulation, with a maximum supply of 4.29B.
-- **Contract Address**: On Optimism, OP’s contract is `0x4200000000000000000000000000000000000042` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/optimism) [CMC](https://coinmarketcap.com/currencies/optimism-ethereum/).
+- **Contract Address**: On Optimism, OP’s contract is `0x4200000000000000000000000000000000000042` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of OP?
 

@@ -1,6 +1,6 @@
 # What Is PAX Gold (PAXG)?
 
-**PAX Gold (PAXG)**, launched in September 2019, is a tokenized asset providing digital ownership of physical gold, with each token backed 1:1 by one fine troy ounce of London Good Delivery gold bar. Issued by Paxos Trust Company (a NYDFS-regulated entity) and operating on the Ethereum blockchain, [PAX Gold](https://www.paxos.com/pax-gold) combines the stability of gold with blockchain efficiency. It enables easy trading, transfers, and hedging in crypto markets, while allowing redemption for physical gold bars, allocated/unallocated gold, or fiat, serving as a regulated bridge for investors seeking gold exposure without storage hassles or high minimums.
+**PAX Gold (PAXG)**, launched in September 2019, is a tokenized asset providing digital ownership of physical gold, with each token backed 1:1 by one fine troy ounce of London Good Delivery gold bar. Issued by Paxos Trust Company (a NYDFS-regulated entity) and operating on the Ethereum blockchain, PAX Gold combines the stability of gold with blockchain efficiency. It enables easy trading, transfers, and hedging in crypto markets, while allowing redemption for physical gold bars, allocated/unallocated gold, or fiat, serving as a regulated bridge for investors seeking gold exposure without storage hassles or high minimums.
 
 ## Key Features
 - **Gold-Backed Stability**: Pegged to the price of physical gold, offering a hedge against volatility and inflation.
@@ -12,8 +12,8 @@
 - **Purpose**: Digital ownership of gold for trading, transfers, storage of value, and physical redemption.
 - **Supply**: Circulating supply of approximately 341,000 PAXG (as of mid-December 2025), issued based on gold purchases with no fixed maximum.
 - **Contract Address**: On Ethereum, PAXG’s contract is `0x45804880de22913dafe09f4980848ece6ecbaf78` (addable to MetaMask).  
-[CoinGecko](https://www.coingecko.com/en/coins/pax-gold)  
-[CoinMarketCap](https://coinmarketcap.com/currencies/pax-gold/)
+CoinGecko  
+CoinMarketCap
 
 # Who Are the Founders of PAX Gold?
 

@@ -1,6 +1,6 @@
 # What Is Stacks (STX)?
 
-**Stacks (STX)** is the native cryptocurrency of the Stacks blockchain, a decentralized layer-2 scaling solution for Bitcoin launched in 2018. Built by Blockstack PBC (now Hiro Systems), [Stacks](https://www.stacks.co/) enables smart contracts, decentralized finance (DeFi), non-fungible tokens (NFTs), and decentralized applications (dApps) on Bitcoin’s secure network. Using a Proof-of-Transfer (PoT) consensus mechanism, Stacks leverages Bitcoin’s hash power for security while offering fast transactions and low fees. 
+**Stacks (STX)** is the native cryptocurrency of the Stacks blockchain, a decentralized layer-2 scaling solution for Bitcoin launched in 2018. Built by Blockstack PBC (now Hiro Systems), Stacks enables smart contracts, decentralized finance (DeFi), non-fungible tokens (NFTs), and decentralized applications (dApps) on Bitcoin’s secure network. Using a Proof-of-Transfer (PoT) consensus mechanism, Stacks leverages Bitcoin’s hash power for security while offering fast transactions and low fees. 
 
 ## Key Features
 - **Bitcoin Layer-2**: Anchors transactions to Bitcoin, inheriting its security while enabling smart contract functionality via the Clarity language.
@@ -11,7 +11,7 @@
 ## STX Token
 - **Purpose**: Powers transaction fees, stacking (staking), governance, and participation in DeFi and NFT markets.
 - **Supply**: ~1.5B STX in circulation, with a maximum supply of ~1.8B. 
-- **Contract Address**: Native to Stacks blockchain; compatible with wallets like Leather or Xverse for DeFi and stacking [CoinGecko](https://www.coingecko.com/en/coins/stacks) [CMC](https://coinmarketcap.com/currencies/stacks/).
+- **Contract Address**: Native to Stacks blockchain; compatible with wallets like Leather or Xverse for DeFi and stacking CoinGecko CMC.
 
 
 ## Who Are the Founders of Stacks?

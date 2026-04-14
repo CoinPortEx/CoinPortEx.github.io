@@ -1,6 +1,6 @@
 # What Is Aster (ASTER)?
 
-**Aster (ASTER)** is the native token of Aster DEX, a next-generation decentralized exchange (DEX) offering perpetual and spot trading as a one-stop on-chain venue for global crypto traders. Launched in September 2025, [Aster](https://www.asterdex.com/en) combines CEX-like efficiency with DeFi's self-custody, featuring MEV-free execution, advanced trading tools, and multi-chain support across BNB Chain, Ethereum, Solana, and Arbitrum. Powered by the privacy-focused Aster Chain Layer-1, it emphasizes capital efficiency through yield-bearing collateral and is backed by YZi Labs, positioning it as a high-performance rival to platforms like Hyperliquid in the DeFi derivatives space.
+**Aster (ASTER)** is the native token of Aster DEX, a next-generation decentralized exchange (DEX) offering perpetual and spot trading as a one-stop on-chain venue for global crypto traders. Launched in September 2025, Aster combines CEX-like efficiency with DeFi's self-custody, featuring MEV-free execution, advanced trading tools, and multi-chain support across BNB Chain, Ethereum, Solana, and Arbitrum. Powered by the privacy-focused Aster Chain Layer-1, it emphasizes capital efficiency through yield-bearing collateral and is backed by YZi Labs, positioning it as a high-performance rival to platforms like Hyperliquid in the DeFi derivatives space.
 
 ## Key Features
 - **Dual Trading Modes**: Simple Mode for MEV-free, one-click execution; Pro Mode for advanced tools like 24/7 stock perpetuals (e.g., Tesla, Apple), hidden orders, and grid trading.
@@ -12,7 +12,7 @@
 ## ASTER Token
 - **Purpose**: Drives decentralized governance, rewards user participation via staking and liquidity provision, funds ecosystem growth, and enables fee discounts and premium features on Aster DEX.
 - **Supply**: ~1.65B ASTER in circulation (as of September 2025), with a total and maximum supply of 8B (elastic through unlocks and burns to support sustainability).
-- **Contract Address**: Varies by chain; e.g., BNB Chain: 0x000Ae314E2A2172a039B26378814C252734f556A; compatible with wallets like MetaMask, Trust Wallet, or Phantom for multi-chain interactions. [CoinGecko](https://www.coingecko.com/en/coins/aster-2) [CMC](https://coinmarketcap.com/currencies/aster/).
+- **Contract Address**: Varies by chain; e.g., BNB Chain: 0x000Ae314E2A2172a039B26378814C252734f556A; compatible with wallets like MetaMask, Trust Wallet, or Phantom for multi-chain interactions. CoinGecko CMC.
 
 ## Who Are the Founders of Aster?
 Aster evolved from ApolloX Finance, with roots tracing back to Aster Protocol founded in 2021 by Ervin Zhuang. The project is backed by YZi Labs (formerly Binance Labs), the family office of Binance co-founders Changpeng Zhao (CZ) and Yi He, providing strategic oversight and investment. The team focuses on compliant DeFi innovation through community governance, without a traditional ICO, emphasizing rapid iteration and high-profile partnerships.

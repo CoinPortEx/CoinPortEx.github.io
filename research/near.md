@@ -1,6 +1,6 @@
 # What Is NEAR Protocol (NEAR)?
 
-**NEAR Protocol (NEAR)**, launched in October 2020, is the native token of the [NEAR Protocol](https://near.org/), a Layer 1 (L1) blockchain designed for decentralized applications (dApps) with a focus on user-owned AI, DeFi, and chain abstraction. Built for scalability and usability, NEAR uses a sharded architecture and the **Nightshade** sharding protocol to achieve ~100,000 transactions per second (TPS). NEAR powers staking, governance, and transaction fees, enabling a developer-friendly ecosystem with tools like the **NEAR SDK**. The protocol’s $1.2 billion total value locked (TVL) ranks it among top L1s.
+**NEAR Protocol (NEAR)**, launched in October 2020, is the native token of the NEAR Protocol, a Layer 1 (L1) blockchain designed for decentralized applications (dApps) with a focus on user-owned AI, DeFi, and chain abstraction. Built for scalability and usability, NEAR uses a sharded architecture and the **Nightshade** sharding protocol to achieve ~100,000 transactions per second (TPS). NEAR powers staking, governance, and transaction fees, enabling a developer-friendly ecosystem with tools like the **NEAR SDK**. The protocol’s $1.2 billion total value locked (TVL) ranks it among top L1s.
 
 ## Key Features
 - **Sharding**: Nightshade splits the network into shards for parallel processing, boosting scalability.
@@ -11,7 +11,7 @@
 ## NEAR Token
 - **Purpose**: Used for staking, governance, transaction fees, and accessing AI and DeFi services.
 - **Supply**: Circulating supply of ~1.2 billion NEAR, with no fixed cap due to inflationary rewards.
-- **Contract Address**: Native to NEAR L1, [Coingecko](https://www.coingecko.com/en/coins/near). [CMC](https://coinmarketcap.com/currencies/near-protocol/).
+- **Contract Address**: Native to NEAR L1, Coingecko. CMC.
 
 
 # Who Are the Founders of NEAR?

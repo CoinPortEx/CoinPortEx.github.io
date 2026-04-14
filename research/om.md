@@ -1,6 +1,6 @@
  What Is MANTRA (OM)?
 
-**MANTRA (OM)** is the native governance and staking token of MANTRA Chain, a layer-1 blockchain launched in October 2024, specializing in real-world asset (RWA) tokenization. Built with the Cosmos SDK, [MANTRA](https://www.mantrachain.io/) is a permissionless blockchain designed for permissioned applications, offering regulatory-compliant tools for institutions and developers. It supports DeFi, staking, and tokenized RWAs like real estate and aviation assets, backed by partners like Google Cloud and MAG. With interoperability across 100+ blockchains, MANTRA bridges traditional finance (TradFi) and DeFi.
+**MANTRA (OM)** is the native governance and staking token of MANTRA Chain, a layer-1 blockchain launched in October 2024, specializing in real-world asset (RWA) tokenization. Built with the Cosmos SDK, MANTRA is a permissionless blockchain designed for permissioned applications, offering regulatory-compliant tools for institutions and developers. It supports DeFi, staking, and tokenized RWAs like real estate and aviation assets, backed by partners like Google Cloud and MAG. With interoperability across 100+ blockchains, MANTRA bridges traditional finance (TradFi) and DeFi.
 
 ## Key Features
 - **RWA Tokenization**: Enables secure, compliant tokenization of assets like real estate, bonds, and aviation, targeting a $16T market.
@@ -11,7 +11,7 @@
 ## OM Token
 - **Purpose**: Facilitates governance, staking, transaction fees, and access to MANTRA’s RWA and DeFi ecosystem.
 - **Supply**: ~980M OM in circulation, with a maximum supply of 1.7B. 
-- **Contract Address**: Native to MANTRA Chain; Ethereum ERC-20 address (0x3593d125a4f7849a1b059e64f4517a86dd60c95d . Compatible with wallets like Keplr, Leap, or MetaMask [CoinGecko](https://www.coingecko.com/en/coins/mantra) [CMC](https://coinmarketcap.com/currencies/mantra/).
+- **Contract Address**: Native to MANTRA Chain; Ethereum ERC-20 address (0x3593d125a4f7849a1b059e64f4517a86dd60c95d . Compatible with wallets like Keplr, Leap, or MetaMask CoinGecko CMC.
 
 
 ## Who Are the Founders of MANTRA?

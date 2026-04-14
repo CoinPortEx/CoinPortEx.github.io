@@ -1,6 +1,6 @@
 # What Is Pyth Network (PYTH)?
 
-**Pyth Network (PYTH)** is the native governance token of the Pyth Network, a decentralized first-party oracle network launched in April 2021 on the Solana blockchain. Designed to bridge traditional finance and DeFi, [Pyth](https://www.pyth.network/) delivers real-time, high-fidelity market data for over 500 price feeds across cryptocurrencies, equities, ETFs, FX pairs, and commodities to 100+ blockchains. With contributions from major institutions like Binance, Coinbase, and Jane Street, Pyth powers over 250 dApps, securing $100B in trading volume. 
+**Pyth Network (PYTH)** is the native governance token of the Pyth Network, a decentralized first-party oracle network launched in April 2021 on the Solana blockchain. Designed to bridge traditional finance and DeFi, Pyth delivers real-time, high-fidelity market data for over 500 price feeds across cryptocurrencies, equities, ETFs, FX pairs, and commodities to 100+ blockchains. With contributions from major institutions like Binance, Coinbase, and Jane Street, Pyth powers over 250 dApps, securing $100B in trading volume. 
 
 ## Key Features
 - **First-Party Oracle**: Sources data directly from over 90 trusted providers, ensuring accuracy and transparency with 400ms price updates.
@@ -11,7 +11,7 @@
 ## PYTH Token
 - **Purpose**: Facilitates governance, staking, and protocol incentives within the Pyth ecosystem.
 - **Supply**: ~5.7B PYTH in circulation, with a maximum supply of 10B. 
-- **Contract Address**: Native to Solana blockchain; compatible with wallets like Phantom or Solflare for DeFi and governance [CoinGecko](https://www.coingecko.com/en/coins/pyth-network) [CMC](https://coinmarketcap.com/currencies/pyth-network/).
+- **Contract Address**: Native to Solana blockchain; compatible with wallets like Phantom or Solflare for DeFi and governance CoinGecko CMC.
 
 
 ## Who Are the Founders of Pyth Network?

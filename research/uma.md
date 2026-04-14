@@ -1,6 +1,6 @@
 # What Is UMA (UMA)?
 
-**UMA (UMA)**, launched in May 2020, is a decentralized protocol on Ethereum for creating and managing synthetic assets and financial contracts using its optimistic oracle system. [UMA](https://uma.xyz/) (Universal Market Access) enables anyone to design trustless derivatives, such as tokenized indices or prediction markets, without intermediaries. Its native token, **UMA**, powers governance and oracle dispute resolution. 
+**UMA (UMA)**, launched in May 2020, is a decentralized protocol on Ethereum for creating and managing synthetic assets and financial contracts using its optimistic oracle system. UMA (Universal Market Access) enables anyone to design trustless derivatives, such as tokenized indices or prediction markets, without intermediaries. Its native token, **UMA**, powers governance and oracle dispute resolution. 
 
 ## Key Features
 - **Optimistic Oracle**: Provides flexible, human-powered data verification for smart contracts, securing ~$75B in DeFi value across applications like cross-chain bridges and insurance protocols.
@@ -11,7 +11,7 @@
 ## UMA Token
 - **Purpose**: Used for governance, staking in oracle disputes, and incentivizing accurate data reporting.
 - **Supply**: ~88M UMA in circulation, with a maximum supply of 130M.
-- **Contract Address**: On Ethereum, UMA’s contract is `0x04fa0d235c4abf4bcf4787af4cf447de572ef828` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/uma) [CMC](https://coinmarketcap.com/currencies/uma/).
+- **Contract Address**: On Ethereum, UMA’s contract is `0x04fa0d235c4abf4bcf4787af4cf447de572ef828` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of UMA?
 

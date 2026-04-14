@@ -1,6 +1,6 @@
 # What Is Numeraire (NMR)?
 
-**Numeraire (NMR)**, launched in June 2017, is an Ethereum-based ERC-20 token powering the [Numerai](https://numer.ai/) ecosystem, a decentralized platform that incentivizes data scientists to build predictive models for hedge fund investments. Developed by Numerai, a San Francisco-based hedge fund, NMR is used within the Erasure Protocol to stake predictions, rewarding accurate models and penalizing inaccurate ones. 
+**Numeraire (NMR)**, launched in June 2017, is an Ethereum-based ERC-20 token powering the Numerai ecosystem, a decentralized platform that incentivizes data scientists to build predictive models for hedge fund investments. Developed by Numerai, a San Francisco-based hedge fund, NMR is used within the Erasure Protocol to stake predictions, rewarding accurate models and penalizing inaccurate ones. 
 
 ## Key Features
 - **Prediction Staking**: Data scientists stake NMR on machine learning models, earning rewards for accurate predictions or losing stakes for inaccurate ones.
@@ -11,7 +11,7 @@
 ## NMR Token
 - **Purpose**: Used for staking predictions, rewarding successful models, and incentivizing data integrity.
 - **Supply**: ~8M NMR in circulation, with a maximum supply of 11M (fully minted, no new issuance).
-- **Contract Address**: On Ethereum, NMR’s contract is `0x1776e1f26f98b1a5df9cd347953a26dd3cb46671` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/numeraire) [CMC](https://coinmarketcap.com/currencies/numeraire/).
+- **Contract Address**: On Ethereum, NMR’s contract is `0x1776e1f26f98b1a5df9cd347953a26dd3cb46671` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of NMR?
 

@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -c 'https\\\\?://' *.md)",
+      "Bash(grep -v ':0$')"
+    ]
+  }
+}

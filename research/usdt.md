@@ -1,6 +1,6 @@
 # What Is Tether (USDT)?
 
-**Tether (USDT)**, launched in 2014, is the largest stablecoin by market cap, operating as a fiat-backed cryptocurrency pegged 1:1 to the US dollar. Built on multiple blockchains, including Ethereum, Solana, Tron, and others, [Tether](https://tether.to/en/) facilitates digital transactions with the stability of fiat currency, widely used for trading, remittances, and DeFi applications. USDT powers trading pairs, liquidity provision, and reserve-backed transactions across centralized and decentralized platforms.
+**Tether (USDT)**, launched in 2014, is the largest stablecoin by market cap, operating as a fiat-backed cryptocurrency pegged 1:1 to the US dollar. Built on multiple blockchains, including Ethereum, Solana, Tron, and others, Tether facilitates digital transactions with the stability of fiat currency, widely used for trading, remittances, and DeFi applications. USDT powers trading pairs, liquidity provision, and reserve-backed transactions across centralized and decentralized platforms.
 
 ## Key Features
 - **Stable Value**: Pegged to the US dollar, minimizing crypto volatility for traders and investors.
@@ -11,7 +11,7 @@
 ## USDT Token
 - **Purpose**: Used for trading, transfers, DeFi collateral, and maintaining stable value across ecosystems.
 - **Supply**: Circulating supply of ~150 billion USDT, with no fixed max supply (issued based on demand).
-- **Contract Address**: On Ethereum, USDT’s contract is `0xdac17f958d2ee523a2206206994597c13d831ec7` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/tether) [CMC](https://coinmarketcap.com/currencies/tether/)
+- **Contract Address**: On Ethereum, USDT’s contract is `0xdac17f958d2ee523a2206206994597c13d831ec7` (addable to MetaMask).  CoinGecko CMC
 
 # Who Are the Founders of Tether?
 

@@ -1,6 +1,6 @@
 # What Is Sei (SEI)?
 
-**Sei (SEI)**, launched in August 2023, is a high-performance layer-1 blockchain optimized for decentralized finance (DeFi) and high-frequency trading. Built on Cosmos with a parallelized EVM, [Sei](https://www.sei.io/) offers unmatched transaction speeds and scalability. Its native token, **SEI**, powers transactions and governance. 
+**Sei (SEI)**, launched in August 2023, is a high-performance layer-1 blockchain optimized for decentralized finance (DeFi) and high-frequency trading. Built on Cosmos with a parallelized EVM, Sei offers unmatched transaction speeds and scalability. Its native token, **SEI**, powers transactions and governance. 
 
 ## Key Features
 - **High Throughput**: Processes up to 20,000 TPS with ~400ms finality, far surpassing Ethereum (~25 TPS).
@@ -11,7 +11,7 @@
 ## SEI Token
 - **Purpose**: Used for transaction fees, staking, governance, and accessing ecosystem services.
 - **Supply**: ~5.6B SEI in circulation, with a maximum supply of 10B.
-- **Contract Address**: Native to Sei; [CoinGecko](https://www.coingecko.com/en/coins/sei) [CMC](https://coinmarketcap.com/currencies/sei/).
+- **Contract Address**: Native to Sei; CoinGecko CMC.
 
 ## Who Are the Founders of SEI?
 

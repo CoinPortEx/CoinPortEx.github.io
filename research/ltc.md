@@ -1,6 +1,6 @@
 # What Is Litecoin (LTC)?
 
-**Litecoin (LTC)**, launched in October 2011, is a peer-to-peer cryptocurrency on the **Litecoin blockchain**, a decentralized, open-source Layer 1 blockchain forked from Bitcoin. Created by Charlie Lee, [Litecoin](https://litecoin.org/) is designed for fast, low-cost digital payments, positioning itself as the "digital silver" to Bitcoin’s "digital gold." LTC powers transaction fees, mining rewards, and governance within its ecosystem.
+**Litecoin (LTC)**, launched in October 2011, is a peer-to-peer cryptocurrency on the **Litecoin blockchain**, a decentralized, open-source Layer 1 blockchain forked from Bitcoin. Created by Charlie Lee, Litecoin is designed for fast, low-cost digital payments, positioning itself as the "digital silver" to Bitcoin’s "digital gold." LTC powers transaction fees, mining rewards, and governance within its ecosystem.
 
 ## Key Features
 - **Fast Transactions**: Generates blocks every 2.5 minutes, 4x faster than Bitcoin’s 10 minutes, enabling quick confirmations.
@@ -11,7 +11,7 @@
 ## LTC Token
 - **Purpose**: Used for transaction fees, mining rewards, and as a store of value or payment method.
 - **Supply**: Circulating supply of ~76 million LTC, with a max supply of 84 million.
-- **Contract Address**: Native to Litecoin blockchain; tradeable via [CoinGecko](https://www.coingecko.com/en/coins/litecoin) [CMC](https://coinmarketcap.com/currencies/litecoin/). Add to wallets like Litecoin Core or Exodus.
+- **Contract Address**: Native to Litecoin blockchain; tradeable via CoinGecko CMC. Add to wallets like Litecoin Core or Exodus.
 
 # Who Are the Founders of Litecoin?
 

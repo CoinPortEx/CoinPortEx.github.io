@@ -1,6 +1,6 @@
 # What Is Vaulta (A)?
 
-**Vaulta (A)**, launched in 2024 as a rebrand of EOS, is a layer-1 blockchain focused on Web3 banking, bridging traditional finance and decentralized digital assets. Designed for high-speed, low-cost transactions, [Vaulta](https://www.vaulta.com/) emphasizes interoperability, wealth management, and consumer payments. Its native token, **A**, powers the network. 
+**Vaulta (A)**, launched in 2024 as a rebrand of EOS, is a layer-1 blockchain focused on Web3 banking, bridging traditional finance and decentralized digital assets. Designed for high-speed, low-cost transactions, Vaulta emphasizes interoperability, wealth management, and consumer payments. Its native token, **A**, powers the network. 
 
 ## Key Features
 - **Web3 Banking**: Supports wealth management, portfolio investment, and consumer payments, integrating with traditional banking systems.
@@ -11,7 +11,7 @@
 ## A Token
 - **Purpose**: Used for transaction fees, staking, and accessing Vaulta’s financial services.
 - **Supply**: ~1.6B A in circulation, with a maximum supply of 2.1B.
-- **Contract Address**: Native to Vaulta (addable to metamak), [CoinGecko](https://www.coingecko.com/en/coins/vaulta) [CMC](https://coinmarketcap.com/currencies/vaulta/).  
+- **Contract Address**: Native to Vaulta (addable to metamak), CoinGecko CMC.  
 
 ## Who Are the Founders of A?
 

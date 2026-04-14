@@ -4,7 +4,7 @@
 
 Unlike centralized stablecoins, repaid interest on GHO borrows flows directly to the Aave DAO treasury, enhancing protocol sustainability and reducing external dependencies.
 
-**Official site**: [gho.xyz](https://gho.xyz) | [Aave docs on GHO](https://docs.aave.com/gho)
+**Official site**: gho.xyz | Aave docs on GHO
 
 ## Key Features
 - **Decentralized & Overcollateralized Stability** — Pegged to $1 USD through overcollateralization (average ~245% ratio) backed by diverse crypto assets in Aave markets.
@@ -18,7 +18,7 @@ Unlike centralized stablecoins, repaid interest on GHO borrows flows directly to
 - **Purpose** — Protocol-native stable value for borrowing, lending, payments, yield generation, and DeFi collateral without centralized issuers.
 - **Supply** — Circulating/Total supply approximately 527.4 million GHO (as of mid-February 2026); no fixed maximum supply (minted on demand via collateral).
 - **Contract Address** (Ethereum Mainnet): `0x40D16FC0246aD3160Ccc09B8D0D3A2cD28aE6C2f` (addable to MetaMask).
-- Trackers: [CoinGecko](https://www.coingecko.com/en/coins/gho) | [CoinMarketCap](https://coinmarketcap.com/currencies/gho/)
+- Trackers: CoinGecko | CoinMarketCap
 
 ## Who Are the Founders of GHO?
 

@@ -1,6 +1,6 @@
 # What Is Basic Attention Token (BAT)?
 
-**Basic Attention Token (BAT)**, launched in May 2017, is an ERC-20 utility and governance token on the **Ethereum blockchain**, powering the **Brave browser** ecosystem. Founded by Brave Software, BAT revolutionizes digital advertising by rewarding users for their attention, compensating publishers, and optimizing ad spend for advertisers. [BAT](https://basicattentiontoken.org/) enables privacy-preserving, opt-in ads, with 70% of ad revenue shared with users, driving $2.7B in total value locked (TVL) across its ecosystem.
+**Basic Attention Token (BAT)**, launched in May 2017, is an ERC-20 utility and governance token on the **Ethereum blockchain**, powering the **Brave browser** ecosystem. Founded by Brave Software, BAT revolutionizes digital advertising by rewarding users for their attention, compensating publishers, and optimizing ad spend for advertisers. BAT enables privacy-preserving, opt-in ads, with 70% of ad revenue shared with users, driving $2.7B in total value locked (TVL) across its ecosystem.
 
 ## Key Features
 - **Privacy-Centric Ads**: Brave blocks trackers and intrusive ads, offering opt-in, anonymized ads that reward users with BAT.
@@ -11,7 +11,7 @@
 ## BAT Token
 - **Purpose**: Used for ad rewards, creator tipping, governance, and payments within the Brave ecosystem.
 - **Supply**: Circulating supply of ~1.5 billion BAT, with a max supply of 1.5 billion (fully diluted).
-- **Contract Address**: On Ethereum, BAT’s contract is `0x0d8775f648430679a709e98d2b0cb6250d2887ef` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/basic-attention-token) [CMC](https://coinmarketcap.com/currencies/basic-attention-token/).
+- **Contract Address**: On Ethereum, BAT’s contract is `0x0d8775f648430679a709e98d2b0cb6250d2887ef` (addable to MetaMask).  CoinGecko CMC.
 
 # Who Are the Founders of BAT?
 

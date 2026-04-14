@@ -11,7 +11,7 @@
 - **Purpose**: Used for community governance, speculative trading, and potential ecosystem utilities like DeFi or NFTs.
 - **Supply**: Circulating supply of ~931 million SPX, with a max supply of 1 billion.
 - **Price (June 2025)**: ~$1.57 USD (BTC 0.00001553), up 7.4% in 24 hours and 44.7% in 7 days, with a market cap of ~$1.46 billion.
-- **Contract Address**: `0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c` (Ethereum, addable to MetaMask), [coingecko](https://www.coingecko.com/en/coins/spx6900)  [cmc](https://coinmarketcap.com/currencies/spx6900/).
+- **Contract Address**: `0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c` (Ethereum, addable to MetaMask), coingecko  cmc.
 
 
 

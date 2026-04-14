@@ -1,6 +1,6 @@
 # What Is Arbitrum (ARB)?
 
-**Arbitrum (ARB)**, launched in March 2023, is the governance token of the [Arbitrum](https://arbitrum.io/) ecosystem, an Ethereum Layer 2 (L2) scaling solution using optimistic rollups. Developed by Offchain Labs, Arbitrum enhances Ethereum’s speed and cost-efficiency by processing transactions off-chain and batching them to the mainnet. ARB powers governance, staking, and protocol incentives, supporting a $2.6 billion total value locked (TVL) ecosystem, ranking #7 among blockchains.
+**Arbitrum (ARB)**, launched in March 2023, is the governance token of the Arbitrum ecosystem, an Ethereum Layer 2 (L2) scaling solution using optimistic rollups. Developed by Offchain Labs, Arbitrum enhances Ethereum’s speed and cost-efficiency by processing transactions off-chain and batching them to the mainnet. ARB powers governance, staking, and protocol incentives, supporting a $2.6 billion total value locked (TVL) ecosystem, ranking #7 among blockchains.
 
 ## Key Features
 - **Optimistic Rollups**: Executes transactions off-chain with fraud proofs, enabling ~10,000 transactions per second (TPS) and low fees.
@@ -11,7 +11,7 @@
 ## ARB Token
 - **Purpose**: Used for governance, staking, and transaction fees in the Arbitrum DAO.
 - **Supply**: Circulating supply of ~4.9 billion ARB, with a max supply of 10 billion.
-- **Contract Address**: `0x912ce59144191c1204e64559fe8253a0e49e6548` (Ethereum, addable to MetaMask), [coingecko](https://www.coingecko.com/en/coins/arbitrum) [cmc](https://coinmarketcap.com/currencies/arbitrum/).
+- **Contract Address**: `0x912ce59144191c1204e64559fe8253a0e49e6548` (Ethereum, addable to MetaMask), coingecko cmc.
 
 
 

@@ -1,6 +1,6 @@
 # What Is Ethereum Classic (ETC)?
 
-**Ethereum Classic (ETC)** is a decentralized, open-source blockchain platform that runs smart contracts, launched in July 2015 as the original Ethereum blockchain. Following a hard fork in July 2016 due to the DAO hack, [ETC](https://ethereumclassic.org/) emerged as the chain preserving Ethereum’s initial vision of immutability, where "code is law." Its native token, **ETC**, powers transactions and smart contract execution. 
+**Ethereum Classic (ETC)** is a decentralized, open-source blockchain platform that runs smart contracts, launched in July 2015 as the original Ethereum blockchain. Following a hard fork in July 2016 due to the DAO hack, ETC emerged as the chain preserving Ethereum’s initial vision of immutability, where "code is law." Its native token, **ETC**, powers transactions and smart contract execution. 
 
 ## Key Features
 - **Immutable Blockchain**: Maintains an unalterable ledger, rejecting rollbacks even after hacks, prioritizing decentralization.
@@ -12,7 +12,7 @@
 - **Purpose**: Used for transaction fees (gas), smart contract execution, and mining rewards.
 - **Supply**: ~150M ETC in circulation, with a maximum supply of 210.7M (unlike ETH’s uncapped supply).
 - **Contract Address**: Native to its own blockchain 	
-[CoinGecko](https://www.coingecko.com/en/coins/ethereum-classic) [CMC](https://coinmarketcap.com/currencies/ethereum-classic/).
+CoinGecko CMC.
 
 
 ## Who Are the Founders of ETC?

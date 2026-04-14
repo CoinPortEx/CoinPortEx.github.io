@@ -1,6 +1,6 @@
 # What Is Tectum (TET)?
 
-**Tectum (TET)**, launched in 2023, is a layer-1 blockchain claiming to be the world’s fastest, with a peak capacity of 1.38M transactions per second (TPS). Built on a proprietary Proof-of-Utility (PoU) consensus, [Tectum](https://tectum.io/) focuses on high-speed, low-cost crypto payments, particularly for Bitcoin, via its **SoftNote** technology. The native ERC-20 token, **TET**, powers the ecosystem. 
+**Tectum (TET)**, launched in 2023, is a layer-1 blockchain claiming to be the world’s fastest, with a peak capacity of 1.38M transactions per second (TPS). Built on a proprietary Proof-of-Utility (PoU) consensus, Tectum focuses on high-speed, low-cost crypto payments, particularly for Bitcoin, via its **SoftNote** technology. The native ERC-20 token, **TET**, powers the ecosystem. 
 
 ## Key Features
 - **High-Speed Blockchain**: Processes up to 1.38M TPS, far surpassing Bitcoin (~7 TPS) and Ethereum (~25 TPS).
@@ -11,7 +11,7 @@
 ## TET Token
 - **Purpose**: Used for SoftNote payments, transaction fees, and platform access.
 - **Supply**: ~8.4M TET in circulation, with a maximum supply of 10M.
-- **Contract Address**: On Ethereum, TET’s contract is `0x68a47fe1cf42eba4a030a10cd4d6a1031ca3ca0a` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/tectum) [CMC](https://coinmarketcap.com/currencies/tectum/).
+- **Contract Address**: On Ethereum, TET’s contract is `0x68a47fe1cf42eba4a030a10cd4d6a1031ca3ca0a` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of TET?
 

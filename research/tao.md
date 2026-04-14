@@ -1,6 +1,6 @@
 # What Is Bittensor (TAO)?
 
-**Bittensor (TAO)**, launched in March 2023, is the native token of the [Bittensor](https://bittensor.com/) Layer 1 (L1) blockchain, an open-source protocol creating a decentralized machine learning network. Bittensor enables collaborative AI model training, rewarding participants with TAO based on their contributions’ informational value. Its subnet architecture supports specialized AI tasks, fostering a trustless market for artificial intelligence. TAO powers governance, staking, and access to the network’s AI resources, with a $2.7 billion total value locked (TVL).
+**Bittensor (TAO)**, launched in March 2023, is the native token of the Bittensor Layer 1 (L1) blockchain, an open-source protocol creating a decentralized machine learning network. Bittensor enables collaborative AI model training, rewarding participants with TAO based on their contributions’ informational value. Its subnet architecture supports specialized AI tasks, fostering a trustless market for artificial intelligence. TAO powers governance, staking, and access to the network’s AI resources, with a $2.7 billion total value locked (TVL).
 
 ## Key Features
 - **Decentralized AI**: Connects AI models globally, rewarding miners and validators for training and evaluating models.
@@ -11,7 +11,7 @@
 ## TAO Token
 - **Purpose**: Used for staking, governance, rewarding AI contributions, and accessing network data.
 - **Supply**: Circulating supply of ~8.8 million TAO, with a max supply of 21 million.
-- **Contract Address**: Native to Bittensor L1,  [Coingecko](https://www.coingecko.com/en/coins/bittensor)  [CMC](https://coinmarketcap.com/currencies/bittensor/) 
+- **Contract Address**: Native to Bittensor L1,  Coingecko  CMC 
 
 
 

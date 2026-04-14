@@ -1,6 +1,6 @@
 # What Is Story (IP)?
 
-**Story (IP)**, launched in August 2024, is the native token of the [Story Protocol](https://www.storyprotocol.xyz/), a purpose-built Layer 1 blockchain designed to tokenize and manage intellectual property (IP) on-chain. Story enables creators to register, license, and monetize IP—such as ideas, images, songs, AI models, or NFTs—with programmable usage terms, attribution, and royalties embedded in the blockchain. IP powers governance, staking, and transaction fees.
+**Story (IP)**, launched in August 2024, is the native token of the Story Protocol, a purpose-built Layer 1 blockchain designed to tokenize and manage intellectual property (IP) on-chain. Story enables creators to register, license, and monetize IP—such as ideas, images, songs, AI models, or NFTs—with programmable usage terms, attribution, and royalties embedded in the blockchain. IP powers governance, staking, and transaction fees.
 
 ## Key Features
 - **IP Tokenization**: Converts any IP into programmable assets, enabling transparent licensing and royalty distribution.
@@ -11,7 +11,7 @@
 ## IP Token
 - **Purpose**: Used for governance, staking, transaction fees, and incentivizing IP registration.
 - **Supply**: Circulating supply of ~290 million IP, with a max supply of 1 billion.
-- **Contract Address**: `0x0c8aF56dA0b53E3bF6c5A6F744fC0C2E16eA7D67` (Ethereum, addable to MetaMask), tradeable via [www.coingecko.com/en/coins/story](https://www.coingecko.com/en/coins/story).
+- **Contract Address**: `0x0c8aF56dA0b53E3bF6c5A6F744fC0C2E16eA7D67` (Ethereum, addable to MetaMask), tradeable via www.coingecko.com/en/coins/story.
 
 
 # Who Are the Founders of Story?

@@ -1,6 +1,6 @@
 # What Is Maple (SYRUP)?
 
-**Maple (SYRUP)**, launched in 2021 as Maple Finance and rebranded with the SYRUP token in November 2024, is a decentralized finance (DeFi) platform on Ethereum focused on institutional lending and yield products. [Maple](https://maple.finance/) Finance offers transparent on-chain financing for borrowers and sustainable yields for lenders through diversified liquidity pools. The native token, **SYRUP**, powers governance, staking, and protocol growth. With a market cap of ~$570M and $1.6B in assets under management (AUM).
+**Maple (SYRUP)**, launched in 2021 as Maple Finance and rebranded with the SYRUP token in November 2024, is a decentralized finance (DeFi) platform on Ethereum focused on institutional lending and yield products. Maple Finance offers transparent on-chain financing for borrowers and sustainable yields for lenders through diversified liquidity pools. The native token, **SYRUP**, powers governance, staking, and protocol growth. With a market cap of ~$570M and $1.6B in assets under management (AUM).
 
 ## Key Features
 - **Institutional Lending**: Provides under-collateralized loans to institutional borrowers, with over $7B in total loan originations and 700 active lenders.
@@ -11,7 +11,7 @@
 ## SYRUP Token
 - **Purpose**: Used for governance, staking, fee sharing, and accessing Maple’s yield products.
 - **Supply**: ~1.1B SYRUP in circulation, with a maximum supply of 1.2B.
-- **Contract Address**: On Ethereum, SYRUP’s contract is `0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/maple-finance) [CMC](https://coinmarketcap.com/currencies/maple-finance/).
+- **Contract Address**: On Ethereum, SYRUP’s contract is `0x643c4e15d7d62ad0abec4a9bd4b001aa3ef52d66` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of SYRUP?
 

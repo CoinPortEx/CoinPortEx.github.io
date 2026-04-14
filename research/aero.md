@@ -1,6 +1,6 @@
 # What Is Aerodrome Finance (AERO)?
 
-**Aerodrome Finance (AERO)**, launched in August 2023, is a decentralized exchange (DEX) and automated market maker (AMM) on the Base blockchain, serving as its primary liquidity hub. A fork of Velodrome Finance, [Aerodrome](https://aerodrome.finance/) combines features from Curve, Convex, and Uniswap V2, offering low-slippage token swaps and a vote-lock governance model. Its native token, **AERO**, incentivizes liquidity and governance. 
+**Aerodrome Finance (AERO)**, launched in August 2023, is a decentralized exchange (DEX) and automated market maker (AMM) on the Base blockchain, serving as its primary liquidity hub. A fork of Velodrome Finance, Aerodrome combines features from Curve, Convex, and Uniswap V2, offering low-slippage token swaps and a vote-lock governance model. Its native token, **AERO**, incentivizes liquidity and governance. 
 
 ## Key Features
 - **Liquidity Incentive Engine**: Redirects 100% of trading fees to veAERO holders, with ~$31.2M in 24-hour volume on Aerodrome (Base).
@@ -11,7 +11,7 @@
 ## AERO Token
 - **Purpose**: Used for governance, staking (vote-locking), and earning trading fees.
 - **Supply**: ~832.6M AERO in circulation, with a maximum supply of 1.66B.
-- **Contract Address**: On Base, AERO’s contract is `0x940181a94A35A4569E4529A3CDfB74e38FD98631` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/aerodrome-finance) [CMC](https://coinmarketcap.com/currencies/aerodrome-finance/).
+- **Contract Address**: On Base, AERO’s contract is `0x940181a94A35A4569E4529A3CDfB74e38FD98631` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of AERO?
 

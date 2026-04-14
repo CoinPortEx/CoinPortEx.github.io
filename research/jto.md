@@ -1,6 +1,6 @@
 # What Is Jito (JTO)?
 
-**Jito (JTO)** is the native governance token of the Jito Network, a liquid staking and maximum extractable value (MEV) protocol built on the Solana blockchain. Launched on December 7, 2023, [Jito](https://www.jito.network/) enables users to stake Solana (SOL) and receive JitoSOL, a liquid staking token that combines staking rewards with MEV profits. Designed to enhance Solana’s validator economy, Jito promotes transparency, decentralization, and equitable profit distribution through its open-source validator client and community-driven DAO. 
+**Jito (JTO)** is the native governance token of the Jito Network, a liquid staking and maximum extractable value (MEV) protocol built on the Solana blockchain. Launched on December 7, 2023, Jito enables users to stake Solana (SOL) and receive JitoSOL, a liquid staking token that combines staking rewards with MEV profits. Designed to enhance Solana’s validator economy, Jito promotes transparency, decentralization, and equitable profit distribution through its open-source validator client and community-driven DAO. 
 
 ## Key Features
 - **Liquid Staking**: Users stake SOL to receive JitoSOL, maintaining liquidity for DeFi while earning staking and MEV rewards.
@@ -11,7 +11,7 @@
 ## JTO Token
 - **Purpose**: Facilitates governance, staking, fee auctions, and access to Jito’s ecosystem, including JitoSOL rewards.
 - **Supply**: ~350M JTO in circulation, with a maximum supply of 1B. 
-- **Contract Address**: Native to Solana blockchain; compatible with wallets like Phantom or Solflare for DeFi and trading [CoinGecko](https://www.coingecko.com/en/coins/jito) [CMC](https://coinmarketcap.com/currencies/jito/).
+- **Contract Address**: Native to Solana blockchain; compatible with wallets like Phantom or Solflare for DeFi and trading CoinGecko CMC.
 
 
 ## Who Are the Founders of Jito?

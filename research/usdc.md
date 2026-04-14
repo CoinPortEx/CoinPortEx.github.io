@@ -1,6 +1,6 @@
 # What Is USDC (USDC)?
 
-**USDC (USDC)**, launched in September 2018, is a stablecoin pegged 1:1 to the U.S. dollar, issued by [Circle](https://www.circle.com/usdc) and backed by reserves of cash and U.S. Treasuries. Built on multiple blockchains, including Ethereum, Solana, and Stellar, USDC facilitates stable, low-cost digital payments and DeFi transactions. 
+**USDC (USDC)**, launched in September 2018, is a stablecoin pegged 1:1 to the U.S. dollar, issued by Circle and backed by reserves of cash and U.S. Treasuries. Built on multiple blockchains, including Ethereum, Solana, and Stellar, USDC facilitates stable, low-cost digital payments and DeFi transactions. 
 
 ## Key Features
 - **Stable Value**: Maintains a 1:1 peg with the USD, minimizing volatility for payments, remittances, and DeFi.
@@ -11,7 +11,7 @@
 ## USDC Token
 - **Purpose**: Used for payments, trading, DeFi lending, and cross-chain transfers.
 - **Supply**: ~35B USDC in circulation, with no fixed maximum supply due to its redeemable nature.
-- **Contract Address**: On Ethereum, USDC’s contract is `0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/usdc) [CMC](https://coinmarketcap.com/currencies/usd-coin/).
+- **Contract Address**: On Ethereum, USDC’s contract is `0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of USDC?
 

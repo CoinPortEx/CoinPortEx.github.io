@@ -1,6 +1,6 @@
 # What Is Stellar (XLM)?
 
-**Stellar (XLM)** is the native cryptocurrency of the Stellar network, a decentralized blockchain platform designed for fast, low-cost cross-border payments and financial services. Launched in 2014 as a fork of Ripple, [Stellar](https://stellar.org/) connects financial institutions, payment providers, and individuals worldwide, enabling near-instant global transactions and asset tokenization. It powers remittances, stablecoin issuance, and DeFi applications through its Soroban smart contract platform, making it a key player in bridging traditional finance with blockchain technology.
+**Stellar (XLM)** is the native cryptocurrency of the Stellar network, a decentralized blockchain platform designed for fast, low-cost cross-border payments and financial services. Launched in 2014 as a fork of Ripple, Stellar connects financial institutions, payment providers, and individuals worldwide, enabling near-instant global transactions and asset tokenization. It powers remittances, stablecoin issuance, and DeFi applications through its Soroban smart contract platform, making it a key player in bridging traditional finance with blockchain technology.
 
 ## Key Features
 - **Cross-Border Payments**: Facilitates quick, affordable international transfers with sub-five-second finality and fees as low as 0.00001 XLM.
@@ -12,7 +12,7 @@
 ## XLM Token
 - **Purpose**: Pays network fees to prevent spam, acts as a bridge currency for exchanges (e.g., converting fiat to XLM then to another asset), and supports liquidity in trading pairs.
 - **Supply**: ~31.74B XLM in circulation, with a total and maximum supply of 50B (inflation mechanism adds ~1% annually, distributed to holders).
-- **Contract Address**: Native to the Stellar blockchain; compatible with wallets like Lobstr, Solar Wallet, or Ledger for payments and DeFi [CoinGecko](https://www.coingecko.com/en/coins/stellar) [CMC](https://coinmarketcap.com/currencies/stellar/).
+- **Contract Address**: Native to the Stellar blockchain; compatible with wallets like Lobstr, Solar Wallet, or Ledger for payments and DeFi CoinGecko CMC.
 
 ## Who Are the Founders of Stellar?
 Stellar was founded by Jed McCaleb (co-founder of Ripple and Mt. Gox) and Joyce Kim in 2014, following McCaleb's departure from Ripple due to differing visions on centralization. The non-profit Stellar Development Foundation (SDF), initially funded by Stripe co-founder Patrick Collison, oversees network development and promotes financial inclusion through grants and partnerships.

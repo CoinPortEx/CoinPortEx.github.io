@@ -1,6 +1,6 @@
 # What Is Avalanche (AVAX)?
 
-**Avalanche (AVAX)**, launched in September 2020, is the native cryptocurrency of the **Avalanche blockchain**, a high-performance, decentralized Layer 1 blockchain platform designed for smart contracts and custom blockchain networks. Founded by Ava Labs, Avalanche offers scalability, speed, and interoperability, competing with Ethereum. [AVAX](https://www.avax.network/) powers transaction fees, staking, governance, and subnet creation, with $6.2B in total value locked (TVL) across its ecosystem.
+**Avalanche (AVAX)**, launched in September 2020, is the native cryptocurrency of the **Avalanche blockchain**, a high-performance, decentralized Layer 1 blockchain platform designed for smart contracts and custom blockchain networks. Founded by Ava Labs, Avalanche offers scalability, speed, and interoperability, competing with Ethereum. AVAX powers transaction fees, staking, governance, and subnet creation, with $6.2B in total value locked (TVL) across its ecosystem.
 
 ## Key Features
 - **High Throughput**: Processes up to 6,500 transactions per second (TPS) with sub-second finality.
@@ -11,7 +11,7 @@
 ## AVAX Token
 - **Purpose**: Used for transaction fees, staking, governance, and creating subnets (custom blockchains).
 - **Supply**: Circulating supply of ~422 million AVAX, with a max supply of 720 million.
-- **Contract Address**: Native to Avalanche (C-Chain);  [CoinGecko](https://www.coingecko.com/en/coins/avalanche) [CMC](https://coinmarketcap.com/currencies/avalanche/). Add to wallets like MetaMask or Core.
+- **Contract Address**: Native to Avalanche (C-Chain);  CoinGecko CMC. Add to wallets like MetaMask or Core.
 
 # Who Are the Founders of Avalanche?
 

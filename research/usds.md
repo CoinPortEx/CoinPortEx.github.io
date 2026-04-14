@@ -1,7 +1,7 @@
 
 # What Is USDS?
 
-**USDS**, launched in August 2024 as a rebrand of DAI, is a decentralized, USD-pegged stablecoin within the [Sky Ecosystem](https://sky.money/), formerly MakerDAO, built on Ethereum. USDS is collateral-backed by assets like ETH and real-world assets (RWAs), minted through over-collateralized vaults, and serves as the native currency for the Sky Protocol’s DeFi applications. It powers lending, borrowing, and yield-generating opportunities across multiple blockchains, with rewards for stakers via Sky Token Rewards.
+**USDS**, launched in August 2024 as a rebrand of DAI, is a decentralized, USD-pegged stablecoin within the Sky Ecosystem, formerly MakerDAO, built on Ethereum. USDS is collateral-backed by assets like ETH and real-world assets (RWAs), minted through over-collateralized vaults, and serves as the native currency for the Sky Protocol’s DeFi applications. It powers lending, borrowing, and yield-generating opportunities across multiple blockchains, with rewards for stakers via Sky Token Rewards.
 
 ## Key Features
 - **Stablecoin**: Pegged 1:1 to the USD, ensuring price stability for DeFi transactions and payments.
@@ -11,8 +11,8 @@
 
 ## USDS Token
 - **Purpose**: Used for DeFi lending, borrowing, trading, and staking to earn rewards.
-- **Supply**: Circulating supply of ~7.3 billion USDS, with no fixed cap as minting depends on vault activity.[](https://www.coingecko.com/en/coins/usds)
-- **Contract Address**: `0xdc035d45d973e3ec169d2276ddab16f1e407384f` (Ethereum, addable to MetaMask).[](https://www.coingecko.com/en/coins/usds)
+- **Supply**: Circulating supply of ~7.3 billion USDS, with no fixed cap as minting depends on vault activity.
+- **Contract Address**: `0xdc035d45d973e3ec169d2276ddab16f1e407384f` (Ethereum, addable to MetaMask).
 
 
 # Who Are the Founders of USDS?
@@ -28,7 +28,7 @@ USDS stands out for its decentralized stability and ecosystem integration:
 - **Multichain Yield**: Offers high rewards, e.g., ~7.5% on Base via GrowCompound and ~4.5% on Optimism via Spark, making it a top stablecoin for yield farming.
 - **Protocol Liquidity**: Sky’s reserves provide instant liquidity for new DeFi products, reducing reliance on external capital.
 
-USDS’s $5.6 billion TVL and multichain presence position it as a leading stablecoin, rivaling USDC and USDT.[](https://www.coingecko.com/en/coins/usds)
+USDS’s $5.6 billion TVL and multichain presence position it as a leading stablecoin, rivaling USDC and USDT.
 
 # USDS Network Upgrades (2025)
 

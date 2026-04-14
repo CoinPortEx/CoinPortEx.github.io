@@ -1,6 +1,6 @@
 # What Is Flare (FLR)?
 
-**Flare (FLR)**, launched in July 2022, is the native token of the [Flare Network](https://flare.network/), an EVM-compatible Layer 1 blockchain designed for decentralized data interoperability. Flare enables developers to build dApps with access to high-integrity data from other blockchains and the internet, supporting use cases like DeFi, RWAs, and social networks. FLR powers transaction fees, staking, and governance.
+**Flare (FLR)**, launched in July 2022, is the native token of the Flare Network, an EVM-compatible Layer 1 blockchain designed for decentralized data interoperability. Flare enables developers to build dApps with access to high-integrity data from other blockchains and the internet, supporting use cases like DeFi, RWAs, and social networks. FLR powers transaction fees, staking, and governance.
 
 ## Key Features
 - **Data Interoperability**: State Connector and Flare Time Series Oracle (FTSO) provide decentralized blockchain and Web2 data for dApps.
@@ -12,7 +12,7 @@
 - **Purpose**: Used for transaction fees, staking, governance, and delegating to FTSO data providers.
 - **Supply**: Circulating supply of ~68 billion FLR, with a max supply of 100 billion.
 - **Contract Address**: Native to Flare Network, 
-- [coingecko](https://www.coingecko.com/en/coins/flare) [cmc](https://coinmarketcap.com/currencies/flare/).
+- coingecko cmc.
 
 
 

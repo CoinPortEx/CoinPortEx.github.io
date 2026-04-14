@@ -1,6 +1,6 @@
 # What Is HTX DAO (HTX)?
 
-**HTX DAO (HTX)**, launched in January 2023, is a decentralized autonomous organization (DAO) tied to the HTX exchange, focusing on community-driven governance of its blockchain ecosystem. Built on the TRON blockchain, [HTX](https://www.htxdao.com/en-us/) DAO aims to foster innovation in DeFi and decentralized economies. Its native token, **HTX**, enables voting and ecosystem access. 
+**HTX DAO (HTX)**, launched in January 2023, is a decentralized autonomous organization (DAO) tied to the HTX exchange, focusing on community-driven governance of its blockchain ecosystem. Built on the TRON blockchain, HTX DAO aims to foster innovation in DeFi and decentralized economies. Its native token, **HTX**, enables voting and ecosystem access. 
 
 ## Key Features
 - **Decentralized Governance**: HTX token holders vote on proposals, shaping platform development and policies.
@@ -11,7 +11,7 @@
 ## HTX Token
 - **Purpose**: Used for governance, transaction fee discounts, and accessing exclusive ecosystem features.
 - **Supply**: Circulating supply data unavailable; maximum supply is 1 quadrillion HTX.
-- **Contract Address**: On TRON, HTX’s contract is `TUPM7K8REVzD2UdV4R5fe5M8XbnR2DdoJ6` (addable to TronLink) [CoinGecko](https://www.coingecko.com/en/coins/htx-dao) [CMC](https://coinmarketcap.com/currencies/htx/).
+- **Contract Address**: On TRON, HTX’s contract is `TUPM7K8REVzD2UdV4R5fe5M8XbnR2DdoJ6` (addable to TronLink) CoinGecko CMC.
 
 ## Who Are the Founders of HTX?
 

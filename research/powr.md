@@ -1,6 +1,6 @@
 # What Is Powerledger (POWR)?
 
-**Powerledger (POWR)**, launched in 2016, is a blockchain-based platform focused on decentralized energy markets, enabling peer-to-peer (P2P) trading, tracking, and tracing of renewable energy and environmental commodities. Headquartered in Zug, Switzerland, [Powerledger](https://powerledger.io/) uses blockchain to democratize energy access, allowing consumers to buy, sell, and manage surplus energy from sources like solar panels. Its native token, **POWR**, is an ERC-20 token on Ethereum.
+**Powerledger (POWR)**, launched in 2016, is a blockchain-based platform focused on decentralized energy markets, enabling peer-to-peer (P2P) trading, tracking, and tracing of renewable energy and environmental commodities. Headquartered in Zug, Switzerland, Powerledger uses blockchain to democratize energy access, allowing consumers to buy, sell, and manage surplus energy from sources like solar panels. Its native token, **POWR**, is an ERC-20 token on Ethereum.
 
 ## Key Features
 - **P2P Energy Trading**: Facilitates direct energy trading between producers and consumers, with projects like a 1,000+ participant initiative in India.
@@ -11,7 +11,7 @@
 ## POWR Token
 - **Purpose**: Acts as a license for businesses (e.g., utilities, microgrids) to access the Powerledger platform and pay for transactions.
 - **Supply**: ~530M POWR in circulation, with a maximum supply of 1B.
-- **Contract Address**: On Ethereum, POWR’s contract is `0x595832f8fc6bf59c85c527fec3740a1b7a361269` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/power-ledger) [CMC](https://coinmarketcap.com/currencies/power-ledger/).
+- **Contract Address**: On Ethereum, POWR’s contract is `0x595832f8fc6bf59c85c527fec3740a1b7a361269` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of POWR?
 

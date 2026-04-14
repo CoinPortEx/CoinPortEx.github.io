@@ -1,6 +1,6 @@
 # What Is The Graph (GRT)?
 
-**The Graph (GRT)**, launched in December 2020, is a decentralized protocol for indexing and querying blockchain data, often called the "Google of Web3." Built on Ethereum, The [Graph](https://thegraph.com/) enables developers to build efficient dApps by accessing structured data via subgraphs. Its native token, **GRT**, incentivizes network participants. 
+**The Graph (GRT)**, launched in December 2020, is a decentralized protocol for indexing and querying blockchain data, often called the "Google of Web3." Built on Ethereum, The Graph enables developers to build efficient dApps by accessing structured data via subgraphs. Its native token, **GRT**, incentivizes network participants. 
 
 ## Key Features
 - **Subgraph Indexing**: Organizes blockchain data into queryable subgraphs, powering dApps like Uniswap and Aave.
@@ -11,7 +11,7 @@
 ## GRT Token
 - **Purpose**: Used for staking, governance, paying indexers, and curator signaling.
 - **Supply**: ~9.5B GRT in circulation, with a maximum supply of 10.79B.
-- **Contract Address**: On Ethereum, GRT’s contract is `0xc944e90c64b2c07662a292be6244bdf05cda44a7` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/the-graph) [CMC](https://coinmarketcap.com/currencies/the-graph/).
+- **Contract Address**: On Ethereum, GRT’s contract is `0xc944e90c64b2c07662a292be6244bdf05cda44a7` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of GRT?
 

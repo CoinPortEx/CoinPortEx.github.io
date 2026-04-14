@@ -18,7 +18,7 @@ Key unique features include:
 </ul>
 Sonic’s ecosystem is further enhanced by features like account abstraction, enabling gas subsidies, dynamic fees, and user-friendly wallets, making it ideal for developers and users seeking a seamless DeFi experience.
 
-For more information, visit <a href="https://www.soniclabs.com">Sonic’s official site</a> or <a href="https://coinmarketcap.com/currencies/sonic/">CoinMarketCap</a>.
+For more information, visit Sonic’s official site or CoinMarketCap.
 
 
 

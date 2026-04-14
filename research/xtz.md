@@ -1,6 +1,6 @@
 # What Is Tezos (XTZ)?
 
-**Tezos (XTZ)**, launched in September 2018, is a decentralized, self-amending layer-1 blockchain designed for smart contracts and dApps, with a focus on long-term upgradability and governance. Using a Proof-of-Stake (PoS) consensus, [Tezos](https://www.tezos.com/) enables seamless protocol upgrades without hard forks. Its native token, **XTZ**, powers transactions and governance. 
+**Tezos (XTZ)**, launched in September 2018, is a decentralized, self-amending layer-1 blockchain designed for smart contracts and dApps, with a focus on long-term upgradability and governance. Using a Proof-of-Stake (PoS) consensus, Tezos enables seamless protocol upgrades without hard forks. Its native token, **XTZ**, powers transactions and governance. 
 
 ## Key Features
 - **Self-Amending Protocol**: On-chain governance allows upgrades without forks, with 20+ upgrades since launch (e.g., Paris in 2024).
@@ -11,7 +11,7 @@
 ## XTZ Token
 - **Purpose**: Used for transaction fees, staking (baking), and voting on protocol upgrades.
 - **Supply**: ~1B XTZ in circulation, with no fixed maximum supply due to inflationary rewards.
-- **Contract Address**: Native to Tezos; [CoinGecko](https://www.coingecko.com/en/coins/tezos) [CMC](https://coinmarketcap.com/currencies/tezos/).
+- **Contract Address**: Native to Tezos; CoinGecko CMC.
 
 ## Who Are the Founders of XTZ?
 

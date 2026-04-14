@@ -1,6 +1,6 @@
 # What Is Chainlink (LINK)?
 
-**Chainlink (LINK)**, launched in September 2017, is a decentralized oracle network built on Ethereum, enabling smart contracts to securely interact with off-chain data, APIs, and traditional systems. [Chainlink](https://chain.link/) connects blockchains to real-world data, powering DeFi, tokenized assets, and cross-chain applications. Its native token, **LINK**, incentivizes node operators and facilitates payments. 
+**Chainlink (LINK)**, launched in September 2017, is a decentralized oracle network built on Ethereum, enabling smart contracts to securely interact with off-chain data, APIs, and traditional systems. Chainlink connects blockchains to real-world data, powering DeFi, tokenized assets, and cross-chain applications. Its native token, **LINK**, incentivizes node operators and facilitates payments. 
 
 ## Key Features
 - **Decentralized Oracles**: Provides reliable data feeds (e.g., price, weather) to smart contracts, securing over $75B in DeFi value.
@@ -11,7 +11,7 @@
 ## LINK Token
 - **Purpose**: Used for paying node operators, staking, and governance participation.
 - **Supply**: ~660M LINK in circulation, with a maximum supply of 1B 
-- **Contract Address**: On Ethereum, LINK’s contract is `0x514910771af9ca656af840dff83e8264ecf986ca` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/chainlink) [CMC](https://coinmarketcap.com/currencies/chainlink/).
+- **Contract Address**: On Ethereum, LINK’s contract is `0x514910771af9ca656af840dff83e8264ecf986ca` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of LINK?
 

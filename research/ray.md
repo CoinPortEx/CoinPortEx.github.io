@@ -1,6 +1,6 @@
 # What Is Raydium (RAY)?
 
-**Raydium (RAY)** is the native cryptocurrency of the Raydium protocol, a decentralized automated market maker (AMM) and liquidity provider built on the Solana blockchain. Launched on February 21, 2021, [Raydium](https://raydium.io/swap/) integrates with Serum’s central limit orderbook, enabling liquidity providers to access Serum’s order flow while leveraging Solana’s high-speed, low-cost transactions. Raydium supports trading, yield farming, and token launches through its AcceleRaytor launchpad, making it a cornerstone of Solana’s DeFi ecosystem. 
+**Raydium (RAY)** is the native cryptocurrency of the Raydium protocol, a decentralized automated market maker (AMM) and liquidity provider built on the Solana blockchain. Launched on February 21, 2021, Raydium integrates with Serum’s central limit orderbook, enabling liquidity providers to access Serum’s order flow while leveraging Solana’s high-speed, low-cost transactions. Raydium supports trading, yield farming, and token launches through its AcceleRaytor launchpad, making it a cornerstone of Solana’s DeFi ecosystem. 
 
 ## Key Features
 - **Hybrid AMM-Orderbook Model**: Combines AMM pools with Serum’s on-chain limit orderbook, offering enhanced liquidity and low slippage.
@@ -11,7 +11,7 @@
 ## RAY Token
 - **Purpose**: Facilitates transaction fees, staking, governance, and securing allocations for initial DEX offerings (IDOs).
 - **Supply**: ~290M RAY in circulation, with a maximum supply of 555M. 
-- **Contract Address**: Native to Solana blockchain; compatible with wallets like Phantom or backpack for trading and DeFi [CoinGecko](https://www.coingecko.com/en/coins/raydium) [CMC](https://coinmarketcap.com/currencies/raydium/).
+- **Contract Address**: Native to Solana blockchain; compatible with wallets like Phantom or backpack for trading and DeFi CoinGecko CMC.
 
 
 ## Who Are the Founders of Raydium?

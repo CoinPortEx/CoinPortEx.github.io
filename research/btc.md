@@ -1,6 +1,6 @@
 # What Is Bitcoin (BTC)?
 
-**Bitcoin (BTC)**, launched in January 2009, is the first and largest cryptocurrency by market cap, operating on the **Bitcoin blockchain**, a decentralized, open-source Layer 1 blockchain. Created by the pseudonymous **Satoshi Nakamoto**, [Bitcoin](https://bitcoin.org/en/) enables peer-to-peer transactions without intermediaries, serving as a digital store of value and medium of exchange. BTC powers transaction fees, mining rewards, and ecosystem growth.
+**Bitcoin (BTC)**, launched in January 2009, is the first and largest cryptocurrency by market cap, operating on the **Bitcoin blockchain**, a decentralized, open-source Layer 1 blockchain. Created by the pseudonymous **Satoshi Nakamoto**, Bitcoin enables peer-to-peer transactions without intermediaries, serving as a digital store of value and medium of exchange. BTC powers transaction fees, mining rewards, and ecosystem growth.
 
 ## Key Features
 - **Decentralized Ledger**: A distributed blockchain records all transactions, maintained by nodes globally.
@@ -11,7 +11,7 @@
 ## BTC Token
 - **Purpose**: Used for transaction fees, mining rewards, and as a store of value or investment asset.
 - **Supply**: Circulating supply of ~19.8 million BTC, with a max supply of 21 million.
-- **Contract Address**: Native to Bitcoin; [CoinGecko](https://www.coingecko.com/en/coins/bitcoin) [CMC](https://coinmarketcap.com/currencies/bitcoin/). Add to wallets like Electrum or hardware devices (e.g., Ledger).
+- **Contract Address**: Native to Bitcoin; CoinGecko CMC. Add to wallets like Electrum or hardware devices (e.g., Ledger).
 
 # Who Are the Founders of Bitcoin?
 

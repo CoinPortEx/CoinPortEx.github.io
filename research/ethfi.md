@@ -11,7 +11,7 @@
 ## ETHFI Token
 - **Purpose**: Used for governance, staking, and earning rewards within the EtherFi ecosystem, including vault incentives.
 - **Supply**: ~320M ETHFI in circulation, with a maximum supply of 1B.
-- **Contract Address**: On Ethereum, ETHFI’s contract is `0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/ether-fi) [CMC](https://coinmarketcap.com/currencies/ether-fi-ethfi/).
+- **Contract Address**: On Ethereum, ETHFI’s contract is `0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of ETHFI?
 

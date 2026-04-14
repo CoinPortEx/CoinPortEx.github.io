@@ -1,6 +1,6 @@
 # What Is Ondo (ONDO)?
 
-**Ondo (ONDO)**, launched in January 2024, is the governance token of the [Ondo Finance](https://ondo.finance/) ecosystem, a decentralized finance (DeFi) protocol focused on tokenizing real-world assets (RWAs) like U.S. Treasuries. Built on Ethereum and integrated with chains like Solana, XRP Ledger, and Sui, Ondo democratizes access to institutional-grade financial products through tokens like OUSG (short-term U.S. Treasuries) and USDY (yield-bearing stablecoin). ONDO powers governance, staking, and protocol incentives, with a $7.2 billion RWA market share.
+**Ondo (ONDO)**, launched in January 2024, is the governance token of the Ondo Finance ecosystem, a decentralized finance (DeFi) protocol focused on tokenizing real-world assets (RWAs) like U.S. Treasuries. Built on Ethereum and integrated with chains like Solana, XRP Ledger, and Sui, Ondo democratizes access to institutional-grade financial products through tokens like OUSG (short-term U.S. Treasuries) and USDY (yield-bearing stablecoin). ONDO powers governance, staking, and protocol incentives, with a $7.2 billion RWA market share.
 
 ## Key Features
 - **RWA Tokenization**: Enables tokenized U.S. Treasuries (OUSG) and yield-bearing stablecoins (USDY), bridging traditional finance and DeFi.
@@ -11,7 +11,7 @@
 ## ONDO Token
 - **Purpose**: Used for governance, staking, and incentivizing protocol participation.
 - **Supply**: Circulating supply of ~3.2 billion ONDO, with a max supply of 10 billion.
-- **Contract Address**: `0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3` (Ethereum, addable to MetaMask), tradeable via [Coingecko](https://www.coingecko.com/en/coins/ondo).  [CMC](https://coinmarketcap.com/currencies/ondo-finance/).
+- **Contract Address**: `0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3` (Ethereum, addable to MetaMask), tradeable via Coingecko.  CMC.
 
 
 # Who Are the Founders of Ondo?

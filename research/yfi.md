@@ -1,6 +1,6 @@
 # What Is Yearn.finance (YFI)?
 
-**Yearn.finance (YFI)**, launched in July 2020, is a decentralized finance (DeFi) protocol on Ethereum that automates yield farming to maximize returns for users. [Yearn](https://yearn.fi/) has a suite of products, including Vaults, optimizes capital across DeFi protocols like Curve and Aave. The native token, **YFI**, governs the platform. 
+**Yearn.finance (YFI)**, launched in July 2020, is a decentralized finance (DeFi) protocol on Ethereum that automates yield farming to maximize returns for users. Yearn has a suite of products, including Vaults, optimizes capital across DeFi protocols like Curve and Aave. The native token, **YFI**, governs the platform. 
 
 ## Key Features
 - **Yield Vaults**: Automates yield generation by reallocating assets to high-yield DeFi strategies, socializing gas costs for users.
@@ -11,7 +11,7 @@
 ## YFI Token
 - **Purpose**: Used for governance, staking, and earning protocol fees.
 - **Supply**: ~34K YFI in circulation, with a maximum supply of 36.67K (fixed supply, no premine).
-- **Contract Address**: On Ethereum, YFI’s contract is `0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/nl/coins/yearn-finance) [CMC](https://coinmarketcap.com/currencies/yearn-finance/).
+- **Contract Address**: On Ethereum, YFI’s contract is `0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of YFI?
 

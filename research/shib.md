@@ -1,6 +1,6 @@
 # What Is Shiba Inu (SHIB)?
 
-**Shiba Inu (SHIB)**, launched in August 2020, is an Ethereum-based memecoin inspired by Dogecoin and the Shiba Inu dog breed. Created as a decentralized, community-driven token, [SHIB](https://shib.io/) has evolved into an ecosystem with DeFi, NFTs, and a layer-2 solution called Shibarium. 
+**Shiba Inu (SHIB)**, launched in August 2020, is an Ethereum-based memecoin inspired by Dogecoin and the Shiba Inu dog breed. Created as a decentralized, community-driven token, SHIB has evolved into an ecosystem with DeFi, NFTs, and a layer-2 solution called Shibarium. 
 
 ## Key Features
 - **Shibarium Layer-2**: A layer-2 blockchain on Ethereum, launched in 2023, offering low-cost transactions and hosting dApps (~1.2M wallets, $10M TVL).
@@ -11,7 +11,7 @@
 ## SHIB Token
 - **Purpose**: Used for payments, staking, DeFi, and governance in Shibarium.
 - **Supply**: ~589T SHIB in circulation, with an initial supply of 1 quadrillion (50% burned to Vitalik Buterin’s wallet, 50% in Uniswap liquidity).
-- **Contract Address**: On Ethereum, SHIB’s contract is `0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/shiba-inu) [CMC](https://coinmarketcap.com/currencies/shiba-/).
+- **Contract Address**: On Ethereum, SHIB’s contract is `0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of SHIB?
 

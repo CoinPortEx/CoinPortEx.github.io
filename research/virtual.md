@@ -1,6 +1,6 @@
 # What Is Virtuals Protocol (VIRTUAL)?
 
-**Virtuals Protocol (VIRTUAL)**, launched in October 2024, is the governance and utility token of the [Virtuals Protocol](https://virtuals.io/), a decentralized platform on Ethereum and Solana for creating, tokenizing, and managing AI agents. Virtuals Protocol enables users to deploy autonomous AI agents for tasks like gaming, trading, and content creation, with a focus on co-owned, human-curated ecosystems. VIRTUAL powers governance, staking, and transactions, supporting a $1.2 billion market cap and $200 million in agent token market cap across its ecosystem.
+**Virtuals Protocol (VIRTUAL)**, launched in October 2024, is the governance and utility token of the Virtuals Protocol, a decentralized platform on Ethereum and Solana for creating, tokenizing, and managing AI agents. Virtuals Protocol enables users to deploy autonomous AI agents for tasks like gaming, trading, and content creation, with a focus on co-owned, human-curated ecosystems. VIRTUAL powers governance, staking, and transactions, supporting a $1.2 billion market cap and $200 million in agent token market cap across its ecosystem.
 
 ## Key Features
 - **AI Agent Platform**: Allows users to create and tokenize AI agents, such as Luna (K-pop star) and GAME (gaming AI), for DeFi and gaming.
@@ -11,7 +11,7 @@
 ## VIRTUAL Token
 - **Purpose**: Used for governance, staking, transaction fees, and accessing AI agent services.
 - **Supply**: Circulating supply of ~655 million VIRTUAL, with a max supply of 1 billion.
-- **Contract Address**: `0x44ff8620b8ca30902395a7bd3f2407e1a091bf73` (Ethereum, addable to MetaMask), [www.coingecko.com/en/coins/virtual-protocol](https://www.coingecko.com/en/coins/virtual-protocol).
+- **Contract Address**: `0x44ff8620b8ca30902395a7bd3f2407e1a091bf73` (Ethereum, addable to MetaMask), www.coingecko.com/en/coins/virtual-protocol.
 
 
 # Who Are the Founders of Virtuals Protocol?

@@ -1,6 +1,6 @@
 # What Is Novatti Australian Digital Dollar (AUDD)?
 
-**Novatti Australian Digital Dollar (AUDD)** is a fiat-backed stablecoin pegged 1:1 to the Australian Dollar (AUD), designed to provide stable, efficient, and compliant digital payment solutions for cross-border transactions, remittances, and DeFi applications. Launched in 2022 by Novatti Group, [AUDD](https://www.audd.digital/) operates on multiple blockchains including Stellar, XRP Ledger, Ethereum (as an ERC-20 token), Solana, and Hedera, enabling blockchain-agnostic interoperability. It bridges traditional finance with Web3 by offering low-cost, near-instant transfers while maintaining full backing by AUD reserves held by regulated entities, positioning it as a key player in Australia's digital economy.
+**Novatti Australian Digital Dollar (AUDD)** is a fiat-backed stablecoin pegged 1:1 to the Australian Dollar (AUD), designed to provide stable, efficient, and compliant digital payment solutions for cross-border transactions, remittances, and DeFi applications. Launched in 2022 by Novatti Group, AUDD operates on multiple blockchains including Stellar, XRP Ledger, Ethereum (as an ERC-20 token), Solana, and Hedera, enabling blockchain-agnostic interoperability. It bridges traditional finance with Web3 by offering low-cost, near-instant transfers while maintaining full backing by AUD reserves held by regulated entities, positioning it as a key player in Australia's digital economy.
 
 ## Key Features
 - **Stablecoin Pegging**: 1:1 backed by Australian Dollars in reserves, ensuring price stability and redeemability for fiat at any time.
@@ -12,7 +12,7 @@
 ## AUDD Token
 - **Purpose**: Serves as a stable medium of exchange for payments, remittances, hedging against crypto volatility, and integration into DeFi protocols; facilitates tokenized asset settlements and interoperability with traditional banking.
 - **Supply**: ~665,840 AUDD in circulation (as of September 2025), with no fixed maximum supply (elastic based on demand via minting/burning to match reserves).
-- **Contract Address**: Varies by chain; e.g., Ethereum: 0x4cce605ed955295432958d8951d0b176c10720d5; compatible with wallets like MetaMask, Lobstr, or Phantom for multi-chain use. [CoinGecko](https://www.coingecko.com/en/coins/novatti-australian-digital-dollar) [CMC](https://coinmarketcap.com/currencies/novatti-australian-digital-dollar/).
+- **Contract Address**: Varies by chain; e.g., Ethereum: 0x4cce605ed955295432958d8951d0b176c10720d5; compatible with wallets like MetaMask, Lobstr, or Phantom for multi-chain use. CoinGecko CMC.
 
 ## Who Are the Founders of AUDD?
 AUDD was developed by AUDC Pty Ltd, a subsidiary of Novatti Group Limited (ASX: NOV), a publicly listed Australian fintech company founded in 1999 by Peter Cook. The project is led by CEO Effie Dimitropoulos MAICD, with oversight from Novatti's executive team including CFO Ashley Sweetman. Novatti, regulated by the Australian Securities and Investments Commission (ASIC), focuses on digital payments without a traditional ICO, emphasizing compliant innovation through partnerships and pilots.

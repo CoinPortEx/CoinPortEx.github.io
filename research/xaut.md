@@ -1,6 +1,6 @@
 # What Is Tether Gold (XAUT)?
 
-**Tether Gold (XAUT)**, launched in January 2020, is a tokenized asset providing digital ownership of physical gold, with each token backed 1:1 by one fine troy ounce of London Good Delivery gold bar. Issued by TG Commodities Limited (a Tether affiliate) and operating on the Ethereum blockchain, [Tether Gold](https://gold.tether.to/) combines the stability of gold with blockchain efficiency. It enables easy trading, transfers, and hedging in crypto markets, while allowing redemption for physical gold, serving as a bridge for investors seeking gold exposure without storage hassles.
+**Tether Gold (XAUT)**, launched in January 2020, is a tokenized asset providing digital ownership of physical gold, with each token backed 1:1 by one fine troy ounce of London Good Delivery gold bar. Issued by TG Commodities Limited (a Tether affiliate) and operating on the Ethereum blockchain, Tether Gold combines the stability of gold with blockchain efficiency. It enables easy trading, transfers, and hedging in crypto markets, while allowing redemption for physical gold, serving as a bridge for investors seeking gold exposure without storage hassles.
 
 ## Key Features
 - **Gold-Backed Stability**: Pegged to the price of physical gold, offering a hedge against volatility and inflation.
@@ -12,8 +12,8 @@
 - **Purpose**: Digital ownership of gold for trading, transfers, storage of value, and physical redemption.
 - **Supply**: Circulating supply of approximately 520,000 XAUT (as of mid-December 2025), issued based on gold purchases with no fixed maximum.
 - **Contract Address**: On Ethereum, XAUT’s contract is `0x68749665FF8D2d112Fa859AA293F07A622782F38` (addable to MetaMask).  
-[CoinGecko](https://www.coingecko.com/en/coins/tether-gold)  
-[CoinMarketCap](https://coinmarketcap.com/currencies/tether-gold/)
+CoinGecko  
+CoinMarketCap
 
 # Who Are the Founders of Tether Gold?
 

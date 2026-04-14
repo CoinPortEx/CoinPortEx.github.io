@@ -1,6 +1,6 @@
 # What Is AB DAO (AB)?
 
-**AB DAO (AB)**, launched in 2024 as a rebrand of Newton Project (NEW), is a decentralized autonomous organization (DAO) focused on cross-chain interoperability and on-chain philanthropy. Built on its own blockchain, [AB](https://www.ab.org/en/) DAO aims to bridge communities and assets across chains while supporting charitable initiatives. Its native token, **AB**, powers transactions and governance. 
+**AB DAO (AB)**, launched in 2024 as a rebrand of Newton Project (NEW), is a decentralized autonomous organization (DAO) focused on cross-chain interoperability and on-chain philanthropy. Built on its own blockchain, AB DAO aims to bridge communities and assets across chains while supporting charitable initiatives. Its native token, **AB**, powers transactions and governance. 
 
 ## Key Features
 - **Cross-Chain Interoperability**: AB Connect bridge enables seamless asset transfers between AB’s blockchain, BSC, and others.
@@ -11,7 +11,7 @@
 ## AB Token
 - **Purpose**: Used for transaction fees, governance, and accessing cross-chain services.
 - **Supply**: ~63B AB in circulation, with a maximum supply of 100B.
-- **Contract Address**: On AB’s blockchain, AB is native; [CoinGecko](https://www.coingecko.com/en/coins/ab-dao) [CMC](https://coinmarketcap.com/currencies/newton/).
+- **Contract Address**: On AB’s blockchain, AB is native; CoinGecko CMC.
 
 ## Who Are the Founders of AB?
 

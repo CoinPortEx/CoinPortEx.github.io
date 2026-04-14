@@ -1,6 +1,6 @@
 # What Is ApeCoin (APE)?
 
-**ApeCoin (APE)**, launched on March 17, 2022, is an ERC-20 governance and utility token on the **Ethereum blockchain**, powering the **APE ecosystem**. Inspired by Yuga Labs’ Bored Ape Yacht Club (BAYC), ApeCoin enables decentralized community building in Web3, supporting gaming, NFTs, and metaverse projects like Otherside. [APE](https://apecoin.com/) is used for governance, ecosystem transactions, and exclusive access to services, with $1.4B in total value locked (TVL) across ApeChain.
+**ApeCoin (APE)**, launched on March 17, 2022, is an ERC-20 governance and utility token on the **Ethereum blockchain**, powering the **APE ecosystem**. Inspired by Yuga Labs’ Bored Ape Yacht Club (BAYC), ApeCoin enables decentralized community building in Web3, supporting gaming, NFTs, and metaverse projects like Otherside. APE is used for governance, ecosystem transactions, and exclusive access to services, with $1.4B in total value locked (TVL) across ApeChain.
 
 ## Key Features
 - **Decentralized Governance**: ApeCoin DAO allows APE holders to vote on ecosystem proposals and fund allocations.
@@ -11,7 +11,7 @@
 ## APE Token
 - **Purpose**: Used for governance, payments, staking, and access to exclusive APE ecosystem services.
 - **Supply**: Circulating supply of ~800 million APE, with a max supply of 1 billion (all minted at launch).
-- **Contract Address**: On Ethereum, APE’s contract is `0x4d224452801aced8b2f0aebe155379bb5d594381` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/apecoin) [CMC](https://coinmarketcap.com/currencies/apecoin-ape/).
+- **Contract Address**: On Ethereum, APE’s contract is `0x4d224452801aced8b2f0aebe155379bb5d594381` (addable to MetaMask).  CoinGecko CMC.
 
 # Who Are the Founders of ApeCoin?
 
@@ -28,7 +28,7 @@ ApeCoin stands out for its cultural and governance focus:
 
 # APE Network Upgrades (2025)
 
-- **[ApeChain](https://apechain.com/) Launch (Q1 2025)**: Deployed a Layer 3 blockchain, boosting TPS to 10,000 and reducing fees to ~$0.005.
+- **ApeChain Launch (Q1 2025)**: Deployed a Layer 3 blockchain, boosting TPS to 10,000 and reducing fees to ~$0.005.
 - **Glyph Integration (June 2025)**: Introduced Glyph, a wallet by Privy, simplifying APE asset management with X or email login.
 - **ApeCo Proposal (June 2025)**: Yuga Labs’ AIP-596 proposed replacing the DAO with ApeCo, enhancing builder support; voting closed June 26, 2025.
 

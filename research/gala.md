@@ -1,6 +1,6 @@
 # What Is Gala (GALA)?
 
-**Gala (GALA)**, launched in September 2020, is a layer-1 blockchain (GalaChain) powering a Web3 entertainment ecosystem for gaming, music, and film. Initially focused on Gala Games, [Gala](https://gala.com/) now supports external developers with open-source tools for tokens, smart contracts, and NFTs. Its native token, **GALA**, drives transactions, governance, and rewards. 
+**Gala (GALA)**, launched in September 2020, is a layer-1 blockchain (GalaChain) powering a Web3 entertainment ecosystem for gaming, music, and film. Initially focused on Gala Games, Gala now supports external developers with open-source tools for tokens, smart contracts, and NFTs. Its native token, **GALA**, drives transactions, governance, and rewards. 
 
 ## Key Features
 - **GalaChain Ecosystem**: Supports Gala Games (e.g., Spider Tanks), Gala Music, Gala Film, and external projects, with ~$26.6M in NFT volume.
@@ -11,7 +11,7 @@
 ## GALA Token
 - **Purpose**: Used for transactions, governance, node rewards, and in-ecosystem purchases (e.g., NFTs, music subscriptions).
 - **Supply**: ~44.9B GALA in circulation, with a maximum supply of 50B.
-- **Contract Address**: On Ethereum, GALA’s contract is `0xd1d2eb1b1e90b638588728b4130137d262c87cae` (addable to MetaMask).[CoinGecko](https://www.coingecko.com/en/coins/gala) [CMC](https://coinmarketcap.com/currencies/gala/).
+- **Contract Address**: On Ethereum, GALA’s contract is `0xd1d2eb1b1e90b638588728b4130137d262c87cae` (addable to MetaMask).CoinGecko CMC.
 
 ## Who Are the Founders of GALA?
 

@@ -1,6 +1,6 @@
 # What Is First Digital USD (FDUSD)?
 
-**First Digital USD (FDUSD)**, launched in August 2023 by First Digital Labs, is a stablecoin pegged 1:1 to the US dollar, designed for stability and efficiency in digital finance. Issued in Hong Kong, [FDUSD](https://firstdigitallabs.com/) operates on Ethereum, BNB Chain, Sui, Solana, and Arbitrum, backed by liquid cash and cash equivalents. It facilitates global financial flows and is traded on major exchanges like Binance.
+**First Digital USD (FDUSD)**, launched in August 2023 by First Digital Labs, is a stablecoin pegged 1:1 to the US dollar, designed for stability and efficiency in digital finance. Issued in Hong Kong, FDUSD operates on Ethereum, BNB Chain, Sui, Solana, and Arbitrum, backed by liquid cash and cash equivalents. It facilitates global financial flows and is traded on major exchanges like Binance.
 
 ## Key Features
 - **1:1 USD Peg**: Maintains a stable value equivalent to one US dollar, minimizing volatility for transactions and hedging.
@@ -11,7 +11,7 @@
 ## FDUSD Token
 - **Purpose**: Facilitates stable transactions, DeFi integrations, and cross-border payments.
 - **Supply**: ~1.5B FDUSD in circulation, with a fully diluted valuation matching its market cap due to no fixed maximum supply.
-- **Contract Address**: 0xc5f0f7b66764f6ec8c8dff7ba683102295e16409 (Ethereum). Add to wallets like MetaMask for DeFi and trading [COINGECKO](https://www.coingecko.com/en/coins/first-digital-usd) [CMC](https://coinmarketcap.com/currencies/first-digital-usd/).
+- **Contract Address**: 0xc5f0f7b66764f6ec8c8dff7ba683102295e16409 (Ethereum). Add to wallets like MetaMask for DeFi and trading COINGECKO CMC.
 
 ## Who Are the Founders of FDUSD?
 FDUSD is issued by First Digital Labs, a Hong Kong-based digital asset custodian under First Digital Trust. Specific founders are not publicly detailed, with the organization emphasizing regulatory compliance and institutional backing. No premine or ICO occurred, focusing on direct issuance and secondary market trading.

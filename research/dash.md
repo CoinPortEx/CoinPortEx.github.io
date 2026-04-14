@@ -1,6 +1,6 @@
 # What Is Dash (DASH)?
 
-**Dash (DASH)**, launched in January 2014, is a cryptocurrency on the **Dash blockchain**, a decentralized, open-source Layer 1 blockchain forked from Bitcoin. Originally named XCoin and later Darkcoin, [Dash](https://www.dash.org/) (Digital Cash) focuses on fast, low-cost, and private peer-to-peer transactions for everyday use. DASH powers transaction fees, masternode rewards, and governance within its ecosystem.
+**Dash (DASH)**, launched in January 2014, is a cryptocurrency on the **Dash blockchain**, a decentralized, open-source Layer 1 blockchain forked from Bitcoin. Originally named XCoin and later Darkcoin, Dash (Digital Cash) focuses on fast, low-cost, and private peer-to-peer transactions for everyday use. DASH powers transaction fees, masternode rewards, and governance within its ecosystem.
 
 ## Key Features
 - **Instant Transactions**: InstantSend settles payments in ~1 second, ideal for point-of-sale use.
@@ -11,7 +11,7 @@
 ## DASH Token
 - **Purpose**: Used for transaction fees, masternode staking (1,000 DASH minimum), and governance voting.
 - **Supply**: Circulating supply of ~12 million DASH, with a max supply of 18.9 million.
-- **Contract Address**: Native to Dash blockchain; tradeable via [CoinGecko](https://www.coingecko.com/en/coins/dash) [CMC](https://coinmarketcap.com/currencies/dash/). Add to wallets like Dash Wallet or Exodus.
+- **Contract Address**: Native to Dash blockchain; tradeable via CoinGecko CMC. Add to wallets like Dash Wallet or Exodus.
 
 # Who Are the Founders of Dash?
 

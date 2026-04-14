@@ -1,6 +1,6 @@
 # What Is Cardano (ADA)?
 
-**Cardano (ADA)**, launched in September 2017, is the native cryptocurrency of the **Cardano blockchain**, a decentralized, open-source Layer 1 blockchain designed for smart contracts and decentralized applications (dApps). Founded by Charles Hoskinson, [Cardano](https://cardano.org/) emphasizes academic rigor, sustainability, and scalability. ADA powers transaction fees, staking, and governance, supporting a growing ecosystem with $1.2B in total value locked (TVL).
+**Cardano (ADA)**, launched in September 2017, is the native cryptocurrency of the **Cardano blockchain**, a decentralized, open-source Layer 1 blockchain designed for smart contracts and decentralized applications (dApps). Founded by Charles Hoskinson, Cardano emphasizes academic rigor, sustainability, and scalability. ADA powers transaction fees, staking, and governance, supporting a growing ecosystem with $1.2B in total value locked (TVL).
 
 ## Key Features
 - **High Scalability**: Processes up to 1,000 transactions per second (TPS) with Hydra scaling, targeting millions TPS.
@@ -12,7 +12,7 @@
 - **Purpose**: Used for transaction fees, staking rewards, and governance voting in the Voltaire era.
 - **Supply**: Circulating supply of ~36 billion ADA, with a max supply of 45 billion.
 - **Contract Address**: Native to Cardano; 
--  [CoinGecko](https://www.coingecko.com/en/coins/cardano) [CMC](https://coinmarketcap.com/currencies/cardano/). Add to wallets like Daedalus or Yoroi.
+-  CoinGecko CMC. Add to wallets like Daedalus or Yoroi.
 
 # Who Are the Founders of Cardano?
 

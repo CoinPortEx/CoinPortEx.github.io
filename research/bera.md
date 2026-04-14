@@ -1,6 +1,6 @@
 # What Is Berachain (BERA)?
 
-**Berachain (BERA)** is the native gas and staking token of Berachain, an EVM-compatible layer-1 blockchain launched in February 2025. Built with the Cosmos SDK and BeaconKit, [Berachain](https://www.berachain.com/) introduces a novel Proof-of-Liquidity (PoL) consensus mechanism, aligning network security with liquidity provision. Featuring a tri-token system—BERA (gas/staking), BGT (non-transferable governance), and HONEY (stablecoin)—Berachain supports DeFi, real-world asset (RWA) tokenization, and NFTs, with a focus on modular design to reduce liquidity fragmentation. 
+**Berachain (BERA)** is the native gas and staking token of Berachain, an EVM-compatible layer-1 blockchain launched in February 2025. Built with the Cosmos SDK and BeaconKit, Berachain introduces a novel Proof-of-Liquidity (PoL) consensus mechanism, aligning network security with liquidity provision. Featuring a tri-token system—BERA (gas/staking), BGT (non-transferable governance), and HONEY (stablecoin)—Berachain supports DeFi, real-world asset (RWA) tokenization, and NFTs, with a focus on modular design to reduce liquidity fragmentation. 
 
 ## Key Features
 - **Proof-of-Liquidity (PoL)**: Incentivizes validators to stake BERA (250K–10M) and direct BGT rewards to liquidity pools, enhancing DeFi efficiency.
@@ -11,7 +11,7 @@
 ## BERA Token
 - **Purpose**: Facilitates transaction fees, staking, and validator security; BGT (non-transferable) handles governance, HONEY supports DeFi.
 - **Supply**: ~120M BERA in circulation, with a maximum supply of ~500M. 
-- **Contract Address**: Native to Berachain blockchain; compatible with wallets like MetaMask or Keplr for DeFi and staking [CoinGecko](https://www.coingecko.com/en/coins/berachain) [CMC](https://coinmarketcap.com/currencies/berachain/).
+- **Contract Address**: Native to Berachain blockchain; compatible with wallets like MetaMask or Keplr for DeFi and staking CoinGecko CMC.
 
 
 ## Who Are the Founders of Berachain?

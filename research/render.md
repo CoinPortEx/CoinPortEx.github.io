@@ -1,6 +1,6 @@
 # What Is Render (RENDER)?
 
-**Render (RENDER)** is the native cryptocurrency of the Render Network, a decentralized layer-1 GPU compute platform launched in 2017 and migrated to Solana in 2024. Built by OTOY and facilitated by the Render Network Foundation, it connects node operators with idle GPU power to creators and developers for applications like 3D rendering, machine learning, and generative AI. [Render](https://rendernetwork.com/) aims to democratize access to high-performance computing for the digital economy. 
+**Render (RENDER)** is the native cryptocurrency of the Render Network, a decentralized layer-1 GPU compute platform launched in 2017 and migrated to Solana in 2024. Built by OTOY and facilitated by the Render Network Foundation, it connects node operators with idle GPU power to creators and developers for applications like 3D rendering, machine learning, and generative AI. Render aims to democratize access to high-performance computing for the digital economy. 
 
 ## Key Features
 - **Decentralized GPU Computing**: Enables peer-to-peer GPU resource sharing for tasks like 3D rendering, AI model training, and virtual production.
@@ -11,7 +11,7 @@
 ## RENDER Token
 - **Purpose**: Facilitates compute payments, staking, governance, and access to Render Network services.
 - **Supply**: ~520M RENDER in circulation, with a maximum supply of ~644M. 
-- **Contract Address**: Native to Solana (post-2024 migration); Compatible with wallets like Phantom or MetaMask [CoinGecko](https://www.coingecko.com/en/coins/render) [CMC](https://coinmarketcap.com/currencies/render/).
+- **Contract Address**: Native to Solana (post-2024 migration); Compatible with wallets like Phantom or MetaMask CoinGecko CMC.
 
 
 ## Who Are the Founders of Render?

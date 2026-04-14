@@ -1,6 +1,6 @@
 # What Is Floki (FLOKI)?
 
-**Floki (FLOKI)**, launched in June 2021, is a multichain meme coin and utility token on Ethereum and Binance Smart Chain (BSC), inspired by Elon Musk’s Shiba Inu dog. [Floki](https://floki.com/) powers Web3 projects like the Valhalla NFT metaverse and FlokiFi DeFi suite. Its native token, **FLOKI**, drives transactions, staking, and governance. 
+**Floki (FLOKI)**, launched in June 2021, is a multichain meme coin and utility token on Ethereum and Binance Smart Chain (BSC), inspired by Elon Musk’s Shiba Inu dog. Floki powers Web3 projects like the Valhalla NFT metaverse and FlokiFi DeFi suite. Its native token, **FLOKI**, drives transactions, staking, and governance. 
 
 ## Key Features
 - **Valhalla Metaverse**: A play-to-earn (P2E) NFT game with on-chain interactions, upgradeable NFTs, and a Chinese version for broader appeal.
@@ -11,7 +11,7 @@
 ## FLOKI Token
 - **Purpose**: Used for in-game transactions, DeFi services, staking rewards, and governance within the Floki Ecosystem.
 - **Supply**: ~9.7T FLOKI in circulation, with a maximum supply of 10T.
-- **Contract Address**: Ethereum: `0xcf0c122c6b73ff809c693db761e7baebe62b6a2e`; BSC: `0xfb5b838b6cfeedc2873ab27866079ac55363d37e` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/floki) [CMC](https://coinmarketcap.com/currencies/floki-inu/).
+- **Contract Address**: Ethereum: `0xcf0c122c6b73ff809c693db761e7baebe62b6a2e`; BSC: `0xfb5b838b6cfeedc2873ab27866079ac55363d37e` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of FLOKI?
 

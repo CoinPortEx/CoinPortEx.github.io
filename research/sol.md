@@ -1,6 +1,6 @@
 # What Is Solana (SOL)?
 
-**Solana (SOL)**, launched in March 2020, is the native cryptocurrency of the **Solana blockchain**, a high-performance Layer 1 blockchain designed for decentralized applications (dApps) and global-scale transactions. Founded by Solana Labs, [Solana](https://solana.com/) offers fast, low-cost transactions, supporting DeFi, NFTs, gaming, and Web3 projects. SOL powers transaction fees, staking, and governance within the ecosystem.
+**Solana (SOL)**, launched in March 2020, is the native cryptocurrency of the **Solana blockchain**, a high-performance Layer 1 blockchain designed for decentralized applications (dApps) and global-scale transactions. Founded by Solana Labs, Solana offers fast, low-cost transactions, supporting DeFi, NFTs, gaming, and Web3 projects. SOL powers transaction fees, staking, and governance within the ecosystem.
 
 ## Key Features
 - **High Throughput**: Processes over 700,000 transactions per second (TPS) with 400ms block times.
@@ -11,7 +11,7 @@
 ## SOL Token
 - **Purpose**: Used for transaction fees, staking, and governance on the Solana blockchain.
 - **Supply**: Circulating supply of ~530 million SOL, with a total supply of ~600 million.
-- **Contract Address**: Native to Solana; [CoinGecko](https://www.coingecko.com/en/coins/solana) [CMC](https://coinmarketcap.com/currencies/solana/) . Add to wallets like Phantom or Solflare.
+- **Contract Address**: Native to Solana; CoinGecko CMC . Add to wallets like Phantom or Solflare.
 
 # Who Are the Founders of Solana?
 

@@ -1,6 +1,6 @@
 # What Is BNB?
 
-**BNB**, launched in July 2017, is the native cryptocurrency of the **BNB Chain**, a high-performance Layer 1 blockchain ecosystem developed by Binance. Initially created as an ERC-20 token on Ethereum, BNB migrated to the BNB Chain (formerly Binance Smart Chain) in February 2019. [BNB](https://www.bnbchain.org/) powers transaction fees, staking, governance, and trading discounts on Binance’s centralized exchange and supports a vibrant ecosystem of dApps, DeFi, and NFTs.
+**BNB**, launched in July 2017, is the native cryptocurrency of the **BNB Chain**, a high-performance Layer 1 blockchain ecosystem developed by Binance. Initially created as an ERC-20 token on Ethereum, BNB migrated to the BNB Chain (formerly Binance Smart Chain) in February 2019. BNB powers transaction fees, staking, governance, and trading discounts on Binance’s centralized exchange and supports a vibrant ecosystem of dApps, DeFi, and NFTs.
 
 ## Key Features
 - **High Throughput**: Processes up to 2,000 transactions per second (TPS) with ~3-second block times.
@@ -11,7 +11,7 @@
 ## BNB Token
 - **Purpose**: Used for transaction fees, staking, governance, and 25% trading fee discounts on Binance.
 - **Supply**: Circulating supply of ~150 million BNB, with a max supply of 200 million (reduced via quarterly burns).
-- **Contract Address**: Native to BNB Chain (BEP-20);  [CoinGecko](https://www.coingecko.com/en/coins/bnb) [CMC](https://coinmarketcap.com/currencies/bnb/). Add to wallets like MetaMask or Trust Wallet.
+- **Contract Address**: Native to BNB Chain (BEP-20);  CoinGecko CMC. Add to wallets like MetaMask or Trust Wallet.
 
 # Who Are the Founders of BNB?
 

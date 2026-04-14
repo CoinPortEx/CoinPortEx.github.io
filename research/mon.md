@@ -1,6 +1,6 @@
 # What Is Monad (MON)?
 
-**Monad (MON)**, founded in 2022, is a high-performance, fully EVM-compatible Layer-1 blockchain designed to solve Ethereum’s scalability limitations while keeping 100% compatibility with existing smart contracts and tools. Through parallel execution and a re-engineered architecture, [Monad](https://www.monad.xyz/) delivers 10,000 TPS with sub-second finality. Its native token, **MON**, powers transactions, staking, and ecosystem incentives.
+**Monad (MON)**, founded in 2022, is a high-performance, fully EVM-compatible Layer-1 blockchain designed to solve Ethereum’s scalability limitations while keeping 100% compatibility with existing smart contracts and tools. Through parallel execution and a re-engineered architecture, Monad delivers 10,000 TPS with sub-second finality. Its native token, **MON**, powers transactions, staking, and ecosystem incentives.
 
 ## Key Features
 - **Parallel Execution**: Processes transactions in parallel (instead of sequentially), achieving up to 10,000 TPS — more than 11× Solana’s real-world average — while remaining fully EVM bytecode compatible.
@@ -12,7 +12,7 @@
 - **Purpose**: Gas fees, staking for network security, governance voting, farming rewards, and airdrops.
 - **Supply**: ~10.83B MON in circulation | Max supply: 100B.
 - **Contract Address**: Native to Monad mainnet (check official docs for latest address).  
-  [CoinGecko](https://www.coingecko.com/en/coins/monad) • [CoinMarketCap](https://coinmarketcap.com/currencies/monad/)
+  CoinGecko • CoinMarketCap
 
 ## Who Are the Founders of MON?
 

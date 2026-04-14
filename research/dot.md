@@ -1,6 +1,6 @@
 # What Is Polkadot (DOT)?
 
-**Polkadot (DOT)**, launched in May 2020, is the native cryptocurrency of the **Polkadot protocol**, a Layer-0 blockchain designed to connect and secure multiple blockchains, enabling interoperability. Founded by the Web3 Foundation, [Polkadot](https://polkadot.com/) uses a sharded multichain architecture with a Relay Chain and parachains, facilitating cross-chain data and asset transfers. DOT powers governance, staking, parachain bonding, and coretime purchases, with $4.8B in total value locked (TVL) across its ecosystem.
+**Polkadot (DOT)**, launched in May 2020, is the native cryptocurrency of the **Polkadot protocol**, a Layer-0 blockchain designed to connect and secure multiple blockchains, enabling interoperability. Founded by the Web3 Foundation, Polkadot uses a sharded multichain architecture with a Relay Chain and parachains, facilitating cross-chain data and asset transfers. DOT powers governance, staking, parachain bonding, and coretime purchases, with $4.8B in total value locked (TVL) across its ecosystem.
 
 ## Key Features
 - **Interoperability**: Relay Chain enables trustless communication between 50+ parachains like Astar and Kusama.
@@ -11,7 +11,7 @@
 ## DOT Token
 - **Purpose**: Used for governance, staking, parachain auctions, coretime purchases, and network fees.
 - **Supply**: Circulating supply of ~1.5 billion DOT, with no max supply (inflationary model).
-- **Contract Address**: Native to Polkadot; [CoinGecko](https://www.coingecko.com/en/coins/polkadot) [CMC](https://coinmarketcap.com/currencies/polkadot-new/). Add to wallets like Polkadot.js or Talisman.
+- **Contract Address**: Native to Polkadot; CoinGecko CMC. Add to wallets like Polkadot.js or Talisman.
 
 # Who Are the Founders of Polkadot?
 

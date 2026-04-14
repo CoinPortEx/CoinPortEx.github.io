@@ -1,6 +1,6 @@
 # What Is TRON (TRX)?
 
-**TRON (TRX)**, launched in September 2017, is a decentralized, layer-1 blockchain platform designed to advance internet decentralization through smart contracts and high-throughput infrastructure. Initially an ERC-20 token on Ethereum, [TRON](https://tron.network/) migrated to its own blockchain in 2018. Its native token, **TRX**, powers transactions, staking, and governance. 
+**TRON (TRX)**, launched in September 2017, is a decentralized, layer-1 blockchain platform designed to advance internet decentralization through smart contracts and high-throughput infrastructure. Initially an ERC-20 token on Ethereum, TRON migrated to its own blockchain in 2018. Its native token, **TRX**, powers transactions, staking, and governance. 
 
 ## Key Features
 - **High Throughput**: Processes up to 2,000 TPS, surpassing Ethereum (~25 TPS), with low-cost transactions (~$0.0001).
@@ -11,7 +11,7 @@
 ## TRX Token
 - **Purpose**: Used for transaction fees, staking for Tron Power (voting rights), and content payments.
 - **Supply**: ~94.8B TRX in circulation, with a total supply of 100B (10B burned since 2021).
-- **Contract Address**: Native to TRON;  [CoinGecko](https://www.coingecko.com/en/coins/tron) [CMC](https://coinmarketcap.com/currencies/tron/).
+- **Contract Address**: Native to TRON;  CoinGecko CMC.
 
 ## Who Are the Founders of TRX?
 

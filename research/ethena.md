@@ -1,6 +1,6 @@
 # What Is Ethena (ENA)?
 
-**Ethena (ENA)**, launched in April 2024, is the governance token of the [Ethena](https://ethena.fi/) synthetic dollar protocol, a decentralized platform on Ethereum that provides a crypto-native stablecoin, USDe, and a savings instrument, the “Internet Bond.” Ethena aims to offer a stable, censorship-resistant alternative to traditional banking infrastructure. ENA powers governance, staking, and protocol incentives, supporting USDe’s $6 billion circulation and integrations with platforms like Spark and BlackRock’s BUIDL fund. The ecosystem ranks #3 among stablecoin protocols by market cap.
+**Ethena (ENA)**, launched in April 2024, is the governance token of the Ethena synthetic dollar protocol, a decentralized platform on Ethereum that provides a crypto-native stablecoin, USDe, and a savings instrument, the “Internet Bond.” Ethena aims to offer a stable, censorship-resistant alternative to traditional banking infrastructure. ENA powers governance, staking, and protocol incentives, supporting USDe’s $6 billion circulation and integrations with platforms like Spark and BlackRock’s BUIDL fund. The ecosystem ranks #3 among stablecoin protocols by market cap.
 
 ## Key Features
 - **Synthetic Stablecoin**: USDe, a USD-pegged stablecoin, uses delta-hedging with staked Ethereum collateral for stability.
@@ -11,7 +11,7 @@
 ## ENA Token
 - **Purpose**: Used for governance, staking, and incentivizing USDe adoption.
 - **Supply**: Circulating supply of ~6.1 billion ENA, with a max supply of 15 billion.
-- **Contract Address**: `0x57e114b691db790c35207b2e685d4a43181e6061` (Ethereum, addable to MetaMask), [Coingecko](https://www.coingecko.com/en/coins/ethena) [CMC](https://coinmarketcap.com/currencies/ethena/).
+- **Contract Address**: `0x57e114b691db790c35207b2e685d4a43181e6061` (Ethereum, addable to MetaMask), Coingecko CMC.
 
 
 # Who Are the Founders of Ethena?

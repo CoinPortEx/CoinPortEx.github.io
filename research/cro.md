@@ -11,7 +11,7 @@
 ## CRO Token
 - **Purpose**: Pays transaction fees (gas), enables staking for yields and governance, serves as collateral in DeFi, provides liquidity in pools, and unlocks rewards on Crypto.com (e.g., Visa cards, ETFs). Also funds AI development and voting in the ecosystem.
 - **Supply**: ~33.62B CRO in circulation, with a total supply of ~98B and maximum of 100B (includes quarterly burns via dynamic formula to reduce supply).
-- **Contract Address**: Native to Cronos blockchain; compatible with wallets like Crypto.com DeFi Wallet, Keplr, or MetaMask for EVM interactions [CoinGecko](https://www.coingecko.com/en/coins/cronos) [CMC](https://coinmarketcap.com/currencies/cronos/).
+- **Contract Address**: Native to Cronos blockchain; compatible with wallets like Crypto.com DeFi Wallet, Keplr, or MetaMask for EVM interactions CoinGecko CMC.
 
 ## Who Are the Founders of Cronos?
 Cronos was developed by Crypto.com, founded in 2016 by Kris Marszalek (CEO), Rafael Melo (co-founder and COO), Gary Or (CFO), and Michael Lim (CIO). The team, with backgrounds in fintech and blockchain, oversees the non-profit Cronos Labs for ecosystem growth. Supported by strategic partnerships, it emphasizes regulatory compliance and global adoption without a traditional ICO.

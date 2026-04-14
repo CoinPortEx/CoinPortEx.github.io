@@ -1,6 +1,6 @@
 # What Is Axie Infinity (AXS)?
 
-**Axie Infinity (AXS)**, launched in November 2020, is the governance and utility token of the **Axie Infinity ecosystem**, a blockchain-based game built on the **Ronin Network**, an Ethereum-linked sidechain. Developed by Sky Mavis, [Axie](https://axieinfinity.com/) Infinity blends Pokémon-style gameplay with NFTs, allowing players to collect, breed, battle, and trade digital creatures called Axies. AXS powers governance, staking, in-game transactions, and access to features like Atia’s Legacy, with $700M in total value locked (TVL).
+**Axie Infinity (AXS)**, launched in November 2020, is the governance and utility token of the **Axie Infinity ecosystem**, a blockchain-based game built on the **Ronin Network**, an Ethereum-linked sidechain. Developed by Sky Mavis, Axie Infinity blends Pokémon-style gameplay with NFTs, allowing players to collect, breed, battle, and trade digital creatures called Axies. AXS powers governance, staking, in-game transactions, and access to features like Atia’s Legacy, with $700M in total value locked (TVL).
 
 ## Key Features
 - **Play-to-Earn (P2E)**: Players earn AXS and Smooth Love Potion (SLP) through battles, quests, and tournaments.
@@ -11,7 +11,7 @@
 ## AXS Token
 - **Purpose**: Used for governance voting, staking rewards, breeding Axies, and marketplace purchases.
 - **Supply**: Circulating supply of ~162 million AXS, with a max supply of 270 million.
-- **Contract Address**: On Ethereum, AXS’s contract is `0xbb0e17ef65f82ab018d8edd776e8dd940327b28b` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/axie-infinity) [CMC](https://coinmarketcap.com/currencies/axie-infinity/).
+- **Contract Address**: On Ethereum, AXS’s contract is `0xbb0e17ef65f82ab018d8edd776e8dd940327b28b` (addable to MetaMask).  CoinGecko CMC.
 
 # Who Are the Founders of Axie Infinity?
 

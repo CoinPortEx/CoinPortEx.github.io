@@ -1,6 +1,6 @@
 # What Is Compound (COMP)?
 
-**Compound (COMP)**, launched in September 2018, is the governance token of the **Compound protocol**, a decentralized lending and borrowing platform on the **Ethereum blockchain**. Founded by Compound Labs, it enables users to lend or borrow 20+ cryptocurrencies, algorithmically setting interest rates based on supply and demand. [COMP](https://compound.finance/) empowers governance, staking, and yield farming, with $3B in total value locked (TVL) across its ecosystem.
+**Compound (COMP)**, launched in September 2018, is the governance token of the **Compound protocol**, a decentralized lending and borrowing platform on the **Ethereum blockchain**. Founded by Compound Labs, it enables users to lend or borrow 20+ cryptocurrencies, algorithmically setting interest rates based on supply and demand. COMP empowers governance, staking, and yield farming, with $3B in total value locked (TVL) across its ecosystem.
 
 ## Key Features
 - **Decentralized Lending**: Users deposit assets to earn interest or borrow against collateral, with rates adjusting dynamically.
@@ -11,7 +11,7 @@
 ## COMP Token
 - **Purpose**: Used for governance voting, staking rewards, and incentivizing liquidity provision.
 - **Supply**: Circulating supply of ~9.1 million COMP, with a max supply of 10 million.
-- **Contract Address**: On Ethereum, COMP’s contract is `0xc00e94cb662c3520282e6f5717214004a7f26888` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/compound) [CMC](https://coinmarketcap.com/currencies/compound/).
+- **Contract Address**: On Ethereum, COMP’s contract is `0xc00e94cb662c3520282e6f5717214004a7f26888` (addable to MetaMask).  CoinGecko CMC.
 
 # Who Are the Founders of Compound?
 

@@ -1,6 +1,6 @@
 # What Is VeChain (VET)?
 
-**VeChain (VET)** is the native cryptocurrency of the VeChainThor blockchain, a decentralized layer-1 smart contract platform launched in 2018. Founded in 2015 as a private consortium chain, VeChain transitioned to a public blockchain to address data challenges in industries like supply chain, sustainability, and healthcare. By integrating Internet of Things (IoT) technologies and distributed governance, [VeChain](https://vechain.org/) enhances transparency and efficiency for enterprises and Web3 applications. 
+**VeChain (VET)** is the native cryptocurrency of the VeChainThor blockchain, a decentralized layer-1 smart contract platform launched in 2018. Founded in 2015 as a private consortium chain, VeChain transitioned to a public blockchain to address data challenges in industries like supply chain, sustainability, and healthcare. By integrating Internet of Things (IoT) technologies and distributed governance, VeChain enhances transparency and efficiency for enterprises and Web3 applications. 
 
 ## Key Features
 - **Dual-Token System**: Uses VET for value transfer and VTHO for gas fees, ensuring stable transaction costs via community governance.
@@ -11,7 +11,7 @@
 ## VET Token
 - **Purpose**: Facilitates value transfer, staking, governance, and VeBetterDAO’s sustainability rewards.
 - **Supply**: ~86B VET in circulation, with a maximum supply of ~87B. 
-- **Contract Address**: Native to VeChainThor blockchain; compatible with wallets like VeChainThor or MetaMask (EVM support) [CoinGecko](https://www.coingecko.com/en/coins/vechain) [CMC](https://coinmarketcap.com/currencies/vechain/).
+- **Contract Address**: Native to VeChainThor blockchain; compatible with wallets like VeChainThor or MetaMask (EVM support) CoinGecko CMC.
 
 
 ## Who Are the Founders of VeChain?

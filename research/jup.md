@@ -1,6 +1,6 @@
 # What Is Jupiter (JUP)?
 
-**Jupiter (JUP)** is the native cryptocurrency of the Jupiter platform, a decentralized exchange (DEX) aggregator and DeFi superapp built on the Solana blockchain. Launched in 2021, [Jupiter](https://jup.ag/) optimizes token swaps by aggregating liquidity from major Solana-based DEXs, offering low slippage and competitive prices. It supports advanced trading features like limit orders, dollar-cost averaging (DCA), perpetual futures, and tokenized real-world asset (RWA) trading, positioning itself as a cornerstone of Solana’s DeFi ecosystem. 
+**Jupiter (JUP)** is the native cryptocurrency of the Jupiter platform, a decentralized exchange (DEX) aggregator and DeFi superapp built on the Solana blockchain. Launched in 2021, Jupiter optimizes token swaps by aggregating liquidity from major Solana-based DEXs, offering low slippage and competitive prices. It supports advanced trading features like limit orders, dollar-cost averaging (DCA), perpetual futures, and tokenized real-world asset (RWA) trading, positioning itself as a cornerstone of Solana’s DeFi ecosystem. 
 
 ## Key Features
 - **DEX Aggregator**: Sources liquidity from Solana DEXs like Orca and Raydium, ensuring optimal swap routes and minimal slippage.
@@ -11,7 +11,7 @@
 ## JUP Token
 - **Purpose**: Facilitates governance, staking, swap fees, and access to Jupiter’s ecosystem, including Jupuary airdrops and tokenized asset trading.
 - **Supply**: ~3B JUP in circulation, with a maximum supply of 10B. 
-- **Contract Address**: Native to Solana blockchain; compatible with wallets like Phantom or backpack for DeFi and trading [CoinGecko](https://www.coingecko.com/en/coins/jupiter) [CMC](https://coinmarketcap.com/currencies/jupiter-ag/).
+- **Contract Address**: Native to Solana blockchain; compatible with wallets like Phantom or backpack for DeFi and trading CoinGecko CMC.
 
 
 ## Who Are the Founders of Jupiter?

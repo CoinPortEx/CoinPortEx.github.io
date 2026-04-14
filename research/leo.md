@@ -1,6 +1,6 @@
 # What Is  LEO (LEO)?
 
-**UNUS SED LEO (LEO)**, launched in May 2019 by [iFinex](https://www.ifinex.com/), the parent company of Bitfinex, is a utility token designed to enhance the Bitfinex exchange ecosystem. Named after the Latin phrase "One, but a Lion," LEO symbolizes strength and utility. Issued on Ethereum (660 million ERC-20 tokens) and EOS (340 million tokens), LEO offers trading fee discounts, lending benefits, and governance participation. Its token burn mechanism reduces supply over time, aiming for eventual full redemption.
+**UNUS SED LEO (LEO)**, launched in May 2019 by iFinex, the parent company of Bitfinex, is a utility token designed to enhance the Bitfinex exchange ecosystem. Named after the Latin phrase "One, but a Lion," LEO symbolizes strength and utility. Issued on Ethereum (660 million ERC-20 tokens) and EOS (340 million tokens), LEO offers trading fee discounts, lending benefits, and governance participation. Its token burn mechanism reduces supply over time, aiming for eventual full redemption.
 
 ## Key Features
 - **Utility**: Provides up to 25% discounts on trading, withdrawal, and lending fees on Bitfinex, with tiered benefits based on LEO holdings.
@@ -35,11 +35,11 @@ LEO stands out for its integration into the Bitfinex ecosystem and deflationary 
 
 Unlike many cryptocurrencies, LEO is not designed for perpetual existence, with its burn mechanism targeting full redemption.
 
-> **Stacks LEO**: The Stacks-based LEO memecoin focuses on DeFi culture, NFT trading, and community engagement via [stxtools.io](https://stxtools.io/), aiming to onboard 100,000 users to the Stacks ecosystem.
+> **Stacks LEO**: The Stacks-based LEO memecoin focuses on DeFi culture, NFT trading, and community engagement via stxtools.io, aiming to onboard 100,000 users to the Stacks ecosystem.
 
 # LEO Network Upgrades (2025)
 
-- **Token Burn Transparency**: The [LEO Transparency Dashboard](https://leo.bitfinex.com//) provides real-time data on burns and supply, ensuring trust. In Q1 2025, burns continued reducing circulating supply.
+- **Token Burn Transparency**: The LEO Transparency Dashboard provides real-time data on burns and supply, ensuring trust. In Q1 2025, burns continued reducing circulating supply.
 - **Bitfinex Ecosystem Growth**: New trading pairs and IEO opportunities were added, boosting LEO utility. Social sentiment on X remains bullish, with posts noting LEO’s role in Bitfinex’s expansion.
 - **Stacks LEO Developments**: The Stacks LEO partnered with Sui’s $HIPPO in May 2025, enabling cross-ecosystem quests and multi-chain engagement, enhancing its Web3 onboarding mission.
 

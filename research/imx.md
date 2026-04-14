@@ -1,6 +1,6 @@
 # What Is Immutable (IMX)?
 
-**Immutable (IMX)**, launched in July 2021, is a layer-2 scaling solution for NFTs and gaming on Ethereum, utilizing zero-knowledge rollups (zk-rollups) to enable gas-free, high-speed transactions. Focused on Web3 gaming and NFTs, [Immutable](https://www.immutable.com/) powers platforms like Gods Unchained and Guild of Guardians. Its native token, **IMX**, drives governance, staking, and fees. 
+**Immutable (IMX)**, launched in July 2021, is a layer-2 scaling solution for NFTs and gaming on Ethereum, utilizing zero-knowledge rollups (zk-rollups) to enable gas-free, high-speed transactions. Focused on Web3 gaming and NFTs, Immutable powers platforms like Gods Unchained and Guild of Guardians. Its native token, **IMX**, drives governance, staking, and fees. 
 
 ## Key Features
 - **zk-Rollups**: Processes 9,000+ TPS with zero gas fees for NFT minting and trading, compared to Ethereum’s ~25 TPS.
@@ -11,7 +11,7 @@
 ## IMX Token
 - **Purpose**: Used for transaction fees, staking, governance, and user incentives like trading rewards.
 - **Supply**: ~1.9B IMX in circulation, with a maximum supply of 2B.
-- **Contract Address**: On Ethereum, IMX’s contract is `0xf57e7e7c23978c3caec3c3548e3d615c346e79ff` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/immutable-x) [CMC](https://coinmarketcap.com/currencies/immutable-x/).
+- **Contract Address**: On Ethereum, IMX’s contract is `0xf57e7e7c23978c3caec3c3548e3d615c346e79ff` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of IMX?
 

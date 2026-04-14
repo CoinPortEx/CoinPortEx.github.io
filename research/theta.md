@@ -1,6 +1,6 @@
 # What Is Theta Network (THETA)?
 
-**Theta Network (THETA)**, launched in March 2018, is a decentralized blockchain platform designed for video streaming, content delivery, and AI-driven applications. Using a peer-to-peer (P2P) network, [Theta](https://www.thetatoken.org/) reduces costs and enhances efficiency for media platforms while rewarding users with tokens. Its native token, **THETA**, powers governance and staking, while **TFUEL** handles transactions. 
+**Theta Network (THETA)**, launched in March 2018, is a decentralized blockchain platform designed for video streaming, content delivery, and AI-driven applications. Using a peer-to-peer (P2P) network, Theta reduces costs and enhances efficiency for media platforms while rewarding users with tokens. Its native token, **THETA**, powers governance and staking, while **TFUEL** handles transactions. 
 
 ## Key Features
 - **Decentralized Streaming**: Users share bandwidth and computing resources, earning TFUEL for relaying video streams, with ~1,000 TPS capacity.
@@ -11,7 +11,7 @@
 ## THETA Token
 - **Purpose**: Used for staking as Validator or Guardian nodes, governance, and ecosystem rewards.
 - **Supply**: ~1B THETA in circulation, with a fixed maximum supply of 1B.
-- **Contract Address**: Native to Theta; [CoinGecko](https://www.coingecko.com/en/coins/theta-network) [CMC](https://coinmarketcap.com/currencies/theta-network/).
+- **Contract Address**: Native to Theta; CoinGecko CMC.
 
 ## Who Are the Founders of THETA?
 

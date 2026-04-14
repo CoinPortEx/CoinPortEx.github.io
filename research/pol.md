@@ -1,6 +1,6 @@
 # What Is Polygon (POL)?
 
-**Polygon (POL)**, upgraded from MATIC in September 2024, is the native token of the [Polygon](https://polygon.technology/) ecosystem, a Layer 2 (L2) scaling solution for Ethereum and a hub for zero-knowledge (ZK) rollup chains. Polygon enhances Ethereum’s scalability with fast, low-cost transactions via its proof-of-stake (PoS) chain and AggLayer for cross-chain connectivity. POL powers gas fees, staking, governance, and incentives, supporting a $2.9 billion total value locked (TVL) ecosystem, ranking #6 among blockchains.
+**Polygon (POL)**, upgraded from MATIC in September 2024, is the native token of the Polygon ecosystem, a Layer 2 (L2) scaling solution for Ethereum and a hub for zero-knowledge (ZK) rollup chains. Polygon enhances Ethereum’s scalability with fast, low-cost transactions via its proof-of-stake (PoS) chain and AggLayer for cross-chain connectivity. POL powers gas fees, staking, governance, and incentives, supporting a $2.9 billion total value locked (TVL) ecosystem, ranking #6 among blockchains.
 
 ## Key Features
 - **L2 Scalability**: Processes ~10,000 transactions per second (TPS) with sub-cent fees using optimistic and ZK rollups.
@@ -12,7 +12,7 @@
 - **Purpose**: Used for gas fees, staking, governance, and incentivizing validator participation.
 - **Supply**: Circulating supply of ~9 billion POL, with a max supply of 10 billion.
 - **Contract Address**: `0x455e53cbb86018ac2b8092fdcd39d8444affc3f6` (Ethereum, addable to MetaMask), 
--  [coingeckgo](https://www.coingecko.com/en/coins/pol-ex-matic)  [cmc](https://coinmarketcap.com/currencies/polygon-ecosystem-token/).
+-  coingeckgo  cmc.
 
 
 # Who Are the Founders of Polygon?

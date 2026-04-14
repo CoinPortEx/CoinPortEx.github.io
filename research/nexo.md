@@ -1,6 +1,6 @@
 # What Is Nexo (NEXO)?
 
-**Nexo (NEXO)**, launched in April 2018, is the native token of the [Nexo](https://nexo.com/) platform, a centralized crypto wealth management service built on Ethereum. Nexo offers crypto-backed loans, high-yield savings, trading, and a debit/credit card, managing over $7 billion in assets across 200+ jurisdictions. NEXO powers platform benefits, governance, and staking, with a $1.2 billion market cap and a loyalty program rewarding holders with up to 12% annual interest.
+**Nexo (NEXO)**, launched in April 2018, is the native token of the Nexo platform, a centralized crypto wealth management service built on Ethereum. Nexo offers crypto-backed loans, high-yield savings, trading, and a debit/credit card, managing over $7 billion in assets across 200+ jurisdictions. NEXO powers platform benefits, governance, and staking, with a $1.2 billion market cap and a loyalty program rewarding holders with up to 12% annual interest.
 
 ## Key Features
 - **Crypto-Backed Loans**: Allows users to borrow fiat or stablecoins against assets like BTC, ETH, and XRP, with rates starting at 2.9%.
@@ -11,7 +11,7 @@
 ## NEXO Token
 - **Purpose**: Used for loyalty benefits, governance, staking, and earning interest or cashback.
 - **Supply**: Circulating supply of ~1 billion NEXO, with a max supply of 1 billion.
-- **Contract Address**: `0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206` (Ethereum, addable to MetaMask), [coingecko](https://www.coingecko.com/en/coins/nexo) [cmc](https://coinmarketcap.com/currencies/nexo/).
+- **Contract Address**: `0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206` (Ethereum, addable to MetaMask), coingecko cmc.
 
 
 # Who Are the Founders of Nexo?

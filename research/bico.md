@@ -1,6 +1,6 @@
 # What Is Biconomy (BICO)?
 
-**Biconomy (BICO)**, launched in December 2021, is the native governance and utility token of the **Biconomy protocol**, a multichain relayer infrastructure on the **Ethereum blockchain** and 20+ EVM-compatible chains like Polygon, BNB Chain, and Blast. Founded by Biconomy Labs, it simplifies Web3 user experiences by enabling gasless transactions, social logins, and cross-chain interactions. [BICO](https://www.biconomy.io/) powers transaction fees, staking, governance, and developer incentives, with $520M in total value processed.
+**Biconomy (BICO)**, launched in December 2021, is the native governance and utility token of the **Biconomy protocol**, a multichain relayer infrastructure on the **Ethereum blockchain** and 20+ EVM-compatible chains like Polygon, BNB Chain, and Blast. Founded by Biconomy Labs, it simplifies Web3 user experiences by enabling gasless transactions, social logins, and cross-chain interactions. BICO powers transaction fees, staking, governance, and developer incentives, with $520M in total value processed.
 
 ## Key Features
 - **Gasless Transactions**: Meta-transactions allow users to interact with dApps without paying gas fees upfront.
@@ -11,7 +11,7 @@
 ## BICO Token
 - **Purpose**: Used for network fees, staking, governance voting, and rewarding node operators.
 - **Supply**: Circulating supply of ~960 million BICO, with a max supply of 1 billion.
-- **Contract Address**: On Ethereum, BICO’s contract is `0xf17e65822b568b3903685a7c9f496cf7656cc6c2` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/biconomy) [CMC](https://coinmarketcap.com/currencies/biconomy/).
+- **Contract Address**: On Ethereum, BICO’s contract is `0xf17e65822b568b3903685a7c9f496cf7656cc6c2` (addable to MetaMask).  CoinGecko CMC.
 
 # Who Are the Founders of Biconomy?
 

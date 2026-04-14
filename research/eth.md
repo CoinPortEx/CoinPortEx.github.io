@@ -1,6 +1,6 @@
 # What Is Ethereum (ETH)?
 
-**Ethereum (ETH)**, launched in July 2015, is the native cryptocurrency of the **Ethereum blockchain**, a decentralized, open-source Layer 1 blockchain that pioneered smart contracts. Founded by Vitalik Buterin and others, [Ethereum](https://ethereum.org/en/) enables developers to build decentralized applications (dApps) for DeFi, NFTs, gaming, and more. ETH powers transaction fees (gas), staking, and governance within the ecosystem.
+**Ethereum (ETH)**, launched in July 2015, is the native cryptocurrency of the **Ethereum blockchain**, a decentralized, open-source Layer 1 blockchain that pioneered smart contracts. Founded by Vitalik Buterin and others, Ethereum enables developers to build decentralized applications (dApps) for DeFi, NFTs, gaming, and more. ETH powers transaction fees (gas), staking, and governance within the ecosystem.
 
 ## Key Features
 - **Smart Contracts**: Programmable contracts automate trustless transactions, supporting 350K+ dApps.
@@ -11,7 +11,7 @@
 ## ETH Token
 - **Purpose**: Used for gas fees, staking, and as a store of value or collateral in DeFi.
 - **Supply**: Circulating supply of ~120.7 million ETH, with no fixed max supply (deflationary since EIP-1559).
-- **Contract Address**: Native to Ethereum; [CoinGecko](https://www.coingecko.com/en/coins/ethereum) [CMC](https://coinmarketcap.com/currencies/ethereum/). Add to wallets like MetaMask or Trust Wallet.
+- **Contract Address**: Native to Ethereum; CoinGecko CMC. Add to wallets like MetaMask or Trust Wallet.
 
 # Who Are the Founders of Ethereum?
 

@@ -1,6 +1,6 @@
 # What Is Pendle (PENDLE)?
 
-**Pendle (PENDLE)**, launched in April 2021, is a decentralized finance (DeFi) protocol on Ethereum that enables tokenization and trading of future yield, offering users advanced yield-management strategies. By splitting yield-bearing assets into Principal Tokens (PT) and Yield Tokens (YT), [Pendle](https://www.pendle.finance/) facilitates fixed-yield investments and yield speculation. Its native token, **PENDLE**, powers governance and incentives. 
+**Pendle (PENDLE)**, launched in April 2021, is a decentralized finance (DeFi) protocol on Ethereum that enables tokenization and trading of future yield, offering users advanced yield-management strategies. By splitting yield-bearing assets into Principal Tokens (PT) and Yield Tokens (YT), Pendle facilitates fixed-yield investments and yield speculation. Its native token, **PENDLE**, powers governance and incentives. 
 
 ## Key Features
 - **Yield Tokenization**: Splits assets into PT (fixed yield) and YT (variable yield), enabling strategies like fixed-income staking or yield trading.
@@ -11,7 +11,7 @@
 ## PENDLE Token
 - **Purpose**: Used for governance, vote-locking (vePENDLE), and earning trading fees within the Pendle ecosystem.
 - **Supply**: ~162M PENDLE in circulation, with a maximum supply of 281.5M.
-- **Contract Address**: On Ethereum, PENDLE’s contract is `0x808507121b80c02388fad14726482e061b8da827` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/pendle) [CMC](https://coinmarketcap.com/currencies/pendle/).
+- **Contract Address**: On Ethereum, PENDLE’s contract is `0x808507121b80c02388fad14726482e061b8da827` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of PENDLE?
 

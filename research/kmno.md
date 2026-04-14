@@ -1,6 +1,6 @@
 # What Is Kamino Finance (KMNO)?
 
-**Kamino Finance (KMNO)** is the native governance token of Kamino Finance, a decentralized finance (DeFi) protocol on the Solana blockchain, launched in August 2022. [Kamino](https://app.kamino.finance/earn/lend) unifies lending, liquidity provision, and leveraged trading into a single platform, offering automated liquidity vaults, Kamino Lend (K-Lend), and Kamino Swap. Known for its concentrated liquidity market maker (CLMM) model, Kamino simplifies yield farming and borrowing with user-friendly tools and transparent analytics, powering over $1B in swap volume. 
+**Kamino Finance (KMNO)** is the native governance token of Kamino Finance, a decentralized finance (DeFi) protocol on the Solana blockchain, launched in August 2022. Kamino unifies lending, liquidity provision, and leveraged trading into a single platform, offering automated liquidity vaults, Kamino Lend (K-Lend), and Kamino Swap. Known for its concentrated liquidity market maker (CLMM) model, Kamino simplifies yield farming and borrowing with user-friendly tools and transparent analytics, powering over $1B in swap volume. 
 
 ## Key Features
 - **Automated Liquidity Vaults**: Provides auto-compounding CLMM pools, generating over $11.8M in fees for liquidity providers (LPs).
@@ -11,7 +11,7 @@
 ## KMNO Token
 - **Purpose**: Facilitates governance, airdrops via Kamino Points, and incentivizes liquidity provision and lending.
 - **Supply**: ~2.3B KMNO in circulation, with a maximum supply of 10B. 
-- **Contract Address**: Native to Solana blockchain; compatible with wallets like Phantom or Solflare for DeFi and trading [CoinGecko](https://www.coingecko.com/en/coins/kamino) [CMC](https://coinmarketcap.com/currencies/kamino-finance/).
+- **Contract Address**: Native to Solana blockchain; compatible with wallets like Phantom or Solflare for DeFi and trading CoinGecko CMC.
 
 
 ## Who Are the Founders of Kamino Finance?

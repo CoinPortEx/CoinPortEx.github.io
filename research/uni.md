@@ -1,6 +1,6 @@
 # What Is Uniswap (UNI)?
 
-**Uniswap (UNI)**, launched in November 2018, is a decentralized exchange (DEX) protocol on Ethereum, enabling permissionless token swaps and liquidity provision through automated market makers (AMMs). Governed by [Uniswap](https://app.uniswap.org/) DAO, it’s a cornerstone of DeFi with ~$7.1B in total value locked (TVL). Its native token, **UNI**, facilitates governance and fee distribution. 
+**Uniswap (UNI)**, launched in November 2018, is a decentralized exchange (DEX) protocol on Ethereum, enabling permissionless token swaps and liquidity provision through automated market makers (AMMs). Governed by Uniswap DAO, it’s a cornerstone of DeFi with ~$7.1B in total value locked (TVL). Its native token, **UNI**, facilitates governance and fee distribution. 
 
 ## Key Features
 - **Automated Market Maker (AMM)**: Uses liquidity pools for token swaps, eliminating order books, with ~$1.5T in lifetime trading volume.
@@ -11,7 +11,7 @@
 ## UNI Token
 - **Purpose**: Used for governance voting, fee sharing, and community incentives.
 - **Supply**: ~600M UNI in circulation, with a maximum supply of 1B (fully vested by 2024).
-- **Contract Address**: On Ethereum, UNI’s contract is `0x1f9840a85d5af5bf1d1762f925bdaddc4201f984` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/uniswap) [CMC](https://coinmarketcap.com/currencies/uniswap/).
+- **Contract Address**: On Ethereum, UNI’s contract is `0x1f9840a85d5af5bf1d1762f925bdaddc4201f984` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of UNI?
 

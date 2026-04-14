@@ -1,6 +1,6 @@
 # What Is Filecoin (FIL)?
 
-**Filecoin (FIL)** is the native cryptocurrency of the Filecoin network, a decentralized layer-1 storage platform launched on October 15, 2020. Built by Protocol Labs, [Filecoin](https://filecoin.io/) leverages the InterPlanetary File System (IPFS) to create a peer-to-peer storage marketplace, incentivizing global storage providers to offer secure, cost-effective data storage and retrieval. Designed to store humanity’s critical data, Filecoin competes with centralized solutions like AWS and Google Cloud.
+**Filecoin (FIL)** is the native cryptocurrency of the Filecoin network, a decentralized layer-1 storage platform launched on October 15, 2020. Built by Protocol Labs, Filecoin leverages the InterPlanetary File System (IPFS) to create a peer-to-peer storage marketplace, incentivizing global storage providers to offer secure, cost-effective data storage and retrieval. Designed to store humanity’s critical data, Filecoin competes with centralized solutions like AWS and Google Cloud.
 
 ## Key Features
 - **Decentralized Storage**: Distributes data across 2,000+ storage providers in 30+ countries, ensuring no single point of failure.
@@ -11,7 +11,7 @@
 ## FIL Token
 - **Purpose**: Powers transactions, storage/retrieval deals, miner collateral, and network governance.
 - **Supply**: ~680M FIL in circulation, with a maximum supply of ~2B. 
-- **Contract Address**: Native to Filecoin blockchain; compatible with wallets like Glif or MetaMask (via wrapped FIL) [CoinGecko](https://www.coingecko.com/en/coins/filecoin) [CMC](https://coinmarketcap.com/currencies/filecoin/).
+- **Contract Address**: Native to Filecoin blockchain; compatible with wallets like Glif or MetaMask (via wrapped FIL) CoinGecko CMC.
 
 
 ## Who Are the Founders of Filecoin?

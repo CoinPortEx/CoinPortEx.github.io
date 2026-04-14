@@ -1,6 +1,6 @@
 # What Is Algorand (ALGO)?
 
-**Algorand (ALGO)** is the native cryptocurrency of the Algorand blockchain, a decentralized layer-1 Proof-of-Stake (PoS) platform launched in June 2019. Founded by Turing Award-winning cryptographer Silvio Micali, [Algorand](https://algorand.co/) is designed for scalability, speed, and security, supporting decentralized applications (dApps), real-world asset (RWA) tokenization, and financial infrastructure. With its Pure Proof-of-Stake (PPoS) consensus, Algorand achieves high throughput (~10,000 TPS) and instant finality, targeting enterprise and Web3 adoption. 
+**Algorand (ALGO)** is the native cryptocurrency of the Algorand blockchain, a decentralized layer-1 Proof-of-Stake (PoS) platform launched in June 2019. Founded by Turing Award-winning cryptographer Silvio Micali, Algorand is designed for scalability, speed, and security, supporting decentralized applications (dApps), real-world asset (RWA) tokenization, and financial infrastructure. With its Pure Proof-of-Stake (PPoS) consensus, Algorand achieves high throughput (~10,000 TPS) and instant finality, targeting enterprise and Web3 adoption. 
 
 ## Key Features
 - **Pure Proof-of-Stake (PPoS)**: Requires only 1 ALGO to stake, enabling democratized participation and high security with low entry barriers.
@@ -11,7 +11,7 @@
 ## ALGO Token
 - **Purpose**: Powers transactions, staking, governance, and RWA tokenization.
 - **Supply**: ~8.6B ALGO in circulation, with a maximum supply of 10B. 
-- **Contract Address**: Native to Algorand blockchain; compatible with wallets like Pera Wallet or MyAlgo for DeFi and trading [CoinGecko](https://www.coingecko.com/en/coins/algorand) [CMC](https://coinmarketcap.com/currencies/algorand/).
+- **Contract Address**: Native to Algorand blockchain; compatible with wallets like Pera Wallet or MyAlgo for DeFi and trading CoinGecko CMC.
 
 
 ## Who Are the Founders of Algorand?

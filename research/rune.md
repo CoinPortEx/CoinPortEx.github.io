@@ -1,6 +1,6 @@
 # What Is THORChain (RUNE)?
 
-**THORChain (RUNE)** is the native cryptocurrency of THORChain, a decentralized cross-chain liquidity protocol launched in July 2019. Built with the Cosmos SDK, [THORChain](https://thorchain.org/) enables non-custodial token swaps across nine blockchains, including Bitcoin, Ethereum, and Binance Chain, without wrapping or pegging assets. Using its Continuous Liquidity Pool (CLP) and Bifrost Protocol, THORChain facilitates native asset settlement, mitigates impermanent loss with slip-based fees, and supports DeFi for wallets like Trust Wallet and Ledger Live. 
+**THORChain (RUNE)** is the native cryptocurrency of THORChain, a decentralized cross-chain liquidity protocol launched in July 2019. Built with the Cosmos SDK, THORChain enables non-custodial token swaps across nine blockchains, including Bitcoin, Ethereum, and Binance Chain, without wrapping or pegging assets. Using its Continuous Liquidity Pool (CLP) and Bifrost Protocol, THORChain facilitates native asset settlement, mitigates impermanent loss with slip-based fees, and supports DeFi for wallets like Trust Wallet and Ledger Live. 
 
 ## Key Features
 - **Cross-Chain Swaps**: Enables permissionless, non-custodial swaps across nine blockchains with deterministic ordering to prevent MEV and front-running.
@@ -11,7 +11,7 @@
 ## RUNE Token
 - **Purpose**: Serves as a settlement asset, network security bond, and liquidity provider reward; not a governance token, as nodes determine protocol direction.
 - **Supply**: ~350M RUNE in circulation, with a maximum supply of 500M.
-- **Contract Address**: Native to THORChain blockchain; compatible with wallets like XDEFI or THORWallet for swaps and staking [CoinGecko](https://www.coingecko.com/en/coins/thorchain) [CMC](https://coinmarketcap.com/currencies/thorchain/).
+- **Contract Address**: Native to THORChain blockchain; compatible with wallets like XDEFI or THORWallet for swaps and staking CoinGecko CMC.
 
 
 ## Who Are the Founders of THORChain?

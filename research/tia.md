@@ -1,6 +1,6 @@
 # What Is Celestia (TIA)?
 
-**Celestia (TIA)** is the native cryptocurrency of Celestia, the first modular layer-1 blockchain launched on October 31, 2023. Built with the Cosmos SDK, Celestia specializes in data availability (DA), decoupling consensus, execution, and settlement to enable scalable rollup-based ecosystems. By providing a dedicated DA layer, [Celestia](https://celestia.org/) allows developers to deploy custom blockchains with minimal overhead, enhancing flexibility and scalability for Web3 applications. 
+**Celestia (TIA)** is the native cryptocurrency of Celestia, the first modular layer-1 blockchain launched on October 31, 2023. Built with the Cosmos SDK, Celestia specializes in data availability (DA), decoupling consensus, execution, and settlement to enable scalable rollup-based ecosystems. By providing a dedicated DA layer, Celestia allows developers to deploy custom blockchains with minimal overhead, enhancing flexibility and scalability for Web3 applications. 
 
 ## Key Features
 - **Modular Architecture**: Separates data availability from execution and settlement, enabling rollups to focus on transaction processing.
@@ -11,7 +11,7 @@
 ## TIA Token
 - **Purpose**: Facilitates gas fees, staking, governance, and airdrop rewards within the Celestia ecosystem.
 - **Supply**: ~700M TIA in circulation, with a maximum supply of ~1.1B. 
-- **Contract Address**: Native to Celestia blockchain; compatible with wallets like Keplr or Leap Cosmos for DeFi and staking [CoinGecko](https://www.coingecko.com/en/coins/celestia) [CMC](https://coinmarketcap.com/currencies/celestia/).
+- **Contract Address**: Native to Celestia blockchain; compatible with wallets like Keplr or Leap Cosmos for DeFi and staking CoinGecko CMC.
 
 
 ## Who Are the Founders of Celestia?

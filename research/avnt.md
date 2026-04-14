@@ -12,7 +12,7 @@
 ## AVNT Token
 - **Purpose**: Facilitates decentralized governance (voting on protocol upgrades, fee structures, and asset additions), powers staking in the Security Module for LP protection and rewards, and unlocks incentives like fee discounts and premium features for traders and LPs.
 - **Supply**: ~258M AVNT in circulation (as of September 2025), with a total and maximum supply of 1B (managed through vesting schedules for team and investors to ensure gradual distribution).
-- **Contract Address**: Base: 0x4AfC89A096662eC59C0dB75f793735a992fF9e0e; compatible with wallets like MetaMask or Coinbase Wallet. [CoinGecko](https://www.coingecko.com/en/coins/avantis) [CMC](https://coinmarketcap.com/currencies/avantis/).
+- **Contract Address**: Base: 0x4AfC89A096662eC59C0dB75f793735a992fF9e0e; compatible with wallets like MetaMask or Coinbase Wallet. CoinGecko CMC.
 
 ## Who Are the Founders of Avantis?
 Avantis was founded in 2023 by Harsehaj Singh (CEO) and Raymond Dong (COO), both with extensive experience in finance and crypto. Harsehaj previously led investments at Pantera Capital, while Raymond brought expertise from hedge funds, McKinsey, and crypto product roles at Binance and Quantopian. The ~12-person team, spanning engineering, quant finance, and design across India, the U.S., and Europe, operates under the Avantis Foundation (Cayman Islands). Supported by $16M in Series A funding from Pantera, Founders Fund, Galaxy Digital, and Base Ecosystem Fund, Avantis focuses on compliant DeFi innovation without a traditional ICO.

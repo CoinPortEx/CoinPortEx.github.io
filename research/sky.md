@@ -1,6 +1,6 @@
 ﻿# What Is Sky (SKY)?
 
-**Sky (SKY)**, launched in August 2024 as a rebrand of Maker (MKR), is the governance token of the [Sky Ecosystem](https://sky.money/), a decentralized finance (DeFi) protocol built on Ethereum. Formerly MakerDAO, the Sky Ecosystem powers the **USDS stablecoin** (rebranded from DAI), offering a decentralized, collateral-backed stablecoin pegged to the USD. SKY enables holders to govern the protocol, manage collateral types, set risk parameters, and earn staking rewards through Sky Token Rewards. The ecosystem aims to scale DeFi accessibility with modular “Star” sub-DAOs like Spark.
+**Sky (SKY)**, launched in August 2024 as a rebrand of Maker (MKR), is the governance token of the Sky Ecosystem, a decentralized finance (DeFi) protocol built on Ethereum. Formerly MakerDAO, the Sky Ecosystem powers the **USDS stablecoin** (rebranded from DAI), offering a decentralized, collateral-backed stablecoin pegged to the USD. SKY enables holders to govern the protocol, manage collateral types, set risk parameters, and earn staking rewards through Sky Token Rewards. The ecosystem aims to scale DeFi accessibility with modular “Star” sub-DAOs like Spark.
 
 ## Key Features
 - **Governance**: SKY holders vote on protocol upgrades, collateral policies, and risk settings, steering the Sky Ecosystem’s evolution.
@@ -10,9 +10,9 @@
 
 ## SKY Token
 - **Purpose**: Used for governance, staking rewards, and accessing Sky Token Rewards, incentivizing participation.
-- **Supply**: Circulating supply of ~21 billion SKY, with no fixed cap due to staking emissions.[](https://www.coingecko.com/en/coins/sky)
-- **Price (June 2025)**: ~$0.0047 USD (BTC 0.000068126), up 7.2% in 24 hours and 15.3% in 7 days, with a market cap of ~$318.6 million (ranked #67).[](https://www.coingecko.com/en/coins/sky)
-- **Contract Address**: `0x56072c95faa701256059aa122697b133aded9279` (Ethereum, addable to MetaMask).[](https://www.coingecko.com/en/coins/sky)
+- **Supply**: Circulating supply of ~21 billion SKY, with no fixed cap due to staking emissions.
+- **Price (June 2025)**: ~$0.0047 USD (BTC 0.000068126), up 7.2% in 24 hours and 15.3% in 7 days, with a market cap of ~$318.6 million (ranked #67).
+- **Contract Address**: `0x56072c95faa701256059aa122697b133aded9279` (Ethereum, addable to MetaMask).
 
 # Who Are the Founders of Sky?
 

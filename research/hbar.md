@@ -1,6 +1,6 @@
 # What Is Hedera (HBAR)?
 
-**Hedera (HBAR)** is the native cryptocurrency of the Hedera Hashgraph, a decentralized, enterprise-grade public network launched in 2018. Unlike traditional blockchains, [Hedera](https://hedera.com/) uses a unique distributed ledger technology (DLT) called Hashgraph, designed for high-speed transactions, low fees, and sustainability. Governed by a council of global organizations, including Google, IBM, and Boeing, Hedera powers decentralized applications (dApps), smart contracts, and services like tokenization and data integrity, targeting enterprise and Web3 adoption. 
+**Hedera (HBAR)** is the native cryptocurrency of the Hedera Hashgraph, a decentralized, enterprise-grade public network launched in 2018. Unlike traditional blockchains, Hedera uses a unique distributed ledger technology (DLT) called Hashgraph, designed for high-speed transactions, low fees, and sustainability. Governed by a council of global organizations, including Google, IBM, and Boeing, Hedera powers decentralized applications (dApps), smart contracts, and services like tokenization and data integrity, targeting enterprise and Web3 adoption. 
 
 ## Key Features
 - **Hashgraph Consensus**: Utilizes a leaderless, asynchronous Byzantine Fault-Tolerant (aBFT) consensus for fast, secure transactions.
@@ -11,7 +11,7 @@
 ## HBAR Token
 - **Purpose**: Powers network services (smart contracts, file storage, transaction fees), staking, and governance.
 - **Supply**: ~42.39B HBAR in circulation, with a maximum supply of 50B.
-- **Contract Address**: 0x000000000000000000000000000000000006f84a (Hedera native). Add to wallets like MetaMask for EVM-compatible interactions [CMC](https://coinmarketcap.com/currencies/hedera/) [COINGECKO](https://www.coingecko.com/en/coins/hedera).
+- **Contract Address**: 0x000000000000000000000000000000000006f84a (Hedera native). Add to wallets like MetaMask for EVM-compatible interactions CMC COINGECKO.
 
 
 ## Who Are the Founders of Hedera?

@@ -1,6 +1,6 @@
 # What Is Bancor (BNT)?
 
-**Bancor (BNT)**, launched in June 2017, is the native governance and utility token of the **Bancor protocol**, a decentralized, open-source ecosystem on the **Ethereum blockchain** and cross-chain networks like Arbitrum. [Bancor](https://bancor.network/) pioneered automated market makers (AMMs) for on-chain trading and liquidity, with its flagship **Carbon DeFi** protocol enabling custom limit and range orders. BNT powers staking, governance, trading fees, and liquidity provision, with $1.1B in total value locked (TVL).
+**Bancor (BNT)**, launched in June 2017, is the native governance and utility token of the **Bancor protocol**, a decentralized, open-source ecosystem on the **Ethereum blockchain** and cross-chain networks like Arbitrum. Bancor pioneered automated market makers (AMMs) for on-chain trading and liquidity, with its flagship **Carbon DeFi** protocol enabling custom limit and range orders. BNT powers staking, governance, trading fees, and liquidity provision, with $1.1B in total value locked (TVL).
 
 ## Key Features
 - **Automated Trading**: Carbon DeFi supports on-chain limit and range orders for automated “buy low, sell high” strategies.
@@ -11,7 +11,7 @@
 ## BNT Token
 - **Purpose**: Used for staking, governance voting, liquidity provision, and fee collection in Bancor pools.
 - **Supply**: Circulating supply of ~115 million BNT, with a max supply of ~115 million (fully diluted due to elastic supply).
-- **Contract Address**: On Ethereum, BNT’s contract is `0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/bancor-network) [CMC](https://coinmarketcap.com/currencies/bancor/).
+- **Contract Address**: On Ethereum, BNT’s contract is `0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c` (addable to MetaMask).  CoinGecko CMC.
 
 # Who Are the Founders of Bancor?
 

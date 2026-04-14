@@ -1,6 +1,6 @@
 # What Is Artificial Superintelligence Alliance (FET)?
 
-**Artificial Superintelligence Alliance (FET)**, rebranded in July 2024, is the governance token of the [Artificial Superintelligence Alliance](https://superintelligence.io/), a decentralized AI consortium formed by merging Fetch.ai, SingularityNET, Ocean Protocol, and CUDOS. Built on Ethereum, the alliance aims to advance Artificial General Intelligence (AGI) through an open-source, decentralized network of AI agents, data markets, and computing resources. FET powers governance, staking, and access to AI services, with a $1.6 billion market cap in the AI crypto sector.
+**Artificial Superintelligence Alliance (FET)**, rebranded in July 2024, is the governance token of the Artificial Superintelligence Alliance, a decentralized AI consortium formed by merging Fetch.ai, SingularityNET, Ocean Protocol, and CUDOS. Built on Ethereum, the alliance aims to advance Artificial General Intelligence (AGI) through an open-source, decentralized network of AI agents, data markets, and computing resources. FET powers governance, staking, and access to AI services, with a $1.6 billion market cap in the AI crypto sector.
 
 ## Key Features
 - **Decentralized AI**: Connects AI agents for tasks like portfolio management, data analysis, and pathfinding across Fetch.ai’s agentverse.
@@ -12,7 +12,7 @@
 - **Purpose**: Used for governance, staking, transaction fees, and accessing AI services.
 - **Supply**: Circulating supply of ~2.6 billion FET, with a max supply of 2.7 billion.
 - **Contract Address**: `0xaea46a60368a7bd060eec7df8cba43b7ef41ad85` (Ethereum, addable to MetaMask), 
-- [coingecko](https://www.coingecko.com/en/coins/artificial-superintelligence-alliance) [cmc](https://coinmarketcap.com/currencies/artificial-superintelligence-alliance/).
+- coingecko cmc.
 
 
 

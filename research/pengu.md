@@ -1,6 +1,6 @@
 # What Is Pudgy Penguins (PENGU)?
 
-**Pudgy Penguins (PENGU)** is the native cryptocurrency of the Pudgy Penguins ecosystem, a meme coin and community-driven project launched on Solana in December 2024. Originating as an Ethereum-based NFT collection of 8,888 unique penguin artworks in July 2021, Pudgy Penguins has evolved into a cultural brand spanning NFTs, tokens, toys, and digital experiences. [PENGU](https://www.pudgypenguins.com/) serves as a social currency for “The Huddle,” a vibrant community focused on memes, good vibes, and Web3 engagement. 
+**Pudgy Penguins (PENGU)** is the native cryptocurrency of the Pudgy Penguins ecosystem, a meme coin and community-driven project launched on Solana in December 2024. Originating as an Ethereum-based NFT collection of 8,888 unique penguin artworks in July 2021, Pudgy Penguins has evolved into a cultural brand spanning NFTs, tokens, toys, and digital experiences. PENGU serves as a social currency for “The Huddle,” a vibrant community focused on memes, good vibes, and Web3 engagement. 
 
 ## Key Features
 - **Meme Coin on Solana**: Leverages Solana’s high throughput and low fees for fast, cost-effective transactions.
@@ -11,7 +11,7 @@
 ## PENGU Token
 - **Purpose**: Facilitates transactions, airdrops, governance, and access to ecosystem perks like events and games.
 - **Supply**: ~63B PENGU in circulation, with a maximum supply of ~89B. 
-- **Contract Address**: Native to Solana blockchain; compatible with wallets like Phantom or Solflare for trading and DeFi [CoinGecko](https://www.coingecko.com/en/coins/pudgy-penguins) [CMC](https://coinmarketcap.com/currencies/pudgy-penguins/).
+- **Contract Address**: Native to Solana blockchain; compatible with wallets like Phantom or Solflare for trading and DeFi CoinGecko CMC.
 
 
 ## Who Are the Founders of Pudgy Penguins?

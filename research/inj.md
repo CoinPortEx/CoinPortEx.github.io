@@ -1,6 +1,6 @@
 # What Is Injective (INJ)?
 
-**Injective (INJ)** is the native cryptocurrency of the Injective blockchain, a decentralized layer-1 Proof-of-Stake (PoS) network launched in 2018. Built with the Cosmos SDK, [Injective](https://injective.com/) is optimized for decentralized finance (DeFi), offering a fully decentralized on-chain orderbook for trading, lending, and tokenized real-world assets (RWAs). With over 1 billion transactions and sub-second block times, Injective delivers high-speed, interoperable solutions for developers and users. 
+**Injective (INJ)** is the native cryptocurrency of the Injective blockchain, a decentralized layer-1 Proof-of-Stake (PoS) network launched in 2018. Built with the Cosmos SDK, Injective is optimized for decentralized finance (DeFi), offering a fully decentralized on-chain orderbook for trading, lending, and tokenized real-world assets (RWAs). With over 1 billion transactions and sub-second block times, Injective delivers high-speed, interoperable solutions for developers and users. 
 
 ## Key Features
 - **Decentralized Orderbook**: Provides a MEV-resistant, on-chain orderbook with frequent batch auctions, supporting thousands of transactions per second.
@@ -11,7 +11,7 @@
 ## INJ Token
 - **Purpose**: Facilitates transaction fees, staking, governance, and weekly fee auctions (burned to reduce supply).
 - **Supply**: ~98M INJ in circulation, with a maximum supply of 100M. 
-- **Contract Address**: Native to Injective; Ethereum ERC-20 address (0xe28b3b32b6c345a34ff64674606124dd5aceca30) for cross-chain use. Compatible with wallets like MetaMask or Keplr [CoinGecko](https://www.coingecko.com/en/coins/injective) [CMC](https://coinmarketcap.com/currencies/injective/).
+- **Contract Address**: Native to Injective; Ethereum ERC-20 address (0xe28b3b32b6c345a34ff64674606124dd5aceca30) for cross-chain use. Compatible with wallets like MetaMask or Keplr CoinGecko CMC.
 
 
 ## Who Are the Founders of Injective?

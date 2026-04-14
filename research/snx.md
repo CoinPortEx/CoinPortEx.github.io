@@ -1,6 +1,6 @@
 # What Is Synthetix (SNX)?
 
-**Synthetix (SNX)**, launched in September 2017 as Havven and rebranded in 2018, [Synthetix](https://www.synthetix.io/) is a decentralized protocol on Ethereum and Optimism for issuing and trading synthetic assets (Synths) that track real-world assets like currencies, commodities, and cryptocurrencies. SNX token holders stake their tokens to provide liquidity and earn rewards. 
+**Synthetix (SNX)**, launched in September 2017 as Havven and rebranded in 2018, Synthetix is a decentralized protocol on Ethereum and Optimism for issuing and trading synthetic assets (Synths) that track real-world assets like currencies, commodities, and cryptocurrencies. SNX token holders stake their tokens to provide liquidity and earn rewards. 
 
 ## Key Features
 - **Synthetic Assets (Synths)**: Synths (e.g., sUSD, sBTC) mirror asset prices without direct ownership, using oracles for real-time data.
@@ -11,7 +11,7 @@
 ## SNX Token
 - **Purpose**: Used for staking, governance, and collateralizing Synths, with stakers earning fees from protocol activity.
 - **Supply**: ~343M SNX in circulation, with a maximum supply of 343M (fully diluted as of February 2021).
-- **Contract Address**: On Ethereum, SNX’s contract is `0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/synthetix-network-token) [CMC](https://coinmarketcap.com/currencies/synthetix/).
+- **Contract Address**: On Ethereum, SNX’s contract is `0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of SNX?
 

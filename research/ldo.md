@@ -1,6 +1,6 @@
 # What Is Lido DAO (LDO)?
 
-**Lido DAO (LDO)**, launched in December 2020, is a decentralized autonomous organization (DAO) providing liquid staking infrastructure for multiple blockchain networks, primarily Ethereum. Lido allows users to stake assets like ETH and receive liquid tokens (e.g., stETH) in return, enabling staked assets to remain usable in DeFi. Its native governance token, **LDO**, facilitates voting and protocol upgrades. With ~$35B in total value locked (TVL), [Lido](https://lido.fi/) leads liquid staking protocols.
+**Lido DAO (LDO)**, launched in December 2020, is a decentralized autonomous organization (DAO) providing liquid staking infrastructure for multiple blockchain networks, primarily Ethereum. Lido allows users to stake assets like ETH and receive liquid tokens (e.g., stETH) in return, enabling staked assets to remain usable in DeFi. Its native governance token, **LDO**, facilitates voting and protocol upgrades. With ~$35B in total value locked (TVL), Lido leads liquid staking protocols.
 
 ## Key Features
 - **Liquid Staking**: Users stake ETH and receive stETH, which accrues staking rewards and can be used in DeFi (e.g., Curve, Balancer).
@@ -11,7 +11,7 @@
 ## LDO Token
 - **Purpose**: Used for governance, voting on proposals, and incentivizing node operators.
 - **Supply**: ~900M LDO in circulation, with a maximum supply of 1B.
-- **Contract Address**: On Ethereum, LDO’s contract is `0x5a98fcbea516cf06857215779fd812ca3bef1b32` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/lido-dao) [CMC](https://coinmarketcap.com/currencies/lido-dao/).
+- **Contract Address**: On Ethereum, LDO’s contract is `0x5a98fcbea516cf06857215779fd812ca3bef1b32` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of LDO?
 

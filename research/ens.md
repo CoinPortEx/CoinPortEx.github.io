@@ -1,6 +1,6 @@
 # What Is Ethereum Name Service (ENS)?
 
-**Ethereum Name Service (ENS)**, launched on May 4, 2017, is a decentralized naming system on the **Ethereum blockchain**, with its native governance token **ENS** introduced in November 2021. Developed by the ENS Foundation, ENS maps human-readable names (e.g., `yourname.eth`) to machine-readable identifiers like wallet addresses, simplifying Web3 interactions. [ENS](https://ens.domains/) powers identity, payments, and dApp integrations, with $1.2B in total value locked (TVL) across its ecosystem.
+**Ethereum Name Service (ENS)**, launched on May 4, 2017, is a decentralized naming system on the **Ethereum blockchain**, with its native governance token **ENS** introduced in November 2021. Developed by the ENS Foundation, ENS maps human-readable names (e.g., `yourname.eth`) to machine-readable identifiers like wallet addresses, simplifying Web3 interactions. ENS powers identity, payments, and dApp integrations, with $1.2B in total value locked (TVL) across its ecosystem.
 
 ## Key Features
 - **Human-Readable Names**: Replaces complex addresses (e.g., `0x123...`) with names like `bob.eth`, reducing errors.
@@ -11,7 +11,7 @@
 ## ENS Token
 - **Purpose**: Used for governance voting, name registration fees, and incentivizing ENS node operators.
 - **Supply**: Circulating supply of ~33 million ENS, with a max supply of 100 million.
-- **Contract Address**: On Ethereum, ENS’s contract is `0xc18360217d8f7ab5e7c516566761ea12ce7f9d72` (addable to MetaMask). [CoinGecko](https://www.coingecko.com/en/coins/ethereum-name-service) [CMC](https://coinmarketcap.com/currencies/ethereum-name-service/).
+- **Contract Address**: On Ethereum, ENS’s contract is `0xc18360217d8f7ab5e7c516566761ea12ce7f9d72` (addable to MetaMask). CoinGecko CMC.
 
 # Who Are the Founders of ENS?
 

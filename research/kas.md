@@ -1,6 +1,6 @@
 # What Is Kaspa (KAS)?
 
-**Kaspa (KAS)** is the native cryptocurrency of the Kaspa blockchain, a decentralized layer-1 Proof-of-Work (PoW) network launched in November 2021. Kaspa utilizes the GHOSTDAG protocol, a novel blockDAG (Directed Acyclic Graph) structure, enabling parallel block processing for high transaction throughput and near-instant confirmations. Designed for scalability and decentralization, [Kaspa](https://kaspa.org/) targets 10 blocks per second (BPS) with ambitions of reaching 100 BPS, making it one of the fastest PoW networks. 
+**Kaspa (KAS)** is the native cryptocurrency of the Kaspa blockchain, a decentralized layer-1 Proof-of-Work (PoW) network launched in November 2021. Kaspa utilizes the GHOSTDAG protocol, a novel blockDAG (Directed Acyclic Graph) structure, enabling parallel block processing for high transaction throughput and near-instant confirmations. Designed for scalability and decentralization, Kaspa targets 10 blocks per second (BPS) with ambitions of reaching 100 BPS, making it one of the fastest PoW networks. 
 
 ## Key Features
 - **BlockDAG Technology**: Uses GHOSTDAG to allow parallel blocks to coexist, unlike traditional blockchains, enabling high throughput (currently 10 BPS).
@@ -11,7 +11,7 @@
 ## KAS Token
 - **Purpose**: Powers transaction fees, mining rewards, and supports the KRC-20 token ecosystem.
 - **Supply**: ~26.41B KAS in circulation, with a maximum supply of ~28.7B. 
-- **Contract Address**: Native to Kaspa blockchain; compatible with wallets like Kaspium or KDX for trading and staking [CoinGecko](https://www.coingecko.com/en/coins/kaspa) [CMC](https://coinmarketcap.com/currencies/kaspa/).
+- **Contract Address**: Native to Kaspa blockchain; compatible with wallets like Kaspium or KDX for trading and staking CoinGecko CMC.
 
 
 ## Who Are the Founders of Kaspa?

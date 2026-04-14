@@ -1,6 +1,6 @@
 # What Is PayPal USD (PYUSD)?
 
-**PayPal USD (PYUSD)**, launched in August 2023, is a stablecoin pegged 1:1 to the U.S. dollar, issued by Paxos Trust Company and built on Ethereum and Solana blockchains. Designed to facilitate seamless digital payments, [PYUSD](https://www.paypal.com/us/digital-wallet/manage-money/crypto/pyusd) is fully backed by U.S. dollar deposits, short-term U.S. Treasuries, and cash equivalents. 
+**PayPal USD (PYUSD)**, launched in August 2023, is a stablecoin pegged 1:1 to the U.S. dollar, issued by Paxos Trust Company and built on Ethereum and Solana blockchains. Designed to facilitate seamless digital payments, PYUSD is fully backed by U.S. dollar deposits, short-term U.S. Treasuries, and cash equivalents. 
 
 ## Key Features
 - **Stable Value**: Maintains a 1:1 peg with the U.S. dollar, minimizing volatility for payments and transfers.
@@ -11,7 +11,7 @@
 ## PYUSD Token
 - **Purpose**: Used for digital payments, transfers to Ethereum/Solana wallets, and conversions to other cryptocurrencies on PayPal.
 - **Supply**: ~950M PYUSD in circulation, with no fixed maximum supply due to its redeemable nature.
-- **Contract Address**: On Ethereum, PYUSD’s contract is `0x6c3ea9036406852006290770bedfcaba0e23a0e8` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/paypal-usd) [CMC](https://coinmarketcap.com/currencies/paypal-usd/).
+- **Contract Address**: On Ethereum, PYUSD’s contract is `0x6c3ea9036406852006290770bedfcaba0e23a0e8` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of PYUSD?
 

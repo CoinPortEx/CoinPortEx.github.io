@@ -13,7 +13,7 @@
 ## XPL Token
 - **Purpose**: Acts as the native asset for securing the Proof-of-Stake network through staking and validation, paying transaction fees (when not using custom gas), participating in governance, and incentivizing ecosystem growth via rewards for validators and builders. XPL also underpins the security and scalability of Plasma One's operations.
 - **Supply**: ~1.8B XPL in circulation (as of September 2025), with a total and maximum supply of 10B (fixed, with emissions distributed to stakers and base fees burned via EIP-1559 model for deflationary pressure).
-- **Contract Address**: Native to Plasma blockchain; compatible with EVM wallets like MetaMask. [CoinGecko](https://www.coingecko.com/en/coins/plasma) [CMC](https://coinmarketcap.com/currencies/plasma-xpl/).
+- **Contract Address**: Native to Plasma blockchain; compatible with EVM wallets like MetaMask. CoinGecko CMC.
 
 ## Who Are the Founders of Plasma?
 Plasma was founded in 2023 by a team of experts in blockchain, finance, and distributed systems, with backgrounds from Apple, Microsoft, Goldman Sachs, Imperial College London, and Los Alamos National Lab. The core team includes veterans from building major stablecoins and blockchains, emphasizing institutional-grade security and scalability. Operating under the Plasma Foundation, the project raised $20M in Series A funding from Framework Ventures, Bitfinex, Bybit, Flow Traders, IMC, and 6th Man Ventures, focusing on community-aligned development without a traditional ICO.

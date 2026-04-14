@@ -1,6 +1,6 @@
 # What Is Aave (AAVE)?
 
-**Aave (AAVE)**, launched in November 2017 as ETHLend and rebranded in September 2018, is the native governance token of the **Aave Protocol**, a decentralized, non-custodial lending and borrowing platform on multiple blockchains, including Ethereum, Polygon, and Avalanche. [Aave](https://aave.com/) enables users to lend and borrow 20+ cryptocurrencies with variable or fixed interest rates, powering DeFi with $17.3B in total value locked (TVL). AAVE facilitates staking, governance, and fee reductions.
+**Aave (AAVE)**, launched in November 2017 as ETHLend and rebranded in September 2018, is the native governance token of the **Aave Protocol**, a decentralized, non-custodial lending and borrowing platform on multiple blockchains, including Ethereum, Polygon, and Avalanche. Aave enables users to lend and borrow 20+ cryptocurrencies with variable or fixed interest rates, powering DeFi with $17.3B in total value locked (TVL). AAVE facilitates staking, governance, and fee reductions.
 
 ## Key Features
 - **Lending and Borrowing**: Users lend assets to earn interest or borrow using crypto as collateral, with flash loans for instant, uncollateralized borrowing.
@@ -11,7 +11,7 @@
 ## AAVE Token
 - **Purpose**: Used for governance, staking in the Safety Module (e.g., Umbrella), and reducing borrowing fees.
 - **Supply**: Circulating supply of ~15 million AAVE, with a max supply of 16 million.
-- **Contract Address**: On Ethereum, AAVE’s contract is `0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9` (addable to MetaMask).  [CoinGecko](https://www.coingecko.com/en/coins/aave) [CMC](https://coinmarketcap.com/currencies/aave/).
+- **Contract Address**: On Ethereum, AAVE’s contract is `0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9` (addable to MetaMask).  CoinGecko CMC.
 
 # Who Are the Founders of Aave?
 

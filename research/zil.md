@@ -1,6 +1,6 @@
 # What Is Zilliqa (ZIL)?
 
-**Zilliqa (ZIL)**, launched in January 2018, is a layer-1 blockchain designed for high-throughput, scalable smart contract execution using sharding technology. Built to support dApps in gaming, DeFi, and NFTs, [Zilliqa](https://www.zilliqa.com/) processes transactions efficiently with low fees. Its native token, **ZIL**, powers transactions, staking, and governance. 
+**Zilliqa (ZIL)**, launched in January 2018, is a layer-1 blockchain designed for high-throughput, scalable smart contract execution using sharding technology. Built to support dApps in gaming, DeFi, and NFTs, Zilliqa processes transactions efficiently with low fees. Its native token, **ZIL**, powers transactions, staking, and governance. 
 
 ## Key Features
 - **Sharding Technology**: Divides the network into smaller nodes (shards) to process up to 2,828 TPS, surpassing Ethereum (~25 TPS).
@@ -11,7 +11,7 @@
 ## ZIL Token
 - **Purpose**: Used for transaction fees, staking, governance, and incentivizing miners.
 - **Supply**: ~19.8B ZIL in circulation, with a maximum supply of 21B.
-- **Contract Address**: Native to Zilliqa; [CoinGecko](https://www.coingecko.com/en/coins/zilliqa) [CMC](https://coinmarketcap.com/currencies/zilliqa/).
+- **Contract Address**: Native to Zilliqa; CoinGecko CMC.
 
 ## Who Are the Founders of ZIL?
 

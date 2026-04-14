@@ -1,6 +1,6 @@
 # What is sui (SUI)?
 
-**Sui (SUI)**, launched in May 2023, is the native token of the [Sui](https://sui.io/) Layer 1 (L1) blockchain, a high-performance platform designed for global adoption in DeFi, gaming, and Web3 applications. Developed by Mysten Labs, Sui leverages a unique **object-centric data model** and the **Move** programming language to enable parallel transaction processing, near-instant finality, and low costs. SUI powers governance, staking, and transaction fees, with a storage fund ensuring validator sustainability. The ecosystem ranks #8 by total value locked (TVL) at $1.77 billion.
+**Sui (SUI)**, launched in May 2023, is the native token of the Sui Layer 1 (L1) blockchain, a high-performance platform designed for global adoption in DeFi, gaming, and Web3 applications. Developed by Mysten Labs, Sui leverages a unique **object-centric data model** and the **Move** programming language to enable parallel transaction processing, near-instant finality, and low costs. SUI powers governance, staking, and transaction fees, with a storage fund ensuring validator sustainability. The ecosystem ranks #8 by total value locked (TVL) at $1.77 billion.
 
 ## Key Features
 - **Parallel Processing**: Handles ~100,000 transactions per second (TPS) with sub-second finality, ideal for high-throughput use cases.
@@ -11,7 +11,7 @@
 ## SUI Token
 - **Purpose**: Used for staking, governance, transaction fees, and storage fund contributions.
 - **Supply**: Circulating supply of ~3.4 billion SUI, with a max supply of 10 billion.
-[]https://www.coingecko.com/en/coins/sui)(https://coinmarketcap.com/currencies/sui/)
+
 
 
 

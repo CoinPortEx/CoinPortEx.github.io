@@ -1,6 +1,6 @@
 # What Is Kaia (KAIA)?
 
-**Kaia (KAIA)**, launched in August 2024, is an Ethereum-equivalent layer-1 blockchain formed by merging Finschia and Klaytn. Designed to bring Web3 to millions in Asia via integration with messenger apps like LINE and KakaoTalk, [Kaia](https://www.kaia.io/) emphasizes scalability, low-cost transactions, and user accessibility. Its native token, **KAIA**, powers transactions and governance. 
+**Kaia (KAIA)**, launched in August 2024, is an Ethereum-equivalent layer-1 blockchain formed by merging Finschia and Klaytn. Designed to bring Web3 to millions in Asia via integration with messenger apps like LINE and KakaoTalk, Kaia emphasizes scalability, low-cost transactions, and user accessibility. Its native token, **KAIA**, powers transactions and governance. 
 
 ## Key Features
 - **High Throughput**: Processes up to 4,000 TPS with 1-second block finality, surpassing Ethereum (~25 TPS).
@@ -11,7 +11,7 @@
 ## KAIA Token
 - **Purpose**: Used for transaction fees, staking, governance, and accessing ecosystem services.
 - **Supply**: ~5.9B KAIA in circulation, with a maximum supply of 5.9B (fully diluted).
-- **Contract Address**: On Kaia, KAIA is native; on Ethereum, KAIA’s contract is `0x74d1d2a851e339b8cb953716445be7e8abdfba6b` (addable to MetaMask) [CoinGecko](https://www.coingecko.com/en/coins/kaia) [CMC](https://coinmarketcap.com/currencies/kaia/).
+- **Contract Address**: On Kaia, KAIA is native; on Ethereum, KAIA’s contract is `0x74d1d2a851e339b8cb953716445be7e8abdfba6b` (addable to MetaMask) CoinGecko CMC.
 
 ## Who Are the Founders of KAIA?
 

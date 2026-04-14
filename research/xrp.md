@@ -1,6 +1,6 @@
 # What Is XRP?
 
-**XRP**, launched in 2012, is the native cryptocurrency of the **XRP Ledger (XRPL)**, an open-source, permissionless Layer 1 blockchain designed for fast, low-cost global payments. Developed by Ripple, XRP facilitates cross-border transactions, remittances, and asset tokenization, connecting banks, payment providers, and digital asset exchanges via [RippleNet](https://ripple.com/solutions/cross-border-payments/). XRP powers transaction fees, staking, and decentralized exchange (DEX) operations on the XRPL.
+**XRP**, launched in 2012, is the native cryptocurrency of the **XRP Ledger (XRPL)**, an open-source, permissionless Layer 1 blockchain designed for fast, low-cost global payments. Developed by Ripple, XRP facilitates cross-border transactions, remittances, and asset tokenization, connecting banks, payment providers, and digital asset exchanges via RippleNet. XRP powers transaction fees, staking, and decentralized exchange (DEX) operations on the XRPL.
 
 ## Key Features
 - **Fast Transactions**: Settles payments in 3-5 seconds with a capacity of 1,500 transactions per second (TPS).
@@ -11,7 +11,7 @@
 ## XRP Token
 - **Purpose**: Used for transaction fees, staking, and liquidity provision on the XRPL.
 - **Supply**: Circulating supply of ~58.9 billion XRP, with a max supply of 100 billion (pre-mined).
-- **Contract Address**: Native to XRPL; can be wrapped as an ERC-20 token (e.g., WXRP) on Ethereum for DeFi use. [CoinGecko](https://www.coingecko.com/en/coins/xrp)  [CMC](https://coinmarketcap.com/currencies/xrp/).
+- **Contract Address**: Native to XRPL; can be wrapped as an ERC-20 token (e.g., WXRP) on Ethereum for DeFi use. CoinGecko  CMC.
 
 # Who Are the Founders of XRP?
 

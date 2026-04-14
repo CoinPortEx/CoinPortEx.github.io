@@ -1,6 +1,6 @@
 # What Is Worldcoin (WLD)?
 
-**Worldcoin (WLD)**, launched in July 2023, is the governance token of the [Worldcoin](https://worldcoin.org/) protocol, a blockchain-based platform built on Ethereum and Optimism to create a global identity and financial network. Using World ID, a privacy-preserving “Proof of Personhood” verified by iris-scanning Orbs, Worldcoin enables users to prove their humanity online while maintaining anonymity via zero-knowledge proofs (ZKPs). WLD powers governance, incentives, and access to the network, with a $2.1 billion market cap and U.S. availability since June 2025.
+**Worldcoin (WLD)**, launched in July 2023, is the governance token of the Worldcoin protocol, a blockchain-based platform built on Ethereum and Optimism to create a global identity and financial network. Using World ID, a privacy-preserving “Proof of Personhood” verified by iris-scanning Orbs, Worldcoin enables users to prove their humanity online while maintaining anonymity via zero-knowledge proofs (ZKPs). WLD powers governance, incentives, and access to the network, with a $2.1 billion market cap and U.S. availability since June 2025.
 
 ## Key Features
 - **World ID**: A decentralized identifier (DID) for anonymous human verification, integrated with platforms like Coinbase and Binance.
@@ -11,7 +11,7 @@
 ## WLD Token
 - **Purpose**: Used for governance, staking, and claiming recurring grants for Orb-verified users (outside the U.S.).
 - **Supply**: Circulating supply of ~1.6 billion WLD, with a max supply of 10 billion.
-- **Contract Address**: `0x163f8c2467924be0ae7b5347228cabf260318753` (Ethereum, addable to MetaMask), [coingecko](https://www.coingecko.com/en/coins/worldcoin) [cmc](https://coinmarketcap.com/currencies/worldcoin-org/).
+- **Contract Address**: `0x163f8c2467924be0ae7b5347228cabf260318753` (Ethereum, addable to MetaMask), coingecko cmc.
 
 
 
