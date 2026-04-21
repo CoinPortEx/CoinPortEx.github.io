@@ -1,7 +1,15 @@
 <script>
-  var qs = window.location.search;
-  var params = new URLSearchParams(qs);
-  var theme = params.get('theme');
-  var cls = theme === 'dark-mode' ? 'dark-mode' : 'light-mode';
-  document.body.classList.add(cls);
+  (function () {
+    var params = new URLSearchParams(window.location.search);
+    var theme = params.get('theme');
+    try {
+      if (theme === 'dark-mode' || theme === 'light-mode') {
+        localStorage.setItem('coinport-blog-theme', theme);
+      } else {
+        theme = localStorage.getItem('coinport-blog-theme');
+      }
+    } catch (_e) { /* localStorage blocked */ }
+    var cls = theme === 'dark-mode' ? 'dark-mode' : 'light-mode';
+    document.body.classList.add(cls);
+  })();
 </script>
