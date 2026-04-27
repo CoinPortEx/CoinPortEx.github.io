@@ -11,13 +11,13 @@
 ## DOT Token
 - **Purpose**: Used for governance, staking, parachain auctions, coretime purchases, and network fees.
 - **Supply**: Circulating supply of ~1.5 billion DOT, with no max supply (inflationary model).
-- **Contract Address**: Native to Polkadot; CoinGecko CMC. Add to wallets like Polkadot.js or Talisman.
+- **Contract Address**: Native to Polkadot. Add to wallets like Polkadot.js or Talisman.
 
-# Who Are the Founders of Polkadot?
+## Who Are the Founders of Polkadot?
 
 Polkadot was founded by **Dr. Gavin Wood**, Ethereum co-founder and Solidity creator, alongside **Robert Habermeier**, a Thiel Fellow, and **Peter Czaban**, former Web3 Foundation Technology Director. Launched via a $145M ICO in 2017, the Web3 Foundation and Parity Technologies drive development, with Wood coining “Web3.”
 
-# What Makes Polkadot Unique?
+## What Makes Polkadot Unique?
 
 Polkadot’s architecture redefines blockchain connectivity:
 
@@ -26,13 +26,13 @@ Polkadot’s architecture redefines blockchain connectivity:
 - **Polkadot 2.0**: Agile Coretime replaces slot auctions, enabling on-demand blockspace purchases, reducing developer barriers.
 - **Decentralized Identity (DID)**: Enables privacy-focused KYC and cross-platform identity, powered by Polkadot SDK.
 
-# DOT Network Upgrades (2025)
+## Notable Developments
 
-- **Polkadot 2.0 Launch (Q1 2025)**: Introduced Agile Coretime, boosting scalability and lowering parachain costs by 30%.
-- **OpenGov Enhancement (March 2025)**: Streamlined referendum voting, increasing DAO participation to 1.48M DOT holders.
-- **Substrate SDK Update (June 2025)**: Added no-code deployment tools, onboarding 200+ new dApps.
+- **Polkadot 2.0 / Agile Coretime**: Replaces fixed-slot parachain auctions with on-demand blockspace, lowering developer barriers.
+- **OpenGov**: Streamlined referendum voting that increases participation in protocol governance.
+- **Polkadot SDK**: Continued tooling improvements make it easier to deploy dApps and custom chains.
 
-# How Is DOT Secured?
+## How Is DOT Secured?
 
 Polkadot and DOT are secured through:
 
@@ -41,6 +41,12 @@ Polkadot and DOT are secured through:
 - **Smart Contract Audits**: Parachains like Moonbeam audited by firms like CertiK.
 - **PolkadotDAO**: 1.48M DOT holders vote on upgrades via OpenGov, ensuring decentralization.
 
-# Conclusion
+## Conclusion
 
-**Polkadot (DOT)** is a Layer-0 protocol uniting blockchains with unparalleled interoperability and scalability. With $4.8B TVL, 143,000 TPS, and Polkadot 2.0’s Agile Coretime, it empowers Web3 innovation. 
+**Polkadot (DOT)** is a Layer-0 protocol uniting blockchains with strong interoperability and parallelised scalability. With Polkadot 2.0's Agile Coretime, OpenGov, and a maturing parachain ecosystem, it remains a distinctive architecture for multi-chain Web3.
+
+---
+
+> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
+
+**Trade on CoinPort:** [www.coinport.com.au](https://www.coinport.com.au)

@@ -11,7 +11,7 @@
 ## LINK Token
 - **Purpose**: Used for paying node operators, staking, and governance participation.
 - **Supply**: ~660M LINK in circulation, with a maximum supply of 1B 
-- **Contract Address**: On Ethereum, LINK’s contract is `0x514910771af9ca656af840dff83e8264ecf986ca` (addable to MetaMask) CoinGecko CMC.
+- **Contract Address**: On Ethereum, LINK’s contract is `0x514910771af9ca656af840dff83e8264ecf986ca` (addable to MetaMask)
 
 ## Who Are the Founders of LINK?
 
@@ -25,10 +25,11 @@ Chainlink stands out in Web3:
 - **Staking Incentives**: Offers ~5% annual staking rewards, combining treasury emissions and user fees, enhancing network security.
 - **Enterprise Adoption**: Partners with AccuWeather, FedEx, and the Associated Press for data verification, bridging traditional and blockchain systems.
 
-## LINK Network Upgrades (2025)
-- **CCIP Expansion (Q1 2025)**: Added support for Base and Scroll, increasing cross-chain transaction volume by 30% 
-- **Data Streams V2 (April 2025)**: Improved sub-second price feeds for high-frequency trading, adopted by HyperLend ($480M TVL).
-- **DVT Integration (June 2025)**: Enhanced node decentralization with Distributed Validator Technology, reducing single-point risks.
+## Notable Developments
+
+- **CCIP (Cross-Chain Interoperability Protocol)**: Continues to expand to additional blockchains, supporting cross-chain messaging and asset transfers.
+- **Data Streams**: Sub-second price feeds tailored for derivatives and high-frequency trading applications.
+- **Distributed Validator Technology (DVT)**: Improves node decentralisation and reduces single-point-of-failure risks.
 
 ## How Is LINK Secured?
 
@@ -40,4 +41,10 @@ Chainlink and LINK are secured through:
 
 ## Conclusion
 
-**Chainlink (LINK)** is a critical Web3 infrastructure, bridging blockchains with real-world data through decentralized oracles. With ,660M circulating LINK, and 1,000+ integrations, it powers DeFi, cross-chain interoperability, and enterprise adoption. Its robust security, staking model, and CCIP scalability position Chainlink as a backbone of blockchain innovation.
+**Chainlink (LINK)** is critical Web3 infrastructure, bridging blockchains with real-world data through decentralised oracles. With hundreds of millions of LINK in circulation and over a thousand project integrations, it powers DeFi, cross-chain interoperability, and enterprise adoption. Its robust security, staking model, and CCIP scalability position Chainlink as a backbone of blockchain innovation.
+
+---
+
+> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
+
+**Trade on CoinPort:** [www.coinport.com.au](https://www.coinport.com.au)

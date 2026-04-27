@@ -11,13 +11,13 @@
 ## AVAX Token
 - **Purpose**: Used for transaction fees, staking, governance, and creating subnets (custom blockchains).
 - **Supply**: Circulating supply of ~422 million AVAX, with a max supply of 720 million.
-- **Contract Address**: Native to Avalanche (C-Chain);  CoinGecko CMC. Add to wallets like MetaMask or Core.
+- **Contract Address**: Native to Avalanche (C-Chain). Add to wallets like MetaMask or Core.
 
-# Who Are the Founders of Avalanche?
+## Who Are the Founders of Avalanche?
 
 Avalanche was founded by **Ava Labs**, led by **Emin Gün Sirer**, a Cornell University professor, alongside **Kevin Sekniqi** and **Maofan “Ted” Yin**. Launched with a $42M ICO in 2020, Ava Labs raised $230M in 2021 from investors like Polychain Capital and Andreessen Horowitz (a16z). The team focuses on solving the blockchain trilemma of scalability, security, and decentralization.
 
-# What Makes Avalanche Unique?
+## What Makes Avalanche Unique?
 
 Avalanche stands out for its innovative design:
 
@@ -26,13 +26,13 @@ Avalanche stands out for its innovative design:
 - **Interoperability**: Bridges to Ethereum (e.g., SushiSwap, TrueUSD) enhance cross-chain DeFi and liquidity.
 - **Gaming Focus**: Hosts AAA games like Off the Grid, with a Battle Pass NFT on Magic Eden.
 
-# AVAX Network Upgrades (2025)
+## Notable Developments
 
-- **Retro9000 Airdrop (Q1 2025)**: Distributed AVAX rewards to active users, boosting ecosystem engagement.
-- **Gaia Upgrade (June 2025)**: Improved subnet scalability, increasing TPS by 20% and reducing node requirements.
-- **FIFA Collect L1 (May 2025)**: Launched a dedicated Avalanche subnet for FIFA’s on-chain collectibles.
+- **Subnet & L1 Growth**: Major brands and games (e.g. FIFA Collect, MapleStory Universe) have launched dedicated Avalanche subnets/L1s.
+- **Performance Upgrades**: Successive protocol upgrades have improved subnet scalability and reduced validator hardware requirements.
+- **Ecosystem Incentives**: Programs like Retro9000 distribute AVAX rewards to drive ecosystem engagement.
 
-# How Is AVAX Secured?
+## How Is AVAX Secured?
 
 Avalanche and AVAX are secured through:
 
@@ -41,8 +41,15 @@ Avalanche and AVAX are secured through:
 - **Smart Contract Audits**: Regular audits by firms like Trail of Bits ensure dApp and subnet integrity.
 - **Governance**: AVAX stakers vote on protocol upgrades, ensuring decentralized control.
 
-# Conclusion
+## Conclusion
 
 **Avalanche (AVAX)** powers a scalable, fast, and interoperable Layer 1 blockchain, rivaling Ethereum with its subnet architecture and low fees. With $6.2B TVL, 2.2M active wallets, and projects like FIFA Collect and MapleStory Universe, Avalanche drives DeFi, gaming, and Web3 innovation. 
 
 
+
+
+---
+
+> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
+
+**Trade on CoinPort:** [www.coinport.com.au](https://www.coinport.com.au)

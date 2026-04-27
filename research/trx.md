@@ -11,8 +11,7 @@
 ## TRX Token
 - **Purpose**: Used for transaction fees, staking for Tron Power (voting rights), and content payments.
 - **Supply**: ~94.8B TRX in circulation, with a total supply of 100B (10B burned since 2021).
-- **Contract Address**: Native to TRON;  CoinGecko CMC.
-
+- **Contract Address**: Native to TRON.
 ## Who Are the Founders of TRX?
 
 TRON was founded by **Justin Sun**, a controversial figure known for his roles at BitTorrent and Poloniex. Launched via a $70M ICO in 2017, TRON allocated 45% of TRX to Sun and the Tron Foundation, sparking centralization critiques. The project is now community-governed via DPoS, with Sun maintaining influence.
@@ -25,10 +24,11 @@ TRON stands out in Web3:
 - **Deflationary Mechanism**: Over 10B TRX burned since 2021, reducing supply to boost scarcity
 - **Scalability**: High TPS and low fees make TRON ideal for DeFi and dApps, with ~1.7M daily transactions.
 
-## TRX Network Upgrades (2025)
-- **TRX Reduction Proposal (June 2025)**: Reduced block rewards from 16 to 8 TRX and voting rewards from 160 to 128 TRX, enhancing scarcity.
-- **Energy Cap Increase (Q2 2025)**: Raised daily energy cap from 120B to 150B, lowering network fees.
-- **SunPump Expansion (April 2025)**: Boosted memecoin launches, increasing TRON’s DeFi TVL by 10%.
+## Notable Developments
+
+- **Reward Adjustments**: Periodic governance proposals reduce block and voting rewards to enhance TRX scarcity.
+- **Resource Model Tuning**: TRON adjusts daily energy and bandwidth caps to keep typical user transactions cheap or free.
+- **Memecoin Activity**: Platforms like SunPump have made TRON a major hub for memecoin launches and on-chain activity.
 
 ## How Is TRX Secured?
 
@@ -40,4 +40,10 @@ TRON and TRX are secured through:
 
 ## Conclusion
 
-**TRON (TRX)** is a leading layer-1 blockchain, emphasizing decentralization, high scalability, and creator empowerment. With 94.8B circulating supply, and a robust ecosystem across 145+ exchanges, TRON supports DeFi, memecoins, and content monetization. Its DPoS model, low-cost transactions, and 2025 upgrades like TRX reduction position it as a Web3 powerhouse, though centralization concerns linger.
+**TRON (TRX)** is a leading layer-1 blockchain emphasising scalability, creator empowerment, and low-cost transactions. With a large circulating supply and a robust exchange ecosystem, TRON supports DeFi, memecoins, and content monetisation. Its DPoS model and ongoing protocol tuning position it as a high-throughput Web3 platform, though centralisation concerns from its early distribution linger.
+
+---
+
+> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
+
+**Trade on CoinPort:** [www.coinport.com.au](https://www.coinport.com.au)

@@ -11,13 +11,13 @@
 ## LTC Token
 - **Purpose**: Used for transaction fees, mining rewards, and as a store of value or payment method.
 - **Supply**: Circulating supply of ~76 million LTC, with a max supply of 84 million.
-- **Contract Address**: Native to Litecoin blockchain; tradeable via CoinGecko CMC. Add to wallets like Litecoin Core or Exodus.
+- **Contract Address**: Native to Litecoin blockchain. Add to wallets like Litecoin Core or Exodus.
 
-# Who Are the Founders of Litecoin?
+## Who Are the Founders of Litecoin?
 
 Litecoin was founded by **Charlie Lee**, a former Google engineer and Coinbase Director of Engineering. Launched via an open-source client on GitHub, Lee envisioned Litecoin as a faster, lighter alternative to Bitcoin. The Litecoin Foundation, led by Lee, Xinxi Wang, Alan Austin, and Zing Yang, supports development and adoption.
 
-# What Makes Litecoin Unique?
+## What Makes Litecoin Unique?
 
 Litecoin stands out for its payment-focused design:
 
@@ -26,13 +26,13 @@ Litecoin stands out for its payment-focused design:
 - **Merchant Adoption**: Used for payments by 14% of BitPay transactions, ranking third behind Bitcoin and USDT.
 - **Decentralized Mining**: Scrypt initially deterred ASIC dominance, fostering wider miner participation, though ASICs now prevail.
 
-# LTC Network Upgrades (2025)
+## Notable Developments
 
-- **MWEB Expansion (Q1 2025)**: Enhanced privacy features, improving fungibility despite regulatory pushback in some markets.
-- **LitVM Launch (June 2025)**: Introduced a ZK-powered omnichain layer with Polygon CDK and AggLayer, adding smart contracts and interoperability.
-- **ETF Proposals (June 2025)**: Canary and Grayscale filed for spot LTC ETFs, driving 31.5% volume increase to $464.6M daily.
+- **MWEB (MimbleWimble Extension Block)**: Optional confidential-transaction layer that improves fungibility, though it has prompted delistings in some regulatory environments.
+- **LitVM**: A ZK-powered omnichain layer aiming to bring smart contracts and broader interoperability to Litecoin.
+- **ETF Filings**: Spot Litecoin ETF applications have been filed by major issuers, signalling growing institutional access.
 
-# How Is LTC Secured?
+## How Is LTC Secured?
 
 Litecoin and LTC are secured through:
 
@@ -41,8 +41,15 @@ Litecoin and LTC are secured through:
 - **ChainLocks**: Mitigates 51% attacks by locking blocks via masternode-like consensus, inspired by Dash.
 - **Audits**: Regular code audits by the Litecoin Core team and third parties maintain protocol integrity.
 
-# Conclusion
+## Conclusion
 
 **Litecoin (LTC)** powers a fast, low-cost blockchain optimized for digital payments, complementing Bitcoin as “digital silver.” With its Scrypt algorithm, MWEB privacy features, and growing merchant adoption, Litecoin remains a top altcoin. Recent upgrades like LitVM and ETF momentum position it for broader adoption.
 
 
+
+
+---
+
+> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
+
+**Trade on CoinPort:** [www.coinport.com.au](https://www.coinport.com.au)

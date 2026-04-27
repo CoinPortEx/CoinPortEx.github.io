@@ -11,13 +11,13 @@
 ## DASH Token
 - **Purpose**: Used for transaction fees, masternode staking (1,000 DASH minimum), and governance voting.
 - **Supply**: Circulating supply of ~12 million DASH, with a max supply of 18.9 million.
-- **Contract Address**: Native to Dash blockchain; tradeable via CoinGecko CMC. Add to wallets like Dash Wallet or Exodus.
+- **Contract Address**: Native to Dash blockchain. Add to wallets like Dash Wallet or Exodus.
 
-# Who Are the Founders of Dash?
+## Who Are the Founders of Dash?
 
 Dash was founded by **Evan Duffield** and **Kyle Hagan** in 2014. Duffield aimed to improve Bitcoin’s speed and privacy, introducing masternodes and InstantSend. The Dash Core Group, supported by the Dash Foundation, maintains development, with a decentralized community driving governance.
 
-# What Makes Dash Unique?
+## What Makes Dash Unique?
 
 Dash stands out for its user-focused features:
 
@@ -26,13 +26,13 @@ Dash stands out for its user-focused features:
 - **Merchant Adoption**: Accepted by thousands of global merchants, emphasizing real-world usability.
 - **On-Chain Governance**: DASH holders vote on protocol upgrades, pioneering decentralized decision-making.
 
-# DASH Network Upgrades (2025)
+## Notable Developments
 
-- **ChainLocks Enhancement (Q1 2025)**: Strengthened 51% attack resistance, improving blockchain immutability.
-- **Dash Platform (March 2025)**: Expanded masternode-hosted dApps, enabling decentralized identity and data storage.
-- **ETF Proposals (June 2025)**: Spot DASH ETF filings by Grayscale gained traction, boosting trading volume by 17% to $14.7M daily.
+- **ChainLocks**: Continued improvements strengthen 51%-attack resistance and blockchain immutability.
+- **Dash Platform**: An expanding layer for masternode-hosted dApps, decentralised identity, and on-chain data storage.
+- **ETF Filings**: Spot DASH ETF applications signal growing institutional interest.
 
-# How Is DASH Secured?
+## How Is DASH Secured?
 
 Dash and DASH are secured through:
 
@@ -41,6 +41,12 @@ Dash and DASH are secured through:
 - **Decentralized Nodes**: Over 4,000 masternodes and 10,000+ nodes ensure network resilience.
 - **Audits**: Regular code audits by firms like BugBounty maintain protocol integrity.
 
-# Conclusion
+## Conclusion
 
 **Dash (DASH)** powers a fast, low-cost, and privacy-focused blockchain, designed for real-world payments and digital cash adoption. With its masternode network, self-funding DAO, and merchant integrations, Dash bridges crypto and traditional finance. Recent upgrades and ETF proposals position it as a leader in the crypto market.
+
+---
+
+> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
+
+**Trade on CoinPort:** [www.coinport.com.au](https://www.coinport.com.au)

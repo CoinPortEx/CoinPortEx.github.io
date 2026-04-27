@@ -11,7 +11,7 @@
 ## USDC Token
 - **Purpose**: Used for payments, trading, DeFi lending, and cross-chain transfers.
 - **Supply**: ~35B USDC in circulation, with no fixed maximum supply due to its redeemable nature.
-- **Contract Address**: On Ethereum, USDC’s contract is `0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48` (addable to MetaMask) CoinGecko CMC.
+- **Contract Address**: On Ethereum, USDC’s contract is `0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48` (addable to MetaMask)
 
 ## Who Are the Founders of USDC?
 
@@ -25,10 +25,11 @@ USDC stands out in Web3:
 - **DeFi Dominance**: Underpins major DeFi protocols, with ~$15B in DeFi TVL and $1T+ in annual on-chain volume.
 - **Global Adoption**: Used by merchants, exchanges, and institutions like Visa for cross-border payments.
 
-## USDC Network Upgrades (2025)
-- **Solana Expansion (Q1 2025)**: Increased USDC adoption on Solana, boosting transaction volume by 25%.
-- **Cross-Chain Transfer Protocol (March 2025)**: Enhanced CCTP for fee-free USDC transfers across 10 blockchains, processing $500M daily.
-- **Polygon PoS Upgrade (June 2025)**: Improved USDC bridging efficiency, reducing costs by 30%.
+## Notable Developments
+
+- **CCTP (Cross-Chain Transfer Protocol)**: Circle's native bridge enables low-friction USDC transfers across multiple supported blockchains.
+- **Multi-Chain Growth**: USDC continues to expand its presence on high-throughput chains such as Solana, Base, and Polygon.
+- **Regulatory Compliance**: Circle operates under U.S. financial regulation, with regular reserve attestations published by an independent accounting firm.
 
 ## How Is USDC Secured?
 
@@ -40,4 +41,11 @@ USDC is secured through:
 
 ## Conclusion
 
-**USDC (USDC)** is a leading stablecoin, enabling stable digital payments and DeFi with a $35B market cap and 35B circulating supply. Integrated across 400+ exchanges and 15+ blockchains, USDC’s regulatory compliance, cross-chain scalability, and DeFi dominance make it a Web3 cornerstone. While centralized backing raises trust concerns for some, its audited reserves and 2025 upgrades solidify USDC’s role in mainstream crypto adoption.
+**USDC** is a leading stablecoin, enabling stable digital payments and DeFi with deep liquidity across hundreds of exchanges and many blockchains. USDC's regulatory compliance, cross-chain scalability, and DeFi dominance make it a Web3 cornerstone. While centralised backing raises trust considerations for some, its attested reserves position it as a mainstream stablecoin.
+
+
+---
+
+> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
+
+**Trade on CoinPort:** [www.coinport.com.au](https://www.coinport.com.au)

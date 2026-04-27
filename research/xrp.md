@@ -11,13 +11,13 @@
 ## XRP Token
 - **Purpose**: Used for transaction fees, staking, and liquidity provision on the XRPL.
 - **Supply**: Circulating supply of ~58.9 billion XRP, with a max supply of 100 billion (pre-mined).
-- **Contract Address**: Native to XRPL; can be wrapped as an ERC-20 token (e.g., WXRP) on Ethereum for DeFi use. CoinGecko  CMC.
+- **Contract Address**: Native to XRPL; can be wrapped as an ERC-20 token (e.g., WXRP) on Ethereum for DeFi use.
 
-# Who Are the Founders of XRP?
+## Who Are the Founders of XRP?
 
 XRP and the XRP Ledger were co-founded by **David Schwartz**, **Jed McCaleb**, and **Arthur Britto** in 2012. Ripple, a fintech company, was gifted 80 billion XRP to develop use cases like RippleNet. The XRP Ledger is maintained by a decentralized community, with Ripple as a key contributor.
 
-# What Makes XRP Unique?
+## What Makes XRP Unique?
 
 XRP and the XRP Ledger stand out for their payment-focused blockchain:
 
@@ -26,13 +26,13 @@ XRP and the XRP Ledger stand out for their payment-focused blockchain:
 - **Scalability**: Handles high transaction throughput with carbon-neutral, energy-efficient operations.
 - **Growing Adoption**: Used by financial institutions globally, with recent regulatory clarity (e.g., SEC case resolution) boosting institutional interest, including ETF proposals.
 
-# XRP Network Upgrades (2025)
+## Notable Developments
 
-- **RLUSD Stablecoin (March 2025)**: Ripple launched RLUSD, a USD-backed stablecoin on XRPL and Ethereum, approved by NYDFS and DFSA, enhancing DeFi and payment use cases.
-- **Smart Contract Integration (Q2 2025)**: XRPL introduced Hooks, enabling programmable smart contracts to support complex DeFi and tokenization applications.
-- **ETF Developments (June 2025)**: Spot XRP ETF proposals, like Purpose Investment’s in Canada, gained traction, signaling institutional growth.
+- **RLUSD Stablecoin**: Ripple launched RLUSD, a USD-backed stablecoin issued on the XRP Ledger and Ethereum.
+- **Smart Contract Capabilities**: The XRPL has expanded programmability through proposals like Hooks and an EVM-compatible sidechain.
+- **Regulatory Clarity**: The resolution of the U.S. SEC's case against Ripple has supported renewed institutional interest, including spot XRP ETF proposals in several jurisdictions.
 
-# How Is XRP Secured?
+## How Is XRP Secured?
 
 XRP and the XRP Ledger are secured through:
 
@@ -41,6 +41,13 @@ XRP and the XRP Ledger are secured through:
 - **Immutable Ledger**: Transactions are recorded on a public, tamper-resistant distributed ledger.
 - **Audits**: Regular security audits of XRPL’s codebase ensure robustness and safety.
 
-# Conclusion
+## Conclusion
 
 **XRP** powers the XRP Ledger, a pioneering blockchain for fast, low-cost global payments and asset tokenization. With its energy-efficient consensus, institutional adoption, and recent advancements like RLUSD and ETF proposals, XRP is positioned as a leader in cross-border finance and DeFi. Its scalability, regulatory clarity, and developer-friendly ecosystem make it a key player in the $1T+ global remittance market.
+
+
+---
+
+> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
+
+**Trade on CoinPort:** [www.coinport.com.au](https://www.coinport.com.au)

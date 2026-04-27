@@ -11,13 +11,12 @@
 ## USDT Token
 - **Purpose**: Used for trading, transfers, DeFi collateral, and maintaining stable value across ecosystems.
 - **Supply**: Circulating supply of ~150 billion USDT, with no fixed max supply (issued based on demand).
-- **Contract Address**: On Ethereum, USDT’s contract is `0xdac17f958d2ee523a2206206994597c13d831ec7` (addable to MetaMask).  CoinGecko CMC
-
-# Who Are the Founders of Tether?
+- **Contract Address**: On Ethereum, USDT’s contract is `0xdac17f958d2ee523a2206206994597c13d831ec7` (addable to MetaMask).
+## Who Are the Founders of Tether?
 
 Tether was co-founded by **Brock Pierce**, **Reeve Collins**, and **Craig Sellars** in 2014 as Realcoin, rebranded to Tether later that year. Tether Limited, owned by iFinex (parent of Bitfinex), manages USDT issuance and reserves. The company is headquartered in the British Virgin Islands, with offices in Switzerland.
 
-# What Makes Tether Unique?
+## What Makes Tether Unique?
 
 Tether (USDT) stands out for its role as the leading stablecoin:
 
@@ -26,12 +25,13 @@ Tether (USDT) stands out for its role as the leading stablecoin:
 - **Fiat Integration**: Enables seamless fiat-to-crypto conversions, acting as a bridge for traders and institutions.
 - **Controversy**: Faces scrutiny over reserve transparency, though quarterly attestations by BDO Italia show $118.4B in reserves, including $5.3B in excess.
 
-# USDT Network Upgrades (2025)
+## Notable Developments
 
-- **Discontinued Support (March 2025)**: Tether ended support for USDT on EOS, Algorand, OmniLayer, BCH-SLP, and Kusama to streamline operations.
-- **Latin America Expansion (Q1 2025)**: Launched MXNT (Mexican Peso stablecoin) and named Mexico a key hub for Latin American adoption.
-- **MiCA Compliance (June 2025)**: Invested in StablR to align with EU’s MiCA regulations, enhancing regulatory compliance for USD and EUR stablecoins.
-# How Is USDT Secured?
+- **Multi-Chain Consolidation**: Tether has progressively focused issuance on the largest, most liquid chains (Ethereum, Tron, Solana) and wound down support on smaller networks.
+- **Regional Stablecoins**: Tether has launched non-USD stablecoins (e.g. EURT, MXNT) to address regional demand.
+- **Regulatory Engagement**: Tether continues to engage with global regulators, including aligning with frameworks such as the EU's MiCA.
+
+## How Is USDT Secured?
 
 Tether and USDT are secured through:
 
@@ -40,7 +40,14 @@ Tether and USDT are secured through:
 - **Redemption Process**: Users can redeem USDT for USD after KYC/AML verification.
 - **Audits**: Quarterly attestations by BDO Italia, though full independent audits remain pending.
 
-# Conclusion
+## Conclusion
 
-**Tether (USDT)** is the leading stablecoin, powering global crypto trading, DeFi, and cross-border payments with its 1:1 USD peg. Its multi-chain support, high liquidity, and institutional adoption make it a cornerstone of the $3.5T crypto market. Despite reserve transparency concerns, Tether’s $14B in 2024 profits and regulatory efforts position it as a critical infrastructure for digital finance.
+**Tether (USDT)** is the leading stablecoin, powering global crypto trading, DeFi, and cross-border payments with its 1:1 USD peg. Its multi-chain support, high liquidity, and broad adoption make it a cornerstone of the cryptocurrency market. Despite ongoing scrutiny over reserve transparency, USDT remains a critical piece of digital-finance infrastructure.
 
+
+
+---
+
+> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
+
+**Trade on CoinPort:** [www.coinport.com.au](https://www.coinport.com.au)

@@ -11,13 +11,13 @@
 ## SOL Token
 - **Purpose**: Used for transaction fees, staking, and governance on the Solana blockchain.
 - **Supply**: Circulating supply of ~530 million SOL, with a total supply of ~600 million.
-- **Contract Address**: Native to Solana; CoinGecko CMC . Add to wallets like Phantom or Solflare.
+- **Contract Address**: Native to Solana. Add to wallets like Phantom or Solflare.
 
-# Who Are the Founders of Solana?
+## Who Are the Founders of Solana?
 
 Solana was co-founded by **Anatoly Yakovenko**, **Raj Gokal**, **Greg Fitzgerald**, and **Stephen Akridge** in 2017, with Solana Labs launching the blockchain in 2020. The Solana Foundation, based in Geneva, Switzerland, supports ecosystem growth. Backed by investors like Andreessen Horowitz (a16z) and Multicoin Capital, Solana raised $25.6M in its initial seed sale.
 
-# What Makes Solana Unique?
+## What Makes Solana Unique?
 
 Solana stands out for its high-performance blockchain:
 
@@ -26,13 +26,13 @@ Solana stands out for its high-performance blockchain:
 - **Only Possible on Solana (OPOS)**: Enables unique dApps like Jupiter and Backpack due to speed and low costs.
 - **Institutional Adoption**: Praised by Franklin Templeton and Kraken as a leader in on-chain finance, with spot ETF proposals filed.
 
-# SOL Network Upgrades (2025)
+## Notable Network Developments
 
-- **Firedancer Client (Q1 2025)**: Introduced a second validator client by Jump Crypto, enhancing network resilience and decentralization.
-- **QUIC Protocol (March 2025)**: Improved data transfer, boosting TPS and reducing latency for DeFi and gaming dApps.
-- **Solana Mobile 2.0 (June 2025)**: Launched the second-generation Saga smartphone, integrating a dApp store and Web3 wallet, driving retail adoption.
+- **Firedancer**: An independent validator client by Jump Crypto, increasing network resilience and client diversity.
+- **QUIC and Stake-Weighted QoS**: Improvements that help the network handle transaction load under stress.
+- **Solana Mobile**: A dedicated Web3 smartphone (Saga) and dApp store, supporting mobile-first retail adoption.
 
-# How Is SOL Secured?
+## How Is SOL Secured?
 
 Solana and SOL are secured through:
 
@@ -41,7 +41,14 @@ Solana and SOL are secured through:
 - **Network Audits**: Regular audits of core protocol and dApps by firms like Halborn mitigate vulnerabilities.
 - **Decentralized Governance**: SOL holders vote on protocol upgrades, ensuring community-driven security.
 
-# Conclusion
+## Conclusion
 
 **Solana (SOL)** powers a leading Layer 1 blockchain, delivering unparalleled speed, scalability, and low costs for DeFi, NFTs, and Web3 applications. With a vibrant ecosystem, institutional backing, and recent upgrades like Firedancer and Solana Mobile 2.0, Solana is poised to drive the future of on-chain finance and internet capital markets in the $3.5T+ crypto economy.
 
+
+
+---
+
+> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
+
+**Trade on CoinPort:** [www.coinport.com.au](https://www.coinport.com.au)

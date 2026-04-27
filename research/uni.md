@@ -10,8 +10,8 @@
 
 ## UNI Token
 - **Purpose**: Used for governance voting, fee sharing, and community incentives.
-- **Supply**: ~600M UNI in circulation, with a maximum supply of 1B (fully vested by 2024).
-- **Contract Address**: On Ethereum, UNI’s contract is `0x1f9840a85d5af5bf1d1762f925bdaddc4201f984` (addable to MetaMask) CoinGecko CMC.
+- **Supply**: ~600M UNI in circulation, with a maximum supply of 1B.
+- **Contract Address**: On Ethereum, UNI’s contract is `0x1f9840a85d5af5bf1d1762f925bdaddc4201f984` (addable to MetaMask)
 
 ## Who Are the Founders of UNI?
 
@@ -25,10 +25,11 @@ Uniswap stands out in Web3:
 - **V4 Innovation**: Uniswap V4’s hooks and singleton architecture reduce gas costs by 99% compared to V2.
 - **DeFi Dominance**: Powers 60%+ of Ethereum DEX volume, with integrations in Aave, Compound, and others.
 
-## UNI Network Upgrades (2025)
-- **Uniswap V4 (Q1 2025)**: Launched customizable pools with hooks, improving capital efficiency and reducing fees.
-- **Layer-2 Expansion (March 2025)**: Added Base and Scroll support, boosting transaction throughput by 20%.
-- **Fee Switch Proposal (June 2025)**: Community vote enabled 0.25% fee distribution to UNI stakers, increasing staking by 15%.
+## Notable Developments
+
+- **Uniswap V4**: Introduces customisable pools via hooks and a singleton architecture, significantly improving gas efficiency.
+- **Layer 2 Expansion**: Native deployments on networks like Base, Arbitrum, and Optimism extend access to lower-cost trading.
+- **Fee Switch Governance**: UNI holders are able to vote on directing a share of protocol fees to stakers.
 
 ## How Is UNI Secured?
 
@@ -40,5 +41,12 @@ Uniswap and UNI are secured through:
 
 ## Conclusion
 
-**Uniswap (UNI)** is a leading DeFi protocol, revolutionizing token swaps with its AMM model and $7.1B TVL. With a 600M circulating supply, and 300+ exchange listings, Uniswap drives Web3’s decentralized trading. Its V4 upgrade, Layer-2 scalability, and potential fee distribution solidify its dominance, though high Ethereum gas fees remain a challenge for non-L2 users.
+**Uniswap (UNI)** is a leading DeFi protocol, revolutionising token swaps with its AMM model and deep liquidity. With a substantial circulating UNI supply and broad exchange and wallet integration, Uniswap drives Web3's decentralised trading. Its V4 upgrade, Layer 2 scalability, and potential fee distribution solidify its dominance, though high Ethereum mainnet gas fees remain a challenge for non-L2 users.
 
+
+
+---
+
+> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
+
+**Trade on CoinPort:** [www.coinport.com.au](https://www.coinport.com.au)
