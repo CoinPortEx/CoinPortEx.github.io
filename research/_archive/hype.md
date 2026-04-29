@@ -51,3 +51,7 @@ HYPE and the Hyperliquid L1 are secured through:
 # Conclusion
 
 **Hyperliquid (HYPE)** powers a high-performance L1 blockchain, revolutionizing DeFi with its on-chain order book and zero-fee perpetuals trading. Its deflationary model, massive airdrop, and growing ecosystem make it a DeFi leader. 
+
+---
+
+> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
