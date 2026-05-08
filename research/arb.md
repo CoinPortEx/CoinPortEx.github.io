@@ -49,4 +49,4 @@ ARB and the Arbitrum ecosystem are secured through:
 
 ---
 
-> _Disclaimer: This page is provided for information only and does not constitute financial, investment, or tax advice. Cryptocurrency investments are speculative and carry risk. Always do your own research and consider consulting a licensed financial adviser._
+> _For information only. Not financial, investment, or tax advice. Always do your own research._

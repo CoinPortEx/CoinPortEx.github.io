@@ -91,7 +91,7 @@
 
 {{Optional section where CoinPort analysts provide a considered opinion or general guidance to users, clearly stating it is not financial advice.}}
 
-> _Disclaimer: This report is for informational purposes only and does not constitute financial advice. Cryptocurrencies are speculative and involve risk. Always do your own research and consult a licensed financial adviser._
+> _For information only. Not financial, investment, or tax advice. Always do your own research._
 
 ---
 
