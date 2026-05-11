@@ -40,3 +40,7 @@ Forte AUD is secured through a layered approach combining legal, operational, an
 
 # Conclusion
 **Forte AUD (AUDF)** is Australia's premier AUD-backed stablecoin, combining the stability of the Australian Dollar with the speed, transparency, and programmability of blockchain technology. Issued under an AFSL by a regulated Australian entity, with quarterly independent reserve audits, multi-sig smart contract controls, and growing exchange and chain availability, AUDF represents a secure and compliant digital dollar for Australian traders, institutions, and remittance users. As Australia's digital asset infrastructure matures, AUDF is positioned as a core building block for AUD liquidity on-chain.
+
+---
+
+> _For information only. Not financial, investment, or tax advice. Always do your own research._
