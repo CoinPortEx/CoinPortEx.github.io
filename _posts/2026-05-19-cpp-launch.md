@@ -1,11 +1,14 @@
 ---
-title: "Introducing CoinPort Loyalty Points (CPP)"
+title: "Introducing CoinPort Loyalty Points (CPP) Token"
 layout: post
 description: "CPP is the loyalty token you earn just by being an active CoinPort member. Trade, hold qualifying assets, refer friends, and engage with the platform — CPP accrues automatically against your CoinPort account. When you're ready, you can redeem CPP for free airdrop allocations, trading rebates, priority support, and other member benefits."
-author: CoinPort
+author: "CoinPort Exchange"
 date: 2026-05-20 12:00:00 +1000
-categories: [loyalty-program]
+categories: news
 ---
+
+# Launch of CoinPort Loyalty Points (CPP) — the on-chain loyalty rewards program
+# Launch of CoinPort Loyalty Points (CPP) — the on-chain loyalty rewards program
 
 We're excited to introduce **CoinPort Loyalty Points (CPP)** — the on-chain loyalty rewards program for the CoinPort Exchange community. CPP is now live on **five public EVM blockchains**: Ethereum mainnet (canonical), BNB Smart Chain, Arbitrum One, Polygon, and Avalanche C-Chain —  deployed on 20 May 2026.
 
