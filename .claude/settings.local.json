@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(grep -rn '#[0-9a-fA-F]\\\\{3,6\\\\}' style.css)"
+      "Bash(grep -rn '#[0-9a-fA-F]\\\\{3,6\\\\}' style.css)",
+      "WebFetch(domain:www.swift.com)",
+      "WebSearch"
     ]
   }
 }
