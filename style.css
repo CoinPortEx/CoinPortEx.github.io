@@ -60,7 +60,7 @@ body {
   font-family: "Poppins", sans serif;
   margin: 10px;
   padding: 0;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 1.55;
 }
@@ -72,7 +72,7 @@ body.dark-mode {
 }
 
 .markdown-body {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 1.55;
   word-wrap: break-word;
@@ -88,7 +88,7 @@ body.dark-mode {
 
 p {
   color: rgba(0, 35, 58, .75);
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 1.55;
   padding: 8px 3px;
@@ -108,7 +108,7 @@ hr {
 
 a {
   color: var(--primary-cta-color);
-  font-size: 15px;
+  font-size: 14px;
 }
 
 body.dark-mode a {
@@ -117,7 +117,7 @@ body.dark-mode a {
 
 ul,
 ol {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 1.55;
   padding: 0;
@@ -126,7 +126,7 @@ ol {
 
 li {
   color: rgba(0, 35, 58, .8);
-  font-size: 15px;
+  font-size: 14px;
   margin: 5px 0 5px 30px;
   padding: 0;
   line-height: 1.55;
@@ -138,7 +138,7 @@ body.dark-mode li {
 }
 
 .signature {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 1.55;
   padding: 8px 1px;
@@ -155,7 +155,7 @@ body.dark-mode li {
 }
 
 .signature__slogan {
-  font-size: 15px;
+  font-size: 14px;
   margin-top: 0;
 }
 
@@ -166,7 +166,7 @@ table {
 }
 
 tbody {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 1.55;
   margin: 10px 0;
@@ -318,7 +318,7 @@ body.dark-mode h5 {
 }
 
 .column1 {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
   line-height: 1.25;
   padding: 6px 30px 6px 5px;
@@ -326,7 +326,7 @@ body.dark-mode h5 {
 }
 
 .column2 {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 400;
   padding: 6px 30px 6px 5px;
   width: fit-content;
@@ -345,8 +345,8 @@ body.dark-mode h5 {
 }
 
 @media screen and (max-width: 768px) {
-  p, td, ul, ol, tbody {
-    font-size: 15px;
+  p, td, ul, ol, li, a, tbody, .markdown-body {
+    font-size: 14px;
   }
 
   h1 {
@@ -466,7 +466,7 @@ strong {
   color: var(--cta-layer-color);
   display: flex;
   flex-direction: column;
-  font-size: 15px;
+  font-size: 14px;
   justify-content: center;
   max-width: 300px;
   padding: 25px;
@@ -485,7 +485,7 @@ body.dark-mode .pg-corporate-wrapper {
   color: var(--cta-layer-color);
   display: flex;
   flex-direction: column;
-  font-size: 15px;
+  font-size: 14px;
   justify-content: center;
   max-width: 300px;
   padding: 25px;
