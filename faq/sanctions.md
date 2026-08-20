@@ -58,7 +58,7 @@ We use **multi-layered geo-blocking** to enforce compliance:
 - Automatically blocks VPNs & proxies.  
 - Cross-checks with **IP geolocation databases**.  
 
-### **🔹 Document Verification (KYC via KYCAid)**  
+### **🔹 Document Verification (KYC via Didit)**  
 - Rejects IDs/passports from **sanctioned nations**.  
 - Flags **politically exposed persons (PEPs)**.  
 
@@ -114,7 +114,7 @@ We use **multi-layered geo-blocking** to enforce compliance:
 ---
 
 ## **Need Help?**  
-- **Freddie AI Chat Bot:** Ask "Why is my country blocked?"  
+- **Porter AI Chat Bot:** Ask "Why is my country blocked?"  
 - **CoinPort Compliance Team:** compliance@coinport.com.au  
 
 ```markdown

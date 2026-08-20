@@ -158,7 +158,7 @@ Yes, go to **"Orders" > "History"** to see past transactions.
 ---
 
 ## **Need More Help?**  
-- **Freddie AI Chat Bot:** Available 24/7 in the app  
+- **Porter AI Chat Bot:** Available 24/7 in the app  
 - **Email Support:** support@coinport.com.au  
 - **Live Chat:** Available during business hours  
 

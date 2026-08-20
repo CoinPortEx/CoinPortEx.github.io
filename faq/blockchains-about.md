@@ -170,9 +170,9 @@
 ---
 
 ## **Final Thoughts**
-Understanding how different blockchains process transactions helps users **optimize costs, speed, and security**. Whether you're trading, using DeFi, or sending payments, choosing the right blockchain matters!
+Understanding how different blockchains process transactions helps users **optimise costs, speed, and security**. Whether you're trading, using DeFi, or sending payments, choosing the right blockchain matters!
 
-🔗 **Need Help?** Ask **Freddie AI** or contact **CoinPort Support**.  
+🔗 **Need Help?** Ask **Porter AI** or contact **CoinPort Support**.  
 
 ```markdown
 [Back to Top](#table-of-contents)

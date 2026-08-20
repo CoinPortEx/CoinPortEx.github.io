@@ -1,4 +1,3 @@
-```markdown
 # CoinPort OTC Desk: Tailored Solutions for Large Cryptocurrency Trades  
 
 At CoinPort, our **Over-The-Counter (OTC) Desk** provides a private, secure, and efficient way to execute large cryptocurrency transactions—minimizing market impact while maximizing value.  
@@ -29,7 +28,7 @@ At CoinPort, our **Over-The-Counter (OTC) Desk** provides a private, secure, and
 ## How It Works  
 
 1. **Contact Us**  
-   - Submit a request via [otc@coinport.com.au](mailto:otc@coinport.com.au) or call [+61 419 337 875].  
+   - Submit a request via [otc@coinport.com.au](mailto:otc@coinport.com.au).  
 
 2. **Get a Quote**  
    - Our team provides a competitive, all-inclusive rate based on your volume and asset.  
@@ -47,5 +46,4 @@ At CoinPort, our **Over-The-Counter (OTC) Desk** provides a private, secure, and
 **Ready to Trade?**  
 [Request a Quote](#) | [Learn About Fees](/otc-fees) | [FAQ](/otc-faq)  
 
-*CoinPort OTC: Where size meets discretion.*  
-```  
+*CoinPort OTC: Where size meets discretion.*    

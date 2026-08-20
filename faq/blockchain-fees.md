@@ -25,30 +25,27 @@ CoinPort **does not profit** from these fees—they are paid directly to the net
 | Transaction Type | Fee Structure |  
 |------------------|--------------|  
 | **Deposits** | **Free** (CoinPort covers costs) |  
-| **Withdrawals** | **Network fee + small exchange processing fee** (see examples below) |  
+| **Withdrawals** | **Network fee only — CoinPort adds no charge of its own** (shown before you confirm) |  
 
 ---
 
-## **3. Fee Examples by Blockchain**  
+## **3. How Network Fees Compare by Blockchain**
 
-### **Bitcoin (BTC)**  
-- **Withdrawal Fee:** 0.0005 BTC (~$30 at $60k/BTC)  
-- **Why?** Bitcoin’s blockchain has limited space, so fees rise with demand.  
+Exact fees change constantly with network demand and coin prices — the precise
+fee is always shown on the withdrawal screen before you confirm. As a rule of
+thumb:
 
-### **Ethereum (ETH) & ERC-20 Tokens**  
-- **ETH Withdrawal Fee:** 0.005 ETH (~$15 at $3k/ETH)  
-- **ERC-20 Token Fee:** 0.001 ETH (~$3)  
-- **Why?** ETH fees (gas) depend on network congestion.  
+### **Bitcoin (BTC)**
+- Fees vary the most — Bitcoin's blockchain has limited space, so fees rise with demand.
 
-### **Binance Smart Chain (BSC) & BEP-20 Tokens**  
-- **BNB Withdrawal Fee:** 0.0005 BNB (~$0.15)  
-- **BEP-20 Token Fee:** 0.0003 BNB (~$0.09)  
-- **Why?** BSC is cheaper than Ethereum but less decentralized.  
+### **Ethereum (ETH) & ERC-20 Tokens**
+- ETH fees (gas) depend on network congestion, and ERC-20 token transfers cost more gas than plain ETH. Historically the most expensive network in busy periods.
 
-### **Solana (SOL) & SPL Tokens**  
-- **SOL Withdrawal Fee:** 0.001 SOL (~$0.15)  
-- **SPL Token Fee:** 0.0001 SOL (~$0.015)  
-- **Why?** Solana’s high throughput keeps fees low.  
+### **BNB Smart Chain (BSC) & BEP-20 Tokens**
+- Typically much cheaper than Ethereum.
+
+### **Solana (SOL) & SPL Tokens**
+- Typically among the cheapest — Solana's high throughput keeps fees low.
 
 ---
 
@@ -89,11 +86,11 @@ On **Ethereum Virtual Machine (EVM)** blockchains (e.g., Ethereum, BSC, Polygon)
 ---
 
 ## **Need Help?**  
-- **Freddie AI Chat Bot:** Ask "What’s the current BTC withdrawal fee?"  
+- **Porter AI Chat Bot:** Ask "What’s the current BTC withdrawal fee?"  
 - **CoinPort Support:** support@coinport.com.au  
 
 ```markdown
 [Back to Top](#table-of-contents)
 ```  
 
-This FAQ clarifies **how fees work**, provides **real-world examples**, and explains why **EVM native assets cost more**. Adjust fee numbers periodically based on market conditions.
+This FAQ clarifies **how fees work** and why **EVM native assets cost more**. The exact fee for any withdrawal is always shown on the withdrawal screen before you confirm.

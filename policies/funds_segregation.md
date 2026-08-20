@@ -78,5 +78,5 @@ For any questions or clarifications regarding this policy, please contact the Co
 **CoinPort Pty Ltd**
 Level 2, 696 Bourke St,
 Melbourne VIC 3000
-Phone 1300 902 595
+support@coinport.com.au
 https://www.coinport.com.au

@@ -109,7 +109,7 @@ Possible reasons:
 ---
 
 ## **Need Help?**  
-- **Freddie AI Chat Bot:** Ask "Where is my Osko deposit?"  
+- **Porter AI Chat Bot:** Ask "Where is my Osko deposit?"  
 - **CoinPort Support:** support@coinport.com.au  
 - **Your Bank’s Support:** Check their website  
 

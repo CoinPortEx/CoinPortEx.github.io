@@ -1,7 +1,7 @@
 # **CoinPort Trading Page FAQ**  
 
 ## **1. What is the Trading page on CoinPort?**  
-The **Trading page** is an advanced interface where you can manually place buy and sell orders, analyze market data, and track trading activity for supported cryptocurrencies and fiat pairs.  
+The **Trading page** is an advanced interface where you can manually place buy and sell orders, analyse market data, and track trading activity for supported cryptocurrencies and fiat pairs.  
 
 ## **2. Where can I find the Trading page?**  
 After signing in to your CoinPort account:  
@@ -37,9 +37,9 @@ This helps gauge liquidity and potential price movements.
 Yes, the **Trading History** section shows your completed orders for the selected market.  
 
 ## **9. Are there fees for trading on this page?**  
-There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price dealt.
+There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price you receive.
 
-We incentivize high volume traders with rewards in the forms of airdrops or other CoinPort features.
+We incentivise high volume traders with rewards in the form of airdrops or other CoinPort features.
 
 
 ## **10. How is this different from Instant Buy/Sell?**  

@@ -1,111 +1,93 @@
-# **Transaction Monitoring Program Policy**  
-**Document Owner:** Compliance Team  
-**Effective Date:** 15-March-2025  
-**Review Period:** Bi-Annually (or as required by regulatory changes)  
-**Applicability:** CoinPort Pty Ltd
+**CoinPort Pty Ltd**
+**Transaction Monitoring Program Policy**
+**Document Number:** CP-COMP-007
+**Version:** 2.0 
+**Effective Date:** 16-Jul-2026
+**Review Date:** 16-Jul-2027
 
 ---
 
-## **1. Purpose**  
-CoinPort Pty Ltd (“the Company”) is committed to maintaining robust Anti-Money Laundering and Counter-Terrorism Financing (AML/CTF) controls in compliance with Australian law, including the *Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (AML/CTF Act)*.  
+### **1.0 PURPOSE**
 
-This **Transaction Monitoring Program (TMP)** ensures:  
-- Detection and reporting of suspicious transactions.  
-- Compliance with AUSTRAC’s regulatory requirements.  
-- Prevention of financial crime (money laundering, terrorism financing, fraud, and sanctions evasion).  
-- Integration with **KYC (via KYCAID)** and **KYT (via KYCAIC)** systems.  
+This document sets out how CoinPort Pty Ltd ("CoinPort") applies its transaction monitoring controls operationally. **It is a process summary, not a separate monitoring methodology.** The authoritative source for CoinPort's transaction monitoring framework — risk-based thresholds, key risk indicators, red flags, Travel Rule obligations, and the full suspicious matter reporting process — is:
 
----
+* **AML/CTF Program v3.1** — Sections covering transaction monitoring, Travel Rule, enhanced due diligence triggers, and the suspicious matter reporting process
+* **Risk Assessment and Management Matrix (Appendix 3 to the AML/CTF Program)** — CoinPort's approved risk-scoring methodology by product, channel, and jurisdiction
 
-## **2. Scope**  
-This policy applies to:  
-- All fiat and cryptocurrency transactions processed on the **CoinPort exchange**, which is operated by CoinPort Pty Ltd. 
-- Customers, employees, and third-party service providers interacting with the exchange.  
-- Real-time and retrospective transaction monitoring.  
+This document does not restate or re-derive that framework. Maintaining a second, competing description of the same controls creates a real risk of drift between the two — this document is a thin operational layer pointing to the one methodology that actually governs transaction monitoring.
 
 ---
 
-## **3. Transaction Monitoring Framework**  
+### **2.0 SCOPE**
 
-### **3.1. Risk-Based Approach**  
-- High-risk customers (e.g., Politically Exposed Persons, high-volume traders) undergo **enhanced due diligence (EDD)** and stricter monitoring.  
-- Low-risk customers are subject to standard monitoring.  
-
-### **3.2. Monitoring Systems & Tools**  
-- **KYCAID** – Used for **customer identity verification (KYC)**.  
-- **KYCAIC** – Implements **Know Your Transaction (KYT)** for real-time blockchain analysis.  
-- **Automated Transaction Monitoring System (TMS)** – Flags unusual activity based on predefined rules.  
-
-### **3.3. Key Risk Indicators (KRIs) & Red Flags**  
-Transactions are monitored for:  
-- **Unusual Transaction Patterns:**  
-  - Rapid deposits/withdrawals with no clear purpose.  
-  - Structuring (breaking large transactions into smaller amounts to avoid reporting).  
-  - Transactions linked to high-risk jurisdictions.  
-- **Anomalous Behavior:**  
-  - Mismatched customer profiles (e.g., a low-income user suddenly trading large volumes).  
-  - Use of privacy coins or mixers (if permitted by CoinPort Pty Ltd’s policy).  
-- **Sanctions & PEPs:**  
-  - Transactions involving blacklisted wallets or sanctioned entities.  
+This applies to all fiat and digital asset transactions processed on the CoinPort exchange and P2P channels, and to CoinPort's customers, employees, and third-party service providers with a role in transaction monitoring.
 
 ---
 
-## **4. Procedures**  
+### **3.0 MONITORING SYSTEMS & TOOLS (ACTUAL, NOT ILLUSTRATIVE)**
 
-### **4.1. Real-Time Monitoring**  
-- All transactions are screened against:  
-  - **Sanctions lists** (e.g., OFAC, AUSTRAC).  
-  - **KYT alerts** (unusual wallet activity, darknet links).  
-- **Automated holds** are placed on suspicious transactions pending review.  
-
-### **4.2. Post-Transaction Review**  
-- **Daily batch reviews** of flagged transactions by the Compliance Team.  
-- **Manual investigation** where automated systems generate alerts.  
-
-### **4.3. Suspicious Matter Reporting (SMR)**  
-- If a transaction is deemed suspicious, an **SMR is filed with AUSTRAC** within 24–72 hours.  
-- **Internal documentation** is maintained for audit purposes.  
-
-### **4.4. Record Keeping**  
-- All monitoring data, alerts, and investigation notes are stored for **7 years** per AML/CTF Act requirements.  
+* **Didit** — CoinPort's primary identity verification (KYC) provider, supplemented by **Sumsub**, with **KYC-AID** retained as a dormant fallback.
+* **AMLBot** — blockchain analytics and wallet screening (Know Your Transaction / KYT), providing real-time screening for sanctioned wallet addresses, blacklisted exchanges, mixer/tumbler interactions, and darknet or ransomware associations, on all cryptocurrency deposits and withdrawals.
+* **TRUST** — Travel Rule data exchange with counterparty VASPs.
+* Sanctions screening is performed against the **DFAT Consolidated List**, **OFAC**, and **UN** sanctions lists, consistent with the AML/CTF Program. AUSTRAC is CoinPort's regulator, not a sanctions list, and is not itself a screening source.
 
 ---
 
-## **5. Roles & Responsibilities**  
+### **4.0 KEY RISK INDICATORS AND RED FLAGS**
 
-| **Role**               | **Responsibility** |
-|-------------------------|---------------------|
-| **Compliance Officer** | Oversees TMP, files SMRs, updates policies. |
-| **KYCAID/KYCAIC Teams** | Ensures KYC/KYT data feeds into monitoring. |
-| **IT/Security Team**   | Maintains monitoring systems and data integrity. |
-| **Customer Support**   | Assists in freezing accounts if fraud is suspected. |
+The authoritative list of transaction pattern red flags — including structuring, rapid fund movement, mismatched customer profiles, and high-risk jurisdiction or wallet exposure — is set out in the AML/CTF Program. This document does not reproduce that list; refer to the AML/CTF Program directly for the current, authoritative version.
 
 ---
 
-## **6. Training & Awareness**  
-- Staff receive **annual AML/CTF training**, including transaction monitoring protocols.  
-- Compliance Team undergoes **specialized KYT/KYC training** for crypto risks.  
+### **5.0 OPERATIONAL PROCEDURES**
+
+#### **5.1 Real-Time and Ongoing Screening**
+Transactions and wallet addresses are screened by AMLBot in real time, including sanctions screening at onboarding and daily thereafter, consistent with the AML/CTF Program.
+
+#### **5.2 Review of Flagged Activity**
+Alerts generated by AMLBot or CoinPort's monitoring processes are reviewed by Nicanor Nuqui as AML/CTF Compliance Officer / MLRO, supported operationally by Peter Cooney and Jonathan Heywood where cross-functional input is needed (for example, a payment rail or custody question).
+
+#### **5.3 Suspicious Matter Reporting (SMR)**
+Where an employee forms a reasonable suspicion, the reporting line is: **Employee → immediate supervisor → AML/CTF Compliance Officer → AUSTRAC.** The AML/CTF Compliance Officer assesses whether an SMR is required and, if so, lodges it within the statutory timeframe set out in the AML/CTF Program. This document does not restate that timeframe as a separate figure — the AML/CTF Program is authoritative on statutory deadlines.
+
+#### **5.4 Record Keeping**
+All monitoring data, alerts, and investigation notes are retained for a minimum of seven years, consistent with the AML/CTF Program and Section 11 of the Compliance Manual.
 
 ---
 
-## **7. Review & Updates**  
-- This policy is reviewed **annually** or after:  
-  - Regulatory changes (AUSTRAC updates).  
-  - New financial crime trends.  
-  - System upgrades (KYCAID/KYCAIC integrations).  
+### **6.0 ROLES AND RESPONSIBILITIES**
+
+| Role | Responsibility |
+|---|---|
+| **Nicanor Nuqui** — AML/CTF Compliance Officer / MLRO | Owns transaction monitoring; reviews flagged activity; assesses and lodges SMRs; owns this document |
+| **Peter Cooney** — Primary Responsible Manager | Escalation point for monitoring matters with broader compliance or licensing implications |
+| **Jonathan Heywood** — Operations Manager | Supports operational review of flagged activity and cross-functional escalation |
+
+
 
 ---
 
-## **8. Policy Approval**  
-**Approved by:** [Compliance Officer/CEO Name]  
-**Date:** [Insert Date]  
+### **7.0 TRAINING & AWARENESS**
+
+Staff receive AML/CTF training annually, including transaction monitoring content, consistent with the AML/CTF Program's Risk Awareness Training Program and the Employee Onboarding Policies and Procedures.
 
 ---
 
-### **Appendix A: Example Red Flags**  
-- A user deposits $9,000 multiple times to avoid the $10,000 threshold.  
-- A customer receives funds from a darknet-linked wallet.  
-- A new account suddenly trades $100,000+ with no prior history.  
+### **8.0 REVIEW AND AMENDMENT**
+
+This document is reviewed at least annually, and following any material change to the AML/CTF Program's transaction monitoring framework, to ensure it remains an accurate summary rather than drifting out of alignment with the authoritative source. Amendments are approved by the AML/CTF Compliance Officer.
 
 ---
 
+**Document Control**
+
+| Version | Date | Change | Author |
+|---|---|---|---|
+| 1.0 | 15-Mar-2025 | Prior version — referenced fictional/incorrect tool names ("KYCAID" and "KYCAIC," the latter not corresponding to any real CoinPort system), listed AUSTRAC as a sanctions list rather than the regulator, and referred to fictional teams ("Compliance Team," "IT/Security Team," "Customer Support," "KYCAID/KYCAIC Teams"). Superseded in full. | (prior version) |
+| 2.0 | 16-Jul-2026 | Complete rewrite as a thin operational summary pointing to the AML/CTF Program v3.1 and Risk Matrix (Appendix 3) as the single authoritative source for monitoring methodology, thresholds, and red flags. Corrected tools to Didit/Sumsub/KYC-AID (KYC) and AMLBot (KYT/blockchain analytics), corrected sanctions lists to DFAT/OFAC/UN, and corrected roles to Nicanor Nuqui, Peter Cooney, and Jonathan Heywood. | Jonathan Heywood |
+
+**Approvals:**
+
+AML/CTF Compliance Officer: Nicanor Nuqui    Date: 16-Jul-2026
+
+Primary Responsible Manager: Peter Cooney    Date: 16-Jul-2026

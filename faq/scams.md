@@ -124,4 +124,4 @@ Cryptocurrency offers freedom but requires **vigilance**. Always:
 [Back to Top](#table-of-contents)
 ```  
 
-This FAQ helps users **recognize, avoid, and respond to scams** while promoting CoinPort’s security features. Adjust links/agency details as needed.
+This FAQ helps users **recognise, avoid, and respond to scams** while promoting CoinPort’s security features. Adjust links/agency details as needed.

@@ -111,7 +111,7 @@ A blockchain address is a **unique identifier** (like a bank account number) whe
 ---
 
 ## **Need Help?**  
-- **Freddie AI Chat Bot:** Ask "How do I check my BTC transaction?"  
+- **Porter AI Chat Bot:** Ask "How do I check my BTC transaction?"  
 - **CoinPort Support:** support@coinport.com.au  
 
 🔗 **Explore blockchain explorers:**  

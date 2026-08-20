@@ -6,7 +6,7 @@
 3. [Deposits & Withdrawals](#deposits--withdrawals)
 4. [Trading & Fees](#trading--fees)
 5. [Security & Privacy](#security--privacy)
-6. [Freddie AI Chat Bot Support](#freddie-ai-chat-bot-support)
+6. [Porter AI Chat Bot Support](#porter-ai-chat-bot-support)
 7. [Legal & Compliance](#legal--compliance)
 8. [Troubleshooting & Support](#troubleshooting--support)
 
@@ -15,10 +15,10 @@
 ## **General Questions**
 
 ### **1. What is CoinPort?**
-CoinPort is a licensed Australian cryptocurrency exchange that allows users to buy, sell, and trade digital assets securely. We provide a user-friendly platform with competitive fees, advanced trading tools, and 24/7 customer support.
+CoinPort is an AUSTRAC-registered Australian cryptocurrency exchange that allows users to buy, sell, and trade digital assets securely. We provide a user-friendly platform with competitive fees, advanced trading tools, and 24/7 customer support.
 
 ### **2. Is CoinPort regulated in Australia?**
-Yes, CoinPort is a fully licensed and regulated cryptocurrency exchange operating under Australian financial laws. We comply with AUSTRAC regulations for anti-money laundering (AML) and counter-terrorism financing (CTF).
+Yes. CoinPort Pty Ltd is registered with AUSTRAC as a digital currency exchange (registration 100633359) and complies with AUSTRAC's requirements for anti-money laundering (AML) and counter-terrorism financing (CTF).
 
 ### **3. Which cryptocurrencies does CoinPort support?**
 We support a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many others. For a full list of supported assets, visit our <a href="https://www.coinport.com.au/research" target="_parent">Research</a> page.
@@ -28,10 +28,12 @@ Currently, CoinPort primarily serves Australian residents. Some features may be 
 
 ### **5. How do I contact CoinPort support?**
 You can reach us via:
-- **Freddie AI Chat Bot** (24/7 first-level support)
+- **Porter AI Chat Bot** (24/7 first-level support)
+- **Live Chat** with our team (during Melbourne business hours)
 - **Email:** support@coinport.com.au
-- **Live Chat** (during business hours)
-- **Phone:** [1300 902 595]
+
+We don't operate a manned phone line — chat and email are the fastest ways to
+reach us.
 
 ---
 
@@ -73,7 +75,7 @@ You can deposit:
 - **Crypto Deposits:** Network fees may apply (varies by blockchain)
 
 ### **3. How long do deposits take?**
-- **AUD:** Usually within 1 business day (faster with PayID)
+- **AUD:** Usually instant via Osko/PayID (under a minute), 24/7 including weekends
 - **Crypto:** Depends on network congestion (Bitcoin: ~10–30 mins, Ethereum: ~1–5 mins)
 
 ### **4. How do I withdraw funds?**
@@ -83,10 +85,7 @@ You can deposit:
 4. Confirm via 2FA (if enabled).
 
 ### **5. Are there withdrawal limits?**
-Yes, limits depend on your verification level:
-- **Basic:** $5,000 AUD daily
-- **Verified:** $50,000 AUD daily
-- **Institutional:** Higher limits (contact support)
+Withdrawal limits depend on your verification level and are shown on the withdrawal page in your account. For higher limits, contact support.
 
 ---
 
@@ -96,7 +95,7 @@ Yes, limits depend on your verification level:
 We offer AUD trading pairs (BTC/AUD, ETH/AUD, etc.) and crypto-to-crypto pairs (BTC/ETH, XRP/LTC, etc.).
 
 ### **2. What are CoinPort’s trading fees?**
-- There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price dealt.
+- There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price you receive.
 - Incentives available for high-volume traders.
 
 ### **3. Does CoinPort support limit orders and stop-loss?**
@@ -113,7 +112,7 @@ Yes, CoinPort provides a **REST API** and **WebSocket API** for developers.
 ## **Security & Privacy**
 
 ### **1. How does CoinPort protect my funds?**
-- **95% cold storage** for digital assets
+- **The majority of digital assets held in cold storage**
 - **Two-Factor Authentication (2FA)** enforcement
 - **Encrypted data transmission** (SSL/TLS)
 
@@ -127,22 +126,22 @@ Yes, CoinPort provides a **REST API** and **WebSocket API** for developers.
 
 ---
 
-## **Freddie AI Chat Bot Support**
+## **Porter AI Chat Bot Support**
 
-### **1. What is Freddie AI?**
-Freddie is CoinPort’s AI-powered chat bot designed to provide instant customer support for common queries.
+### **1. What is Porter AI?**
+Porter is CoinPort’s AI-powered chat bot designed to provide instant customer support for common queries.
 
-### **2. What can Freddie AI help with?**
+### **2. What can Porter AI help with?**
 - Account verification
 - Deposit/withdrawal status
 - Trading fees & limits
 - Basic troubleshooting
 
-### **3. Can Freddie AI access my account?**
-No, Freddie cannot access personal account details or execute transactions.
+### **3. Can Porter AI access my account?**
+No, Porter cannot access personal account details or execute transactions.
 
 ### **4. How do I escalate to a human agent?**
-Type **"Human support"** or **"Live agent"** in the chat, and Freddie will connect you.
+Type **"Human support"** or **"Live agent"** in the chat, and Porter will connect you.
 
 ---
 

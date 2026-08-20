@@ -87,7 +87,7 @@
 ---
 
 ## **6. Portfolio & Risk Management Tools**  
-**Purpose:** Protect capital and optimize returns.  
+**Purpose:** Protect capital and optimise returns.  
 
 ### **Key Strategies:**  
 ⚖️ **Diversification** – Don’t put all funds in one asset.  
@@ -101,7 +101,7 @@
 ---
 
 ## **7. CoinPort’s Research Resources**  
-- **Freddie AI Chat Bot** – Ask for real-time market data.  
+- **Porter AI Chat Bot** – Ask for real-time market data.  
 - **CoinPort Academy** – Beginner guides and webinars.  
 - **Market Alerts** – Price notifications via email/app.  
 

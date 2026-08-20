@@ -1,131 +1,118 @@
-# **CoinPort KYC Process – Powered by KYCAid**  
+# **CoinPort Identity Verification (KYC)**
 
-## **Table of Contents**  
-1. [What is KYC & Why Does CoinPort Require It?](#what-is-kyc--why-does-coinport-require-it)  
-2. [Step-by-Step KYC Process on CoinPort](#step-by-step-kyc-process-on-coinport)  
-3. [Documents Required for Verification](#documents-required-for-verification)  
-4. [How KYCAid’s Technology Works](#how-kycaids-technology-works)  
-5. [Common KYC Issues & Solutions](#common-kyc-issues--solutions)  
-6. [How Long Does KYC Take?](#how-long-does-kyc-take)  
-7. [What If My KYC is Rejected?](#what-if-my-kyc-is-rejected)  
-8. [Security & Privacy in KYC](#security--privacy-in-kyc)  
-9. [Contacting Support for KYC Help](#contacting-support-for-kyc-help)  
-
----
-
-## **What is KYC & Why Does CoinPort Require It?**  
-**KYC (Know Your Customer)** is a mandatory identity verification process required by **Australian law (AUSTRAC regulations)**. CoinPort uses **KYCAid** (from [kycaid.com](https://kycaid.com)) to securely verify users.  
-
-🔹 **Why KYC is Required:**  
-✔ **Prevent fraud & money laundering**  
-✔ **Comply with financial regulations**  
-✔ **Secure user accounts from unauthorized access**  
+## **Table of Contents**
+1. [What is KYC & Why Does CoinPort Require It?](#what-is-kyc--why-does-coinport-require-it)
+2. [Step-by-Step Verification on CoinPort](#step-by-step-verification-on-coinport)
+3. [Documents You Can Use](#documents-you-can-use)
+4. [How the Technology Works](#how-the-technology-works)
+5. [Common Issues & Solutions](#common-issues--solutions)
+6. [How Long Does Verification Take?](#how-long-does-verification-take)
+7. [What If My Verification Is Rejected?](#what-if-my-verification-is-rejected)
+8. [Re-verification for Existing Customers](#re-verification-for-existing-customers)
+9. [Security & Privacy](#security--privacy)
+10. [Getting Help](#getting-help)
 
 ---
 
-## **Step-by-Step KYC Process on CoinPort**  
+## **What is KYC & Why Does CoinPort Require It?**
+**KYC (Know Your Customer)** is a mandatory identity verification process required by **Australian law (AUSTRAC regulations)**. CoinPort verifies identities using **Didit**, a specialist identity-verification service, through a secure in-browser flow.
 
-### **1. Sign Up & Start Verification**  
-1. **Create a CoinPort account** (email + password).  
-2. **Go to "Verification"** in your account dashboard.  
-3. **Click "Start KYC"** – you’ll be redirected to KYCAid’s secure portal.  
-
-### **2. Submit Personal Details**  
-- Full legal name  
-- Date of birth  
-- Residential address  
-- Nationality  
-
-### **3. Upload Identity Documents**  
-📌 **Supported Documents:**  
-- **Australian Users:**  
-  - **Passport** (preferred)  
-  - **Driver’s License**  
-  - **Medicare Card** (secondary)  
-- **International Users:**  
-  - **Passport** (mandatory)  
-  - **National ID Card** (if applicable)  
-
-### **4. Live Selfie Verification**  
-- KYCAid will ask for a **real-time selfie** (to match with your ID).  
-- Ensure good lighting & no filters.  
-
-### **5. Address Verification (if required)**  
-- Submit a **bank statement** or **utility bill** (less than 3 months old).  
-
-### **6. Wait for Approval**  
-- Most verifications take **5–30 minutes**.  
-- You’ll receive an **email notification** once approved.  
+🔹 **Why KYC is Required:**
+✔ **Prevent fraud & money laundering**
+✔ **Comply with financial regulations**
+✔ **Secure user accounts from unauthorised access**
 
 ---
 
-## **How KYCAid’s Technology Works**  
-KYCAid uses **AI-powered verification** to ensure speed and accuracy:  
-🔸 **Document Authentication:** Checks for tampering or forgery.  
-🔸 **Facial Recognition:** Matches selfie with ID photo.  
-🔸 **Liveness Detection:** Prevents fake selfies/videos.  
-🔸 **Global Watchlist Screening:** Checks against sanctions/blacklists.  
+## **Step-by-Step Verification on CoinPort**
+
+### **1. Sign Up & Start Verification**
+1. **Create a CoinPort account** (email + password).
+2. **Go to "Verification"** in your account dashboard and start the process — it opens right in your browser, no app required.
+
+### **2. Scan Your ID Document**
+- Point your camera at your photo ID. A phone camera in good light works best.
+- Avoid glare, shadows and cropped edges — all four corners of the document should be visible.
+
+### **3. Live Selfie Check**
+- You'll be asked for a **real-time selfie** which is matched against your ID photo, with liveness detection to prevent photos-of-photos.
+- Good lighting, no filters, and remove anything obscuring your face (sunglasses, hats).
+
+### **4. Wait for the Result**
+- Most verifications complete in **5–30 minutes**; you'll be notified once approved.
 
 ---
 
-## **Common KYC Issues & Solutions**  
-
-| **Issue** | **Possible Cause** | **Solution** |  
-|-----------|------------------|--------------|  
-| **"Blurry Document"** | Poor photo quality | Retake in good lighting |  
-| **"Name Mismatch"** | Typo or nickname used | Submit exact name as on ID |  
-| **"Expired ID"** | Document out of date | Renew ID & resubmit |  
-| **"Failed Selfie"** | Glasses/hat obstructing face | Remove & retry |  
-| **"Address Not Verified"** | Unclear document | Upload a recent utility bill |  
-| **"KYCAid Page Not Loading"** | Browser issues | Try Chrome/Firefox or disable VPN |  
+## **Documents You Can Use**
+📌 **Supported Documents:**
+- **Australian users:**
+  - **Passport** (preferred)
+  - **Driver's Licence**
+- **International users:**
+  - **Passport** (required)
 
 ---
 
-## **How Long Does KYC Take?**  
-- **Instant (5–30 mins)** – Most cases (automated checks).  
-- **Manual Review (1–24 hrs)** – If additional checks are needed.  
-- **Weekends/Public Holidays** – May take slightly longer.  
+## **How the Technology Works**
+Verification uses **AI-powered checks** for speed and accuracy:
+🔸 **Document Authentication:** detects tampering or forgery.
+🔸 **Facial Recognition:** matches your selfie with your ID photo.
+🔸 **Liveness Detection:** confirms a real person is present.
+🔸 **Watchlist Screening:** checks against global sanctions lists, as the law requires.
 
 ---
 
-## **What If My KYC is Rejected?**  
-If your KYC fails:  
-1. **Check the rejection reason** (emailed to you).  
-2. **Correct the error** (e.g., new photo, updated document).  
-3. **Resubmit via CoinPort’s dashboard**.  
-4. **Contact support** if unresolved.  
+## **Common Issues & Solutions**
 
-⚠️ **Note:** Multiple rejections may require manual review.  
-
----
-
-## **Security & Privacy in KYC**  
-🔒 **How CoinPort & KYCAid Protect Your Data:**  
-- **End-to-end encryption** (no unauthorized access).  
-- **Data stored securely** (GDPR & AUSTRAC compliant).  
-- **Documents deleted** after verification (unless legally required).  
-
-✅ **Never share KYC documents via email or social media.**  
+| **Issue** | **Possible Cause** | **Solution** |
+|-----------|------------------|--------------|
+| **"Blurry Document"** | Poor photo quality | Retake in good lighting, hold steady, avoid glare |
+| **"Name Mismatch"** | Typo or nickname used | Use the exact name shown on your ID |
+| **"Expired ID"** | Document out of date | Renew your ID and try again |
+| **"Failed Selfie"** | Glasses/hat obstructing face | Remove them and retry |
+| **"Camera Not Working"** | Browser permissions | Allow camera access, or switch to your phone |
 
 ---
 
-## **Contacting Support for KYC Help**  
-- **Freddie AI Chat Bot:** Ask "Why was my KYC rejected?"  
-- **CoinPort Support:** support@coinport.com.au  
-- **KYCAid Support:** [support@kycaid.com](mailto:support@kycaid.com)  
+## **How Long Does Verification Take?**
+- **5–30 minutes** – most cases (automated checks).
+- **Up to 24 hours** – if a manual review is needed.
 
 ---
 
-## **Final Tips for Smooth KYC Approval**  
-✔ **Use high-quality, clear document photos.**  
-✔ **Ensure name/address matches all records.**  
-✔ **Avoid VPNs during verification.**  
-✔ **Check spam folder for approval emails.**  
+## **What If My Verification Is Rejected?**
+1. **Check the reason** provided in your dashboard or email.
+2. **Fix the issue** (better photo, current document, exact name).
+3. **Try again from your dashboard.**
+4. **Contact support** via chat or support@coinport.com.au if it still won't pass.
 
-🚀 **Once verified, enjoy full access to CoinPort’s trading features!**  
+---
 
-```markdown
-[Back to Top](#table-of-contents)
-```  
+## **Re-verification for Existing Customers**
+Customers who verified under our previous provider may be asked to complete a **one-time re-verification** through the current flow. It's the same quick in-browser process, and only ever needs doing once.
 
+---
 
+## **Security & Privacy**
+🔒 **How your data is protected:**
+- **Encrypted in transit and at rest.**
+- **Used only for verification and compliance** — never sold or shared for marketing.
+- **Retained as required by Australian AML/CTF law**, then handled per our <a href="https://www.coinport.com.au/legal/privacy" target="_parent">Privacy Policy</a>.
+
+✅ **Never share your ID documents over email or social media — verification only ever happens inside the CoinPort flow.**
+
+---
+
+## **Getting Help**
+- **Porter AI Chat Bot:** ask "Why was my verification rejected?"
+- **CoinPort Support:** support@coinport.com.au
+
+---
+
+## **Final Tips for Smooth Approval**
+✔ **Use a phone camera in good light.**
+✔ **Match your account name to your ID exactly.**
+✔ **Use a current, undamaged document.**
+✔ **Check your spam folder for notifications.**
+
+🚀 **Once verified, you have full access to CoinPort's trading features!**

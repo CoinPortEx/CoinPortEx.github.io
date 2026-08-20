@@ -60,7 +60,7 @@ A **cryptocurrency** is a digital or virtual currency that uses cryptography for
   - **LINK** (Chainlink) – Pays for oracle services.  
 
 ### **B. Governance Tokens**  
-- **Purpose:** Voting rights in decentralized organizations.  
+- **Purpose:** Voting rights in decentralised organisations.  
 - **Examples:**  
   - **UNI** (Uniswap) – Decides protocol changes.  
   - **AAVE** (Aave) – Controls lending parameters.  

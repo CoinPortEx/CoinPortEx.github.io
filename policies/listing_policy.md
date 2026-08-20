@@ -116,7 +116,7 @@ If you're interested in listing your coin/token or have any questions regarding 
 
 **Email:** support@coinport.com.au
 
-**CoinPort Pty Ltd** Level 2, 696 Bourke St, Melbourne VIC 3000 Phone 1300 902 595 [https://www.coinport.com.au](https://www.coinport.com.au)
+**CoinPort Pty Ltd** Level 2, 696 Bourke St, Melbourne VIC 3000 support@coinport.com.au [https://www.coinport.com.au](https://www.coinport.com.au)
 
 ----------
 
