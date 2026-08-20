@@ -59,7 +59,7 @@ You will report directly to the CEO and CFO and work closely with all teams, inc
     *   Superior written and verbal communication skills, with the ability to explain complex regulatory concepts to non-specialists.
 
 *   **Highly Desirable:**
-    *   Experience specifically within a registered Virtual Asset Service Provider (DCE).
+    *   Experience specifically within a registered Virtual Asset Service Provider (VASP).
     *   Knowledge of the Australian Consumer Law, privacy laws, and financial services regulations.
     *   A relevant professional qualification (e.g., GRCP, CAMS, or equivalent).
 

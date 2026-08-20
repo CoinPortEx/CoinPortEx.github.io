@@ -110,10 +110,8 @@ This process is followed for every new IP address range used to access your acco
 
 
 
-We are registered as a Virtual Asset Service Provider (DCE) with AUSTRAC:
-DCE-1
-CoinPort, Australian Bitcoin & Crypto Exchange
-© 2024 CoinPort Pty. Ltd. ABN 46
+We are registered as a Virtual Asset Service Provider (VASP) with AUSTRAC: 100633359
+CoinPort Pty Ltd — ABN 12 624 879 223
 Terms & conditions
 Privacy collection notice
 Privacy policy

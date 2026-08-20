@@ -89,7 +89,7 @@ Operation Prince is a reminder that crypto fraud is not a niche problem — it i
 
 ### What You Should Do
 
-- Only use **AUSTRAC-registered** digital currency exchanges in Australia. You can verify registration at the [AUSTRAC public register](https://online.austrac.gov.au/ao/public/rsregister.seam).
+- Only use **AUSTRAC-registered** Virtual Asset Service Providers (crypto exchanges) in Australia. You can verify registration at the [AUSTRAC public register](https://online.austrac.gov.au/ao/public/rsregister.seam).
 - **Never invest funds you cannot afford to lose** based on a recommendation from someone you've only met online.
 - If you receive an unsolicited investment opportunity, take time to research independently. Scammers rely on urgency.
 - Report suspected fraud to **ACSC (Australian Cyber Security Centre)** at [cyber.gov.au](https://www.cyber.gov.au), **Scamwatch** at [scamwatch.gov.au](https://www.scamwatch.gov.au), and your local police.

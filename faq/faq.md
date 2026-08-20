@@ -18,7 +18,7 @@
 CoinPort is an AUSTRAC-registered Australian cryptocurrency exchange that allows users to buy, sell, and trade digital assets securely. We provide a user-friendly platform with competitive fees, advanced trading tools, and 24/7 customer support.
 
 ### **2. Is CoinPort regulated in Australia?**
-Yes. CoinPort Pty Ltd is registered with AUSTRAC as a digital currency exchange (registration 100633359) and complies with AUSTRAC's requirements for anti-money laundering (AML) and counter-terrorism financing (CTF).
+Yes. CoinPort Pty Ltd is registered with AUSTRAC as a Virtual Asset Service Provider (VASP) — registration 100633359 and complies with AUSTRAC's requirements for anti-money laundering (AML) and counter-terrorism financing (CTF).
 
 ### **3. Which cryptocurrencies does CoinPort support?**
 We support a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many others. For a full list of supported assets, visit our <a href="https://www.coinport.com.au/research" target="_parent">Research</a> page.
