@@ -49,17 +49,26 @@ reach us.
 As a regulated exchange, we must comply with Australian AML/CTF laws. Verification ensures security and prevents fraud.
 
 ### **3. What documents are required for verification?**
-- **Australian Users:**
-- Government-issued ID (Passport, Driver’s License)
-- Proof of Address (Utility bill, Bank statement)
-- **Non-Australian Users:**
-- Passport + additional verification may be required
+Just one photo ID and a selfie — there is no proof-of-address step, so you don't need a utility bill or bank statement.
+- **Australian residents:** Australian passport or driver's licence
+- **Everyone else:** passport
+
+You'll scan the document with your camera and take a short live selfie so we can match it to the photo. A phone camera in good light works best.
 
 ### **4. How long does verification take?**
-Most verifications are completed within **15–30 minutes**. Delays may occur if documents are unclear or additional checks are needed.
+Most verifications complete within **5–30 minutes**, and often much faster than that. If a manual review is needed it can take up to 24 hours. Delays usually mean the document photo was unclear.
 
 ### **5. Can I have multiple CoinPort accounts?**
 No, each user is allowed only one verified account. Duplicate accounts may be suspended.
+
+### **6. How do I reset my password?**
+Use **"Forgot your password?"** on the sign-in page and we'll email you a reset link. Support will never ask you for your password — if anyone does, it isn't us.
+
+### **7. I've lost my phone or can't get my 2FA code**
+2FA can't be reset over chat, because that's exactly what an attacker would ask for. Email support@coinport.com.au from the address on your account and we'll take you through an identity check.
+
+### **8. How do I close my account?**
+Withdraw any remaining balance first, then contact support and we'll close it. We're required to keep transaction and identity records for seven years under AML/CTF law, so closing an account doesn't erase that history.
 
 ---
 
@@ -87,6 +96,17 @@ You can deposit:
 ### **5. Are there withdrawal limits?**
 Withdrawal limits depend on your verification level and are shown on the withdrawal page in your account. For higher limits, contact support.
 
+### **6. Can I deposit cash or pay by card?**
+No. Deposits are bank transfer (PayID or BSB/account) or cryptocurrency only. The bank account you send from must be in your own name.
+
+### **7. Why am I being asked where my crypto came from?**
+Incoming crypto deposits may prompt a short source-of-funds question — your own wallet, your account at another exchange, or sent by someone else. It's an AUSTRAC Travel Rule requirement, takes about 30 seconds, and clears the notice on your deposit.
+
+Adding a crypto withdrawal address asks a similar question about who controls the destination wallet. You answer that once per saved address.
+
+### **8. I sent crypto on the wrong network. Can I get it back?**
+Sometimes, but never assume so — blockchain transfers can't be reversed and recovery isn't always technically possible. We may attempt it where the deposit was over **AUD $3,000** and your account is fully verified. A **non-refundable attempt fee of AUD $1,500** applies and is payable in advance, whether or not the recovery succeeds. Contact support with the transaction hash and we'll tell you honestly whether it's worth trying.
+
 ---
 
 ## **Trading & Fees**
@@ -106,6 +126,9 @@ Yes, we support:
 
 ### **4. Can I use APIs for automated trading?**
 Yes, CoinPort provides a **REST API** and **WebSocket API** for developers.
+
+### **5. Do you offer staking, margin or futures?**
+Not at the moment. CoinPort is spot trading only — no margin, leverage, futures or short selling, and no staking or interest products.
 
 ---
 
