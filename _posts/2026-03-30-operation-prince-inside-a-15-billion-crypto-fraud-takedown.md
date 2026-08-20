@@ -99,7 +99,7 @@ Operation Prince is a reminder that crypto fraud is not a niche problem — it i
 
 ## A Note from CoinPort
 
-At CoinPort, we are an AUSTRAC-licensed Australian cryptocurrency exchange committed to operating transparently, securely, and in full compliance with Australian law. We take our obligations under Australia's AML/CTF framework seriously — not just as a regulatory requirement, but because we believe a safe crypto ecosystem protects every legitimate user.
+At CoinPort, we are an AUSTRAC-registered Australian cryptocurrency exchange committed to operating transparently, securely, and in full compliance with Australian law. We take our obligations under Australia's AML/CTF framework seriously — not just as a regulatory requirement, but because we believe a safe crypto ecosystem protects every legitimate user.
 
 If you have been contacted by someone offering crypto investment opportunities that seem too good to be true, or if you have concerns about a transaction you've made, please do not hesitate to reach out to our team. We are here to help.
 

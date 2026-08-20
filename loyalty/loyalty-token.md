@@ -1,6 +1,6 @@
 # **Designing a Loyalty NFT/Token for CoinPort (Australian Compliance Focus)**  
 
-Since CoinPort is a **licensed Australian cryptocurrency exchange**, launching a loyalty-based NFT or token requires careful design to comply with **Australian financial laws** while maximizing user engagement. Below is a structured approach:  
+Since CoinPort is an **AUSTRAC-registered Australian cryptocurrency exchange**, launching a loyalty-based NFT or token requires careful design to comply with **Australian financial laws** while maximizing user engagement. Below is a structured approach:  
 
 ---
 

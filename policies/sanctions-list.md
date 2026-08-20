@@ -1,6 +1,6 @@
 # CoinPort's Sanctions Compliance Obligations  
 
-As a licensed Australian cryptocurrency exchange, **CoinPort** is committed to adhering to international sanctions regulations. To comply with both **U.S. Office of Foreign Assets Control (OFAC)** and **United Nations sanctions**, we are prohibited from providing services to individuals or entities in sanctioned jurisdictions.  
+As an AUSTRAC-registered Australian cryptocurrency exchange, **CoinPort** is committed to adhering to international sanctions regulations. To comply with both **U.S. Office of Foreign Assets Control (OFAC)** and **United Nations sanctions**, we are prohibited from providing services to individuals or entities in sanctioned jurisdictions.  
 
 ## Our Compliance Measures  
 - **Geographic Restrictions:** We block users from accessing our platform if their IP address originates from a sanctioned country.  
