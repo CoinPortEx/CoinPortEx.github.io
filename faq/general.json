@@ -2,162 +2,194 @@
     "title": "Frequently Asked Questions",
     "rows": [
         {
-            "title": "General Questions — What is CoinPort?",
+            "section": "General Questions",
+            "title": "What is CoinPort?",
             "content": "CoinPort is an AUSTRAC-registered Australian cryptocurrency exchange that allows users to buy, sell, and trade digital assets securely. We provide a user-friendly platform with competitive fees, advanced trading tools, and 24/7 customer support.",
             "content_html": "<p>CoinPort is an AUSTRAC-registered Australian cryptocurrency exchange that allows users to buy, sell, and trade digital assets securely. We provide a user-friendly platform with competitive fees, advanced trading tools, and 24/7 customer support.</p>"
         },
         {
-            "title": "General Questions — Is CoinPort regulated in Australia?",
+            "section": "General Questions",
+            "title": "Is CoinPort regulated in Australia?",
             "content": "Yes. CoinPort Pty Ltd is registered with AUSTRAC as a Virtual Asset Service Provider (VASP) — registration 100633359 and complies with AUSTRAC's requirements for anti-money laundering (AML) and counter-terrorism financing (CTF).",
             "content_html": "<p>Yes. CoinPort Pty Ltd is registered with AUSTRAC as a Virtual Asset Service Provider (VASP) — registration 100633359 and complies with AUSTRAC's requirements for anti-money laundering (AML) and counter-terrorism financing (CTF).</p>"
         },
         {
-            "title": "General Questions — Which cryptocurrencies does CoinPort support?",
+            "section": "General Questions",
+            "title": "Which cryptocurrencies does CoinPort support?",
             "content": "We support a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many others. For a full list of supported assets, visit our <a href=\"https://www.coinport.com.au/research\" target=\"_parent\">Research</a> page.",
             "content_html": "<p>We support a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many others. For a full list of supported assets, visit our <a href=\"https://www.coinport.com.au/research\" target=\"_parent\">Research</a> page.</p>"
         },
         {
-            "title": "General Questions — Can I use CoinPort outside Australia?",
+            "section": "General Questions",
+            "title": "Can I use CoinPort outside Australia?",
             "content": "Currently, CoinPort primarily serves Australian residents. Some features may be restricted for users outside Australia due to regulatory requirements.",
             "content_html": "<p>Currently, CoinPort primarily serves Australian residents. Some features may be restricted for users outside Australia due to regulatory requirements.</p>"
         },
         {
-            "title": "General Questions — How do I contact CoinPort support?",
+            "section": "General Questions",
+            "title": "How do I contact CoinPort support?",
             "content": "You can reach us via: - Porter AI Chat Bot (24/7 first-level support) - Live Chat with our team (during Melbourne business hours) - Email: support@coinport.com.au We don't operate a manned phone line — chat and email are the fastest ways to reach us.",
             "content_html": "<p>You can reach us via:</p><ul><li><strong>Porter AI Chat Bot</strong> (24/7 first-level support)</li><li><strong>Live Chat</strong> with our team (during Melbourne business hours)</li><li><strong>Email:</strong> support@coinport.com.au</li></ul><p>We don't operate a manned phone line — chat and email are the fastest ways to reach us.</p>"
         },
         {
-            "title": "Account Setup & Verification — How do I create a CoinPort account?",
+            "section": "Account Setup & Verification",
+            "title": "How do I create a CoinPort account?",
             "content": "1. Visit <a href=\"https://www.coinport.com.au\" target=\"_parent\">CoinPort’s website</a> and click \"Sign Up.\" 2. Enter your email, create a password, and agree to the terms. 3. Verify your email via the confirmation link sent to your inbox. 4. Complete identity verification (KYC) to unlock full account features.",
             "content_html": "<ol><li>Visit <a href=\"https://www.coinport.com.au\" target=\"_parent\">CoinPort’s website</a> and click <strong>\"Sign Up.\"</strong></li><li>Enter your email, create a password, and agree to the terms.</li><li>Verify your email via the confirmation link sent to your inbox.</li><li>Complete identity verification (KYC) to unlock full account features.</li></ol>"
         },
         {
-            "title": "Account Setup & Verification — Why do I need to verify my identity (KYC)?",
+            "section": "Account Setup & Verification",
+            "title": "Why do I need to verify my identity (KYC)?",
             "content": "As a regulated exchange, we must comply with Australian AML/CTF laws. Verification ensures security and prevents fraud.",
             "content_html": "<p>As a regulated exchange, we must comply with Australian AML/CTF laws. Verification ensures security and prevents fraud.</p>"
         },
         {
-            "title": "Account Setup & Verification — What documents are required for verification?",
+            "section": "Account Setup & Verification",
+            "title": "What documents are required for verification?",
             "content": "- Australian Users: - Government-issued ID (Passport, Driver’s License) - Proof of Address (Utility bill, Bank statement) - Non-Australian Users: - Passport + additional verification may be required",
             "content_html": "<ul><li><strong>Australian Users:</strong></li><li>Government-issued ID (Passport, Driver’s License)</li><li>Proof of Address (Utility bill, Bank statement)</li><li><strong>Non-Australian Users:</strong></li><li>Passport + additional verification may be required</li></ul>"
         },
         {
-            "title": "Account Setup & Verification — How long does verification take?",
+            "section": "Account Setup & Verification",
+            "title": "How long does verification take?",
             "content": "Most verifications are completed within 15–30 minutes. Delays may occur if documents are unclear or additional checks are needed.",
             "content_html": "<p>Most verifications are completed within <strong>15–30 minutes</strong>. Delays may occur if documents are unclear or additional checks are needed.</p>"
         },
         {
-            "title": "Account Setup & Verification — Can I have multiple CoinPort accounts?",
+            "section": "Account Setup & Verification",
+            "title": "Can I have multiple CoinPort accounts?",
             "content": "No, each user is allowed only one verified account. Duplicate accounts may be suspended.",
             "content_html": "<p>No, each user is allowed only one verified account. Duplicate accounts may be suspended.</p>"
         },
         {
-            "title": "Deposits & Withdrawals — How do I deposit funds into my CoinPort account?",
+            "section": "Deposits & Withdrawals",
+            "title": "How do I deposit funds into my CoinPort account?",
             "content": "You can deposit: - AUD via Bank Transfer (PayID, BSB/Account) - Cryptocurrency by sending assets to your CoinPort wallet address",
             "content_html": "<p>You can deposit:</p><ul><li><strong>AUD</strong> via Bank Transfer (PayID, BSB/Account)</li><li><strong>Cryptocurrency</strong> by sending assets to your CoinPort wallet address</li></ul>"
         },
         {
-            "title": "Deposits & Withdrawals — Are there deposit fees?",
+            "section": "Deposits & Withdrawals",
+            "title": "Are there deposit fees?",
             "content": "- AUD Deposits: Free - Crypto Deposits: Network fees may apply (varies by blockchain)",
             "content_html": "<ul><li><strong>AUD Deposits:</strong> Free</li><li><strong>Crypto Deposits:</strong> Network fees may apply (varies by blockchain)</li></ul>"
         },
         {
-            "title": "Deposits & Withdrawals — How long do deposits take?",
+            "section": "Deposits & Withdrawals",
+            "title": "How long do deposits take?",
             "content": "- AUD: Usually instant via Osko/PayID (under a minute), 24/7 including weekends - Crypto: Depends on network congestion (Bitcoin: ~10–30 mins, Ethereum: ~1–5 mins)",
             "content_html": "<ul><li><strong>AUD:</strong> Usually instant via Osko/PayID (under a minute), 24/7 including weekends</li><li><strong>Crypto:</strong> Depends on network congestion (Bitcoin: ~10–30 mins, Ethereum: ~1–5 mins)</li></ul>"
         },
         {
-            "title": "Deposits & Withdrawals — How do I withdraw funds?",
+            "section": "Deposits & Withdrawals",
+            "title": "How do I withdraw funds?",
             "content": "1. Navigate to \"Withdraw\" in your account. 2. Select AUD (Bank Transfer) or Cryptocurrency. 3. Enter the amount and destination details. 4. Confirm via 2FA (if enabled).",
             "content_html": "<ol><li>Navigate to <strong>\"Withdraw\"</strong> in your account.</li><li>Select <strong>AUD (Bank Transfer)</strong> or <strong>Cryptocurrency</strong>.</li><li>Enter the amount and destination details.</li><li>Confirm via 2FA (if enabled).</li></ol>"
         },
         {
-            "title": "Deposits & Withdrawals — Are there withdrawal limits?",
+            "section": "Deposits & Withdrawals",
+            "title": "Are there withdrawal limits?",
             "content": "Withdrawal limits depend on your verification level and are shown on the withdrawal page in your account. For higher limits, contact support.",
             "content_html": "<p>Withdrawal limits depend on your verification level and are shown on the withdrawal page in your account. For higher limits, contact support.</p>"
         },
         {
-            "title": "Trading & Fees — What trading pairs are available on CoinPort?",
+            "section": "Trading & Fees",
+            "title": "What trading pairs are available on CoinPort?",
             "content": "We offer AUD trading pairs (BTC/AUD, ETH/AUD, etc.) and crypto-to-crypto pairs (BTC/ETH, XRP/LTC, etc.).",
             "content_html": "<p>We offer AUD trading pairs (BTC/AUD, ETH/AUD, etc.) and crypto-to-crypto pairs (BTC/ETH, XRP/LTC, etc.).</p>"
         },
         {
-            "title": "Trading & Fees — What are CoinPort’s trading fees?",
+            "section": "Trading & Fees",
+            "title": "What are CoinPort’s trading fees?",
             "content": "- There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price you receive. - Incentives available for high-volume traders.",
             "content_html": "<ul><li>There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price you receive.</li><li>Incentives available for high-volume traders.</li></ul>"
         },
         {
-            "title": "Trading & Fees — Does CoinPort support limit orders and stop-loss?",
+            "section": "Trading & Fees",
+            "title": "Does CoinPort support limit orders and stop-loss?",
             "content": "Yes, we support: - Market Orders - Limit Orders - Stop-Loss Orders",
             "content_html": "<p>Yes, we support:</p><ul><li><strong>Market Orders</strong></li><li><strong>Limit Orders</strong></li><li><strong>Stop-Loss Orders</strong></li></ul>"
         },
         {
-            "title": "Trading & Fees — Can I use APIs for automated trading?",
+            "section": "Trading & Fees",
+            "title": "Can I use APIs for automated trading?",
             "content": "Yes, CoinPort provides a REST API and WebSocket API for developers.",
             "content_html": "<p>Yes, CoinPort provides a <strong>REST API</strong> and <strong>WebSocket API</strong> for developers.</p>"
         },
         {
-            "title": "Security & Privacy — How does CoinPort protect my funds?",
+            "section": "Security & Privacy",
+            "title": "How does CoinPort protect my funds?",
             "content": "- The majority of digital assets held in cold storage - Two-Factor Authentication (2FA) enforcement - Encrypted data transmission (SSL/TLS)",
             "content_html": "<ul><li><strong>The majority of digital assets held in cold storage</strong></li><li><strong>Two-Factor Authentication (2FA)</strong> enforcement</li><li><strong>Encrypted data transmission</strong> (SSL/TLS)</li></ul>"
         },
         {
-            "title": "Security & Privacy — Should I enable 2FA?",
+            "section": "Security & Privacy",
+            "title": "Should I enable 2FA?",
             "content": "Yes! 2FA adds an extra layer of security. We recommend Google Authenticator or Authy.",
             "content_html": "<p><strong>Yes!</strong> 2FA adds an extra layer of security. We recommend <strong>Google Authenticator</strong> or <strong>Authy</strong>.</p>"
         },
         {
-            "title": "Security & Privacy — What should I do if my account is compromised?",
+            "section": "Security & Privacy",
+            "title": "What should I do if my account is compromised?",
             "content": "1. Reset your password immediately. 2. Revoke any active sessions in account settings. 3. Contact support to freeze suspicious transactions.",
             "content_html": "<ol><li><strong>Reset your password immediately.</strong></li><li><strong>Revoke any active sessions</strong> in account settings.</li><li><strong>Contact support</strong> to freeze suspicious transactions.</li></ol>"
         },
         {
-            "title": "Porter AI Chat Bot Support — What is Porter AI?",
+            "section": "Porter AI Chat Bot Support",
+            "title": "What is Porter AI?",
             "content": "Porter is CoinPort’s AI-powered chat bot designed to provide instant customer support for common queries.",
             "content_html": "<p>Porter is CoinPort’s AI-powered chat bot designed to provide instant customer support for common queries.</p>"
         },
         {
-            "title": "Porter AI Chat Bot Support — What can Porter AI help with?",
+            "section": "Porter AI Chat Bot Support",
+            "title": "What can Porter AI help with?",
             "content": "- Account verification - Deposit/withdrawal status - Trading fees & limits - Basic troubleshooting",
             "content_html": "<ul><li>Account verification</li><li>Deposit/withdrawal status</li><li>Trading fees &amp; limits</li><li>Basic troubleshooting</li></ul>"
         },
         {
-            "title": "Porter AI Chat Bot Support — Can Porter AI access my account?",
+            "section": "Porter AI Chat Bot Support",
+            "title": "Can Porter AI access my account?",
             "content": "No, Porter cannot access personal account details or execute transactions.",
             "content_html": "<p>No, Porter cannot access personal account details or execute transactions.</p>"
         },
         {
-            "title": "Porter AI Chat Bot Support — How do I escalate to a human agent?",
+            "section": "Porter AI Chat Bot Support",
+            "title": "How do I escalate to a human agent?",
             "content": "Type \"Human support\" or \"Live agent\" in the chat, and Porter will connect you.",
             "content_html": "<p>Type <strong>\"Human support\"</strong> or <strong>\"Live agent\"</strong> in the chat, and Porter will connect you.</p>"
         },
         {
-            "title": "Legal & Compliance — Is CoinPort compliant with Australian tax laws?",
+            "section": "Legal & Compliance",
+            "title": "Is CoinPort compliant with Australian tax laws?",
             "content": "Yes, we provide tax reports for users to simplify crypto tax filings.",
             "content_html": "<p>Yes, we provide <strong>tax reports</strong> for users to simplify crypto tax filings.</p>"
         },
         {
-            "title": "Legal & Compliance — How does CoinPort handle AML regulations?",
+            "section": "Legal & Compliance",
+            "title": "How does CoinPort handle AML regulations?",
             "content": "We monitor transactions and may request additional details for large or suspicious activity.",
             "content_html": "<p>We monitor transactions and may request additional details for large or suspicious activity.</p>"
         },
         {
-            "title": "Legal & Compliance — Where can I find CoinPort’s Terms of Service?",
+            "section": "Legal & Compliance",
+            "title": "Where can I find CoinPort’s Terms of Service?",
             "content": "View our <a href=\"https://www.coinport.com.au/legal/terms\" target=\"_parent\">Terms & Conditions</a> and <a href=\"https://www.coinport.com.au/legal/privacy\" target=\"_parent\">Privacy Policy</a> on our website.",
             "content_html": "<p>View our <a href=\"https://www.coinport.com.au/legal/terms\" target=\"_parent\">Terms & Conditions</a> and <a href=\"https://www.coinport.com.au/legal/privacy\" target=\"_parent\">Privacy Policy</a> on our website.</p>"
         },
         {
-            "title": "Troubleshooting & Support — My deposit hasn’t arrived. What should I do?",
+            "section": "Troubleshooting & Support",
+            "title": "My deposit hasn’t arrived. What should I do?",
             "content": "- Check blockchain explorer for crypto deposits. - For AUD delays, contact your bank or our support team.",
             "content_html": "<ul><li>Check blockchain explorer for crypto deposits.</li><li>For AUD delays, contact your bank or our support team.</li></ul>"
         },
         {
-            "title": "Troubleshooting & Support — Why was my withdrawal rejected?",
+            "section": "Troubleshooting & Support",
+            "title": "Why was my withdrawal rejected?",
             "content": "Possible reasons: - Insufficient funds - Incorrect wallet address - Security hold (contact support)",
             "content_html": "<p>Possible reasons:</p><ul><li>Insufficient funds</li><li>Incorrect wallet address</li><li>Security hold (contact support)</li></ul>"
         },
         {
-            "title": "Troubleshooting & Support — The website/app isn’t loading. What can I do?",
+            "section": "Troubleshooting & Support",
+            "title": "The website/app isn’t loading. What can I do?",
             "content": "- Clear browser cache/cookies - Try a different browser or device",
             "content_html": "<ul><li>Clear browser cache/cookies</li><li>Try a different browser or device</li></ul>"
         }
