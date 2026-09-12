@@ -39,7 +39,7 @@
 - Good lighting, no filters, and remove anything obscuring your face (sunglasses, hats).
 
 ### **4. Wait for the Result**
-- Most verifications complete in **5–30 minutes**; you'll be notified once approved.
+- Most verifications complete in **1–5 minutes**; you'll be notified once approved.
 
 ---
 
@@ -75,7 +75,7 @@ Verification uses **AI-powered checks** for speed and accuracy:
 ---
 
 ## **How Long Does Verification Take?**
-- **5–30 minutes** – most cases (automated checks).
+- **1–5 minutes** – most cases (automated checks).
 - **Up to 24 hours** – if a manual review is needed.
 
 ---

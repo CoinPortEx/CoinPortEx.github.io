@@ -52,8 +52,8 @@
         {
             "section": "Account Setup & Verification",
             "title": "How long does verification take?",
-            "content": "Most verifications complete within 5–30 minutes, and often much faster than that. If a manual review is needed it can take up to 24 hours. Delays usually mean the document photo was unclear.",
-            "content_html": "<p>Most verifications complete within <strong>5–30 minutes</strong>, and often much faster than that. If a manual review is needed it can take up to 24 hours. Delays usually mean the document photo was unclear.</p>"
+            "content": "Most verifications complete within 1–5 minutes, and often much faster than that. If a manual review is needed it can take up to 24 hours. Delays usually mean the document photo was unclear.",
+            "content_html": "<p>Most verifications complete within <strong>1–5 minutes</strong>, and often much faster than that. If a manual review is needed it can take up to 24 hours. Delays usually mean the document photo was unclear.</p>"
         },
         {
             "section": "Account Setup & Verification",

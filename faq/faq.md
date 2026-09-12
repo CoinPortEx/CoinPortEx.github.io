@@ -56,7 +56,7 @@ Just one photo ID and a selfie — there is no proof-of-address step, so you don
 You'll scan the document with your camera and take a short live selfie so we can match it to the photo. A phone camera in good light works best.
 
 ### **4. How long does verification take?**
-Most verifications complete within **5–30 minutes**, and often much faster than that. If a manual review is needed it can take up to 24 hours. Delays usually mean the document photo was unclear.
+Most verifications complete within **1–5 minutes**, and often much faster than that. If a manual review is needed it can take up to 24 hours. Delays usually mean the document photo was unclear.
 
 ### **5. Can I have multiple CoinPort accounts?**
 No, each user is allowed only one verified account. Duplicate accounts may be suspended.
