@@ -64,9 +64,6 @@ Never use obvious passwords like 12344321 or myun1quepa55word. These are relativ
 
 Never use the same password for different websites. Your password for your CoinPort trading account should be unique.
 
-Duress password
-A feature we offer all customers is the ability to create a duress password for your trading account. If for any reason you are not comfortable entering your login and password credentials, you can enter the duress password and access to your account will be suspended for 24 hours.
-
 Two-Factor Authentication (2FA)
 To protect your account against unauthorised access, we recommend that your account is protected with two-factor authentication (2FA). Every trading account at CoinPort allows 2FA to be enabled. If enabled, it means that at the login screen, a user cannot access the account using only a username and password, the user must also have access to a mobile phone or third-party authentication device when logging in.
 
