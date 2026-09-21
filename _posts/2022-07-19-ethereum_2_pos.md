@@ -1,5 +1,5 @@
 ---
-title: Article Title
+title: Ethereum Merge Projected for September
 layout: post
 description: Ethereum Merge Projected for September.
 author: CoinPort Exchange

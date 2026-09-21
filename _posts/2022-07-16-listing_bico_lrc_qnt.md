@@ -1,14 +1,11 @@
 ---
-title: Article Title
+title: New Listings for Biconomy (BICO), Loopring (LRC) & Quant (QNT)
 layout: post
-description: Sample description.
+description: Three new listings on CoinPort Exchange - Biconomy (BICO), Loopring (LRC) and Quant (QNT).
 author: CoinPort Exchange
-date:   2020-01-01 15:01:29 +1000
+date:   2022-07-16 11:11:29 +1000
 categories: news
 ---
-# Tab Title and URL Description
-# Article Title on Page
-
 <h1>New Listings for Biconomy (BICO), Loopring (LRC) & Quant (QNT)</h1>
 
 <p>Three new listings have been added to the CoinPort Exchange this week - New Listings for Biconomy (BICO), Loopring (LRC) & Quant (QNT). These are all ERC20 Smart Contracts on the Ethereum blockchain.</p> 
