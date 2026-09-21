@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Listings for Yearn.Finance (YFI), Synthetix (SNX) & Universal Market Access (UMA)
+description: Three new listings on CoinPort Exchange - Yearn.Finance (YFI), Synthetix (SNX) and Universal Market Access (UMA).
 date: 2022-07-18 14:01:22 +1000
 categories: news
 ---

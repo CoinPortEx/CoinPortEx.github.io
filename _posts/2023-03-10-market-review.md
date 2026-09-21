@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Cryptocurrency Market - March 2023
+description: A look at where the cryptocurrency market stands in March 2023, and what has been driving the swings.
 date: 2023-03-10 12:11:19 +1000
-categories: update
+categories: articles
 ---
 ## Cryptocurrency Market - March 2023: What You Need to Know
 ## Cryptocurrency Market - March 2023: What You Need to Know

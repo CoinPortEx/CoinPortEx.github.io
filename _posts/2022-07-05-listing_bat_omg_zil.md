@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New Listing for Basic Attention Token (BAT), OMG Network (OMG) & Zilliqa (ZIL)
+description: Three new listings on CoinPort Exchange - Basic Attention Token (BAT), OMG Network (OMG) and Zilliqa (ZIL).
 date: 2022-07-05 12:12:05 +1000
 categories: news
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Musk's The Boring Company Now Accepts Dogecoin For Payment"
+description: The Boring Company becomes the third Musk company to accept Dogecoin, after Tesla and SpaceX.
 date:   2022-07-08 12:10:10 +1000
 categories: news
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Season's Greetings for 2022 from the team at CoinPort
+description: Season greetings from the team at CoinPort, and a look ahead to 2023.
 date: 2022-12-25 11:01:29 +1000
 categories: news
 ---

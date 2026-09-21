@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CoinPort System Upgrade
+description: Website updates and support for additional blockchain networks, widening the range of digital assets members can access.
 date: 2020-11-12 11:41:22 +1000
 categories: news
 ---

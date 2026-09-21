@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bug Bounty
+description: How to responsibly disclose a security vulnerability to CoinPort through our bug bounty program.
 date: 2022-07-20 15:01:29 +1000
 categories: news
 ---

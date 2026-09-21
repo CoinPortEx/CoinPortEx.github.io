@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ledger Nano S Plus Hardware Wallet Evaluation
+description: The CoinPort office puts the Ledger Nano S Plus hardware wallet through its paces.
 date: 2023-02-08 15:01:29 +1000
 categories: news
 ---

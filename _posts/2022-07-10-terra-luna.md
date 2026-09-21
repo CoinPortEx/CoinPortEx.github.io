@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Terra Luna and UST Update
+description: Why CoinPort will not list or operate a market for Terra Luna and UST, following a Compliance and Risk Committee decision.
 date: 2022-07-10 12:11:29 +1000
 categories: news
 ---

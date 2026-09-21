@@ -4,7 +4,7 @@ layout: post
 description: "The largest asset forfeiture in U.S. history exposes an industrial-scale pig butchering operation. What every crypto user needs to know."
 author: CoinPort
 date: 2026-03-30 12:00:00 +1000
-categories: [scam-awareness]
+categories: articles
 ---
 
 ## Operation Prince: Inside a $15 Billion Crypto Fraud Takedown

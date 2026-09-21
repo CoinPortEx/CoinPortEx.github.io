@@ -1,6 +1,7 @@
 ---
 layout: post
 title: New bech32 Bitcoin address format
+description: CoinPort now uses the bech32 Bitcoin address format, for faster and cheaper transfers on the Bitcoin blockchain.
 date:   2022-01-03 12:00:00 +1000
 categories: news
 ---
