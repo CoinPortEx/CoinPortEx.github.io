@@ -106,13 +106,38 @@ hr {
   margin: 15px 0 5px;
 }
 
+/* Brand links: Harbour Blue in both themes, underlined only on hover (brand
+   identity guide). Dark mode used gold, which the website never does for a link
+   (Kent, 9 Oct 2026). */
 a {
   color: var(--primary-cta-color);
   font-size: 14px;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 body.dark-mode a {
-  color: var(--contrast-cta-color);
+  color: var(--primary-cta-color);
+}
+
+/* "Back to blog" above every post: quiet, like a breadcrumb, not a headline link. */
+.post-back {
+  margin: 0 0 6px;
+  padding: 8px 3px 0;
+}
+
+.post-back a,
+body.dark-mode .post-back a {
+  color: var(--text-contrast-color);
+  font-size: 13px;
+}
+
+.post-back a:hover,
+body.dark-mode .post-back a:hover {
+  color: var(--primary-cta-color);
 }
 
 ul,

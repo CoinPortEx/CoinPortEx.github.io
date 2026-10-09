@@ -12,7 +12,7 @@
     <meta http-equiv='Referrer-Policy' content='no-referrer-when-downgrade'>
   </head>
   <body>
-    <p><a href="/">< Return to Blog Main Page</a></p>
+    <p class="post-back"><a href="/">&larr; Back to blog</a></p>
     <div class="markdown-body">
       <!--{% if site.title and site.title != page.title %}
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
@@ -45,5 +45,12 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
     {% include theme-detect.html %}
+    <script>
+      // Keep the theme on the way back: the index reads it only from ?theme.
+      (function () {
+        var a = document.querySelector('.post-back a');
+        if (a && window.location.search) a.href += window.location.search;
+      })();
+    </script>
   </body>
 </html>

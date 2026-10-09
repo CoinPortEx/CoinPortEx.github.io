@@ -5,6 +5,8 @@ description: CoinPort has added BPAY as a payment option, letting Australian mem
 author: CoinPort Exchange
 date: 2026-09-16 10:00:00 +1000
 categories: news
+# BPAY was withdrawn on 4 Oct 2026 (AP+ ruling); unpublished so the blog does not offer it.
+published: false
 ---
 
 <p><img alt="BPAY logo" src="https://blog.coinport.com.au/assets/img/news/bpay-logo.svg" style="max-width:120px; padding: 10px 0;" /></p>
