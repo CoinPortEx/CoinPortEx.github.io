@@ -46,6 +46,19 @@
     <script>anchors.add();</script>
     {% include theme-detect.html %}
     <script>
+      // Tell the app how tall this post is. Without it the app kept the index's
+      // height (~5,800px for 64 posts) and every post sat over a long blank page
+      // (Kent, 9 Oct 2026). Measures the whole body, so the sign-off counts.
+      (function () {
+        function sendHeight() {
+          var height = Math.ceil(document.body.getBoundingClientRect().bottom + window.scrollY) + 20;
+          window.parent.postMessage({ type: 'iframeHeight', height: height }, '*');
+        }
+        window.addEventListener('load', function () { sendHeight(); setTimeout(sendHeight, 300); setTimeout(sendHeight, 1000); });
+        window.addEventListener('resize', sendHeight);
+        window.addEventListener('message', function (e) { if (e.data && e.data.type === 'requestHeight') sendHeight(); });
+        new MutationObserver(sendHeight).observe(document.body, { childList: true, subtree: true });
+      })();
       // Keep the theme on the way back: the index reads it only from ?theme.
       (function () {
         var a = document.querySelector('.post-back a');
