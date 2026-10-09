@@ -554,3 +554,66 @@ body.dark-mode .pg-apidocs-wrapper h3 {
 body.dark-mode .pg-apidocs-wrapper code {
   color: var(--contrast-cta-color) !important;
 }
+
+
+/* Blog index (index.md): rows in the website's clean-card style, not a bulleted
+   list. Category as a small outline pill, date muted, title as a plain link in
+   text colour (blue on hover, never gold), summary below, a hairline between rows
+   (Kent, 9 Oct 2026). */
+.post-list {
+  list-style: none;
+  margin: 16px 0 0;
+  padding: 0;
+}
+
+.post-list .post-row {
+  border-bottom: 1px solid var(--table-border-color);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin: 0;
+  padding: 14px 2px;
+}
+
+.post-list .post-row:last-child {
+  border-bottom: 0;
+}
+
+.post-row__meta {
+  align-items: center;
+  color: var(--text-contrast-color);
+  display: flex;
+  font-size: 12px;
+  gap: 10px;
+}
+
+.post-chip {
+  border: 1px solid var(--table-border-color);
+  border-radius: 999px;
+  color: var(--text-contrast-color);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  line-height: 1;
+  padding: 3px 9px;
+  text-transform: uppercase;
+}
+
+.post-list a.post-row__title,
+body.dark-mode .post-list a.post-row__title {
+  color: var(--primary-text-color);
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.4;
+  text-decoration: none;
+}
+
+.post-list a.post-row__title:hover,
+body.dark-mode .post-list a.post-row__title:hover {
+  color: var(--primary-cta-color);
+}
+
+.post-list .post-row__desc {
+  font-size: 13px;
+  padding: 0;
+}

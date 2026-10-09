@@ -11,11 +11,15 @@ layout: default
 
 Reading, reference and news resources for CoinPort Members
 
-<ul id="post-list">
+<ul id="post-list" class="post-list">
   {% for post in site.posts %}
-    <li>
-      <b>{{ post.categories }} - </b> {{ post.date  | date: "%-d %B %Y" }} - <a href="{{ post.url }}" class="post-link">{{ post.title }}</a><br />
-      {{ post.description }}<br />
+    <li class="post-row">
+      <div class="post-row__meta">
+        <span class="post-chip">{{ post.categories | first }}</span>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%-d %B %Y" }}</time>
+      </div>
+      <a href="{{ post.url }}" class="post-link post-row__title">{{ post.title }}</a>
+      {% if post.description %}<p class="post-row__desc">{{ post.description }}</p>{% endif %}
     </li>
   {% endfor %}
 </ul>
