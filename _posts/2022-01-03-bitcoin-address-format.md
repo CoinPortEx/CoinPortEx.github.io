@@ -6,7 +6,6 @@ date:   2022-01-03 12:00:00 +1000
 categories: news
 ---
 # New "bech32" Bitcoin address format for CoinPort Exchange Deposits
-# New "bech32" Bitcoin address format for CoinPort Exchange Deposits
 
 The CoinPort exchange platform has been updated to use the new "bech32" Bitcoin address format.
 

@@ -7,8 +7,6 @@ date:   2025-02-12 11:12:15 +1000
 categories: news
 ---
 
-# Recent Ethereum Gas Price Movements and Transaction Processing Speeds
-
 There has been much discussion about the recent fluctuations in Ethereum gas prices and transaction processing speeds. Over the past few weeks, we’ve seen some significant changes that have impacted both users and developers on the network. Here’s a quick breakdown of what’s been happening:
 
 ## Gas Price Volatility

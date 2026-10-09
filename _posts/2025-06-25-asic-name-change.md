@@ -6,8 +6,6 @@ author: Compliance
 date:   2025-06-25 15:01:00 +1000
 categories: corporate
 ---
-# Company Name Change (ASIC)
-
 ## Company Name Change (ASIC) from Coin Harbour Pty Ltd to CoinPort Pty Ltd
 
 ### Australian Securities and Investments Commission (ASIC)

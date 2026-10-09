@@ -7,7 +7,6 @@ date: 2026-05-19 12:00:00 +1000
 categories: news
 ---
 
-# Launch of CoinPort Loyalty Points (CPP) the on-chain loyalty rewards program
 # Launch of CoinPort Loyalty Points (CPP) on-chain loyalty rewards program
 
 We're excited to introduce **CoinPort Loyalty Points (CPP)** — the on-chain loyalty rewards program for the CoinPort Exchange community. CPP is now live on **five public EVM blockchains**: Ethereum mainnet (canonical), BNB Smart Chain, Arbitrum One, Polygon, and Avalanche C-Chain —  deployed on 20 May 2026.

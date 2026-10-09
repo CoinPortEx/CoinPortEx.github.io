@@ -7,7 +7,6 @@ date:   2023-05-03 12:11:39 +1000
 categories: news
 ---
 # New Listings for Cosmos (ATOM) and Collateral Network (COLT)
-# New Listings for Cosmos (ATOM) and Collateral Network (COLT)
 
 We have added two popular coins to the exchange - Cosmos (ATOM) and Collateral Network (COLT).
 

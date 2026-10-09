@@ -7,7 +7,6 @@ date: 2023-09-21 15:01:29 +1000
 categories: news
 ---
 # New Listing for PayPal USD (PYUSD)
-# New Listing for PayPal USD (PYUSD)
 
 A new listing has been added to the CoinPort Exchange - PayPal USD (PYUSD), which is an ERC20 Smart Contracts on the Ethereum blockchain.
 

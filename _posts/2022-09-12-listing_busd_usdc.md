@@ -7,7 +7,6 @@ date:   2022-09-12 15:01:29 +1000
 categories: news
 ---
 # New Listings for USD Coin (USDC) Binance USD (BUSD)
-# New Listings for USD Coin (USDC) Binance USD (BUSD)
 
 We have added two popular USD-based stablecoins to the exchange USD Coin (USDC) Binance USD (BUSD).
 

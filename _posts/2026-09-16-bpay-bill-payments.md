@@ -11,8 +11,6 @@ published: false
 
 <p><img alt="BPAY logo" src="https://blog.coinport.com.au/assets/img/news/bpay-logo.svg" style="max-width:120px; padding: 10px 0;" /></p>
 
-# Pay Your Bills Directly from CoinPort with BPAY
-
 Australian members can now pay bills straight from their CoinPort AUD wallet using BPAY — no need to withdraw funds to a bank account first and pay from there.
 
 ## What's New

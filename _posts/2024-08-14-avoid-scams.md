@@ -7,7 +7,6 @@ date:   2024-08-14 15:01:29 +1000
 categories: articles
 ---
 # Avoid Scams
-# Avoid Scams
 
 At CoinPort the safety of our customers is a top priority. It is crucial to be aware of the various types of cryptocurrency scams that are currently circulating and to equip yourself with the knowledge necessary to protect your money and personal information.
 

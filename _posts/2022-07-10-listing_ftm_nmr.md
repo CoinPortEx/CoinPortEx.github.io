@@ -7,7 +7,6 @@ date:   2022-07-10 11:11:29 +1000
 categories: news
 ---
 # New Listings for Numeraire (NMR) & Fantom (FTM)
-# New Listings for Numeraire (NMR) & Fantom (FTM)
 
 Two new listings have been added to the CoinPort Exchange this week - Numeraire (NMR) & Fantom (FTM). Both are ERC20 Smart Contracts on the Ethereum blockchain.
 

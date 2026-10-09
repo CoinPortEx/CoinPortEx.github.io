@@ -7,8 +7,6 @@ date:   2024-03-14 15:05:30 +1000
 categories: news
 ---
 
-# Ethereum Dencun upgrade
-
 CoinPort transfers on the Ethereum live blockchain may be delayed because of the Dencun upgrade.<img src="https://blog.coinport.com.au/assets/img/news/eh-duncan.png" alt="Ethereum Duncan" class="center" style="max-width: 280px; float: right; padding: 20px;">
 
 The long-awaited Dencun upgrade activated on Ethereum mainnet Wednesday at approximately 9:55 am ET — or the start of epoch 269568 if you are following on-chain.

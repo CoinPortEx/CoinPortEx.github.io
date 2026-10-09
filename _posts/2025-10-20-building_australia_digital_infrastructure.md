@@ -8,7 +8,6 @@ categories: news
 ---
 
 # Beyond the Price Chart: Building Australia's Digital Currency Infrastructure
-# Beyond the Price Chart: Building Australia's Digital Currency Infrastructure
 
 If you're watching cryptocurrency prices right now, you might be confused. Bitcoin falls under $100,000 USD  while tech stocks hit new highs. Gold breaks records. The narrative feels disconnected from the price action.
 

@@ -7,7 +7,6 @@ date:   2025-09-09 08:20:00 +1000
 categories: news
 ---
 # New Listing for Arbitrum (ARB)
-# New Listing for Arbitrum (ARB)
 
 We are excited to announce that Arbitrum (ARB) has been added to the CoinPort Exchange. Arbitrum is the native cryptocurrency of a layer-2 scaling solution for Ethereum, designed to enhance transaction speed and reduce costs while maintaining security.
 

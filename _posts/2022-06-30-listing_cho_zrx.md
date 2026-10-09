@@ -7,7 +7,6 @@ date:   2022-06-30 10:03:29 +1000
 categories: news
 ---
 # New Listings for Choise.com (CHO) & 0x (ZRX)
-# New Listings for Choise.com (CHO) & 0x (ZRX)
 
 Two new listings have been added to the CoinPort Exchange - Bancor Token (BNT) & Compound (COMP). Both of these coins are ERC20 Smart Contracts on the Ethereum blockchain.
 

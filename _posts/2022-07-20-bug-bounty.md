@@ -6,7 +6,6 @@ date: 2022-07-20 15:01:29 +1000
 categories: news
 ---
 # New CoinPort Exchange Bug Bounty Program
-# New CoinPort Exchange Bug Bounty Program
 
 CoinPort recognizes the importance and value of security researchers efforts in helping keep our community safe. We encourage responsible disclosure of security vulnerabilities via our bug bounty program described on this page.
 

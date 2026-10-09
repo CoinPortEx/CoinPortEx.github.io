@@ -7,7 +7,6 @@ date:   2022-09-28 16:11:29 +1000
 categories: news
 ---
 # New Listing for Ethereum Name Service (ENS)
-# New Listing for Ethereum Name Service (ENS)
 
 Only one new listing has been added to the CoinPort Exchange this week - Ethereum Name Service (ENS). ENS is an ERC20 Smart Contracts on the Ethereum blockchain.
 

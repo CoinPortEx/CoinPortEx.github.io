@@ -6,8 +6,6 @@ author: CoinPort Exchange
 date:   2025-02-12 15:01:00 +1000
 categories: corporate
 ---
-# Business Name "COINPORT EXCHANGE"
-
 ## ASIC Registration of Business Name "COINPORT EXCHANGE"
 
 ### Australian Securities and Investments Commission (ASIC)

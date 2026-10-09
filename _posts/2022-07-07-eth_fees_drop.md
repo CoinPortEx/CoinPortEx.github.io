@@ -7,7 +7,6 @@ date:   2022-07-07 15:01:29 +1000
 categories: news
 ---
 # Ethereum Transaction Fees Dip to Lowest Since December 2020
-# Ethereum Transaction Fees Dip to Lowest Since December 2020
 
 The depressed state of the crypto market has also taken its toll on transaction fees, with Ethereum (ETH) fees now finally coming down to lows not seen since December 2020 -- while Bitcoin (BTC) fees remained around the same low level they have been at for the past year.
 

@@ -7,7 +7,6 @@ date:   2022-08-25 15:01:29 +1000
 categories: news
 ---
 # ASX tokenised asset trading
-# ASX tokenised asset trading
 
 ## ASX moves closer to tokenised asset trading
 

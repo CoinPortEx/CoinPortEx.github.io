@@ -7,7 +7,6 @@ date:   2022-07-19 15:01:29 +1000
 categories: news
 ---
 # Ethereum Merge Projected for September
-# Ethereum Merge Projected for September
 
 Ethereum’s long-anticipated transition from an energy-intensive proof-of-work (PoW) consensus mechanism into a more efficient Proof-of-Stake consensus, has been projected to occur in September.
 

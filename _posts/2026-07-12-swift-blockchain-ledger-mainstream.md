@@ -6,8 +6,6 @@ author: "CoinPort Exchange"
 date: 2026-07-12 10:00:00 +1000
 categories: news
 ---
-# Swift's Blockchain Ledger and the Quiet Mainstreaming of Crypto Infrastructure
-
 For years, blockchain and traditional banking were framed as rivals. That framing is getting harder to sustain. Swift — the messaging network that underpins the vast majority of the world's cross-border bank payments — has just announced that its own blockchain-based shared ledger is [ready for use](https://www.swift.com/news-events/press-releases/swifts-blockchain-ledger-ready-use-17-banks-set-pioneer-tokenised-cross-border-payments-trusted-global-infrastructure), with 17 major banks lined up to pilot live transactions on it.
 
 ## What Swift Actually Announced

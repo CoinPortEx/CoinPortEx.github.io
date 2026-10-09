@@ -7,8 +7,6 @@ date: 2024-11-14 15:01:29 +1000
 categories: news
 ---
 
-# Australian Digital Currency Industry Code of Conduct
-
 <img src="https://blog.coinport.com.au/assets/img/news/Blockchain-Australia.png" alt="Blockchain Australia" class="center" style="max-width: 400px; float: right; padding: 20px;">
 
 CoinPort complies with and follows the <i>Australian Digital Currency Industry Code of Conduct. A voluntary code establishing externally reviewable best-practice standards of conduct for businesses operating in the Australian digital currency industry. 

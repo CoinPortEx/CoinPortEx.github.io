@@ -7,7 +7,6 @@ date:   2025-09-12 10:30:00 +1000
 categories: news
 ---
 # New Listing for Novatti Australian Digital Dollar (AUDD)
-# New Listing for Novatti Australian Digital Dollar (AUDD)
 
 We are excited to announce that Novatti Australian Digital Dollar (AUDD) has been added to  CoinPort Exchange. AUDD is a fiat-backed stablecoin pegged 1:1 to the Australian Dollar (AUD), designed to bridge traditional finance and blockchain for efficient, compliant digital transactions, including cross-border payments and remittances.
 

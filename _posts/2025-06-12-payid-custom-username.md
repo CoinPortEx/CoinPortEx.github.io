@@ -7,8 +7,6 @@ date:   2025-06-12 11:25:15 +1000
 categories: news
 ---
 
-# Custom User Name PayId Addresses
-
 # New Feature: Custom User Name PayId Addresses
 
 One option for depositing AUD funds with CoinPort is using your PayId. Now members can create a custom User Name which is used for the PayId email address.

@@ -7,7 +7,6 @@ date:   2023-05-01 15:08:29 +1000
 categories: news
 ---
 # New Listing for Pepe Meme Token (PEPE)
-# New Listing for Pepe Meme Token (PEPE)
 
 New Listing, due to popular demand, for Pepe Meme Token (PEPE). PEPE is an ERC20 Smart Contracts on the Ethereum blockchain.
 

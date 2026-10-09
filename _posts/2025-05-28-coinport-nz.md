@@ -7,8 +7,6 @@ date:   2025-05-28 15:01:00 +1000
 categories: corporate
 ---
 
-# CoinPort Limited incorporated in New Zealand
-
 ## "CoinPort Limited" has been incorporated in New Zealand to facilitate expansion across the Tasman.
 
 To facilitate an expansion of operations into the New Zealand market, we have incorporated a new company with the New Zealand Companies Office.

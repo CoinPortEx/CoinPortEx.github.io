@@ -7,7 +7,6 @@ date:   2022-11-16 15:01:29 +1000
 categories: news
 ---
 # CoinPort Exchange - Response to FTX Collapse
-# CoinPort Exchange - Response to FTX Collapse
 
 To our members of the CoinPort Exchange,
 
