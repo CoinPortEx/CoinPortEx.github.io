@@ -15,7 +15,7 @@
 ## **General Questions**
 
 ### **1. What is CoinPort?**
-CoinPort is an AUSTRAC-registered Australian cryptocurrency exchange that allows users to buy, sell, and trade digital assets securely. We provide a user-friendly platform with competitive fees, advanced trading tools, and 24/7 customer support.
+CoinPort is an Australian owned and operated platform for buying, selling and swapping crypto with Australian dollars. We're registered with AUSTRAC as a virtual asset service provider. There are no trading fees, the price you see includes our small spread, and you can reach our team by live chat or email. Our help bot answers around the clock; our team replies Monday to Friday, 8am to 6pm, Melbourne time.
 
 ### **2. Is CoinPort regulated in Australia?**
 Yes. CoinPort Pty Ltd is registered with AUSTRAC as a Virtual Asset Service Provider (VASP) — registration 100633359 and complies with AUSTRAC's requirements for anti-money laundering (AML) and counter-terrorism financing (CTF).
@@ -46,7 +46,7 @@ reach us.
 4. Complete identity verification (KYC) to unlock full account features.
 
 ### **2. Why do I need to verify my identity (KYC)?**
-As a regulated exchange, we must comply with Australian AML/CTF laws. Verification ensures security and prevents fraud.
+As a business registered with AUSTRAC, we must comply with Australian AML/CTF laws. Verification keeps your account secure and helps prevent fraud.
 
 ### **3. What documents are required for verification?**
 Just one photo ID and a selfie — there is no proof-of-address step, so you don't need a utility bill or bank statement.
