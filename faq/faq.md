@@ -2,13 +2,14 @@
 
 ## **Table of Contents**
 1. [General Questions](#general-questions)
-2. [Account Setup & Verification](#account-setup--verification)
-3. [Deposits & Withdrawals](#deposits--withdrawals)
-4. [Trading & Fees](#trading--fees)
-5. [Security & Privacy](#security--privacy)
-6. [Porter AI Chat Bot Support](#porter-ai-chat-bot-support)
-7. [Legal & Compliance](#legal--compliance)
-8. [Troubleshooting & Support](#troubleshooting--support)
+2. [Using CoinPort](#using-coinport)
+3. [Account Setup & Verification](#account-setup--verification)
+4. [Deposits & Withdrawals](#deposits--withdrawals)
+5. [Trading & Fees](#trading--fees)
+6. [Security & Privacy](#security--privacy)
+7. [Porter AI Chat Bot Support](#porter-ai-chat-bot-support)
+8. [Legal & Compliance](#legal--compliance)
+9. [Troubleshooting & Support](#troubleshooting--support)
 
 ---
 
@@ -34,6 +35,34 @@ You can reach us via:
 
 We don't operate a manned phone line — chat and email are the fastest ways to
 reach us.
+
+---
+
+## **Using CoinPort**
+
+### **1. Where can I see my balance?**
+Your **Home** page shows what your whole account is worth in Australian dollars, split into crypto and AUD. For each coin on its own, open **Wallets**: every coin you hold is listed with its balance, and choosing one shows its full details. **Portfolio** shows the same holdings as a chart, so you can see how they've moved over time.
+
+### **2. What's the difference between Available and Locked?**
+**Available** is what you can use right now: to buy, sell, swap or withdraw. **Locked** is set aside for something in progress, such as an open order or a withdrawal that's being sent. It moves back to Available when the order fills or is cancelled, or once the withdrawal completes.
+
+### **3. How do I buy crypto?**
+Open **Buy**, choose the coin and enter how many Australian dollars you'd like to spend. You'll see the live price and how much crypto you'll get before you confirm. Pay by PayID from a bank account in your own name, and the crypto lands in your wallet in minutes.
+
+### **4. How do I sell crypto?**
+Open **Sell**, choose the coin and the amount, and confirm. The Australian dollars are paid to your own bank account by PayID, usually within minutes. If the coin isn't in your CoinPort wallet yet, the page shows you where to send it first.
+
+### **5. How do I swap one coin for another?**
+Open **Swap**, choose the coin you're swapping from and the coin you want, and enter an amount. You'll see the live rate before you confirm, and the new coin appears in your wallet straight away.
+
+### **6. Where do I find my PayID or bank details for depositing AUD?**
+Open **Wallets**, choose **AUD** and select **Deposit**. Your own PayID and BSB/account number are shown there, with a copy button for each. Send from a bank account in your own name.
+
+### **7. Where can I see my past transactions?**
+Open **History** from the menu. Deposits, withdrawals, transfers and trades each have their own tab, and you can filter by coin, status and date, or download a CSV for your records.
+
+### **8. How do I send crypto to another CoinPort customer?**
+Use **Transfer**. Find the person by their CoinPort username, UID or email, choose the coin and amount, and confirm with your 2FA code. Transfers between CoinPort accounts are free and arrive instantly.
 
 ---
 

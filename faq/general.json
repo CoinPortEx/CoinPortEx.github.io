@@ -32,6 +32,54 @@
             "content_html": "<p>You can reach us via:</p><ul><li><strong>Porter AI Chat Bot</strong> (answers common questions at any time)</li><li><strong>Live Chat</strong> with our team (during Melbourne business hours)</li><li><strong>Email:</strong> support@coinport.com.au</li></ul><p>We don't operate a manned phone line — chat and email are the fastest ways to reach us.</p>"
         },
         {
+            "section": "Using CoinPort",
+            "title": "Where can I see my balance?",
+            "content": "Your Home page shows what your whole account is worth in Australian dollars, split into crypto and AUD. For each coin on its own, open Wallets: every coin you hold is listed with its balance, and choosing one shows its full details. Portfolio shows the same holdings as a chart, so you can see how they've moved over time.",
+            "content_html": "<p>Your <strong>Home</strong> page shows what your whole account is worth in Australian dollars, split into crypto and AUD. For each coin on its own, open <strong>Wallets</strong>: every coin you hold is listed with its balance, and choosing one shows its full details. <strong>Portfolio</strong> shows the same holdings as a chart, so you can see how they've moved over time.</p>"
+        },
+        {
+            "section": "Using CoinPort",
+            "title": "What's the difference between Available and Locked?",
+            "content": "Available is what you can use right now: to buy, sell, swap or withdraw. Locked is set aside for something in progress, such as an open order or a withdrawal that's being sent. It moves back to Available when the order fills or is cancelled, or once the withdrawal completes.",
+            "content_html": "<p><strong>Available</strong> is what you can use right now: to buy, sell, swap or withdraw. <strong>Locked</strong> is set aside for something in progress, such as an open order or a withdrawal that's being sent. It moves back to Available when the order fills or is cancelled, or once the withdrawal completes.</p>"
+        },
+        {
+            "section": "Using CoinPort",
+            "title": "How do I buy crypto?",
+            "content": "Open Buy, choose the coin and enter how many Australian dollars you'd like to spend. You'll see the live price and how much crypto you'll get before you confirm. Pay by PayID from a bank account in your own name, and the crypto lands in your wallet in minutes.",
+            "content_html": "<p>Open <strong>Buy</strong>, choose the coin and enter how many Australian dollars you'd like to spend. You'll see the live price and how much crypto you'll get before you confirm. Pay by PayID from a bank account in your own name, and the crypto lands in your wallet in minutes.</p>"
+        },
+        {
+            "section": "Using CoinPort",
+            "title": "How do I sell crypto?",
+            "content": "Open Sell, choose the coin and the amount, and confirm. The Australian dollars are paid to your own bank account by PayID, usually within minutes. If the coin isn't in your CoinPort wallet yet, the page shows you where to send it first.",
+            "content_html": "<p>Open <strong>Sell</strong>, choose the coin and the amount, and confirm. The Australian dollars are paid to your own bank account by PayID, usually within minutes. If the coin isn't in your CoinPort wallet yet, the page shows you where to send it first.</p>"
+        },
+        {
+            "section": "Using CoinPort",
+            "title": "How do I swap one coin for another?",
+            "content": "Open Swap, choose the coin you're swapping from and the coin you want, and enter an amount. You'll see the live rate before you confirm, and the new coin appears in your wallet straight away.",
+            "content_html": "<p>Open <strong>Swap</strong>, choose the coin you're swapping from and the coin you want, and enter an amount. You'll see the live rate before you confirm, and the new coin appears in your wallet straight away.</p>"
+        },
+        {
+            "section": "Using CoinPort",
+            "title": "Where do I find my PayID or bank details for depositing AUD?",
+            "content": "Open Wallets, choose AUD and select Deposit. Your own PayID and BSB/account number are shown there, with a copy button for each. Send from a bank account in your own name.",
+            "content_html": "<p>Open <strong>Wallets</strong>, choose <strong>AUD</strong> and select <strong>Deposit</strong>. Your own PayID and BSB/account number are shown there, with a copy button for each. Send from a bank account in your own name.</p>"
+        },
+        {
+            "section": "Using CoinPort",
+            "title": "Where can I see my past transactions?",
+            "content": "Open History from the menu. Deposits, withdrawals, transfers and trades each have their own tab, and you can filter by coin, status and date, or download a CSV for your records.",
+            "content_html": "<p>Open <strong>History</strong> from the menu. Deposits, withdrawals, transfers and trades each have their own tab, and you can filter by coin, status and date, or download a CSV for your records.</p>"
+        },
+        {
+            "section": "Using CoinPort",
+            "title": "How do I send crypto to another CoinPort customer?",
+            "content": "Use Transfer. Find the person by their CoinPort username, UID or email, choose the coin and amount, and confirm with your 2FA code. Transfers between CoinPort accounts are free and arrive instantly.",
+            "content_html": "<p>Use <strong>Transfer</strong>. Find the person by their CoinPort username, UID or email, choose the coin and amount, and confirm with your 2FA code. Transfers between CoinPort accounts are free and arrive instantly.</p>"
+        },
+        {
             "section": "Account Setup & Verification",
             "title": "How do I create a CoinPort account?",
             "content": "1. Visit <a href=\"https://www.coinport.com.au\" target=\"_parent\">CoinPort’s website</a> and click \"Sign Up.\" 2. Enter your email, create a password, and agree to the terms. 3. Verify your email via the confirmation link sent to your inbox. 4. Complete identity verification (KYC) to unlock full account features.",
