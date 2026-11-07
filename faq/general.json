@@ -130,8 +130,8 @@
         {
             "section": "Deposits & Withdrawals",
             "title": "How do I deposit funds into my CoinPort account?",
-            "content": "You can deposit: - AUD via Bank Transfer (PayID, BSB/Account) - Cryptocurrency by sending assets to your CoinPort wallet address",
-            "content_html": "<p>You can deposit:</p><ul><li><strong>AUD</strong> via Bank Transfer (PayID, BSB/Account)</li><li><strong>Cryptocurrency</strong> by sending assets to your CoinPort wallet address</li></ul>"
+            "content": "Australian dollars 1. Open Wallets and choose AUD. 2. Select Deposit to see your own PayID and BSB/account number. 3. Send the money from a bank account in your own name. By PayID it usually arrives within a minute. Crypto 1. Open Wallets and choose the coin. 2. Select Deposit and pick the network you're sending on. 3. Copy the address (or scan the QR code) and send from your other wallet or exchange. Always send on the same network as the address shown.",
+            "content_html": "<p><strong>Australian dollars</strong></p><ol><li>Open <strong>Wallets</strong> and choose <strong>AUD</strong>.</li><li>Select <strong>Deposit</strong> to see your own PayID and BSB/account number.</li><li>Send the money from a bank account in your own name. By PayID it usually arrives within a minute.</li></ol><p><strong>Crypto</strong></p><ol><li>Open <strong>Wallets</strong> and choose the coin.</li><li>Select <strong>Deposit</strong> and pick the network you're sending on.</li><li>Copy the address (or scan the QR code) and send from your other wallet or exchange. Always send on the same network as the address shown.</li></ol>"
         },
         {
             "section": "Deposits & Withdrawals",
@@ -148,8 +148,8 @@
         {
             "section": "Deposits & Withdrawals",
             "title": "How do I withdraw funds?",
-            "content": "1. Navigate to \"Withdraw\" in your account. 2. Select AUD (Bank Transfer) or Cryptocurrency. 3. Enter the amount and destination details. 4. Confirm via 2FA (if enabled).",
-            "content_html": "<ol><li>Navigate to <strong>\"Withdraw\"</strong> in your account.</li><li>Select <strong>AUD (Bank Transfer)</strong> or <strong>Cryptocurrency</strong>.</li><li>Enter the amount and destination details.</li><li>Confirm via 2FA (if enabled).</li></ol>"
+            "content": "You'll need 2FA turned on first. Withdrawals are confirmed with your 2FA code. Australian dollars to your bank 1. Open Wallets, choose AUD and select Withdraw. 2. Choose your saved bank account, or add one. It must be a PayID in your own name. 3. Enter the amount and confirm with your 2FA code. Most AUD withdrawals arrive within minutes. Crypto to another wallet 1. Open Wallets, choose the coin and select Withdraw. 2. Choose a saved address, or add one and pick its network. 3. Enter the amount and confirm with your 2FA code. We pay the network fee, so the full amount is sent. To turn crypto into dollars in your bank in one go, use Sell instead.",
+            "content_html": "<p>You'll need 2FA turned on first. Withdrawals are confirmed with your 2FA code.</p><p><strong>Australian dollars to your bank</strong></p><ol><li>Open <strong>Wallets</strong>, choose <strong>AUD</strong> and select <strong>Withdraw</strong>.</li><li>Choose your saved bank account, or add one. It must be a PayID in your own name.</li><li>Enter the amount and confirm with your 2FA code. Most AUD withdrawals arrive within minutes.</li></ol><p><strong>Crypto to another wallet</strong></p><ol><li>Open <strong>Wallets</strong>, choose the coin and select <strong>Withdraw</strong>.</li><li>Choose a saved address, or add one and pick its network.</li><li>Enter the amount and confirm with your 2FA code. We pay the network fee, so the full amount is sent.</li></ol><p>To turn crypto into dollars in your bank in one go, use <strong>Sell</strong> instead.</p>"
         },
         {
             "section": "Deposits & Withdrawals",

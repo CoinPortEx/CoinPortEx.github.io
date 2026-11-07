@@ -104,9 +104,15 @@ Withdraw any remaining balance first, then contact support and we'll close it. W
 ## **Deposits & Withdrawals**
 
 ### **1. How do I deposit funds into my CoinPort account?**
-You can deposit:
-- **AUD** via Bank Transfer (PayID, BSB/Account)
-- **Cryptocurrency** by sending assets to your CoinPort wallet address
+**Australian dollars**
+1. Open **Wallets** and choose **AUD**.
+2. Select **Deposit** to see your own PayID and BSB/account number.
+3. Send the money from a bank account in your own name. By PayID it usually arrives within a minute.
+
+**Crypto**
+1. Open **Wallets** and choose the coin.
+2. Select **Deposit** and pick the network you're sending on.
+3. Copy the address (or scan the QR code) and send from your other wallet or exchange. Always send on the same network as the address shown.
 
 ### **2. Are there deposit fees?**
 - **AUD Deposits:** Free
@@ -117,10 +123,19 @@ You can deposit:
 - **Crypto:** Depends on network congestion (Bitcoin: ~10–30 mins, Ethereum: ~1–5 mins)
 
 ### **4. How do I withdraw funds?**
-1. Navigate to **"Withdraw"** in your account.
-2. Select **AUD (Bank Transfer)** or **Cryptocurrency**.
-3. Enter the amount and destination details.
-4. Confirm via 2FA (if enabled).
+You'll need 2FA turned on first. Withdrawals are confirmed with your 2FA code.
+
+**Australian dollars to your bank**
+1. Open **Wallets**, choose **AUD** and select **Withdraw**.
+2. Choose your saved bank account, or add one. It must be a PayID in your own name.
+3. Enter the amount and confirm with your 2FA code. Most AUD withdrawals arrive within minutes.
+
+**Crypto to another wallet**
+1. Open **Wallets**, choose the coin and select **Withdraw**.
+2. Choose a saved address, or add one and pick its network.
+3. Enter the amount and confirm with your 2FA code. We pay the network fee, so the full amount is sent.
+
+To turn crypto into dollars in your bank in one go, use **Sell** instead.
 
 ### **5. Are there withdrawal limits?**
 Withdrawal limits depend on your verification level and are shown on the withdrawal page in your account. For higher limits, contact support.
