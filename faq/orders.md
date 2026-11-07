@@ -117,7 +117,7 @@ A limit order sets a **specific price** at which you want to buy or sell.
 ---
 
 ## **8. Risk Management Tips**  
-✅ **Use Stop-Loss Orders** (automatically sell if price drops too far).  
+✅ **Plan your exit** (decide in advance the price at which you would sell; CoinPort does not offer stop-loss orders).  
 ✅ **Avoid huge Market Orders in illiquid markets** (prevents slippage).  
 ✅ **Monitor open Limit Orders** (cancel if market conditions change).  
 

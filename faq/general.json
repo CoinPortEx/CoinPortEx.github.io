@@ -16,8 +16,8 @@
         {
             "section": "General Questions",
             "title": "Which cryptocurrencies does CoinPort support?",
-            "content": "We support a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many others. For a full list of supported assets, visit our <a href=\"https://www.coinport.com.au/research\" target=\"_parent\">Research</a> page.",
-            "content_html": "<p>We support a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many others. For a full list of supported assets, visit our <a href=\"https://www.coinport.com.au/research\" target=\"_parent\">Research</a> page.</p>"
+            "content": "We support the major cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Tether (USDT), USD Coin (USDC) and BNB. For a full list of supported assets, visit our <a href=\"https://www.coinport.com.au/research\" target=\"_parent\">Research</a> page.",
+            "content_html": "<p>We support the major cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Tether (USDT), USD Coin (USDC) and BNB. For a full list of supported assets, visit our <a href=\"https://www.coinport.com.au/research\" target=\"_parent\">Research</a> page.</p>"
         },
         {
             "section": "General Questions",
@@ -28,8 +28,8 @@
         {
             "section": "General Questions",
             "title": "How do I contact CoinPort support?",
-            "content": "You can reach us via: - Porter AI Chat Bot (24/7 first-level support) - Live Chat with our team (during Melbourne business hours) - Email: support@coinport.com.au We don't operate a manned phone line — chat and email are the fastest ways to reach us.",
-            "content_html": "<p>You can reach us via:</p><ul><li><strong>Porter AI Chat Bot</strong> (24/7 first-level support)</li><li><strong>Live Chat</strong> with our team (during Melbourne business hours)</li><li><strong>Email:</strong> support@coinport.com.au</li></ul><p>We don't operate a manned phone line — chat and email are the fastest ways to reach us.</p>"
+            "content": "You can reach us via: - Porter AI Chat Bot (answers common questions at any time) - Live Chat with our team (during Melbourne business hours) - Email: support@coinport.com.au We don't operate a manned phone line — chat and email are the fastest ways to reach us.",
+            "content_html": "<p>You can reach us via:</p><ul><li><strong>Porter AI Chat Bot</strong> (answers common questions at any time)</li><li><strong>Live Chat</strong> with our team (during Melbourne business hours)</li><li><strong>Email:</strong> support@coinport.com.au</li></ul><p>We don't operate a manned phone line — chat and email are the fastest ways to reach us.</p>"
         },
         {
             "section": "Account Setup & Verification",
@@ -130,20 +130,20 @@
         {
             "section": "Trading & Fees",
             "title": "What trading pairs are available on CoinPort?",
-            "content": "We offer AUD trading pairs (BTC/AUD, ETH/AUD, etc.) and crypto-to-crypto pairs (BTC/ETH, XRP/LTC, etc.).",
-            "content_html": "<p>We offer AUD trading pairs (BTC/AUD, ETH/AUD, etc.) and crypto-to-crypto pairs (BTC/ETH, XRP/LTC, etc.).</p>"
+            "content": "We offer AUD trading pairs, such as BTC/AUD and ETH/AUD. You can also swap one coin for another on our Swap page.",
+            "content_html": "<p>We offer AUD trading pairs, such as BTC/AUD and ETH/AUD. You can also swap one coin for another on our Swap page.</p>"
         },
         {
             "section": "Trading & Fees",
             "title": "What are CoinPort’s trading fees?",
-            "content": "- There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price you receive. - Incentives available for high-volume traders.",
-            "content_html": "<ul><li>There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price you receive.</li><li>Incentives available for high-volume traders.</li></ul>"
+            "content": "- There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price you receive.",
+            "content_html": "<ul><li>There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price you receive.</li></ul>"
         },
         {
             "section": "Trading & Fees",
-            "title": "Does CoinPort support limit orders and stop-loss?",
-            "content": "Yes, we support: - Market Orders - Limit Orders - Stop-Loss Orders",
-            "content_html": "<p>Yes, we support:</p><ul><li><strong>Market Orders</strong></li><li><strong>Limit Orders</strong></li><li><strong>Stop-Loss Orders</strong></li></ul>"
+            "title": "What order types does CoinPort support?",
+            "content": "We support: - Market Orders: buy or sell straight away at the current price - Limit Orders: set the price you want, and the order fills when the market reaches it Stop-loss and take-profit orders are not available.",
+            "content_html": "<p>We support:</p><ul><li><strong>Market Orders</strong>: buy or sell straight away at the current price</li><li><strong>Limit Orders</strong>: set the price you want, and the order fills when the market reaches it</li></ul><p>Stop-loss and take-profit orders are not available.</p>"
         },
         {
             "section": "Trading & Fees",

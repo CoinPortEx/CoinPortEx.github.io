@@ -3,11 +3,9 @@
 ## **Table of Contents**  
 1. [How Blockchain Fees Work](#how-blockchain-fees-work)  
 2. [Deposit vs. Withdrawal Fees](#deposit-vs-withdrawal-fees)  
-3. [Fee Examples by Blockchain](#fee-examples-by-blockchain)  
-4. [Why EVM Native Tokens Cost More Than Smart Contract Tokens](#why-evm-native-tokens-cost-more-than-smart-contract-tokens)  
-5. [How CoinPort Determines Fees](#how-coinport-determines-fees)  
-6. [Tips to Reduce Transaction Fees](#tips-to-reduce-transaction-fees)  
-7. [Why Fees Fluctuate](#why-fees-fluctuate)  
+3. [How Network Fees Compare by Blockchain](#how-network-fees-compare-by-blockchain)  
+4. [Tips for Sending Crypto to CoinPort](#tips-for-sending-crypto-to-coinport)  
+5. [Why Fees Fluctuate](#why-fees-fluctuate)  
 
 ---
 
@@ -24,73 +22,46 @@ CoinPort **does not profit** from these fees—they are paid directly to the net
 ## **2. Deposit vs. Withdrawal Fees**  
 | Transaction Type | Fee Structure |  
 |------------------|--------------|  
-| **Deposits** | **Free** (CoinPort covers costs) |  
-| **Withdrawals** | **Network fee only — CoinPort adds no charge of its own** (shown before you confirm) |  
+| **Withdrawals** | **Free** — CoinPort pays the network fee, and the full amount you withdraw is sent |  
+| **Deposits** | **CoinPort charges nothing** — the wallet or exchange you send from may charge its own network fee |  
 
 ---
 
 ## **3. How Network Fees Compare by Blockchain**
 
-Exact fees change constantly with network demand and coin prices — the precise
-fee is always shown on the withdrawal screen before you confirm. As a rule of
-thumb:
+Network fees change constantly with network demand and coin prices. They matter when you **send crypto to CoinPort** from another wallet or exchange, because that service sets and charges the fee. As a rule of thumb:
 
 ### **Bitcoin (BTC)**
 - Fees vary the most — Bitcoin's blockchain has limited space, so fees rise with demand.
 
 ### **Ethereum (ETH) & ERC-20 Tokens**
-- ETH fees (gas) depend on network congestion, and ERC-20 token transfers cost more gas than plain ETH. Historically the most expensive network in busy periods.
+- ETH fees (gas) depend on network congestion, and ERC-20 token transfers (such as USDT or USDC) use more gas than plain ETH. Historically the most expensive network in busy periods.
 
 ### **BNB Smart Chain (BSC) & BEP-20 Tokens**
 - Typically much cheaper than Ethereum.
 
-### **Solana (SOL) & SPL Tokens**
-- Typically among the cheapest — Solana's high throughput keeps fees low.
+---
+
+## **4. Tips for Sending Crypto to CoinPort**  
+- **Pick a cheaper network where you can:** for stablecoins, BNB Smart Chain usually costs less to send from than Ethereum.  
+- **Always match the network:** send on the same network as the deposit address shown in your CoinPort wallet.  
+- **Avoid peak times:** Ethereum gas spikes when the network is busy.  
 
 ---
 
-## **4. Why EVM Native Tokens Cost More Than Smart Contract Tokens**  
-On **Ethereum Virtual Machine (EVM)** blockchains (e.g., Ethereum, BSC, Polygon):  
-
-### **Native Token Fees (ETH, BNB, MATIC)**  
-- Require **more computational work** to transfer (handling consensus and security).  
-- **Example:** Sending ETH involves base layer settlement.  
-
-### **Smart Contract Token Fees (ERC-20, BEP-20)**  
-- Run as **secondary contracts** on top of the native chain.  
-- **Example:** Sending USDC only triggers a contract call, not full validation.  
-
-🔹 **Result:** Transferring **ETH costs more gas than USDC** on Ethereum.  
-
----
-
-## **5. How CoinPort Determines Fees**  
-1. **Dynamic Adjustment:** Fees update based on **real-time network conditions**.  
-2. **Cost-Coverage:** We aim to **break even** (no profit from fees).  
-3. **Third-Party Audits:** Regular checks ensure fairness.  
-
----
-
-## **6. Tips to Reduce Transaction Fees**  
-- **Use Layer 2s:** Withdraw via **Polygon or Arbitrum** for lower ETH fees.  
-- **Avoid Peak Times:** Ethereum gas spikes during NFT drops/DeFi launches.  
-- **Choose Efficient Blockchains:** Solana, BSC, and Avalanche are cheaper than Ethereum.  
-
----
-
-## **7. Why Fees Fluctuate**  
-- **Demand:** More users = higher fees (e.g., Bitcoin halving events).  
+## **5. Why Fees Fluctuate**  
+- **Demand:** More users = higher fees.  
 - **Blockchain Upgrades:** Ethereum’s EIP-1559 made fees more predictable.  
-- **Congestion:** NFT mints and DeFi trades clog networks.  
+- **Congestion:** Busy periods clog networks and push fees up.  
 
 ---
 
 ## **Need Help?**  
-- **Porter AI Chat Bot:** Ask "What’s the current BTC withdrawal fee?"  
+- **Live chat:** our help bot answers common questions, and our team replies during business hours, Melbourne time  
 - **CoinPort Support:** support@coinport.com.au  
 
 ```markdown
 [Back to Top](#table-of-contents)
 ```  
 
-This FAQ clarifies **how fees work** and why **EVM native assets cost more**. The exact fee for any withdrawal is always shown on the withdrawal screen before you confirm.
+This FAQ explains **how network fees work**. Withdrawals from CoinPort are free: we pay the network fee, so the full amount you withdraw is sent.

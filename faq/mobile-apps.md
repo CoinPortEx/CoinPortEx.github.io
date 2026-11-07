@@ -74,19 +74,13 @@ Yes, but for security, we recommend logging out of unused devices.
 - Track **market trends**  
 - Quick access to **buy/sell**  
 
-### **2. Real-Time Price Alerts**  
-Set custom alerts for price changes:  
-1. Go to **Market > Select Coin > Set Alert.**  
-2. Choose **price target** and notification method.  
-
-### **3. Instant Buy/Sell**  
+### **2. Instant Buy/Sell**  
 - **Buy crypto instantly** with AUD  
 - **Sell to AUD** in seconds  
 
-### **4. Advanced Trading (Pro Mode)**  
-- **Limit orders**  
-- **Stop-loss orders**  
-- **Chart analysis tools**  
+### **3. Advanced Trading**  
+- **Limit and market orders**  
+- **Price charts**  
 
 ---
 
@@ -158,7 +152,7 @@ Yes, go to **"Orders" > "History"** to see past transactions.
 ---
 
 ## **Need More Help?**  
-- **Porter AI Chat Bot:** Available 24/7 in the app  
+- **Help bot in live chat:** answers common questions at any time  
 - **Email Support:** support@coinport.com.au  
 - **Live Chat:** Available during business hours  
 

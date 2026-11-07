@@ -91,12 +91,12 @@
 
 ### **Key Strategies:**  
 ⚖️ **Diversification** – Don’t put all funds in one asset.  
-⚖️ **Stop-Loss Orders** – Automatically sell if prices drop too far.  
+⚖️ **Exit Plans** – Decide in advance the price at which you would sell.  
 ⚖️ **Position Sizing** – Risk only 1-2% per trade.  
 
 ### **Tools & Resources:**  
 - **Delta / CoinStats** – Portfolio trackers.  
-- **CoinPort’s Risk Management Features** – Stop-loss, take-profit orders.  
+- **CoinPort Limit Orders** – Set the price you want to sell at, and the order fills when the market reaches it.  
 
 ---
 

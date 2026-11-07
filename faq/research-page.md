@@ -43,4 +43,4 @@ If you find an asset you want to trade:
 
 ---  
 **CoinPort – Your Gateway to Crypto Knowledge**  
-*Australian Licensed Cryptocurrency Exchange*
+*Registered with AUSTRAC as a Virtual Asset Service Provider*

@@ -46,5 +46,5 @@ For further assistance, contact CoinPort Support.
 
 ---  
 **CoinPort – Secure & Instant Crypto Transfers**  
-*Australian Licensed Cryptocurrency Exchange*
+*Registered with AUSTRAC as a Virtual Asset Service Provider*
 

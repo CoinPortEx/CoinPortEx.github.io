@@ -21,14 +21,14 @@ CoinPort is an Australian owned and operated platform for buying, selling and sw
 Yes. CoinPort Pty Ltd is registered with AUSTRAC as a Virtual Asset Service Provider (VASP) — registration 100633359 and complies with AUSTRAC's requirements for anti-money laundering (AML) and counter-terrorism financing (CTF).
 
 ### **3. Which cryptocurrencies does CoinPort support?**
-We support a wide range of cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Litecoin (LTC), Ripple (XRP), and many others. For a full list of supported assets, visit our <a href="https://www.coinport.com.au/research" target="_parent">Research</a> page.
+We support the major cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Tether (USDT), USD Coin (USDC) and BNB. For a full list of supported assets, visit our <a href="https://www.coinport.com.au/research" target="_parent">Research</a> page.
 
 ### **4. Can I use CoinPort outside Australia?**
 Currently, CoinPort primarily serves Australian residents. Some features may be restricted for users outside Australia due to regulatory requirements.
 
 ### **5. How do I contact CoinPort support?**
 You can reach us via:
-- **Porter AI Chat Bot** (24/7 first-level support)
+- **Porter AI Chat Bot** (answers common questions at any time)
 - **Live Chat** with our team (during Melbourne business hours)
 - **Email:** support@coinport.com.au
 
@@ -112,17 +112,17 @@ Sometimes, but never assume so — blockchain transfers can't be reversed and re
 ## **Trading & Fees**
 
 ### **1. What trading pairs are available on CoinPort?**
-We offer AUD trading pairs (BTC/AUD, ETH/AUD, etc.) and crypto-to-crypto pairs (BTC/ETH, XRP/LTC, etc.).
+We offer AUD trading pairs, such as BTC/AUD and ETH/AUD. You can also swap one coin for another on our Swap page.
 
 ### **2. What are CoinPort’s trading fees?**
 - There are no commissions or fees for crypto orders or trades on the CoinPort exchange platform. We try to make CoinPort as simple and transparent as possible. The price quoted is the price you receive.
-- Incentives available for high-volume traders.
 
-### **3. Does CoinPort support limit orders and stop-loss?**
-Yes, we support:
-- **Market Orders**
-- **Limit Orders**
-- **Stop-Loss Orders**
+### **3. What order types does CoinPort support?**
+We support:
+- **Market Orders**: buy or sell straight away at the current price
+- **Limit Orders**: set the price you want, and the order fills when the market reaches it
+
+Stop-loss and take-profit orders are not available.
 
 ### **4. Can I use APIs for automated trading?**
 Yes, CoinPort provides a **REST API** and **WebSocket API** for developers.

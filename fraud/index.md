@@ -47,7 +47,7 @@ At CoinPort, we take the security of our customers and their assets seriously. I
 - We cooperate with law enforcement upon request (e.g., providing transaction records).  
 
 ### Need Urgent Help?  
-Reach our Security Team 24/7 at **[insert emergency contact]** for immediate assistance.  
+Contact us straight away by live chat or at **support@coinport.com.au**. Our team replies during business hours, Melbourne time, and treats suspected fraud as urgent.  
 
 **Remember:** Cryptocurrency transactions are irreversible. Always verify recipients, avoid sharing private keys, and be cautious of "too good to be true" offers.  
 

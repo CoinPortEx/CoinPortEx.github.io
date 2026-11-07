@@ -11,7 +11,7 @@ At CoinPort, our **Over-The-Counter (OTC) Desk** provides a private, secure, and
 ### 2. **Personalized Service**  
    - Dedicated OTC specialists handle your trade end-to-end, offering:  
      - Custom settlement options (e.g., fiat, stablecoins, or crypto pairs).  
-     - Flexible scheduling (24/7 availability for urgent trades).  
+     - Flexible scheduling to suit your timing.  
 
 ### 3. **Competitive Pricing**  
    - **Volume-based discounts** for institutional clients and high-net-worth individuals.  
