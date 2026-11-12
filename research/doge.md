@@ -12,6 +12,7 @@
 - **Purpose**: Used for tipping, payments, trading, and staking in community-driven projects.
 - **Supply**: Circulating supply of ~150 billion DOGE, with no max supply due to fixed inflation.
 - **Contract Address**: Native to Dogecoin blockchain.
+
 ## Who Are the Founders of Dogecoin?
 
 Dogecoin was created by **Billy Markus**, a software engineer from Portland, Oregon, and **Jackson Palmer**, a marketer from Sydney, Australia. Launched as a “joke currency,” it gained traction via Reddit and X, reaching a $60M market cap by January 2014. Both founders stepped back by 2015, leaving development to volunteers like **Michi Lumin**. Elon Musk’s endorsements boosted its visibility.

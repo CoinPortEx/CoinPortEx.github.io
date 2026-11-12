@@ -12,6 +12,7 @@
 - **Purpose**: Used for transaction fees, staking for Tron Power (voting rights), and content payments.
 - **Supply**: ~94.8B TRX in circulation, with a total supply of 100B (10B burned since 2021).
 - **Contract Address**: Native to TRON.
+
 ## Who Are the Founders of TRX?
 
 TRON was founded by **Justin Sun**, a controversial figure known for his roles at BitTorrent and Poloniex. Launched via a $70M ICO in 2017, TRON allocated 45% of TRX to Sun and the Tron Foundation, sparking centralization critiques. The project is now community-governed via DPoS, with Sun maintaining influence.

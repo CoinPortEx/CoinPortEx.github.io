@@ -12,6 +12,7 @@
 - **Purpose**: Used for trading, transfers, DeFi collateral, and maintaining stable value across ecosystems.
 - **Supply**: Circulating supply of ~150 billion USDT, with no fixed max supply (issued based on demand).
 - **Contract Address**: On Ethereum, USDT’s contract is `0xdac17f958d2ee523a2206206994597c13d831ec7` (addable to MetaMask).
+
 ## Who Are the Founders of Tether?
 
 Tether was co-founded by **Brock Pierce**, **Reeve Collins**, and **Craig Sellars** in 2014 as Realcoin, rebranded to Tether later that year. Tether Limited, owned by iFinex (parent of Bitfinex), manages USDT issuance and reserves. The company is headquartered in the British Virgin Islands, with offices in Switzerland.
