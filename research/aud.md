@@ -28,7 +28,7 @@ Withdrawals are also restricted to bank accounts in your own verified name.
 
 ## Verification Requirements
 
-To deposit, withdraw, or trade AUD on CoinPort, complete identity verification (KYC). This is a one-time process and is required for all Australian-licensed crypto exchanges under the *Anti-Money Laundering and Counter-Terrorism Financing Act 2006*.
+To deposit, withdraw, or trade AUD on CoinPort, complete identity verification (KYC). This is a one-time process and is required for all Australian crypto exchanges under the *Anti-Money Laundering and Counter-Terrorism Financing Act 2006*.
 
 ## How AUD Is Used on CoinPort
 

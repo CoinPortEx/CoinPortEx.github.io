@@ -17,7 +17,7 @@ Given the irreversible nature of blockchain transactions and the lucrative targe
 -   **Encryption:** All user data and transactions should be secured with advanced encryption protocols (e.g., SSL/TLS) to protect against unauthorized access.
 -   **Regular Security Audits:** Independent third-party security audits are crucial to identify and address vulnerabilities proactively.
 
-  Here at CoinPort Exchange we want to give you a feature rich experience but most Importantly we will keep your funds safe, we are registered and regulated by ASIC and Austrac.
+  Here at CoinPort Exchange we want to give you a feature rich experience but most Importantly we will keep your funds safe, we are registered with AUSTRAC.
 
 ## 2. User-Friendly Interface and Experience
 

@@ -48,8 +48,6 @@ Lodging the application is the start of ASIC's assessment process, not the end o
 
 > "This is about giving our clients more confidence, not changing how they trade with us. The platform, the pricing model, and the way we look after client assets stay exactly as they are." — *Kent Kingsley, CEO, CoinPort*
 
-*(Quotes above are drafts for leadership review and approval prior to publication.)*
-
 ---
 
 **Learn more:** [ASIC Information Sheet 225 — Digital assets: Financial products and services](https://asic.gov.au/regulatory-resources/financial-services/complying-with-your-afs-licence-obligations/digital-assets-financial-products-and-services/)
