@@ -19,7 +19,7 @@
 CoinPort is an Australian owned and operated platform for buying, selling and swapping crypto with Australian dollars. We're registered with AUSTRAC as a virtual asset service provider. There are no trading fees, the price you see includes our small spread, and you can reach our team by live chat or email. Our help bot answers around the clock; our team replies Monday to Friday, 8am to 6pm, Melbourne time.
 
 ### **2. Is CoinPort regulated in Australia?**
-Yes. CoinPort Pty Ltd is registered with AUSTRAC as a Virtual Asset Service Provider (VASP) — registration 100633359 and complies with AUSTRAC's requirements for anti-money laundering (AML) and counter-terrorism financing (CTF).
+Yes. CoinPort Pty Ltd is registered with AUSTRAC as a Virtual Asset Service Provider (VASP) — registration 100633359 and complies with AUSTRAC's requirements for anti-money laundering (AML) and counter-terrorism financing (CTF). We have also lodged an application with ASIC for an Australian Financial Services Licence (AFSL), which is being assessed — see Legal & Compliance.
 
 ### **3. Which cryptocurrencies does CoinPort support?**
 We support the major cryptocurrencies, including Bitcoin (BTC), Ethereum (ETH), Tether (USDT), USD Coin (USDC) and BNB. For a full list of supported assets, visit our <a href="https://www.coinport.com.au/research" target="_parent">Research</a> page.
@@ -35,6 +35,14 @@ You can reach us via:
 
 We don't operate a manned phone line — chat and email are the fastest ways to
 reach us.
+
+
+### **6. Does CoinPort trade on Binance P2P?**
+Yes. As well as our own exchange, CoinPort trades on Binance's P2P marketplace as a **Pro Merchant** under the name **CoinPort**, buying and selling crypto for Australian dollars by bank transfer.
+
+If you've traded with us on Binance P2P, you already have a CoinPort account. Sign in at coinport.com.au with the email address you gave us in your Binance order. If you've never set a password, choose **Forgot password** on the sign-in page to set one, and you'll see your transaction history.
+
+Before you trade, our Binance P2P desk may send you a link to **verify.coinport.com.au** in the Binance order chat. That's our own identity-check page. If anyone uses a different name or website and says they're CoinPort, don't send them funds, and contact us at support@coinport.com.au.
 
 ---
 
@@ -144,7 +152,15 @@ Withdrawal limits depend on your verification level and are shown on the withdra
 No. Deposits are bank transfer (PayID or BSB/account) or cryptocurrency only. The bank account you send from must be in your own name.
 
 ### **7. Why am I being asked where my crypto came from?**
-Incoming crypto deposits may prompt a short source-of-funds question — your own wallet, your account at another exchange, or sent by someone else. It's an AUSTRAC Travel Rule requirement, takes about 30 seconds, and clears the notice on your deposit.
+Australian law (AUSTRAC's Travel Rule) requires us to know who sent crypto before we make it available. When a crypto deposit arrives, we receive it into your account and hold it until you tell us where it came from. It takes about 30 seconds.
+
+**Where to answer** (same on the website and in the app):
+- On **Dashboard** or **Wallets**, tap **Deposit info required**, or
+- In **History**, tap the **Information needed** badge on the deposit.
+
+Then choose **My own wallet**, **My account on another exchange**, or **Someone sent it to me**, and confirm the details.
+
+Most deposits are available within minutes of answering. Some need a quick review by our team, and we may ask for more information. Always open the app or type coinport.com.au yourself rather than following a link in an email.
 
 Adding a crypto withdrawal address asks a similar question about who controls the destination wallet. You answer that once per saved address.
 
@@ -223,6 +239,10 @@ We monitor transactions and may request additional details for large or suspicio
 ### **3. Where can I find CoinPort’s Terms of Service?**
 View our <a href="https://www.coinport.com.au/legal/terms" target="_parent">Terms & Conditions</a>
  and <a href="https://www.coinport.com.au/legal/privacy" target="_parent">Privacy Policy</a> on our website.
+
+
+### **4. Does CoinPort hold an Australian Financial Services Licence (AFSL)?**
+CoinPort is registered with AUSTRAC as a Virtual Asset Service Provider (registration 100633359). We have also lodged an application with ASIC for an Australian Financial Services Licence, as ASIC now requires of digital asset businesses. That application is being assessed and has not been granted, so we don't hold an AFSL at this stage. CoinPort is a member of the Australian Financial Complaints Authority (AFCA), member number 100204.
 
 ---
 
