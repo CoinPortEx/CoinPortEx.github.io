@@ -55,10 +55,10 @@ Your **Home** page shows what your whole account is worth in Australian dollars,
 **Available** is what you can use right now: to buy, sell, swap or withdraw. **Locked** is set aside for something in progress, such as an open order or a withdrawal that's being sent. It moves back to Available when the order fills or is cancelled, or once the withdrawal completes.
 
 ### **3. How do I buy crypto?**
-Open **Buy**, choose the coin and enter how many Australian dollars you'd like to spend. You'll see the live price and how much crypto you'll get before you confirm. Pay by PayID from a bank account in your own name, and the crypto lands in your wallet in minutes.
+Open **Buy**, choose the coin and enter how many Australian dollars you'd like to spend. You'll see the live price and how much crypto you'll get before you confirm. Pay by PayID from a bank account in your own name: it usually arrives instantly, and the crypto lands in your wallet in seconds. Your bank may hold a first payment to a new payee for its own security check (CommBank especially), which can take longer.
 
 ### **4. How do I sell crypto?**
-Open **Sell**, choose the coin and the amount, and confirm. The Australian dollars are paid to your own bank account by PayID, usually within minutes. If the coin isn't in your CoinPort wallet yet, the page shows you where to send it first.
+Open **Sell**, choose the coin and the amount, and confirm. The Australian dollars are paid to your own bank account by PayID, usually instantly, in seconds. If the coin isn't in your CoinPort wallet yet, the page shows you where to send it first.
 
 ### **5. How do I swap one coin for another?**
 Open **Swap**, choose the coin you're swapping from and the coin you want, and enter an amount. You'll see the live rate before you confirm, and the new coin appears in your wallet straight away.
@@ -115,7 +115,7 @@ Withdraw any remaining balance first, then contact support and we'll close it. W
 **Australian dollars**
 1. Open **Wallets** and choose **AUD**.
 2. Select **Deposit** to see your own PayID and BSB/account number.
-3. Send the money from a bank account in your own name. By PayID it usually arrives within a minute.
+3. Send the money from a bank account in your own name. By PayID it usually arrives instantly, in seconds. Your bank may hold a first payment to a new payee for its own security check (CommBank especially), which can take longer.
 
 **Crypto**
 1. Open **Wallets** and choose the coin.
@@ -127,7 +127,7 @@ Withdraw any remaining balance first, then contact support and we'll close it. W
 - **Crypto Deposits:** Network fees may apply (varies by blockchain)
 
 ### **3. How long do deposits take?**
-- **AUD:** Usually instant via Osko/PayID (under a minute), 24/7 including weekends
+- **AUD:** Usually instant via Osko/PayID (in seconds), 24/7 including weekends
 - **Crypto:** Depends on network congestion (Bitcoin: ~10–30 mins, Ethereum: ~1–5 mins)
 
 ### **4. How do I withdraw funds?**
@@ -136,7 +136,7 @@ You'll need 2FA turned on first. Withdrawals are confirmed with your 2FA code.
 **Australian dollars to your bank**
 1. Open **Wallets**, choose **AUD** and select **Withdraw**.
 2. Choose your saved bank account, or add one. It must be a PayID in your own name.
-3. Enter the amount and confirm with your 2FA code. Most AUD withdrawals arrive within minutes.
+3. Enter the amount and confirm with your 2FA code. Most AUD withdrawals arrive instantly, in seconds; occasionally longer if your bank holds the payment for a check.
 
 **Crypto to another wallet**
 1. Open **Wallets**, choose the coin and select **Withdraw**.
